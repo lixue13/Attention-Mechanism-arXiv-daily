@@ -1,16 +1,13 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 
 ## Updated on 2024.10.11
-> Usage instructions: [here](./docs/README.md#usage)
-
+⭐⭐⭐
+### 联系我们请关注微信公众号：AI缝合术
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#attention>Attention</a></li>
   </ol>
-
+  
+🚀🚀🚀
 ## Attention
 
 |Publish Date|Title|Authors|PDF|Code|
