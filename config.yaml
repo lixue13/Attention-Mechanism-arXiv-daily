@@ -24,4 +24,6 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "Attention": 
         filters: ["Attention", "Attention Mechanism"]
+    "Plug and Play": 
+        filters: ["Plug and Play", "Attention Mechanism"]
 
