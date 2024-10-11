@@ -6,21 +6,10 @@
 ## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
-<details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#attention>ATTENTION</a></li>
     <li><a href=#attention>Attention</a></li>
   </ol>
-</details>
-
-## ATTENTION
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-|**2021-10-14**|**Active SLAM over Continuous Trajectory and Control: A Covariance-Feedback Approach**|Shumon Koga et.al.|[2110.07546](http://arxiv.org/abs/2110.07546)|null|
-
-<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## Attention
 
