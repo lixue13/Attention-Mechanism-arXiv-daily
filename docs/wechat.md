@@ -122,6 +122,14 @@
 - 2024-10-08, **Towards robust detection of entangled two-photon absorption**, Raj Pandya et.al., Paper: [http://arxiv.org/abs/2410.06199](http://arxiv.org/abs/2410.06199)
 - 2024-10-08, **Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images**, Shiyu Miao et.al., Paper: [http://arxiv.org/abs/2410.06194](http://arxiv.org/abs/2410.06194), Code: **[https://github.com/stevenmsy/directsam-rs](https://github.com/stevenmsy/directsam-rs)**
 - 2024-10-08, **Adaptive Label Smoothing for Out-of-Distribution Detection**, Mingle Xu et.al., Paper: [http://arxiv.org/abs/2410.06134](http://arxiv.org/abs/2410.06134)
+- 2024-10-08, **On the Melnikov method for fractional-order systems**, Hang Li et.al., Paper: [http://arxiv.org/abs/2410.06122](http://arxiv.org/abs/2410.06122)
+- 2024-10-08, **An Analysis of QUIC Connection Migration in the Wild**, Aurélien Buchet et.al., Paper: [http://arxiv.org/abs/2410.06066](http://arxiv.org/abs/2410.06066)
+- 2024-10-08, **Hierarchical Matrix Completion for the Prediction of Properties of Binary Mixtures**, Dominik Gond et.al., Paper: [http://arxiv.org/abs/2410.06060](http://arxiv.org/abs/2410.06060)
+- 2024-10-08, **AP-LDM: Attentive and Progressive Latent Diffusion Model for Training-Free High-Resolution Image Generation**, Boyuan Cao et.al., Paper: [http://arxiv.org/abs/2410.06055](http://arxiv.org/abs/2410.06055)
+- 2024-10-08, **Extracting Finite State Machines from Transformers**, Rik Adriaensen et.al., Paper: [http://arxiv.org/abs/2410.06045](http://arxiv.org/abs/2410.06045)
+- 2024-10-08, **Block Induced Signature Generative Adversarial Network (BISGAN): Signature Spoofing Using GANs and Their Evaluation**, Haadia Amjad et.al., Paper: [http://arxiv.org/abs/2410.06041](http://arxiv.org/abs/2410.06041)
+- 2024-10-08, **DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States**, Bozhou Zhang et.al., Paper: [http://arxiv.org/abs/2410.05982](http://arxiv.org/abs/2410.05982)
+- 2024-10-08, **STNet: Deep Audio-Visual Fusion Network for Robust Speaker Tracking**, Yidi Li et.al., Paper: [http://arxiv.org/abs/2410.05964](http://arxiv.org/abs/2410.05964), Code: **[https://github.com/liyidi/stnet](https://github.com/liyidi/stnet)**
 
 <p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
