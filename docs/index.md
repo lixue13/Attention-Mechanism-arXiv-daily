@@ -10,12 +10,6 @@ layout: default
 ## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
-## ATTENTION
-
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
-|**2021-10-14**|**Active SLAM over Continuous Trajectory and Control: A Covariance-Feedback Approach**|Shumon Koga et.al.|[2110.07546](http://arxiv.org/abs/2110.07546)|null|
-
 ## Attention
 
 | Publish Date | Title | Authors | PDF | Code |
