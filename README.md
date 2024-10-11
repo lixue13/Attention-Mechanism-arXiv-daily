@@ -4,15 +4,11 @@
 [![Issues][issues-shield]][issues-url]
 
 ## Updated on 2024.10.11
-> Usage instructions: [here](./docs/README.md#usage)
-
-<details>
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#attention>Attention</a></li>
     <li><a href=#plug-and-play>Plug and Play</a></li>
   </ol>
-</details>
 
 ## Attention
 
