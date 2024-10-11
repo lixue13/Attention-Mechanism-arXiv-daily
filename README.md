@@ -1,7 +1,7 @@
 
 ## Updated on 2024.10.11
 ⭐⭐⭐
-### 联系我们请关注微信公众号：AI缝合术
+## 请通过微信公众号：AI缝合术   联系我们~
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#attention>Attention</a></li>
