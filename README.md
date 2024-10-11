@@ -7,7 +7,6 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#attention>Attention</a></li>
-    <li><a href=#plug-and-play>Plug and Play</a></li>
   </ol>
 
 ## Attention
