@@ -17,6 +17,61 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**MoH: Multi-Head Attention as Mixture-of-Head Attention**|Peng Jin et.al.|[2410.11842](http://arxiv.org/abs/2410.11842)|**[link](https://github.com/skyworkai/moh)**|
+|**2024-10-15**|**Compact object populations over cosmic time I. BOSSA: a Binary Object environment-Sensitive Sampling Algorithm**|L. M. de Sá et.al.|[2410.11830](http://arxiv.org/abs/2410.11830)|null|
+|**2024-10-15**|**SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing**|Zhiyuan Zhang et.al.|[2410.11815](http://arxiv.org/abs/2410.11815)|null|
+|**2024-10-15**|**YOLO-ELA: Efficient Local Attention Modeling for High-Performance Real-Time Insulator Defect Detection**|Olalekan Akindele et.al.|[2410.11727](http://arxiv.org/abs/2410.11727)|null|
+|**2024-10-15**|**Light-Weight Fault Tolerant Attention for Large Language Model Training**|Yuhang Liang et.al.|[2410.11720](http://arxiv.org/abs/2410.11720)|null|
+|**2024-10-15**|**Visual Fixation-Based Retinal Prosthetic Simulation**|Yuli Wu et.al.|[2410.11688](http://arxiv.org/abs/2410.11688)|null|
+|**2024-10-15**|**State-space models can learn in-context by gradient descent**|Neeraj Mohan Sushma et.al.|[2410.11687](http://arxiv.org/abs/2410.11687)|null|
+|**2024-10-15**|**Degradation Oriented and Regularized Network for Real-World Depth Super-Resolution**|Zhengxue Wang et.al.|[2410.11666](http://arxiv.org/abs/2410.11666)|null|
+|**2024-10-15**|**RS-MOCO: A deep learning-based topology-preserving image registration method for cardiac T1 mapping**|Chiyi Huang et.al.|[2410.11651](http://arxiv.org/abs/2410.11651)|null|
+|**2024-10-15**|**PaSTe: Improving the Efficiency of Visual Anomaly Detection at the Edge**|Manuel Barusco et.al.|[2410.11591](http://arxiv.org/abs/2410.11591)|null|
+|**2024-10-13**|**STA-Unet: Rethink the semantic redundant for Medical Imaging Segmentation**|Vamsi Krishna Vasa et.al.|[2410.11578](http://arxiv.org/abs/2410.11578)|null|
+|**2024-10-15**|**Temporal Hyperproperties for Population Protocols**|Nicolas Waldburger et.al.|[2410.11572](http://arxiv.org/abs/2410.11572)|null|
+|**2024-10-15**|**Overcoming Domain Limitations in Open-vocabulary Segmentation**|Dongjun Hwang et.al.|[2410.11536](http://arxiv.org/abs/2410.11536)|**[link](https://github.com/dongjunhwang/dwi)**|
+|**2024-10-15**|**Network Representation Learning for Biophysical Neural Network Analysis**|Youngmok Ha et.al.|[2410.11503](http://arxiv.org/abs/2410.11503)|null|
+|**2024-10-15**|**Towards Fair Graph Representation Learning in Social Networks**|Guixian Zhang et.al.|[2410.11493](http://arxiv.org/abs/2410.11493)|null|
+|**2024-10-15**|**InvSeg: Test-Time Prompt Inversion for Semantic Segmentation**|Jiayi Lin et.al.|[2410.11473](http://arxiv.org/abs/2410.11473)|null|
+|**2024-10-15**|**PANACEA: Towards Influence-driven Profiling of Drug Target Combinations in Cancer Signaling Networks**|Baihui Xu et.al.|[2410.11458](http://arxiv.org/abs/2410.11458)|null|
+|**2024-10-15**|**Tending Towards Stability: Convergence Challenges in Small Language Models**|Richard Diehl Martinez et.al.|[2410.11451](http://arxiv.org/abs/2410.11451)|null|
+|**2024-10-15**|**CTA-Net: A CNN-Transformer Aggregation Network for Improving Multi-Scale Feature Extraction**|Chunlei Meng et.al.|[2410.11428](http://arxiv.org/abs/2410.11428)|null|
+|**2024-10-15**|**VidCompress: Memory-Enhanced Temporal Compression for Video Understanding in Large Language Models**|Xiaohan Lan et.al.|[2410.11417](http://arxiv.org/abs/2410.11417)|null|
+|**2024-10-15**|**FLASH-enabled Proton SBRT for a challenging case of spine metastasis**|S. Wuyckens et.al.|[2410.11411](http://arxiv.org/abs/2410.11411)|null|
+|**2024-10-15**|**Implementing Derivations of Definite Logic Programs with Self-Attention Networks**|Phan Thi Thanh Thuy et.al.|[2410.11396](http://arxiv.org/abs/2410.11396)|null|
+|**2024-10-15**|**Point-Calibrated Spectral Neural Operators**|Xihang Yue et.al.|[2410.11382](http://arxiv.org/abs/2410.11382)|null|
+|**2024-10-15**|**Survey and Evaluation of Converging Architecture in LLMs based on Footsteps of Operations**|Seongho Kim et.al.|[2410.11381](http://arxiv.org/abs/2410.11381)|null|
+|**2024-10-15**|**LargePiG: Your Large Language Model is Secretly a Pointer Generator**|Zhongxiang Sun et.al.|[2410.11366](http://arxiv.org/abs/2410.11366)|null|
+|**2024-10-15**|**SeaDATE: Remedy Dual-Attention Transformer with Semantic Alignment via Contrast Learning for Multimodal Object Detection**|Shuhan Dong et.al.|[2410.11358](http://arxiv.org/abs/2410.11358)|null|
+|**2024-10-15**|**Hexagonal boron nitride crystal growth in the Li3BN2-BN system**|Camille Maestre et.al.|[2410.11334](http://arxiv.org/abs/2410.11334)|null|
+|**2024-10-15**|**FBC-Enhanced ε-Effective Capacity Optimization for NOMA**|Jingqing Wang et.al.|[2410.11319](http://arxiv.org/abs/2410.11319)|null|
+|**2024-10-15**|**CONSULT: Contrastive Self-Supervised Learning for Few-shot Tumor Detection**|Sin Chee Chin et.al.|[2410.11307](http://arxiv.org/abs/2410.11307)|null|
+|**2024-10-15**|**Have the VLMs Lost Confidence? A Study of Sycophancy in VLMs**|Shuo Li et.al.|[2410.11302](http://arxiv.org/abs/2410.11302)|null|
+|**2024-10-15**|**UmambaTSF: A U-shaped Multi-Scale Long-Term Time Series Forecasting Method Using Mamba**|Li Wu et.al.|[2410.11278](http://arxiv.org/abs/2410.11278)|null|
+|**2024-10-15**|**Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix**|Yingyu Liang et.al.|[2410.11261](http://arxiv.org/abs/2410.11261)|null|
+|**2024-10-15**|**TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**|Zhiwei Lin et.al.|[2410.11228](http://arxiv.org/abs/2410.11228)|null|
+|**2024-10-15**|**Quadratic Gating Functions in Mixture of Experts: A Statistical Insight**|Pedram Akbarian et.al.|[2410.11222](http://arxiv.org/abs/2410.11222)|null|
+|**2024-10-15**|**Athena: Retrieval-augmented Legal Judgment Prediction with Large Language Models**|Xiao Peng et.al.|[2410.11195](http://arxiv.org/abs/2410.11195)|null|
+|**2024-10-15**|**Rethinking Graph Transformer Architecture Design for Node Classification**|Jiajun Zhou et.al.|[2410.11189](http://arxiv.org/abs/2410.11189)|null|
+|**2024-10-15**|**DARNet: Dual Attention Refinement Network with Spatiotemporal Construction for Auditory Attention Detection**|Sheng Yan et.al.|[2410.11181](http://arxiv.org/abs/2410.11181)|**[link](https://github.com/fchest/darnet)**|
+|**2024-10-15**|**Reinforcement Learning Based Bidding Framework with High-dimensional Bids in Power Markets**|Jinyu Liu et.al.|[2410.11180](http://arxiv.org/abs/2410.11180)|null|
+|**2024-10-15**|**Improving Bias in Facial Attribute Classification: A Combined Impact of KL Divergence induced Loss Function and Dual Attention**|Shweta Patel et.al.|[2410.11176](http://arxiv.org/abs/2410.11176)|null|
+|**2024-10-14**|**Mimetic Initialization Helps State Space Models Learn to Recall**|Asher Trockman et.al.|[2410.11135](http://arxiv.org/abs/2410.11135)|null|
+|**2024-10-14**|**ChuLo: Chunk-Level Key Information Representation for Long Document Processing**|Yan Li et.al.|[2410.11119](http://arxiv.org/abs/2410.11119)|null|
+|**2024-10-14**|**Keep Me Updated: An Empirical Study of Proprietary Vendor Blobs in Android Firmware**|Elliott Wen et.al.|[2410.11075](http://arxiv.org/abs/2410.11075)|null|
+|**2024-10-14**|**CleanUMamba: A Compact Mamba Network for Speech Denoising using Channel Pruning**|Sjoerd Groot et.al.|[2410.11062](http://arxiv.org/abs/2410.11062)|null|
+|**2024-10-14**|**ET-Former: Efficient Triplane Deformable Attention for 3D Semantic Scene Completion From Monocular Camera**|Jing Liang et.al.|[2410.11019](http://arxiv.org/abs/2410.11019)|null|
+|**2024-10-14**|**Watching the Watchers: Exposing Gender Disparities in Machine Translation Quality Estimation**|Emmanouil Zaranis et.al.|[2410.10995](http://arxiv.org/abs/2410.10995)|null|
+|**2024-10-14**|**Absence of Phonon Softening across a Charge Density Wave Transition due to Quantum Fluctuations**|Yubi Chen et.al.|[2410.10992](http://arxiv.org/abs/2410.10992)|null|
+|**2024-10-14**|**What Does It Mean to Be a Transformer? Insights from a Theoretical Hessian Analysis**|Weronika Ormaniec et.al.|[2410.10986](http://arxiv.org/abs/2410.10986)|null|
+|**2024-10-14**|**A few-shot Label Unlearning in Vertical Federated Learning**|Hanlin Gu et.al.|[2410.10922](http://arxiv.org/abs/2410.10922)|null|
+|**2024-10-14**|**Towards Better Multi-head Attention via Channel-wise Sample Permutation**|Shen Yuan et.al.|[2410.10914](http://arxiv.org/abs/2410.10914)|**[link](https://github.com/dashenzi721/csp)**|
+|**2024-10-13**|**The Quantum Master and its Classical Emissary**|R. E. Kastner et.al.|[2410.10902](http://arxiv.org/abs/2410.10902)|null|
+|**2024-10-13**|**3DS: Decomposed Difficulty Data Selection's Case Study on LLM Medical Domain Adaptation**|Hongxin Ding et.al.|[2410.10901](http://arxiv.org/abs/2410.10901)|null|
+|**2024-10-12**|**Multidomain Model for Optic Nerve Potassium Clearance: Roles of Glial Cells and Perivascular Spaces**|Shanfeng Xiao et.al.|[2410.10895](http://arxiv.org/abs/2410.10895)|null|
+|**2024-10-09**|**Optimizing Transformer based on high-performance optimizer for predicting employment sentiment in American social media content**|Feiyang Wang et.al.|[2410.10874](http://arxiv.org/abs/2410.10874)|null|
+|**2024-10-08**|**Application of NotebookLM, a Large Language Model with Retrieval-Augmented Generation, for Lung Cancer Staging**|Ryota Tozuka et.al.|[2410.10869](http://arxiv.org/abs/2410.10869)|null|
+|**2024-09-29**|**DIIT: A Domain-Invariant Information Transfer Method for Industrial Cross-Domain Recommendation**|Heyuan Huang et.al.|[2410.10835](http://arxiv.org/abs/2410.10835)|null|
 |**2024-10-14**|**DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads**|Guangxuan Xiao et.al.|[2410.10819](http://arxiv.org/abs/2410.10819)|**[link](https://github.com/mit-han-lab/duo-attention)**|
 |**2024-10-14**|**Hard-Constrained Neural Networks with Universal Approximation Guarantees**|Youngjae Min et.al.|[2410.10807](http://arxiv.org/abs/2410.10807)|null|
 |**2024-10-14**|**When Attention Sink Emerges in Language Models: An Empirical View**|Xiangming Gu et.al.|[2410.10781](http://arxiv.org/abs/2410.10781)|**[link](https://github.com/sail-sg/attention-sink)**|
