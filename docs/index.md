@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -18,7 +18,7 @@ layout: default
 |**2024-10-15**|**Compact object populations over cosmic time I. BOSSA: a Binary Object environment-Sensitive Sampling Algorithm**|L. M. de Sá et.al.|[2410.11830](http://arxiv.org/abs/2410.11830)|null|
 |**2024-10-15**|**SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing**|Zhiyuan Zhang et.al.|[2410.11815](http://arxiv.org/abs/2410.11815)|null|
 |**2024-10-15**|**YOLO-ELA: Efficient Local Attention Modeling for High-Performance Real-Time Insulator Defect Detection**|Olalekan Akindele et.al.|[2410.11727](http://arxiv.org/abs/2410.11727)|null|
-|**2024-10-15**|**Light-Weight Fault Tolerant Attention for Large Language Model Training**|Yuhang Liang et.al.|[2410.11720](http://arxiv.org/abs/2410.11720)|null|
+|**2024-10-16**|**Light-Weight Fault Tolerant Attention for Large Language Model Training**|Yuhang Liang et.al.|[2410.11720](http://arxiv.org/abs/2410.11720)|null|
 |**2024-10-15**|**Visual Fixation-Based Retinal Prosthetic Simulation**|Yuli Wu et.al.|[2410.11688](http://arxiv.org/abs/2410.11688)|null|
 |**2024-10-15**|**State-space models can learn in-context by gradient descent**|Neeraj Mohan Sushma et.al.|[2410.11687](http://arxiv.org/abs/2410.11687)|null|
 |**2024-10-15**|**Degradation Oriented and Regularized Network for Real-World Depth Super-Resolution**|Zhengxue Wang et.al.|[2410.11666](http://arxiv.org/abs/2410.11666)|null|
@@ -47,7 +47,7 @@ layout: default
 |**2024-10-15**|**UmambaTSF: A U-shaped Multi-Scale Long-Term Time Series Forecasting Method Using Mamba**|Li Wu et.al.|[2410.11278](http://arxiv.org/abs/2410.11278)|null|
 |**2024-10-15**|**Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix**|Yingyu Liang et.al.|[2410.11261](http://arxiv.org/abs/2410.11261)|null|
 |**2024-10-15**|**TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**|Zhiwei Lin et.al.|[2410.11228](http://arxiv.org/abs/2410.11228)|null|
-|**2024-10-15**|**Quadratic Gating Functions in Mixture of Experts: A Statistical Insight**|Pedram Akbarian et.al.|[2410.11222](http://arxiv.org/abs/2410.11222)|null|
+|**2024-10-16**|**Quadratic Gating Functions in Mixture of Experts: A Statistical Insight**|Pedram Akbarian et.al.|[2410.11222](http://arxiv.org/abs/2410.11222)|null|
 |**2024-10-15**|**Athena: Retrieval-augmented Legal Judgment Prediction with Large Language Models**|Xiao Peng et.al.|[2410.11195](http://arxiv.org/abs/2410.11195)|null|
 |**2024-10-15**|**Rethinking Graph Transformer Architecture Design for Node Classification**|Jiajun Zhou et.al.|[2410.11189](http://arxiv.org/abs/2410.11189)|null|
 |**2024-10-15**|**DARNet: Dual Attention Refinement Network with Spatiotemporal Construction for Auditory Attention Detection**|Sheng Yan et.al.|[2410.11181](http://arxiv.org/abs/2410.11181)|**[link](https://github.com/fchest/darnet)**|
@@ -73,7 +73,7 @@ layout: default
 |**2024-10-14**|**Hard-Constrained Neural Networks with Universal Approximation Guarantees**|Youngjae Min et.al.|[2410.10807](http://arxiv.org/abs/2410.10807)|null|
 |**2024-10-14**|**When Attention Sink Emerges in Language Models: An Empirical View**|Xiangming Gu et.al.|[2410.10781](http://arxiv.org/abs/2410.10781)|**[link](https://github.com/sail-sg/attention-sink)**|
 |**2024-10-14**|**Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention**|Dejia Xu et.al.|[2410.10774](http://arxiv.org/abs/2410.10774)|null|
-|**2024-10-14**|**SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization**|Akrit Mudvari et.al.|[2410.10759](http://arxiv.org/abs/2410.10759)|null|
+|**2024-10-16**|**SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization**|Akrit Mudvari et.al.|[2410.10759](http://arxiv.org/abs/2410.10759)|null|
 |**2024-10-14**|**DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships**|Zhang Wan et.al.|[2410.10751](http://arxiv.org/abs/2410.10751)|null|
 |**2024-10-14**|**DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model**|Yuqi Wang et.al.|[2410.10738](http://arxiv.org/abs/2410.10738)|null|
 |**2024-10-15**|**4-LEGS: 4D Language Embedded Gaussian Splatting**|Gal Fiebelman et.al.|[2410.10719](http://arxiv.org/abs/2410.10719)|null|
@@ -119,7 +119,7 @@ layout: default
 |**2024-10-14**|**TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control**|Weichao Zeng et.al.|[2410.10133](http://arxiv.org/abs/2410.10133)|**[link](https://github.com/weichaozeng/textctrl)**|
 |**2024-10-14**|**Interaction-Guided Two-Branch Image Dehazing Network**|Huichun Liu et.al.|[2410.10121](http://arxiv.org/abs/2410.10121)|null|
 |**2024-10-14**|**Evaluating of Machine Unlearning: Robustness Verification Without Prior Modifications**|Heng Xu et.al.|[2410.10120](http://arxiv.org/abs/2410.10120)|null|
-|**2024-10-14**|**Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models**|Jun Luo et.al.|[2410.10114](http://arxiv.org/abs/2410.10114)|null|
+|**2024-10-16**|**Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models**|Jun Luo et.al.|[2410.10114](http://arxiv.org/abs/2410.10114)|null|
 |**2024-10-14**|**Constraints on primordial black holes from $N_{\text{eff}}$ : scalar induced gravitational waves as an extra radiation component**|Jing-Zhi Zhou et.al.|[2410.10111](http://arxiv.org/abs/2410.10111)|null|
 |**2024-10-14**|**Learning Linear Attention in Polynomial Time**|Morris Yau et.al.|[2410.10101](http://arxiv.org/abs/2410.10101)|null|
 |**2024-10-14**|**Out-of-Bounding-Box Triggers: A Stealthy Approach to Cheat Object Detectors**|Tao Lin et.al.|[2410.10091](http://arxiv.org/abs/2410.10091)|**[link](https://github.com/lintotao/out-of-bbox-attack)**|
@@ -322,7 +322,7 @@ layout: default
 |**2024-10-10**|**Differentiation Through Black-Box Quadratic Programming Solvers**|Connor W. Magoon et.al.|[2410.06324](http://arxiv.org/abs/2410.06324)|null|
 |**2024-10-08**|**A Taxonomy of Collectible Card Games from a Game-Playing AI Perspective**|Ronaldo e Silva Vieira et.al.|[2410.06299](http://arxiv.org/abs/2410.06299)|null|
 |**2024-10-08**|**Story-Adapter: A Training-free Iterative Framework for Long Story Visualization**|Jiawei Mao et.al.|[2410.06244](http://arxiv.org/abs/2410.06244)|null|
-|**2024-10-08**|**BroadWay: Boost Your Text-to-Video Generation Model in a Training-free Way**|Jiazi Bu et.al.|[2410.06241](http://arxiv.org/abs/2410.06241)|null|
+|**2024-10-16**|**BroadWay: Boost Your Text-to-Video Generation Model in a Training-free Way**|Jiazi Bu et.al.|[2410.06241](http://arxiv.org/abs/2410.06241)|null|
 |**2024-10-08**|**Round and Round We Go! What makes Rotary Positional Encodings useful?**|Federico Barbero et.al.|[2410.06205](http://arxiv.org/abs/2410.06205)|null|
 |**2024-10-08**|**Towards robust detection of entangled two-photon absorption**|Raj Pandya et.al.|[2410.06199](http://arxiv.org/abs/2410.06199)|null|
 |**2024-10-08**|**Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images**|Shiyu Miao et.al.|[2410.06194](http://arxiv.org/abs/2410.06194)|**[link](https://github.com/stevenmsy/directsam-rs)**|

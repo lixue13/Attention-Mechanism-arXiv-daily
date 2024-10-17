@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.10.16
+> Updated on 2024.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 - 2024-10-15, **Compact object populations over cosmic time I. BOSSA: a Binary Object environment-Sensitive Sampling Algorithm**, L. M. de Sá et.al., Paper: [http://arxiv.org/abs/2410.11830](http://arxiv.org/abs/2410.11830)
 - 2024-10-15, **SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing**, Zhiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2410.11815](http://arxiv.org/abs/2410.11815)
 - 2024-10-15, **YOLO-ELA: Efficient Local Attention Modeling for High-Performance Real-Time Insulator Defect Detection**, Olalekan Akindele et.al., Paper: [http://arxiv.org/abs/2410.11727](http://arxiv.org/abs/2410.11727)
-- 2024-10-15, **Light-Weight Fault Tolerant Attention for Large Language Model Training**, Yuhang Liang et.al., Paper: [http://arxiv.org/abs/2410.11720](http://arxiv.org/abs/2410.11720)
+- 2024-10-16, **Light-Weight Fault Tolerant Attention for Large Language Model Training**, Yuhang Liang et.al., Paper: [http://arxiv.org/abs/2410.11720](http://arxiv.org/abs/2410.11720)
 - 2024-10-15, **Visual Fixation-Based Retinal Prosthetic Simulation**, Yuli Wu et.al., Paper: [http://arxiv.org/abs/2410.11688](http://arxiv.org/abs/2410.11688)
 - 2024-10-15, **State-space models can learn in-context by gradient descent**, Neeraj Mohan Sushma et.al., Paper: [http://arxiv.org/abs/2410.11687](http://arxiv.org/abs/2410.11687)
 - 2024-10-15, **Degradation Oriented and Regularized Network for Real-World Depth Super-Resolution**, Zhengxue Wang et.al., Paper: [http://arxiv.org/abs/2410.11666](http://arxiv.org/abs/2410.11666)
@@ -48,7 +48,7 @@
 - 2024-10-15, **UmambaTSF: A U-shaped Multi-Scale Long-Term Time Series Forecasting Method Using Mamba**, Li Wu et.al., Paper: [http://arxiv.org/abs/2410.11278](http://arxiv.org/abs/2410.11278)
 - 2024-10-15, **Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix**, Yingyu Liang et.al., Paper: [http://arxiv.org/abs/2410.11261](http://arxiv.org/abs/2410.11261)
 - 2024-10-15, **TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**, Zhiwei Lin et.al., Paper: [http://arxiv.org/abs/2410.11228](http://arxiv.org/abs/2410.11228)
-- 2024-10-15, **Quadratic Gating Functions in Mixture of Experts: A Statistical Insight**, Pedram Akbarian et.al., Paper: [http://arxiv.org/abs/2410.11222](http://arxiv.org/abs/2410.11222)
+- 2024-10-16, **Quadratic Gating Functions in Mixture of Experts: A Statistical Insight**, Pedram Akbarian et.al., Paper: [http://arxiv.org/abs/2410.11222](http://arxiv.org/abs/2410.11222)
 - 2024-10-15, **Athena: Retrieval-augmented Legal Judgment Prediction with Large Language Models**, Xiao Peng et.al., Paper: [http://arxiv.org/abs/2410.11195](http://arxiv.org/abs/2410.11195)
 - 2024-10-15, **Rethinking Graph Transformer Architecture Design for Node Classification**, Jiajun Zhou et.al., Paper: [http://arxiv.org/abs/2410.11189](http://arxiv.org/abs/2410.11189)
 - 2024-10-15, **DARNet: Dual Attention Refinement Network with Spatiotemporal Construction for Auditory Attention Detection**, Sheng Yan et.al., Paper: [http://arxiv.org/abs/2410.11181](http://arxiv.org/abs/2410.11181), Code: **[https://github.com/fchest/darnet](https://github.com/fchest/darnet)**
@@ -74,7 +74,7 @@
 - 2024-10-14, **Hard-Constrained Neural Networks with Universal Approximation Guarantees**, Youngjae Min et.al., Paper: [http://arxiv.org/abs/2410.10807](http://arxiv.org/abs/2410.10807)
 - 2024-10-14, **When Attention Sink Emerges in Language Models: An Empirical View**, Xiangming Gu et.al., Paper: [http://arxiv.org/abs/2410.10781](http://arxiv.org/abs/2410.10781), Code: **[https://github.com/sail-sg/attention-sink](https://github.com/sail-sg/attention-sink)**
 - 2024-10-14, **Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention**, Dejia Xu et.al., Paper: [http://arxiv.org/abs/2410.10774](http://arxiv.org/abs/2410.10774)
-- 2024-10-14, **SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization**, Akrit Mudvari et.al., Paper: [http://arxiv.org/abs/2410.10759](http://arxiv.org/abs/2410.10759)
+- 2024-10-16, **SplitLLM: Collaborative Inference of LLMs for Model Placement and Throughput Optimization**, Akrit Mudvari et.al., Paper: [http://arxiv.org/abs/2410.10759](http://arxiv.org/abs/2410.10759)
 - 2024-10-14, **DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships**, Zhang Wan et.al., Paper: [http://arxiv.org/abs/2410.10751](http://arxiv.org/abs/2410.10751)
 - 2024-10-14, **DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model**, Yuqi Wang et.al., Paper: [http://arxiv.org/abs/2410.10738](http://arxiv.org/abs/2410.10738)
 - 2024-10-15, **4-LEGS: 4D Language Embedded Gaussian Splatting**, Gal Fiebelman et.al., Paper: [http://arxiv.org/abs/2410.10719](http://arxiv.org/abs/2410.10719)
@@ -120,7 +120,7 @@
 - 2024-10-14, **TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control**, Weichao Zeng et.al., Paper: [http://arxiv.org/abs/2410.10133](http://arxiv.org/abs/2410.10133), Code: **[https://github.com/weichaozeng/textctrl](https://github.com/weichaozeng/textctrl)**
 - 2024-10-14, **Interaction-Guided Two-Branch Image Dehazing Network**, Huichun Liu et.al., Paper: [http://arxiv.org/abs/2410.10121](http://arxiv.org/abs/2410.10121)
 - 2024-10-14, **Evaluating of Machine Unlearning: Robustness Verification Without Prior Modifications**, Heng Xu et.al., Paper: [http://arxiv.org/abs/2410.10120](http://arxiv.org/abs/2410.10120)
-- 2024-10-14, **Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models**, Jun Luo et.al., Paper: [http://arxiv.org/abs/2410.10114](http://arxiv.org/abs/2410.10114)
+- 2024-10-16, **Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models**, Jun Luo et.al., Paper: [http://arxiv.org/abs/2410.10114](http://arxiv.org/abs/2410.10114)
 - 2024-10-14, **Constraints on primordial black holes from $N_{\text{eff}}$ : scalar induced gravitational waves as an extra radiation component**, Jing-Zhi Zhou et.al., Paper: [http://arxiv.org/abs/2410.10111](http://arxiv.org/abs/2410.10111)
 - 2024-10-14, **Learning Linear Attention in Polynomial Time**, Morris Yau et.al., Paper: [http://arxiv.org/abs/2410.10101](http://arxiv.org/abs/2410.10101)
 - 2024-10-14, **Out-of-Bounding-Box Triggers: A Stealthy Approach to Cheat Object Detectors**, Tao Lin et.al., Paper: [http://arxiv.org/abs/2410.10091](http://arxiv.org/abs/2410.10091), Code: **[https://github.com/lintotao/out-of-bbox-attack](https://github.com/lintotao/out-of-bbox-attack)**
@@ -323,7 +323,7 @@
 - 2024-10-10, **Differentiation Through Black-Box Quadratic Programming Solvers**, Connor W. Magoon et.al., Paper: [http://arxiv.org/abs/2410.06324](http://arxiv.org/abs/2410.06324)
 - 2024-10-08, **A Taxonomy of Collectible Card Games from a Game-Playing AI Perspective**, Ronaldo e Silva Vieira et.al., Paper: [http://arxiv.org/abs/2410.06299](http://arxiv.org/abs/2410.06299)
 - 2024-10-08, **Story-Adapter: A Training-free Iterative Framework for Long Story Visualization**, Jiawei Mao et.al., Paper: [http://arxiv.org/abs/2410.06244](http://arxiv.org/abs/2410.06244)
-- 2024-10-08, **BroadWay: Boost Your Text-to-Video Generation Model in a Training-free Way**, Jiazi Bu et.al., Paper: [http://arxiv.org/abs/2410.06241](http://arxiv.org/abs/2410.06241)
+- 2024-10-16, **BroadWay: Boost Your Text-to-Video Generation Model in a Training-free Way**, Jiazi Bu et.al., Paper: [http://arxiv.org/abs/2410.06241](http://arxiv.org/abs/2410.06241)
 - 2024-10-08, **Round and Round We Go! What makes Rotary Positional Encodings useful?**, Federico Barbero et.al., Paper: [http://arxiv.org/abs/2410.06205](http://arxiv.org/abs/2410.06205)
 - 2024-10-08, **Towards robust detection of entangled two-photon absorption**, Raj Pandya et.al., Paper: [http://arxiv.org/abs/2410.06199](http://arxiv.org/abs/2410.06199)
 - 2024-10-08, **Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images**, Shiyu Miao et.al., Paper: [http://arxiv.org/abs/2410.06194](http://arxiv.org/abs/2410.06194), Code: **[https://github.com/stevenmsy/directsam-rs](https://github.com/stevenmsy/directsam-rs)**
@@ -1229,7 +1229,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
