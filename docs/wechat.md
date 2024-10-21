@@ -15,6 +15,37 @@
 
 ## Attention
 
+- 2024-10-18, **MultiOrg: A Multi-rater Organoid-detection Dataset**, Christina Bukas et.al., Paper: [http://arxiv.org/abs/2410.14612](http://arxiv.org/abs/2410.14612)
+- 2024-10-18, **DRACO-DehazeNet: An Efficient Image Dehazing Network Combining Detail Recovery and a Novel Contrastive Learning Paradigm**, Gao Yu Lee et.al., Paper: [http://arxiv.org/abs/2410.14595](http://arxiv.org/abs/2410.14595)
+- 2024-10-18, **Optimizing Attention with Mirror Descent: Generalized Max-Margin Token Selection**, Aaron Alvarado Kristanto Julistiono et.al., Paper: [http://arxiv.org/abs/2410.14581](http://arxiv.org/abs/2410.14581)
+- 2024-10-18, **TransBox: EL++-closed Ontology Embedding**, Hui Yang et.al., Paper: [http://arxiv.org/abs/2410.14571](http://arxiv.org/abs/2410.14571)
+- 2024-10-18, **Saddles-to-minima topological crossover and glassiness in the Rubik's Cube**, Alex Gower et.al., Paper: [http://arxiv.org/abs/2410.14552](http://arxiv.org/abs/2410.14552)
+- 2024-10-18, **Using Sentiment and Technical Analysis to Predict Bitcoin with Machine Learning**, Arthur Emanuel de Oliveira Carosia et.al., Paper: [http://arxiv.org/abs/2410.14532](http://arxiv.org/abs/2410.14532)
+- 2024-10-18, **SignAttention: On the Interpretability of Transformer Models for Sign Language Translation**, Pedro Alejandro Dal Bianco et.al., Paper: [http://arxiv.org/abs/2410.14506](http://arxiv.org/abs/2410.14506)
+- 2024-10-18, **Mixed Attention Transformer Enhanced Channel Estimation for Extremely Large-Scale MIMO Systems**, Shuang shuang Li et.al., Paper: [http://arxiv.org/abs/2410.14439](http://arxiv.org/abs/2410.14439)
+- 2024-10-18, **FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models**, Rui Hu et.al., Paper: [http://arxiv.org/abs/2410.14429](http://arxiv.org/abs/2410.14429)
+- 2024-10-18, **Variable Aperture Bokeh Rendering via Customized Focal Plane Guidance**, Kang Chen et.al., Paper: [http://arxiv.org/abs/2410.14400](http://arxiv.org/abs/2410.14400), Code: **[https://github.com/motong-ai-studio/vabm](https://github.com/motong-ai-studio/vabm)**
+- 2024-10-18, **AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios**, Ziming Huang et.al., Paper: [http://arxiv.org/abs/2410.14379](http://arxiv.org/abs/2410.14379), Code: **[https://github.com/hust-slow/anomalyncd](https://github.com/hust-slow/anomalyncd)**
+- 2024-10-18, **Croc: Pretraining Large Multimodal Models with Cross-Modal Comprehension**, Yin Xie et.al., Paper: [http://arxiv.org/abs/2410.14332](http://arxiv.org/abs/2410.14332), Code: **[https://github.com/deepglint/croc](https://github.com/deepglint/croc)**
+- 2024-10-18, **Exploring jets: substructure and flavour tagging in CMS and ATLAS**, Andrea Malara et.al., Paper: [http://arxiv.org/abs/2410.14330](http://arxiv.org/abs/2410.14330)
+- 2024-10-18, **Pseudo-label Refinement for Improving Self-Supervised Learning Systems**, Zia-ur-Rehman et.al., Paper: [http://arxiv.org/abs/2410.14242](http://arxiv.org/abs/2410.14242)
+- 2024-10-18, **MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging**, Zhenghao Pan et.al., Paper: [http://arxiv.org/abs/2410.14214](http://arxiv.org/abs/2410.14214)
+- 2024-10-18, **EPIC: A Lightweight LiDAR-Based UAV Exploration Framework for Large-Scale Scenarios**, Shuang Geng et.al., Paper: [http://arxiv.org/abs/2410.14203](http://arxiv.org/abs/2410.14203)
+- 2024-10-18, **Rethinking Transformer for Long Contextual Histopathology Whole Slide Image Analysis**, Honglin Li et.al., Paper: [http://arxiv.org/abs/2410.14195](http://arxiv.org/abs/2410.14195)
+- 2024-10-18, **Provable In-context Learning for Mixture of Linear Regressions using Transformers**, Yanhao Jin et.al., Paper: [http://arxiv.org/abs/2410.14183](http://arxiv.org/abs/2410.14183)
+- 2024-10-18, **Auto Detecting Cognitive Events Using Machine Learning on Pupillary Data**, Quang Dang et.al., Paper: [http://arxiv.org/abs/2410.14174](http://arxiv.org/abs/2410.14174)
+- 2024-10-18, **Personalized Image Generation with Large Multimodal Models**, Yiyan Xu et.al., Paper: [http://arxiv.org/abs/2410.14170](http://arxiv.org/abs/2410.14170)
+- 2024-10-18, **LLM The Genius Paradox: A Linguistic and Math Expert's Struggle with Simple Word-based Counting Problems**, Nan Xu et.al., Paper: [http://arxiv.org/abs/2410.14166](http://arxiv.org/abs/2410.14166)
+- 2024-10-18, **Exploring Intrinsic and Extrinsic $p$-type Dopability of Atomically Thin $β$-TeO$_2$ from First Principles**, Rafael Costa-Amaral et.al., Paper: [http://arxiv.org/abs/2410.14100](http://arxiv.org/abs/2410.14100)
+- 2024-10-17, **Your Interest, Your Summaries: Query-Focused Long Video Summarization**, Nirav Patel et.al., Paper: [http://arxiv.org/abs/2410.14087](http://arxiv.org/abs/2410.14087)
+- 2024-10-17, **FedPAE: Peer-Adaptive Ensemble Learning for Asynchronous and Model-Heterogeneous Federated Learning**, Brianna Mueller et.al., Paper: [http://arxiv.org/abs/2410.14075](http://arxiv.org/abs/2410.14075)
+- 2024-10-17, **Digesting Gibbs Sampling Using R**, Mahdi Teimouri et.al., Paper: [http://arxiv.org/abs/2410.14073](http://arxiv.org/abs/2410.14073)
+- 2024-10-17, **Data-driven rainfall prediction at a regional scale: a case study with Ghana**, Indrajit Kalita et.al., Paper: [http://arxiv.org/abs/2410.14062](http://arxiv.org/abs/2410.14062), Code: **[https://github.com/indrakalita/RainfallForecasting](https://github.com/indrakalita/RainfallForecasting)**
+- 2024-10-17, **Trojan Prompt Attacks on Graph Neural Networks**, Minhua Lin et.al., Paper: [http://arxiv.org/abs/2410.13974](http://arxiv.org/abs/2410.13974)
+- 2024-10-17, **MarineFormer: A Transformer-based Navigation Policy Model for Collision Avoidance in Marine Environment**, Ehsan Kazemi et.al., Paper: [http://arxiv.org/abs/2410.13973](http://arxiv.org/abs/2410.13973)
+- 2024-10-17, **A Guide to Equivariant Parametrized Cohomology**, Agnès Beaudry et.al., Paper: [http://arxiv.org/abs/2410.13971](http://arxiv.org/abs/2410.13971)
+- 2024-10-17, **Mitigating the Backdoor Effect for Multi-Task Model Merging via Safety-Aware Subspace**, Jinluan Yang et.al., Paper: [http://arxiv.org/abs/2410.13910](http://arxiv.org/abs/2410.13910)
+- 2024-10-02, **Experimental Validation of Light Cable-Driven Elbow-Assisting Device L-CADEL Design**, Med Amine Laribi et.al., Paper: [http://arxiv.org/abs/2410.13870](http://arxiv.org/abs/2410.13870)
 - 2024-10-17, **Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens**, Lijie Fan et.al., Paper: [http://arxiv.org/abs/2410.13863](http://arxiv.org/abs/2410.13863)
 - 2024-10-17, **$γ-$ MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models**, Yaxin Luo et.al., Paper: [http://arxiv.org/abs/2410.13859](http://arxiv.org/abs/2410.13859)
 - 2024-10-17, **SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**, Xuan Zhang et.al., Paper: [http://arxiv.org/abs/2410.13846](http://arxiv.org/abs/2410.13846), Code: **[https://github.com/sail-sg/simlayerkv](https://github.com/sail-sg/simlayerkv)**
@@ -25,7 +56,7 @@
 - 2024-10-17, **A Pattern to Align Them All: Integrating Different Modalities to Define Multi-Modal Entities**, Gianluca Apriceno et.al., Paper: [http://arxiv.org/abs/2410.13803](http://arxiv.org/abs/2410.13803), Code: **[https://github.com/ida-fbk/multimodalpattern](https://github.com/ida-fbk/multimodalpattern)**
 - 2024-10-17, **Reducing the Transformer Architecture to a Minimum**, Bernhard Bermeitinger et.al., Paper: [http://arxiv.org/abs/2410.13732](http://arxiv.org/abs/2410.13732)
 - 2024-10-17, **Linear-Threshold Network Models for Describing and Analyzing Brain Dynamics**, Michael McCreesh et.al., Paper: [http://arxiv.org/abs/2410.13710](http://arxiv.org/abs/2410.13710)
-- 2024-10-17, **On the Role of Attention Heads in Large Language Model Safety**, Zhenhong Zhou et.al., Paper: [http://arxiv.org/abs/2410.13708](http://arxiv.org/abs/2410.13708)
+- 2024-10-17, **On the Role of Attention Heads in Large Language Model Safety**, Zhenhong Zhou et.al., Paper: [http://arxiv.org/abs/2410.13708](http://arxiv.org/abs/2410.13708), Code: **[https://github.com/ydyjya/safetyheadattribution](https://github.com/ydyjya/safetyheadattribution)**
 - 2024-10-17, **Ab initio nonparametric variable selection for scalable Symbolic Regression with large $p$**, Shengbin Ye et.al., Paper: [http://arxiv.org/abs/2410.13681](http://arxiv.org/abs/2410.13681), Code: **[https://github.com/mattsheng/scalable_sr](https://github.com/mattsheng/scalable_sr)**
 - 2024-10-17, **Theta and/or alpha? Neural oscillational substrates for dynamic inter-brain synchrony during mother-child cooperation**, Jiayang Xu et.al., Paper: [http://arxiv.org/abs/2410.13669](http://arxiv.org/abs/2410.13669)
 - 2024-10-17, **ORCHID: A Chinese Debate Corpus for Target-Independent Stance Detection and Argumentative Dialogue Summarization**, Xiutian Zhao et.al., Paper: [http://arxiv.org/abs/2410.13667](http://arxiv.org/abs/2410.13667), Code: **[https://github.com/xiutian/orchid](https://github.com/xiutian/orchid)**
