@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.20
+## Updated on 2024.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2024-10-17**|**Multimodal growth and development assessment model**|Ying Li et.al.|[2410.13647](http://arxiv.org/abs/2410.13647)|null|
 |**2024-10-17**|**A Comparative Study on Reasoning Patterns of OpenAI's o1 Model**|Siwei Wu et.al.|[2410.13639](http://arxiv.org/abs/2410.13639)|**[link](https://github.com/open-source-o1/o1_reasoning_patterns_study)**|
 |**2024-10-17**|**Neural Correlates of Augmented Reality Safety Warnings: EEG Analysis of Situational Awareness and Cognitive Performance in Roadway Work Zones**|Fatemeh Banani Ardecani et.al.|[2410.13623](http://arxiv.org/abs/2410.13623)|null|
-|**2024-10-17**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621](http://arxiv.org/abs/2410.13621)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
+|**2024-10-18**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621](http://arxiv.org/abs/2410.13621)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
 |**2024-10-17**|**Spatiotemporal Object Detection for Improved Aerial Vehicle Detection in Traffic Monitoring**|Kristina Telegraph et.al.|[2410.13616](http://arxiv.org/abs/2410.13616)|null|
 |**2024-10-17**|**DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**|Jiahao Lu et.al.|[2410.13607](http://arxiv.org/abs/2410.13607)|null|
 |**2024-10-17**|**Let Me Finish My Sentence: Video Temporal Grounding with Holistic Text Understanding**|Jongbhin Woo et.al.|[2410.13598](http://arxiv.org/abs/2410.13598)|null|
@@ -55,7 +55,7 @@
 |**2024-10-17**|**Computational Approaches to Arabic-English Code-Switching**|Caroline Sabty et.al.|[2410.13318](http://arxiv.org/abs/2410.13318)|null|
 |**2024-10-17**|**Precipitation Nowcasting Using Diffusion Transformer with Causal Attention**|ChaoRong Li et.al.|[2410.13314](http://arxiv.org/abs/2410.13314)|null|
 |**2024-10-17**|**DurIAN-E 2: Duration Informed Attention Network with Adaptive Variational Autoencoder and Adversarial Learning for Expressive Text-to-Speech Synthesis**|Yu Gu et.al.|[2410.13288](http://arxiv.org/abs/2410.13288)|null|
-|**2024-10-17**|**SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs**|Yizhao Gao et.al.|[2410.13276](http://arxiv.org/abs/2410.13276)|null|
+|**2024-10-18**|**SeerAttention: Learning Intrinsic Sparse Attention in Your LLMs**|Yizhao Gao et.al.|[2410.13276](http://arxiv.org/abs/2410.13276)|null|
 |**2024-10-17**|**A Simplifying and Learnable Graph Convolutional Attention Network for Unsupervised Knowledge Graphs Alignment**|Weishan Cai et.al.|[2410.13263](http://arxiv.org/abs/2410.13263)|null|
 |**2024-10-17**|**scFusionTTT: Single-cell transcriptomics and proteomics fusion with Test-Time Training layers**|Dian Meng et.al.|[2410.13257](http://arxiv.org/abs/2410.13257)|null|
 |**2024-10-17**|**Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation**|Hyungjoo Chae et.al.|[2410.13232](http://arxiv.org/abs/2410.13232)|null|
@@ -63,10 +63,10 @@
 |**2024-10-17**|**Latent Image and Video Resolution Prediction using Convolutional Neural Networks**|Rittwika Kansabanik et.al.|[2410.13227](http://arxiv.org/abs/2410.13227)|null|
 |**2024-10-17**|**AsymKV: Enabling 1-Bit Quantization of KV Cache with Layer-Wise Asymmetric Quantization Configurations**|Qian Tao et.al.|[2410.13212](http://arxiv.org/abs/2410.13212)|null|
 |**2024-10-17**|**TabSeq: A Framework for Deep Learning on Tabular Data via Sequential Ordering**|Al Zadid Sultan Bin Habib et.al.|[2410.13203](http://arxiv.org/abs/2410.13203)|null|
-|**2024-10-17**|**UniG: Modelling Unitary 3D Gaussians for View-consistent 3D Reconstruction**|Jiamin Wu et.al.|[2410.13195](http://arxiv.org/abs/2410.13195)|**[link](https://github.com/jwubz123/UNIG)**|
+|**2024-10-18**|**UniG: Modelling Unitary 3D Gaussians for View-consistent 3D Reconstruction**|Jiamin Wu et.al.|[2410.13195](http://arxiv.org/abs/2410.13195)|**[link](https://github.com/jwubz123/UNIG)**|
 |**2024-10-17**|**CohEx: A Generalized Framework for Cohort Explanation**|Fanyu Meng et.al.|[2410.13190](http://arxiv.org/abs/2410.13190)|null|
 |**2024-10-17**|**aiXcoder-7B: A Lightweight and Effective Large Language Model for Code Completion**|Siyuan Jiang et.al.|[2410.13187](http://arxiv.org/abs/2410.13187)|**[link](https://github.com/aixcoder-plugin/aixcoder-7b)**|
-|**2024-10-17**|**An Evolved Universal Transformer Memory**|Edoardo Cetin et.al.|[2410.13166](http://arxiv.org/abs/2410.13166)|**[link](https://github.com/sakanaai/evo-memory)**|
+|**2024-10-18**|**An Evolved Universal Transformer Memory**|Edoardo Cetin et.al.|[2410.13166](http://arxiv.org/abs/2410.13166)|**[link](https://github.com/sakanaai/evo-memory)**|
 |**2024-10-17**|**Preference Diffusion for Recommendation**|Shuo Liu et.al.|[2410.13117](http://arxiv.org/abs/2410.13117)|**[link](https://github.com/lswhim/preferdiff)**|
 |**2024-10-16**|**AADNet: An End-to-End Deep Learning Model for Auditory Attention Decoding**|Nhan Duc Thanh Nguyen et.al.|[2410.13059](http://arxiv.org/abs/2410.13059)|null|
 |**2024-10-16**|**General Mass treatment for Z boson production in association with a heavy quark at hadron colliders**|Marco Guzzi et.al.|[2410.13044](http://arxiv.org/abs/2410.13044)|null|
@@ -246,7 +246,7 @@
 |**2024-10-14**|**Evaluating of Machine Unlearning: Robustness Verification Without Prior Modifications**|Heng Xu et.al.|[2410.10120](http://arxiv.org/abs/2410.10120)|null|
 |**2024-10-16**|**Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models**|Jun Luo et.al.|[2410.10114](http://arxiv.org/abs/2410.10114)|null|
 |**2024-10-14**|**Constraints on primordial black holes from $N_{\text{eff}}$ : scalar induced gravitational waves as an extra radiation component**|Jing-Zhi Zhou et.al.|[2410.10111](http://arxiv.org/abs/2410.10111)|null|
-|**2024-10-14**|**Learning Linear Attention in Polynomial Time**|Morris Yau et.al.|[2410.10101](http://arxiv.org/abs/2410.10101)|null|
+|**2024-10-18**|**Learning Linear Attention in Polynomial Time**|Morris Yau et.al.|[2410.10101](http://arxiv.org/abs/2410.10101)|null|
 |**2024-10-14**|**Out-of-Bounding-Box Triggers: A Stealthy Approach to Cheat Object Detectors**|Tao Lin et.al.|[2410.10091](http://arxiv.org/abs/2410.10091)|**[link](https://github.com/lintotao/out-of-bbox-attack)**|
 |**2024-10-14**|**VNF Migration with Fast Defragmentation: A GAT-Based Deep Learning Method**|Fangyu Zhang et.al.|[2410.10086](http://arxiv.org/abs/2410.10086)|null|
 |**2024-10-14**|**Content Caching-Assisted Vehicular Edge Computing Using Multi-Agent Graph Attention Reinforcement Learning**|Jinjin Shen et.al.|[2410.10071](http://arxiv.org/abs/2410.10071)|null|
@@ -431,7 +431,7 @@
 |**2024-10-09**|**Rodimus*: Breaking the Accuracy-Efficiency Trade-Off with Efficient Attentions**|Zhihao He et.al.|[2410.06577](http://arxiv.org/abs/2410.06577)|null|
 |**2024-10-09**|**Green bubbles: a four-stage paradigm for detection and propagation**|Gian Luca Vriz et.al.|[2410.06564](http://arxiv.org/abs/2410.06564)|null|
 |**2024-10-09**|**DiffGAD: A Diffusion-based Unsupervised Graph Anomaly Detector**|Jinghan Li et.al.|[2410.06549](http://arxiv.org/abs/2410.06549)|**[link](https://github.com/fortunato-all/LJH_DiffGAD)**|
-|**2024-10-09**|**KOR-Bench: Benchmarking Language Models on Knowledge-Orthogonal Reasoning Tasks**|Kaijing Ma et.al.|[2410.06526](http://arxiv.org/abs/2410.06526)|null|
+|**2024-10-18**|**KOR-Bench: Benchmarking Language Models on Knowledge-Orthogonal Reasoning Tasks**|Kaijing Ma et.al.|[2410.06526](http://arxiv.org/abs/2410.06526)|null|
 |**2024-10-09**|**Transformer-assisted Parametric CSI Feedback for mmWave Massive MIMO Systems**|Hyungyu Ju et.al.|[2410.06504](http://arxiv.org/abs/2410.06504)|null|
 |**2024-10-09**|**On the Similarity of Circuits across Languages: a Case Study on the Subject-verb Agreement Task**|Javier Ferrando et.al.|[2410.06496](http://arxiv.org/abs/2410.06496)|**[link](https://github.com/javiferran/circuits_languages)**|
 |**2024-10-09**|**TCGU: Data-centric Graph Unlearning based on Transferable Condensation**|Fan Li et.al.|[2410.06480](http://arxiv.org/abs/2410.06480)|null|
@@ -523,7 +523,7 @@
 |**2024-10-07**|**Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality**|Guanyu Zhou et.al.|[2410.04780](http://arxiv.org/abs/2410.04780)|**[link](https://github.com/the-martyr/causalmm)**|
 |**2024-10-07**|**From Transparency to Accountability and Back: A Discussion of Access and Evidence in AI Auditing**|Sarah H. Cen et.al.|[2410.04772](http://arxiv.org/abs/2410.04772)|null|
 |**2024-10-07**|**Intriguing Properties of Large Language and Vision Models**|Young-Jun Lee et.al.|[2410.04751](http://arxiv.org/abs/2410.04751)|null|
-|**2024-10-07**|**PredFormer: Transformers Are Effective Spatial-Temporal Predictive Learners**|Yujin Tang et.al.|[2410.04733](http://arxiv.org/abs/2410.04733)|**[link](https://github.com/yyyujintang/predformer)**|
+|**2024-10-18**|**PredFormer: Transformers Are Effective Spatial-Temporal Predictive Learners**|Yujin Tang et.al.|[2410.04733](http://arxiv.org/abs/2410.04733)|**[link](https://github.com/yyyujintang/predformer)**|
 |**2024-10-07**|**Efficient transformer with reinforced position embedding for language models**|Yen-Che Hsiao et.al.|[2410.04731](http://arxiv.org/abs/2410.04731)|null|
 |**2024-10-07**|**Tight Stability, Convergence, and Robustness Bounds for Predictive Coding Networks**|Ankur Mali et.al.|[2410.04708](http://arxiv.org/abs/2410.04708)|null|
 |**2024-10-07**|**Low-Rank Continual Pyramid Vision Transformer: Incrementally Segment Whole-Body Organs in CT with Light-Weighted Adaptation**|Vince Zhu et.al.|[2410.04689](http://arxiv.org/abs/2410.04689)|null|
@@ -588,7 +588,7 @@
 |**2024-10-04**|**How Discrete and Continuous Diffusion Meet: Comprehensive Analysis of Discrete Diffusion Models via a Stochastic Integral Framework**|Yinuo Ren et.al.|[2410.03601](http://arxiv.org/abs/2410.03601)|null|
 |**2024-10-04**|**Variability of Central Stars of Planetary Nebulae with the Zwicky Transient Facility. I. Methods, Short-Timescale Variables, Binary Candidates, and the Unusual Nucleus of WeSb 1**|Soumyadeep Bhattacharjee et.al.|[2410.03589](http://arxiv.org/abs/2410.03589)|null|
 |**2024-09-19**|**Optimizing food taste sensory evaluation through neural network-based taste electroencephalogram channel selection**|Xiuxin Xia et.al.|[2410.03559](http://arxiv.org/abs/2410.03559)|null|
-|**2024-10-10**|**Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features**|Benyuan Meng et.al.|[2410.03558](http://arxiv.org/abs/2410.03558)|**[link](https://github.com/darkbblue/generic-diffusion-feature)**|
+|**2024-10-18**|**Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features**|Benyuan Meng et.al.|[2410.03558](http://arxiv.org/abs/2410.03558)|**[link](https://github.com/darkbblue/generic-diffusion-feature)**|
 |**2024-09-14**|**Multiscale fusion enhanced spiking neural network for invasive BCI neural signal decoding**|Yu Song et.al.|[2410.03533](http://arxiv.org/abs/2410.03533)|null|
 |**2024-10-04**|**MARE: Multi-Aspect Rationale Extractor on Unsupervised Rationale Extraction**|Han Jiang et.al.|[2410.03531](http://arxiv.org/abs/2410.03531)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
@@ -597,7 +597,7 @@
 |**2024-10-04**|**Benchmarking the Fidelity and Utility of Synthetic Relational Data**|Valter Hudovernik et.al.|[2410.03411](http://arxiv.org/abs/2410.03411)|**[link](https://github.com/martinjurkovic/syntherela)**|
 |**2024-10-04**|**Quantum Effects in Ion Transport: A Thermodynamic Resource Theory Approach**|Amin Mohammadi et.al.|[2410.03389](http://arxiv.org/abs/2410.03389)|null|
 |**2024-10-04**|**Error Correction Code Transformer: From Non-Unified to Unified**|Yongli Yan et.al.|[2410.03364](http://arxiv.org/abs/2410.03364)|null|
-|**2024-10-04**|**Practical Light Clients for Committee-Based Blockchains**|Frederik Armknecht et.al.|[2410.03347](http://arxiv.org/abs/2410.03347)|null|
+|**2024-10-18**|**Practical Light Clients for Committee-Based Blockchains**|Frederik Armknecht et.al.|[2410.03347](http://arxiv.org/abs/2410.03347)|null|
 |**2024-10-04**|**Implementing Response-Adaptive Randomisation in Stratified Rare-disease Trials: Design Challenges and Practical Solutions**|Rajenki Das et.al.|[2410.03346](http://arxiv.org/abs/2410.03346)|null|
 |**2024-10-04**|**Hybrid Centralized-Distributed Resource Allocation Based on Deep Reinforcement Learning for Cooperative D2D Communications**|Yang Yu et.al.|[2410.03177](http://arxiv.org/abs/2410.03177)|null|
 |**2024-10-04**|**Gravitational waves associated with the r-mode instability from neutron star-white dwarf mergers**|Shu-Qing Zhong et.al.|[2410.03172](http://arxiv.org/abs/2410.03172)|null|
@@ -830,7 +830,7 @@
 |**2024-09-29**|**Spectroscopic Visualization of Hard Quasi-1D Superconductivity Induced in Nanowires Deposited on a Quasi-2D Indium film**|Ambikesh Gupta et.al.|[2409.19736](http://arxiv.org/abs/2409.19736)|null|
 |**2024-09-29**|**A multimodal LLM for the non-invasive decoding of spoken text from brain recordings**|Youssef Hmamouche et.al.|[2409.19710](http://arxiv.org/abs/2409.19710)|null|
 |**2024-09-29**|**A Certified Robust Watermark For Large Language Models**|Xianheng Feng et.al.|[2409.19708](http://arxiv.org/abs/2409.19708)|null|
-|**2024-10-03**|**2D-TPE: Two-Dimensional Positional Encoding Enhances Table Understanding for Large Language Models**|Jia-Nan Li et.al.|[2409.19700](http://arxiv.org/abs/2409.19700)|**[link](https://github.com/JinaLeejnl/2D-TPE)**|
+|**2024-10-18**|**2D-TPE: Two-Dimensional Positional Encoding Enhances Table Understanding for Large Language Models**|Jia-Nan Li et.al.|[2409.19700](http://arxiv.org/abs/2409.19700)|**[link](https://github.com/JinaLeejnl/2D-TPE)**|
 |**2024-09-29**|**Neural-Polyptych: Content Controllable Painting Recreation for Diverse Genres**|Yiming Zhao et.al.|[2409.19690](http://arxiv.org/abs/2409.19690)|null|
 |**2024-09-29**|**InfantCryNet: A Data-driven Framework for Intelligent Analysis of Infant Cries**|Mengze Hong et.al.|[2409.19689](http://arxiv.org/abs/2409.19689)|null|
 |**2024-09-29**|**Instruction Embedding: Latent Representations of Instructions Towards Task Identification**|Yiwei Li et.al.|[2409.19680](http://arxiv.org/abs/2409.19680)|null|
@@ -1010,7 +1010,7 @@
 |**2024-09-24**|**Ducho meets Elliot: Large-scale Benchmarks for Multimodal Recommendation**|Matteo Attimonelli et.al.|[2409.15857](http://arxiv.org/abs/2409.15857)|**[link](https://github.com/sisinflab/Ducho-meets-Elliot)**|
 |**2024-09-24**|**Sex Differences in Hierarchical and Modular Organization of Functional Brain Networks: Insights from Hierarchical Entropy and Modularity Analysis**|Wenyu Chen et.al.|[2409.15833](http://arxiv.org/abs/2409.15833)|null|
 |**2024-09-24**|**A Ducted Fan UAV for Safe Aerial Grabbing and Transfer of Multiple Loads Using Electromagnets**|Zhong Yin et.al.|[2409.15822](http://arxiv.org/abs/2409.15822)|null|
-|**2024-09-24**|**Supervised Fine-Tuning: An Activation Pattern Optimization Process for Attention Heads**|Yang Zhao et.al.|[2409.15820](http://arxiv.org/abs/2409.15820)|null|
+|**2024-10-18**|**Supervised Fine-Tuning Achieve Rapid Task Adaption Via Alternating Attention Head Activation Patterns**|Yang Zhao et.al.|[2409.15820](http://arxiv.org/abs/2409.15820)|null|
 |**2024-09-24**|**WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction**|Shuai Wang et.al.|[2409.15799](http://arxiv.org/abs/2409.15799)|**[link](https://github.com/wenet-e2e/wesep)**|
 |**2024-09-24**|**Small Language Models: Survey, Measurements, and Insights**|Zhenyan Lu et.al.|[2409.15790](http://arxiv.org/abs/2409.15790)|**[link](https://github.com/ubiquitouslearning/slm_survey)**|
 |**2024-09-24**|**Optimal preconditioners for nonsymmetric multilevel Toeplitz systems with application to solving non-local evolutionary partial differential equations**|Yuan-Yuan Huang et.al.|[2409.15770](http://arxiv.org/abs/2409.15770)|null|
@@ -1355,7 +1355,7 @@
 |**2024-10-03**|**Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**|Jinwoo Go et.al.|[2409.09141](http://arxiv.org/abs/2409.09141)|null|
 |**2024-09-13**|**Neural Message Passing Induced by Energy-Constrained Diffusion**|Qitian Wu et.al.|[2409.09111](http://arxiv.org/abs/2409.09111)|null|
 
-<p align=right>(<a href=#updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241021>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
