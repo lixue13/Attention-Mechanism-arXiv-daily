@@ -15,6 +15,40 @@
 
 ## Attention
 
+- 2024-10-22, **From Attention to Activation: Unravelling the Enigmas of Large Language Models**, Prannay Kaul et.al., Paper: [http://arxiv.org/abs/2410.17174](http://arxiv.org/abs/2410.17174)
+- 2024-10-22, **AlphaChimp: Tracking and Behavior Recognition of Chimpanzees**, Xiaoxuan Ma et.al., Paper: [http://arxiv.org/abs/2410.17136](http://arxiv.org/abs/2410.17136)
+- 2024-10-22, **Continuous Speech Tokenizer in Text To Speech**, Yixing Li et.al., Paper: [http://arxiv.org/abs/2410.17081](http://arxiv.org/abs/2410.17081)
+- 2024-10-22, **Optimal Design for Reward Modeling in RLHF**, Antoine Scheid et.al., Paper: [http://arxiv.org/abs/2410.17055](http://arxiv.org/abs/2410.17055)
+- 2024-10-22, **A Comparison of Baseline Models and a Transformer Network for SOC Prediction in Lithium-Ion Batteries**, Hadeel Aboueidah et.al., Paper: [http://arxiv.org/abs/2410.17049](http://arxiv.org/abs/2410.17049)
+- 2024-10-22, **AGSENet: A Robust Road Ponding Detection Method for Proactive Traffic Safety**, Ronghui Zhang et.al., Paper: [http://arxiv.org/abs/2410.16999](http://arxiv.org/abs/2410.16999)
+- 2024-10-22, **Order Matters: Exploring Order Sensitivity in Multimodal Large Language Models**, Zhijie Tan et.al., Paper: [http://arxiv.org/abs/2410.16983](http://arxiv.org/abs/2410.16983)
+- 2024-10-22, **LoRA-C: Parameter-Efficient Fine-Tuning of Robust CNN for IoT Devices**, Chuntao Ding et.al., Paper: [http://arxiv.org/abs/2410.16954](http://arxiv.org/abs/2410.16954)
+- 2024-10-22, **EnvBridge: Bridging Diverse Environments with Cross-Environment Knowledge Transfer for Embodied AI**, Tomoyuki Kagaya et.al., Paper: [http://arxiv.org/abs/2410.16919](http://arxiv.org/abs/2410.16919)
+- 2024-10-22, **Dynamic graph neural networks for enhanced volatility prediction in financial markets**, Pulikandala Nithish Kumar et.al., Paper: [http://arxiv.org/abs/2410.16858](http://arxiv.org/abs/2410.16858)
+- 2024-10-22, **Analyzing and Evaluating Correlation Measures in NLG Meta-Evaluation**, Mingqi Gao et.al., Paper: [http://arxiv.org/abs/2410.16834](http://arxiv.org/abs/2410.16834)
+- 2024-10-22, **Controllability and kinetic limit of spherical particles immersed in a viscous fluid**, Marta Zoppello et.al., Paper: [http://arxiv.org/abs/2410.16793](http://arxiv.org/abs/2410.16793)
+- 2024-10-22, **Recent development of magnetocaloric effect in Pyrochlore oxides**, Vinod Kumar Dwivedi et.al., Paper: [http://arxiv.org/abs/2410.16777](http://arxiv.org/abs/2410.16777)
+- 2024-10-22, **SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**, Jiaqi Chen et.al., Paper: [http://arxiv.org/abs/2410.16746](http://arxiv.org/abs/2410.16746)
+- 2024-10-22, **A Non-Conservative, Non-Local Approximation of the Burgers Equation**, Shyam Sundar Ghoshal et.al., Paper: [http://arxiv.org/abs/2410.16743](http://arxiv.org/abs/2410.16743)
+- 2024-10-22, **High-Order Associative Learning Based on Memristive Circuits for Efficient Learning**, Shengbo Wang et.al., Paper: [http://arxiv.org/abs/2410.16734](http://arxiv.org/abs/2410.16734)
+- 2024-10-22, **Progressive Compositionality In Text-to-Image Generative Models**, Xu Han et.al., Paper: [http://arxiv.org/abs/2410.16719](http://arxiv.org/abs/2410.16719)
+- 2024-10-22, **PLDR-LLM: Large Language Model from Power Law Decoder Representations**, Burc Gokden et.al., Paper: [http://arxiv.org/abs/2410.16703](http://arxiv.org/abs/2410.16703), Code: **[https://github.com/burcgokden/llm-from-power-law-decoder-representations](https://github.com/burcgokden/llm-from-power-law-decoder-representations)**
+- 2024-10-22, **ClimaQA: An Automated Evaluation Framework for Climate Foundation Models**, Veeramakali Vignesh Manivannan et.al., Paper: [http://arxiv.org/abs/2410.16701](http://arxiv.org/abs/2410.16701)
+- 2024-10-22, **DARE: Diffusion Policy for Autonomous Robot Exploration**, Yuhong Cao et.al., Paper: [http://arxiv.org/abs/2410.16687](http://arxiv.org/abs/2410.16687)
+- 2024-10-22, **Methods of improving LLM training stability**, Oleg Rybakov et.al., Paper: [http://arxiv.org/abs/2410.16682](http://arxiv.org/abs/2410.16682)
+- 2024-10-22, **FastAttention: Extend FlashAttention2 to NPUs and Low-resource GPUs**, Haoran Lin et.al., Paper: [http://arxiv.org/abs/2410.16663](http://arxiv.org/abs/2410.16663)
+- 2024-10-22, **Fire and Smoke Detection with Burning Intensity Representation**, Xiaoyi Han et.al., Paper: [http://arxiv.org/abs/2410.16642](http://arxiv.org/abs/2410.16642), Code: **[https://github.com/xiaoyihan6/fsdmethod](https://github.com/xiaoyihan6/fsdmethod)**
+- 2024-10-21, **Large Body Language Models**, Saif Punjwani et.al., Paper: [http://arxiv.org/abs/2410.16533](http://arxiv.org/abs/2410.16533)
+- 2024-10-21, **Rulebreakers Challenge: Revealing a Blind Spot in Large Language Models' Reasoning with Formal Logic**, Jason Chan et.al., Paper: [http://arxiv.org/abs/2410.16502](http://arxiv.org/abs/2410.16502)
+- 2024-10-21, **Finite-Sample and Distribution-Free Fair Classification: Optimal Trade-off Between Excess Risk and Fairness, and the Cost of Group-Blindness**, Xiaotian Hou et.al., Paper: [http://arxiv.org/abs/2410.16477](http://arxiv.org/abs/2410.16477)
+- 2024-10-21, **Multi-head Sequence Tagging Model for Grammatical Error Correction**, Kamal Al-Sabahi et.al., Paper: [http://arxiv.org/abs/2410.16473](http://arxiv.org/abs/2410.16473), Code: **[https://github.com/alsabahi2030/synthetic-data-generation](https://github.com/alsabahi2030/synthetic-data-generation)**
+- 2024-10-21, **Does your LLM truly unlearn? An embarrassingly simple approach to recover unlearned knowledge**, Zhiwei Zhang et.al., Paper: [http://arxiv.org/abs/2410.16454](http://arxiv.org/abs/2410.16454)
+- 2024-10-21, **AlignVSR: Audio-Visual Cross-Modal Alignment for Visual Speech Recognition**, Zehua Liu et.al., Paper: [http://arxiv.org/abs/2410.16438](http://arxiv.org/abs/2410.16438)
+- 2024-10-21, **Promoting cross-modal representations to improve multimodal foundation models for physiological signals**, Ching Fang et.al., Paper: [http://arxiv.org/abs/2410.16424](http://arxiv.org/abs/2410.16424)
+- 2024-10-20, **Advancing Gasoline Consumption Forecasting: A Novel Hybrid Model Integrating Transformers, LSTM, and CNN**, Mahmoud Ranjbar et.al., Paper: [http://arxiv.org/abs/2410.16336](http://arxiv.org/abs/2410.16336)
+- 2024-10-18, **Feint and Attack: Attention-Based Strategies for Jailbreaking and Protecting LLMs**, Rui Pu et.al., Paper: [http://arxiv.org/abs/2410.16327](http://arxiv.org/abs/2410.16327)
+- 2024-10-07, **Training an AI hyperelastic constitutive model with experimental data**, Clément Jailin et.al., Paper: [http://arxiv.org/abs/2410.16304](http://arxiv.org/abs/2410.16304)
+- 2024-10-07, **Spatio-Temporal 3D Point Clouds from WiFi-CSI Data via Transformer Networks**, Tuomas Määttä et.al., Paper: [http://arxiv.org/abs/2410.16303](http://arxiv.org/abs/2410.16303)
 - 2024-10-21, **CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution**, Maosong Cao et.al., Paper: [http://arxiv.org/abs/2410.16256](http://arxiv.org/abs/2410.16256), Code: **[https://github.com/open-compass/compassjudger](https://github.com/open-compass/compassjudger)**
 - 2024-10-21, **Revisiting Deep Feature Reconstruction for Logical and Structural Industrial Anomaly Detection**, Sukanya Patra et.al., Paper: [http://arxiv.org/abs/2410.16255](http://arxiv.org/abs/2410.16255), Code: **[https://github.com/sukanyapatra1997/ulsad-2024](https://github.com/sukanyapatra1997/ulsad-2024)**
 - 2024-10-21, **MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**, Samrajya Thapa et.al., Paper: [http://arxiv.org/abs/2410.16239](http://arxiv.org/abs/2410.16239), Code: **[https://github.com/svthapa/more](https://github.com/svthapa/more)**
@@ -177,7 +211,7 @@
 - 2024-10-17, **Multimodal growth and development assessment model**, Ying Li et.al., Paper: [http://arxiv.org/abs/2410.13647](http://arxiv.org/abs/2410.13647)
 - 2024-10-17, **A Comparative Study on Reasoning Patterns of OpenAI's o1 Model**, Siwei Wu et.al., Paper: [http://arxiv.org/abs/2410.13639](http://arxiv.org/abs/2410.13639), Code: **[https://github.com/open-source-o1/o1_reasoning_patterns_study](https://github.com/open-source-o1/o1_reasoning_patterns_study)**
 - 2024-10-17, **Neural Correlates of Augmented Reality Safety Warnings: EEG Analysis of Situational Awareness and Cognitive Performance in Roadway Work Zones**, Fatemeh Banani Ardecani et.al., Paper: [http://arxiv.org/abs/2410.13623](http://arxiv.org/abs/2410.13623)
-- 2024-10-22, **EP-SAM: Weakly Supervised Histopathology Segmentation via Enhanced Prompt with Segment Anything**, Joonhyeon Song et.al., Paper: [http://arxiv.org/abs/2410.13621](http://arxiv.org/abs/2410.13621), Code: **[https://github.com/qi-nemosong/eplc-sam](https://github.com/qi-nemosong/eplc-sam)**
+- 2024-10-22, **EP-SAM: Weakly Supervised Histopathology Segmentation via Enhanced Prompt with Segment Anything**, Joonhyeon Song et.al., Paper: [http://arxiv.org/abs/2410.13621](http://arxiv.org/abs/2410.13621), Code: **[https://github.com/qi-nemosong/ep-sam](https://github.com/qi-nemosong/ep-sam)**
 - 2024-10-17, **Spatiotemporal Object Detection for Improved Aerial Vehicle Detection in Traffic Monitoring**, Kristina Telegraph et.al., Paper: [http://arxiv.org/abs/2410.13616](http://arxiv.org/abs/2410.13616)
 - 2024-10-17, **DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**, Jiahao Lu et.al., Paper: [http://arxiv.org/abs/2410.13607](http://arxiv.org/abs/2410.13607)
 - 2024-10-17, **Let Me Finish My Sentence: Video Temporal Grounding with Holistic Text Understanding**, Jongbhin Woo et.al., Paper: [http://arxiv.org/abs/2410.13598](http://arxiv.org/abs/2410.13598)
