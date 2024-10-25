@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.24
+## Updated on 2024.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |**2024-10-23**|**Beyond position: how rotary embeddings shape representations and memory in autoregressive transfomers**|Valeria Ruscio et.al.|[2410.18067](http://arxiv.org/abs/2410.18067)|null|
 |**2024-10-23**|**POD-Attention: Unlocking Full Prefill-Decode Overlap for Faster LLM Inference**|Aditya K Kamath et.al.|[2410.18038](http://arxiv.org/abs/2410.18038)|null|
 |**2024-10-23**|**Global synchronization theorem for coupled swarmalators**|Kevin P. O'Keeffe et.al.|[2410.18011](http://arxiv.org/abs/2410.18011)|null|
-|**2024-10-23**|**Striking a New Chord: Neural Networks in Music Information Dynamics**|Farshad Jafari et.al.|[2410.17989](http://arxiv.org/abs/2410.17989)|**[link](https://github.com/frshdjfry/SeqLab)**|
+|**2024-10-24**|**Striking a New Chord: Neural Networks in Music Information Dynamics**|Farshad Jafari et.al.|[2410.17989](http://arxiv.org/abs/2410.17989)|**[link](https://github.com/frshdjfry/SeqLab)**|
 |**2024-10-23**|**Stick-breaking Attention**|Shawn Tan et.al.|[2410.17980](http://arxiv.org/abs/2410.17980)|null|
 |**2024-10-23**|**Spiking Graph Neural Network on Riemannian Manifolds**|Li Sun et.al.|[2410.17941](http://arxiv.org/abs/2410.17941)|null|
 |**2024-10-23**|**Value Residual Learning For Alleviating Attention Concentration In Transformers**|Zhanchao Zhou et.al.|[2410.17897](http://arxiv.org/abs/2410.17897)|null|
@@ -128,7 +128,7 @@
 |**2024-10-21**|**Mitigating Object Hallucination via Concentric Causal Attention**|Yun Xing et.al.|[2410.15926](http://arxiv.org/abs/2410.15926)|**[link](https://github.com/xing0047/cca-llava)**|
 |**2024-10-21**|**The GAPS programme at TNG -- LXIII. Photo-evaporating puzzle: Exploring the enigmatic nature of TOI-5398 b atmospheric signal**|M. C. D'Arpa et.al.|[2410.15917](http://arxiv.org/abs/2410.15917)|null|
 |**2024-10-23**|**On the Design and Performance of Machine Learning Based Error Correcting Decoders**|Yuncheng Yuan et.al.|[2410.15899](http://arxiv.org/abs/2410.15899)|null|
-|**2024-10-22**|**Mesa-Extrapolation: A Weave Position Encoding Method for Enhanced Extrapolation in LLMs**|Xin Ma et.al.|[2410.15859](http://arxiv.org/abs/2410.15859)|null|
+|**2024-10-24**|**Mesa-Extrapolation: A Weave Position Encoding Method for Enhanced Extrapolation in LLMs**|Xin Ma et.al.|[2410.15859](http://arxiv.org/abs/2410.15859)|null|
 |**2024-10-21**|**Focus Where It Matters: Graph Selective State Focused Attention Networks**|Shikhar Vashistha et.al.|[2410.15849](http://arxiv.org/abs/2410.15849)|null|
 |**2024-10-21**|**Modelling Concurrent RTP Flows for End-to-end Predictions of QoS in Real Time Communications**|Tailai Song et.al.|[2410.15846](http://arxiv.org/abs/2410.15846)|null|
 |**2024-10-21**|**Towards Efficient Collaboration via Graph Modeling in Reinforcement Learning**|Wenzhe Fan et.al.|[2410.15841](http://arxiv.org/abs/2410.15841)|null|
@@ -179,7 +179,7 @@
 |**2024-10-20**|**TAGExplainer: Narrating Graph Explanations for Text-Attributed Graph Learning Models**|Bo Pan et.al.|[2410.15268](http://arxiv.org/abs/2410.15268)|null|
 |**2024-10-20**|**GSSF: Generalized Structural Sparse Function for Deep Cross-modal Metric Learning**|Haiwen Diao et.al.|[2410.15266](http://arxiv.org/abs/2410.15266)|**[link](https://github.com/paranioar/gssf)**|
 |**2024-10-20**|**Lossless KV Cache Compression to 2%**|Zhen Yang et.al.|[2410.15252](http://arxiv.org/abs/2410.15252)|null|
-|**2024-10-19**|**Medical-GAT: Cancer Document Classification Leveraging Graph-Based Residual Network for Scenarios with Limited Data**|Elias Hossain et.al.|[2410.15198](http://arxiv.org/abs/2410.15198)|null|
+|**2024-10-24**|**Medical-GAT: Cancer Document Classification Leveraging Graph-Based Residual Network for Scenarios with Limited Data**|Elias Hossain et.al.|[2410.15198](http://arxiv.org/abs/2410.15198)|null|
 |**2024-10-19**|**Crafting Tomorrow: The Influence of Design Choices on Fresh Content in Social Media Recommendation**|Srijan Saket et.al.|[2410.15174](http://arxiv.org/abs/2410.15174)|null|
 |**2024-10-19**|**Augmenting the Veracity and Explanations of Complex Fact Checking via Iterative Self-Revision with LLMs**|Xiaocheng Zhang et.al.|[2410.15135](http://arxiv.org/abs/2410.15135)|null|
 |**2024-10-19**|**Network Nonlocality Without Entanglement Of All Sources**|Kaushiki Mukherjee et.al.|[2410.15131](http://arxiv.org/abs/2410.15131)|null|
@@ -268,7 +268,7 @@
 |**2024-10-17**|**Neural Correlates of Augmented Reality Safety Warnings: EEG Analysis of Situational Awareness and Cognitive Performance in Roadway Work Zones**|Fatemeh Banani Ardecani et.al.|[2410.13623](http://arxiv.org/abs/2410.13623)|null|
 |**2024-10-22**|**EP-SAM: Weakly Supervised Histopathology Segmentation via Enhanced Prompt with Segment Anything**|Joonhyeon Song et.al.|[2410.13621](http://arxiv.org/abs/2410.13621)|**[link](https://github.com/qi-nemosong/ep-sam)**|
 |**2024-10-17**|**Spatiotemporal Object Detection for Improved Aerial Vehicle Detection in Traffic Monitoring**|Kristina Telegraph et.al.|[2410.13616](http://arxiv.org/abs/2410.13616)|null|
-|**2024-10-17**|**DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**|Jiahao Lu et.al.|[2410.13607](http://arxiv.org/abs/2410.13607)|null|
+|**2024-10-24**|**DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**|Jiahao Lu et.al.|[2410.13607](http://arxiv.org/abs/2410.13607)|null|
 |**2024-10-17**|**Let Me Finish My Sentence: Video Temporal Grounding with Holistic Text Understanding**|Jongbhin Woo et.al.|[2410.13598](http://arxiv.org/abs/2410.13598)|null|
 |**2024-10-17**|**CCUP: A Controllable Synthetic Data Generation Pipeline for Pretraining Cloth-Changing Person Re-Identification Models**|Yujian Zhao et.al.|[2410.13567](http://arxiv.org/abs/2410.13567)|**[link](https://github.com/yjzhao1019/ccup)**|
 |**2024-10-17**|**360U-Former: HDR Illumination Estimation with Panoramic Adapted Vision Transformers**|Jack Hilliard et.al.|[2410.13566](http://arxiv.org/abs/2410.13566)|null|
@@ -410,7 +410,7 @@
 |**2024-10-15**|**Reinforcement Learning Based Bidding Framework with High-dimensional Bids in Power Markets**|Jinyu Liu et.al.|[2410.11180](http://arxiv.org/abs/2410.11180)|null|
 |**2024-10-15**|**Improving Bias in Facial Attribute Classification: A Combined Impact of KL Divergence induced Loss Function and Dual Attention**|Shweta Patel et.al.|[2410.11176](http://arxiv.org/abs/2410.11176)|null|
 |**2024-10-14**|**Mimetic Initialization Helps State Space Models Learn to Recall**|Asher Trockman et.al.|[2410.11135](http://arxiv.org/abs/2410.11135)|null|
-|**2024-10-14**|**ChuLo: Chunk-Level Key Information Representation for Long Document Processing**|Yan Li et.al.|[2410.11119](http://arxiv.org/abs/2410.11119)|null|
+|**2024-10-24**|**ChuLo: Chunk-Level Key Information Representation for Long Document Processing**|Yan Li et.al.|[2410.11119](http://arxiv.org/abs/2410.11119)|null|
 |**2024-10-14**|**Keep Me Updated: An Empirical Study of Proprietary Vendor Blobs in Android Firmware**|Elliott Wen et.al.|[2410.11075](http://arxiv.org/abs/2410.11075)|null|
 |**2024-10-14**|**CleanUMamba: A Compact Mamba Network for Speech Denoising using Channel Pruning**|Sjoerd Groot et.al.|[2410.11062](http://arxiv.org/abs/2410.11062)|null|
 |**2024-10-14**|**ET-Former: Efficient Triplane Deformable Attention for 3D Semantic Scene Completion From Monocular Camera**|Jing Liang et.al.|[2410.11019](http://arxiv.org/abs/2410.11019)|null|
@@ -509,7 +509,7 @@
 |**2024-10-12**|**EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment**|Chen Gao et.al.|[2410.09604](http://arxiv.org/abs/2410.09604)|null|
 |**2024-10-12**|**Bridging Text and Image for Artist Style Transfer via Contrastive Learning**|Zhi-Song Liu et.al.|[2410.09566](http://arxiv.org/abs/2410.09566)|null|
 |**2024-10-12**|**Bi-temporal Gaussian Feature Dependency Guided Change Detection in Remote Sensing Images**|Yi Xiao et.al.|[2410.09539](http://arxiv.org/abs/2410.09539)|null|
-|**2024-10-12**|**SUS-Lib: An automated tool for usability evaluation based on the Software Usability Scale from user feedback**|Paweł Weichbroth et.al.|[2410.09534](http://arxiv.org/abs/2410.09534)|null|
+|**2024-10-24**|**SUS-Lib: An automated tool for usability evaluation based on the Software Usability Scale from user feedback**|Paweł Weichbroth et.al.|[2410.09534](http://arxiv.org/abs/2410.09534)|null|
 |**2024-10-12**|**Emphasis Rendering for Conversational Text-to-Speech with Multi-modal Multi-scale Context Modeling**|Rui Liu et.al.|[2410.09524](http://arxiv.org/abs/2410.09524)|null|
 |**2024-10-12**|**CollabEdit: Towards Non-destructive Collaborative Knowledge Editing**|Jiamu Zheng et.al.|[2410.09508](http://arxiv.org/abs/2410.09508)|null|
 |**2024-10-12**|**Towards Efficient Visual-Language Alignment of the Q-Former for Visual Reasoning Tasks**|Sungkyung Kim et.al.|[2410.09489](http://arxiv.org/abs/2410.09489)|**[link](https://github.com/attentionx/instructblip_peft)**|
@@ -564,7 +564,7 @@
 |**2024-10-20**|**Quality Prediction of AI Generated Images and Videos: Emerging Trends and Opportunities**|Abhijay Ghildyal et.al.|[2410.08534](http://arxiv.org/abs/2410.08534)|null|
 |**2024-10-11**|**VOVTrack: Exploring the Potentiality in Videos for Open-Vocabulary Object Tracking**|Zekun Qian et.al.|[2410.08529](http://arxiv.org/abs/2410.08529)|null|
 |**2024-10-11**|**Accelerated Distributed Stochastic Non-Convex Optimization over Time-Varying Directed Networks**|Yiyue Chen et.al.|[2410.08508](http://arxiv.org/abs/2410.08508)|null|
-|**2024-10-11**|**HorGait: Advancing Gait Recognition with Efficient High-Order Spatial Interactions in LiDAR Point Clouds**|Jiaxing Hao et.al.|[2410.08454](http://arxiv.org/abs/2410.08454)|null|
+|**2024-10-24**|**HorGait: A Hybrid Model for Accurate Gait Recognition in LiDAR Point Cloud Planar Projections**|Jiaxing Hao et.al.|[2410.08454](http://arxiv.org/abs/2410.08454)|null|
 |**2024-10-10**|**Optimizing YOLO Architectures for Optimal Road Damage Detection and Classification: A Comparative Study from YOLOv7 to YOLOv10**|Vung Pham et.al.|[2410.08409](http://arxiv.org/abs/2410.08409)|null|
 |**2024-10-19**|**Decoding Segregation: Navigating a century of segregation research across disciplines and introducing a bottom-up ontology**|Vini Netto et.al.|[2410.08374](http://arxiv.org/abs/2410.08374)|null|
 |**2024-10-10**|**Intellectual Property Blockchain Odyssey: Navigating Challenges and Seizing Opportunities**|Rabia Bajwa et.al.|[2410.08359](http://arxiv.org/abs/2410.08359)|null|
@@ -588,7 +588,7 @@
 |**2024-10-10**|**On the Convergence of (Stochastic) Gradient Descent for Kolmogorov--Arnold Networks**|Yihang Gao et.al.|[2410.08041](http://arxiv.org/abs/2410.08041)|null|
 |**2024-10-10**|**Pretraining Graph Transformers with Atom-in-a-Molecule Quantum Properties for Improved ADMET Modeling**|Alessio Fallani et.al.|[2410.08024](http://arxiv.org/abs/2410.08024)|**[link](https://github.com/aidd-msca/GraphQPT)**|
 |**2024-10-10**|**RegionGrasp: A Novel Task for Contact Region Controllable Hand Grasp Generation**|Yilin Wang et.al.|[2410.07995](http://arxiv.org/abs/2410.07995)|null|
-|**2024-10-10**|**MolMix: A Simple Yet Effective Baseline for Multimodal Molecular Representation Learning**|Andrei Manolache et.al.|[2410.07981](http://arxiv.org/abs/2410.07981)|null|
+|**2024-10-24**|**MolMix: A Simple Yet Effective Baseline for Multimodal Molecular Representation Learning**|Andrei Manolache et.al.|[2410.07981](http://arxiv.org/abs/2410.07981)|null|
 |**2024-10-09**|**Iterative Optimization Annotation Pipeline and ALSS-YOLO-Seg for Efficient Banana Plantation Segmentation in UAV Imagery**|Ang He et.al.|[2410.07955](http://arxiv.org/abs/2410.07955)|**[link](https://github.com/helloworlder8/computer_vision)**|
 |**2024-10-10**|**Deep Learning for Generalised Planning with Background Knowledge**|Dillon Z. Chen et.al.|[2410.07923](http://arxiv.org/abs/2410.07923)|null|
 |**2024-10-10**|**Understanding Spatio-Temporal Relations in Human-Object Interaction using Pyramid Graph Convolutional Network**|Hao Xing et.al.|[2410.07912](http://arxiv.org/abs/2410.07912)|null|
@@ -1586,7 +1586,7 @@
 |**2024-10-03**|**Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**|Jinwoo Go et.al.|[2409.09141](http://arxiv.org/abs/2409.09141)|null|
 |**2024-09-13**|**Neural Message Passing Induced by Energy-Constrained Diffusion**|Qitian Wu et.al.|[2409.09111](http://arxiv.org/abs/2409.09111)|null|
 
-<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241025>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
