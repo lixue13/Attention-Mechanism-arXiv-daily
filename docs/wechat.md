@@ -51,7 +51,7 @@
 - 2024-10-24, **SPEED++: A Multilingual Event Extraction Framework for Epidemic Prediction and Preparedness**, Tanmay Parekh et.al., Paper: [http://arxiv.org/abs/2410.18393](http://arxiv.org/abs/2410.18393)
 - 2024-10-24, **Integrating Canonical Neural Units and Multi-Scale Training for Handwritten Text Recognition**, Zi-Rui Wang et.al., Paper: [http://arxiv.org/abs/2410.18374](http://arxiv.org/abs/2410.18374)
 - 2024-10-24, **Multi-objective Optimization in CPU Design Space Exploration: Attention is All You Need**, Runzhen Xue et.al., Paper: [http://arxiv.org/abs/2410.18368](http://arxiv.org/abs/2410.18368)
-- 2024-10-24, **WAFFLE: Multi-Modal Model for Automated Front-End Development**, Shanchao Liang et.al., Paper: [http://arxiv.org/abs/2410.18362](http://arxiv.org/abs/2410.18362)
+- 2024-10-24, **WAFFLE: Multi-Modal Model for Automated Front-End Development**, Shanchao Liang et.al., Paper: [http://arxiv.org/abs/2410.18362](http://arxiv.org/abs/2410.18362), Code: **[https://github.com/lt-asset/Waffle](https://github.com/lt-asset/Waffle)**
 - 2024-10-24, **Assessing the Creativity of LLMs in Proposing Novel Solutions to Mathematical Problems**, Junyi Ye et.al., Paper: [http://arxiv.org/abs/2410.18336](http://arxiv.org/abs/2410.18336)
 - 2024-10-23, **NexusIndex: Integrating Advanced Vector Indexing and Multi-Model Embeddings for Robust Fake News Detection**, Solmaz Seyed Monir et.al., Paper: [http://arxiv.org/abs/2410.18294](http://arxiv.org/abs/2410.18294)
 - 2024-10-23, **Holographic Generalised Gukov-Witten Defects**, Pieter Bomans et.al., Paper: [http://arxiv.org/abs/2410.18172](http://arxiv.org/abs/2410.18172)
@@ -127,7 +127,7 @@
 - 2024-10-22, **Analyzing and Evaluating Correlation Measures in NLG Meta-Evaluation**, Mingqi Gao et.al., Paper: [http://arxiv.org/abs/2410.16834](http://arxiv.org/abs/2410.16834)
 - 2024-10-22, **Controllability and kinetic limit of spherical particles immersed in a viscous fluid**, Marta Zoppello et.al., Paper: [http://arxiv.org/abs/2410.16793](http://arxiv.org/abs/2410.16793)
 - 2024-10-22, **Recent development of magnetocaloric effect in Pyrochlore oxides**, Vinod Kumar Dwivedi et.al., Paper: [http://arxiv.org/abs/2410.16777](http://arxiv.org/abs/2410.16777)
-- 2024-10-22, **SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**, Jiaqi Chen et.al., Paper: [http://arxiv.org/abs/2410.16746](http://arxiv.org/abs/2410.16746)
+- 2024-10-22, **SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**, Jiaqi Chen et.al., Paper: [http://arxiv.org/abs/2410.16746](http://arxiv.org/abs/2410.16746), Code: **[https://github.com/typistchen/spikmamba](https://github.com/typistchen/spikmamba)**
 - 2024-10-22, **A Non-Conservative, Non-Local Approximation of the Burgers Equation**, Shyam Sundar Ghoshal et.al., Paper: [http://arxiv.org/abs/2410.16743](http://arxiv.org/abs/2410.16743)
 - 2024-10-22, **High-Order Associative Learning Based on Memristive Circuits for Efficient Learning**, Shengbo Wang et.al., Paper: [http://arxiv.org/abs/2410.16734](http://arxiv.org/abs/2410.16734)
 - 2024-10-22, **Progressive Compositionality In Text-to-Image Generative Models**, Xu Han et.al., Paper: [http://arxiv.org/abs/2410.16719](http://arxiv.org/abs/2410.16719)
@@ -200,7 +200,7 @@
 - 2024-10-21, **How to Find the Exact Pareto Front for Multi-Objective MDPs?**, Yining Li et.al., Paper: [http://arxiv.org/abs/2410.15557](http://arxiv.org/abs/2410.15557)
 - 2024-10-21, **A Dual Process VLA: Efficient Robotic Manipulation Leveraging VLM**, ByungOk Han et.al., Paper: [http://arxiv.org/abs/2410.15549](http://arxiv.org/abs/2410.15549)
 - 2024-10-20, **TrackMe:A Simple and Effective Multiple Object Tracking Annotation Tool**, Thinh Phan et.al., Paper: [http://arxiv.org/abs/2410.15518](http://arxiv.org/abs/2410.15518), Code: **[https://github.com/UARK-AICV/TrackGUI](https://github.com/UARK-AICV/TrackGUI)**
-- 2024-10-20, **SEA: State-Exchange Attention for High-Fidelity Physics-Based Transformers**, Parsa Esmati et.al., Paper: [http://arxiv.org/abs/2410.15495](http://arxiv.org/abs/2410.15495)
+- 2024-10-20, **SEA: State-Exchange Attention for High-Fidelity Physics-Based Transformers**, Parsa Esmati et.al., Paper: [http://arxiv.org/abs/2410.15495](http://arxiv.org/abs/2410.15495), Code: **[https://github.com/parsaesmati/sea](https://github.com/parsaesmati/sea)**
 - 2024-10-22, **Multi-Layer Feature Fusion with Cross-Channel Attention-Based U-Net for Kidney Tumor Segmentation**, Fnu Neha et.al., Paper: [http://arxiv.org/abs/2410.15472](http://arxiv.org/abs/2410.15472)
 - 2024-10-20, **Data Augmentation via Diffusion Model to Enhance AI Fairness**, Christina Hastings Blow et.al., Paper: [http://arxiv.org/abs/2410.15470](http://arxiv.org/abs/2410.15470)
 - 2024-10-20, **Heterogeneous Graph Reinforcement Learning for Dependency-aware Multi-task Allocation in Spatial Crowdsourcing**, Yong Zhao et.al., Paper: [http://arxiv.org/abs/2410.15449](http://arxiv.org/abs/2410.15449)
@@ -1000,7 +1000,7 @@
 - 2024-10-02, **Robust Imitation Learning for Mobile Manipulator Focusing on Task-Related Viewpoints and Regions**, Yutaro Ishida et.al., Paper: [http://arxiv.org/abs/2410.01292](http://arxiv.org/abs/2410.01292)
 - 2024-10-02, **A Control Barrier Function Candidate for Limited Field of View Sensors**, Biagio Trimarchi et.al., Paper: [http://arxiv.org/abs/2410.01277](http://arxiv.org/abs/2410.01277)
 - 2024-10-02, **Off-stoichiometry engineering of the electrical and optical properties of SrNbO $_3$ by oxide molecular beam epitaxy**, Jasnamol Palakkal et.al., Paper: [http://arxiv.org/abs/2410.01253](http://arxiv.org/abs/2410.01253)
-- 2024-10-02, **Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample**, Zhiwen Shao et.al., Paper: [http://arxiv.org/abs/2410.01251](http://arxiv.org/abs/2410.01251)
+- 2024-10-02, **Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample**, Zhiwen Shao et.al., Paper: [http://arxiv.org/abs/2410.01251](http://arxiv.org/abs/2410.01251), Code: **[https://github.com/zhiwenshao/ac2d](https://github.com/zhiwenshao/ac2d)**
 - 2024-10-07, **Perceptual Piercing: Human Visual Cue-based Object Detection in Low Visibility Conditions**, Ashutosh Kumar et.al., Paper: [http://arxiv.org/abs/2410.01225](http://arxiv.org/abs/2410.01225), Code: **[https://github.com/ashu1069/perceptual-piercing](https://github.com/ashu1069/perceptual-piercing)**
 - 2024-10-17, **Isolated zero-energy flat-bands and intrinsic magnetism in carbon monolayers**, Chaoyu He et.al., Paper: [http://arxiv.org/abs/2410.01142](http://arxiv.org/abs/2410.01142)
 - 2024-10-01, **nGPT: Normalized Transformer with Representation Learning on the Hypersphere**, Ilya Loshchilov et.al., Paper: [http://arxiv.org/abs/2410.01131](http://arxiv.org/abs/2410.01131)
