@@ -41,10 +41,10 @@
 |**2024-10-31**|**Promoting Reliable Knowledge about Climate Change: A Systematic Review of Effective Measures to Resist Manipulation on Social Media**|Aliaksandr Herasimenka et.al.|[2410.23814](http://arxiv.org/abs/2410.23814)|null|
 |**2024-10-31**|**One Sample Fits All: Approximating All Probabilistic Values Simultaneously and Efficiently**|Weida Li et.al.|[2410.23808](http://arxiv.org/abs/2410.23808)|null|
 |**2024-10-31**|**Human Action Recognition (HAR) Using Skeleton-based Quantum Spatial Temporal Relative Transformer Network: ST-RTR**|Faisal Mehmood et.al.|[2410.23806](http://arxiv.org/abs/2410.23806)|null|
-|**2024-10-31**|**EDT: An Efficient Diffusion Transformer Framework Inspired by Human-like Sketching**|Xinwang Chen et.al.|[2410.23788](http://arxiv.org/abs/2410.23788)|null|
-|**2024-10-31**|**In-Context LoRA for Diffusion Transformers**|Lianghua Huang et.al.|[2410.23775](http://arxiv.org/abs/2410.23775)|null|
-|**2024-10-31**|**Towards Generative Ray Path Sampling for Faster Point-to-Point Ray Tracing**|Jérome Eertmans et.al.|[2410.23773](http://arxiv.org/abs/2410.23773)|null|
-|**2024-10-31**|**Enhancing Chess Reinforcement Learning with Graph Representation**|Tomas Rigaux et.al.|[2410.23753](http://arxiv.org/abs/2410.23753)|null|
+|**2024-10-31**|**EDT: An Efficient Diffusion Transformer Framework Inspired by Human-like Sketching**|Xinwang Chen et.al.|[2410.23788](http://arxiv.org/abs/2410.23788)|**[link](https://github.com/xinwangchen/edt)**|
+|**2024-10-31**|**In-Context LoRA for Diffusion Transformers**|Lianghua Huang et.al.|[2410.23775](http://arxiv.org/abs/2410.23775)|**[link](https://github.com/ali-vilab/In-Context-LoRA)**|
+|**2024-10-31**|**Towards Generative Ray Path Sampling for Faster Point-to-Point Ray Tracing**|Jérome Eertmans et.al.|[2410.23773](http://arxiv.org/abs/2410.23773)|**[link](https://github.com/jeertmans/DiffeRT)**|
+|**2024-10-31**|**Enhancing Chess Reinforcement Learning with Graph Representation**|Tomas Rigaux et.al.|[2410.23753](http://arxiv.org/abs/2410.23753)|**[link](https://github.com/akulen/alphagateau)**|
 |**2024-10-31**|**LSEAttention is All You Need for Time Series Forecasting**|Dizhen Liang et.al.|[2410.23749](http://arxiv.org/abs/2410.23749)|null|
 |**2024-10-31**|**MLLA-UNet: Mamba-like Linear Attention in an Efficient U-Shape Model for Medical Image Segmentation**|Yufeng Jiang et.al.|[2410.23738](http://arxiv.org/abs/2410.23738)|null|
 |**2024-10-31**|**Parameterized TDOA: Instantaneous TDOA Estimation and Localization for Mobile Targets in a Time-Division Broadcast Positioning System**|Chenxin Tu et.al.|[2410.23695](http://arxiv.org/abs/2410.23695)|null|
@@ -54,7 +54,7 @@
 |**2024-10-31**|**Unearthing a Billion Telegram Posts about the 2024 U.S. Presidential Election: Development of a Public Dataset**|Leonardo Blas et.al.|[2410.23638](http://arxiv.org/abs/2410.23638)|null|
 |**2024-10-31**|**On Learning Multi-Modal Forgery Representation for Diffusion Generated Video Detection**|Xiufeng Song et.al.|[2410.23623](http://arxiv.org/abs/2410.23623)|null|
 |**2024-10-31**|**ETTFS: An Efficient Training Framework for Time-to-First-Spike Neuron**|Kaiwei Che et.al.|[2410.23619](http://arxiv.org/abs/2410.23619)|null|
-|**2024-10-31**|**On Positional Bias of Faithfulness for Long-form Summarization**|David Wan et.al.|[2410.23609](http://arxiv.org/abs/2410.23609)|null|
+|**2024-10-31**|**On Positional Bias of Faithfulness for Long-form Summarization**|David Wan et.al.|[2410.23609](http://arxiv.org/abs/2410.23609)|**[link](https://github.com/meetdavidwan/longformfact)**|
 |**2024-10-31**|**Context-Aware Token Selection and Packing for Enhanced Vision Transformer**|Tianyi Zhang et.al.|[2410.23608](http://arxiv.org/abs/2410.23608)|null|
 |**2024-10-31**|**An improved bound on the Hausdorff dimension of sticky Kakeya sets in $\mathbb{R}^4$**|Mukul Rai Choudhuri et.al.|[2410.23579](http://arxiv.org/abs/2410.23579)|null|
 |**2024-10-31**|**Giant Seebeck Effect in PEDOT Materials with Molecular Strain**|Yuki Osada et.al.|[2410.23573](http://arxiv.org/abs/2410.23573)|null|
@@ -62,7 +62,7 @@
 |**2024-10-30**|**Orbital-spin Locking and its Optical Signatures in Altermagnets**|Marc Vila et.al.|[2410.23513](http://arxiv.org/abs/2410.23513)|null|
 |**2024-10-30**|**Learning Lipschitz Operators with respect to Gaussian Measures with Near-Optimal Sample Complexity**|Ben Adcock et.al.|[2410.23440](http://arxiv.org/abs/2410.23440)|null|
 |**2024-10-30**|**EchoFM: Foundation Model for Generalizable Echocardiogram Analysis**|Sekeun Kim et.al.|[2410.23413](http://arxiv.org/abs/2410.23413)|null|
-|**2024-10-30**|**TPP-Gaze: Modelling Gaze Dynamics in Space and Time with Neural Temporal Point Processes**|Alessandro D'Amelio et.al.|[2410.23409](http://arxiv.org/abs/2410.23409)|null|
+|**2024-10-30**|**TPP-Gaze: Modelling Gaze Dynamics in Space and Time with Neural Temporal Point Processes**|Alessandro D'Amelio et.al.|[2410.23409](http://arxiv.org/abs/2410.23409)|**[link](https://github.com/phuselab/tppgaze)**|
 |**2024-10-30**|**Understanding Representation of Deep Equilibrium Models from Neural Collapse Perspective**|Haixiang sun et.al.|[2410.23391](http://arxiv.org/abs/2410.23391)|null|
 |**2024-10-30**|**Multilingual Vision-Language Pre-training for the Remote Sensing Domain**|João Daniel Silva et.al.|[2410.23370](http://arxiv.org/abs/2410.23370)|null|
 |**2024-10-30**|**MoLE: Enhancing Human-centric Text-to-image Diffusion via Mixture of Low-rank Experts**|Jie Zhu et.al.|[2410.23332](http://arxiv.org/abs/2410.23332)|null|
@@ -428,7 +428,7 @@
 |**2024-10-21**|**An Explainable Contrastive-based Dilated Convolutional Network with Transformer for Pediatric Pneumonia Detection**|Chandravardhan Singh Raghaw et.al.|[2410.16143](http://arxiv.org/abs/2410.16143)|null|
 |**2024-10-22**|**ExDBN: Exact learning of Dynamic Bayesian Networks**|Pavel Rytir et.al.|[2410.16100](http://arxiv.org/abs/2410.16100)|null|
 |**2024-10-21**|**LMHaze: Intensity-aware Image Dehazing with a Large-scale Multi-intensity Real Haze Dataset**|Ruikun Zhang et.al.|[2410.16095](http://arxiv.org/abs/2410.16095)|**[link](https://github.com/wangzrk/LMHaze)**|
-|**2024-10-22**|**CartesianMoE: Boosting Knowledge Sharing among Experts via Cartesian Product Routing in Mixture-of-Experts**|Zhenpeng Su et.al.|[2410.16077](http://arxiv.org/abs/2410.16077)|null|
+|**2024-10-22**|**CartesianMoE: Boosting Knowledge Sharing among Experts via Cartesian Product Routing in Mixture-of-Experts**|Zhenpeng Su et.al.|[2410.16077](http://arxiv.org/abs/2410.16077)|**[link](https://github.com/suu990901/CartesianMoE)**|
 |**2024-10-21**|**Accelerating Discovery of Extreme Lattice Thermal Conductivity by Crystal Attention Graph Neural Network (CATGNN) Using Chemical Bonding Intuitive Descriptors**|Mohammed Al-Fahdi et.al.|[2410.16066](http://arxiv.org/abs/2410.16066)|null|
 |**2024-10-21**|**Multi-Level Speaker Representation for Target Speaker Extraction**|Ke Zhang et.al.|[2410.16059](http://arxiv.org/abs/2410.16059)|**[link](https://github.com/wenet-e2e/wesep)**|
 |**2024-10-21**|**Shorter Is Different: Characterizing the Dynamics of Short-Form Video Platforms**|Zhilong Chen et.al.|[2410.16058](http://arxiv.org/abs/2410.16058)|null|
