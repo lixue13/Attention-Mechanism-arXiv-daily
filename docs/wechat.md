@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.11.02
+> Updated on 2024.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -75,7 +75,7 @@
 - 2024-10-30, **Far-right party influence on polarization dynamics in electoral campaign**, Eva Rifà et.al., Paper: [http://arxiv.org/abs/2410.23177](http://arxiv.org/abs/2410.23177)
 - 2024-10-30, **On the fundamental limitations of multiproposal Markov chain Monte Carlo algorithms**, Francesco Pozza et.al., Paper: [http://arxiv.org/abs/2410.23174](http://arxiv.org/abs/2410.23174)
 - 2024-10-30, **TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters**, Haiyang Wang et.al., Paper: [http://arxiv.org/abs/2410.23168](http://arxiv.org/abs/2410.23168), Code: **[https://github.com/haiyang-w/tokenformer](https://github.com/haiyang-w/tokenformer)**
-- 2024-10-30, **FlexTSF: A Universal Forecasting Model for Time Series with Variable Regularities**, Jingge Xiao et.al., Paper: [http://arxiv.org/abs/2410.23160](http://arxiv.org/abs/2410.23160)
+- 2024-10-30, **FlexTSF: A Universal Forecasting Model for Time Series with Variable Regularities**, Jingge Xiao et.al., Paper: [http://arxiv.org/abs/2410.23160](http://arxiv.org/abs/2410.23160), Code: **[https://github.com/jingge326/flextsf](https://github.com/jingge326/flextsf)**
 - 2024-10-30, **CORAL: Benchmarking Multi-turn Conversational Retrieval-Augmentation Generation**, Yiruo Cheng et.al., Paper: [http://arxiv.org/abs/2410.23090](http://arxiv.org/abs/2410.23090), Code: **[https://github.com/Ariya12138/CORAL](https://github.com/Ariya12138/CORAL)**
 - 2024-10-30, **General Bayesian quantile regression for counts via generative modeling**, Yuta Yamauchi et.al., Paper: [http://arxiv.org/abs/2410.23081](http://arxiv.org/abs/2410.23081)
 - 2024-10-30, **Don't Just Pay Attention, PLANT It: Transfer L2R Models to Fine-tune Attention in Extreme Multi-Label Text Classification**, Debjyoti Saharoy et.al., Paper: [http://arxiv.org/abs/2410.23066](http://arxiv.org/abs/2410.23066)
@@ -1901,7 +1901,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241103>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
