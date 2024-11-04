@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.11.03
+> Updated on 2024.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,7 +15,7 @@
 
 ## Attention
 
-- 2024-10-31, **DELTA: Dense Efficient Long-range 3D Tracking for any video**, Tuan Duc Ngo et.al., Paper: [http://arxiv.org/abs/2410.24211](http://arxiv.org/abs/2410.24211)
+- 2024-11-01, **DELTA: Dense Efficient Long-range 3D Tracking for any video**, Tuan Duc Ngo et.al., Paper: [http://arxiv.org/abs/2410.24211](http://arxiv.org/abs/2410.24211)
 - 2024-10-31, **Length-Induced Embedding Collapse in Transformer-based Models**, Yuqi Zhou et.al., Paper: [http://arxiv.org/abs/2410.24200](http://arxiv.org/abs/2410.24200)
 - 2024-10-31, **DC-Spin: A Speaker-invariant Speech Tokenizer for Spoken Language Models**, Heng-Jui Chang et.al., Paper: [http://arxiv.org/abs/2410.24177](http://arxiv.org/abs/2410.24177)
 - 2024-10-31, **A Multiphysics Analysis and Investigation of Soft Magnetics Effect on IPMSM: Case Study Dynamometer**, Ali Amini et.al., Paper: [http://arxiv.org/abs/2410.24172](http://arxiv.org/abs/2410.24172)
@@ -38,12 +38,12 @@
 - 2024-10-31, **Weight decay induces low-rank attention layers**, Seijin Kobayashi et.al., Paper: [http://arxiv.org/abs/2410.23819](http://arxiv.org/abs/2410.23819)
 - 2024-10-31, **Promoting Reliable Knowledge about Climate Change: A Systematic Review of Effective Measures to Resist Manipulation on Social Media**, Aliaksandr Herasimenka et.al., Paper: [http://arxiv.org/abs/2410.23814](http://arxiv.org/abs/2410.23814)
 - 2024-10-31, **One Sample Fits All: Approximating All Probabilistic Values Simultaneously and Efficiently**, Weida Li et.al., Paper: [http://arxiv.org/abs/2410.23808](http://arxiv.org/abs/2410.23808)
-- 2024-10-31, **Human Action Recognition (HAR) Using Skeleton-based Quantum Spatial Temporal Relative Transformer Network: ST-RTR**, Faisal Mehmood et.al., Paper: [http://arxiv.org/abs/2410.23806](http://arxiv.org/abs/2410.23806)
+- 2024-11-01, **Human Action Recognition (HAR) Using Skeleton-based Spatial Temporal Relative Transformer Network: ST-RTR**, Faisal Mehmood et.al., Paper: [http://arxiv.org/abs/2410.23806](http://arxiv.org/abs/2410.23806)
 - 2024-10-31, **EDT: An Efficient Diffusion Transformer Framework Inspired by Human-like Sketching**, Xinwang Chen et.al., Paper: [http://arxiv.org/abs/2410.23788](http://arxiv.org/abs/2410.23788), Code: **[https://github.com/xinwangchen/edt](https://github.com/xinwangchen/edt)**
-- 2024-10-31, **In-Context LoRA for Diffusion Transformers**, Lianghua Huang et.al., Paper: [http://arxiv.org/abs/2410.23775](http://arxiv.org/abs/2410.23775), Code: **[https://github.com/ali-vilab/In-Context-LoRA](https://github.com/ali-vilab/In-Context-LoRA)**
+- 2024-11-01, **In-Context LoRA for Diffusion Transformers**, Lianghua Huang et.al., Paper: [http://arxiv.org/abs/2410.23775](http://arxiv.org/abs/2410.23775), Code: **[https://github.com/ali-vilab/In-Context-LoRA](https://github.com/ali-vilab/In-Context-LoRA)**
 - 2024-10-31, **Towards Generative Ray Path Sampling for Faster Point-to-Point Ray Tracing**, Jérome Eertmans et.al., Paper: [http://arxiv.org/abs/2410.23773](http://arxiv.org/abs/2410.23773), Code: **[https://github.com/jeertmans/DiffeRT](https://github.com/jeertmans/DiffeRT)**
 - 2024-10-31, **Enhancing Chess Reinforcement Learning with Graph Representation**, Tomas Rigaux et.al., Paper: [http://arxiv.org/abs/2410.23753](http://arxiv.org/abs/2410.23753), Code: **[https://github.com/akulen/alphagateau](https://github.com/akulen/alphagateau)**
-- 2024-10-31, **LSEAttention is All You Need for Time Series Forecasting**, Dizhen Liang et.al., Paper: [http://arxiv.org/abs/2410.23749](http://arxiv.org/abs/2410.23749)
+- 2024-11-01, **LSEAttention is All You Need for Time Series Forecasting**, Dizhen Liang et.al., Paper: [http://arxiv.org/abs/2410.23749](http://arxiv.org/abs/2410.23749)
 - 2024-10-31, **MLLA-UNet: Mamba-like Linear Attention in an Efficient U-Shape Model for Medical Image Segmentation**, Yufeng Jiang et.al., Paper: [http://arxiv.org/abs/2410.23738](http://arxiv.org/abs/2410.23738)
 - 2024-10-31, **Parameterized TDOA: Instantaneous TDOA Estimation and Localization for Mobile Targets in a Time-Division Broadcast Positioning System**, Chenxin Tu et.al., Paper: [http://arxiv.org/abs/2410.23695](http://arxiv.org/abs/2410.23695)
 - 2024-10-31, **Polarization-dependent observables in $H\to \ell^{+}\ell^{-} γ$ in the SM**, Usman Hasan et.al., Paper: [http://arxiv.org/abs/2410.23685](http://arxiv.org/abs/2410.23685)
@@ -55,7 +55,7 @@
 - 2024-10-31, **On Positional Bias of Faithfulness for Long-form Summarization**, David Wan et.al., Paper: [http://arxiv.org/abs/2410.23609](http://arxiv.org/abs/2410.23609), Code: **[https://github.com/meetdavidwan/longformfact](https://github.com/meetdavidwan/longformfact)**
 - 2024-10-31, **Context-Aware Token Selection and Packing for Enhanced Vision Transformer**, Tianyi Zhang et.al., Paper: [http://arxiv.org/abs/2410.23608](http://arxiv.org/abs/2410.23608)
 - 2024-10-31, **An improved bound on the Hausdorff dimension of sticky Kakeya sets in $\mathbb{R}^4$**, Mukul Rai Choudhuri et.al., Paper: [http://arxiv.org/abs/2410.23579](http://arxiv.org/abs/2410.23579)
-- 2024-10-31, **Giant Seebeck Effect in PEDOT Materials with Molecular Strain**, Yuki Osada et.al., Paper: [http://arxiv.org/abs/2410.23573](http://arxiv.org/abs/2410.23573)
+- 2024-11-01, **Giant Seebeck Effect in PEDOT Materials with Molecular Strain**, Yuki Osada et.al., Paper: [http://arxiv.org/abs/2410.23573](http://arxiv.org/abs/2410.23573)
 - 2024-10-31, **Phrase Decoupling Cross-Modal Hierarchical Matching and Progressive Position Correction for Visual Grounding**, Minghong Xie et.al., Paper: [http://arxiv.org/abs/2410.23570](http://arxiv.org/abs/2410.23570), Code: **[https://github.com/X7J92/VGNet](https://github.com/X7J92/VGNet)**
 - 2024-10-30, **Orbital-spin Locking and its Optical Signatures in Altermagnets**, Marc Vila et.al., Paper: [http://arxiv.org/abs/2410.23513](http://arxiv.org/abs/2410.23513)
 - 2024-10-30, **Learning Lipschitz Operators with respect to Gaussian Measures with Near-Optimal Sample Complexity**, Ben Adcock et.al., Paper: [http://arxiv.org/abs/2410.23440](http://arxiv.org/abs/2410.23440)
@@ -226,12 +226,12 @@
 - 2024-10-27, **Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**, Chongxiao Liu et.al., Paper: [http://arxiv.org/abs/2410.20546](http://arxiv.org/abs/2410.20546), Code: **[https://github.com/idiosyncracies/Sebica](https://github.com/idiosyncracies/Sebica)**
 - 2024-10-27, **Automatic Estimation of Singing Voice Musical Dynamics**, Jyoti Narang et.al., Paper: [http://arxiv.org/abs/2410.20540](http://arxiv.org/abs/2410.20540), Code: **[https://github.com/MTG/SingWithExpressions](https://github.com/MTG/SingWithExpressions)**
 - 2024-10-27, **Is Moral Self-correction An Innate Capability of Large Language Models? A Mechanistic Analysis to Self-correction**, Zimo Qi et.al., Paper: [http://arxiv.org/abs/2410.20513](http://arxiv.org/abs/2410.20513)
-- 2024-10-27, **GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation**, Phillip Y. Lee et.al., Paper: [http://arxiv.org/abs/2410.20474](http://arxiv.org/abs/2410.20474)
+- 2024-11-01, **GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation**, Phillip Y. Lee et.al., Paper: [http://arxiv.org/abs/2410.20474](http://arxiv.org/abs/2410.20474)
 - 2024-10-27, **TEAFormers: TEnsor-Augmented Transformers for Multi-Dimensional Time Series Forecasting**, Linghang Kong et.al., Paper: [http://arxiv.org/abs/2410.20439](http://arxiv.org/abs/2410.20439)
 - 2024-10-27, **ThunderKittens: Simple, Fast, and Adorable AI Kernels**, Benjamin F. Spector et.al., Paper: [http://arxiv.org/abs/2410.20399](http://arxiv.org/abs/2410.20399), Code: **[https://github.com/HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens)**
 - 2024-10-27, **Depth Attention for Robust RGB Tracking**, Yu Liu et.al., Paper: [http://arxiv.org/abs/2410.20395](http://arxiv.org/abs/2410.20395), Code: **[https://github.com/liuyuml/depth-attention](https://github.com/liuyuml/depth-attention)**
 - 2024-10-27, **Open-Vocabulary Object Detection via Language Hierarchy**, Jiaxing Huang et.al., Paper: [http://arxiv.org/abs/2410.20371](http://arxiv.org/abs/2410.20371)
-- 2024-10-27, **RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior**, Mingjiang Liang et.al., Paper: [http://arxiv.org/abs/2410.20358](http://arxiv.org/abs/2410.20358)
+- 2024-11-01, **RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior**, Mingjiang Liang et.al., Paper: [http://arxiv.org/abs/2410.20358](http://arxiv.org/abs/2410.20358)
 - 2024-10-27, **Leveraging Auxiliary Task Relevance for Enhanced Industrial Fault Diagnosis through Curriculum Meta-learning**, Jinze Wang et.al., Paper: [http://arxiv.org/abs/2410.20351](http://arxiv.org/abs/2410.20351)
 - 2024-10-27, **UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration**, Runshi Zhang et.al., Paper: [http://arxiv.org/abs/2410.20348](http://arxiv.org/abs/2410.20348), Code: **[https://github.com/runshi-zhang/utsrmorph](https://github.com/runshi-zhang/utsrmorph)**
 - 2024-10-27, **ProtSCAPE: Mapping the landscape of protein conformations in molecular dynamics**, Siddharth Viswanath et.al., Paper: [http://arxiv.org/abs/2410.20317](http://arxiv.org/abs/2410.20317), Code: **[https://github.com/KrishnaswamyLab/ProtSCAPE](https://github.com/KrishnaswamyLab/ProtSCAPE)**
@@ -253,7 +253,7 @@
 - 2024-10-25, **Enhancing Battery Storage Energy Arbitrage with Deep Reinforcement Learning and Time-Series Forecasting**, Manuel Sage et.al., Paper: [http://arxiv.org/abs/2410.20005](http://arxiv.org/abs/2410.20005), Code: **[https://github.com/masa2203/battery_arbitrage_with_drl](https://github.com/masa2203/battery_arbitrage_with_drl)**
 - 2024-10-25, **Multi-Class Abnormality Classification Task in Video Capsule Endoscopy**, Dev Rishi Verma et.al., Paper: [http://arxiv.org/abs/2410.19973](http://arxiv.org/abs/2410.19973)
 - 2024-10-25, **RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction**, Tanqiu Jiang et.al., Paper: [http://arxiv.org/abs/2410.19937](http://arxiv.org/abs/2410.19937)
-- 2024-10-25, **Provable optimal transport with transformers: The essence of depth and prompt engineering**, Hadi Daneshmand et.al., Paper: [http://arxiv.org/abs/2410.19931](http://arxiv.org/abs/2410.19931), Code: **[https://github.com/hadidaneshmand/ot-transformer](https://github.com/hadidaneshmand/ot-transformer)**
+- 2024-11-01, **Provable optimal transport with transformers: The essence of depth and prompt engineering**, Hadi Daneshmand et.al., Paper: [http://arxiv.org/abs/2410.19931](http://arxiv.org/abs/2410.19931), Code: **[https://github.com/hadidaneshmand/ot-transformer](https://github.com/hadidaneshmand/ot-transformer)**
 - 2024-10-25, **Exploring Self-Supervised Learning with U-Net Masked Autoencoders and EfficientNet B7 for Improved Classification**, Vamshi Krishna Kancharla et.al., Paper: [http://arxiv.org/abs/2410.19899](http://arxiv.org/abs/2410.19899)
 - 2024-10-25, **FLAASH: Flow-Attention Adaptive Semantic Hierarchical Fusion for Multi-Modal Tobacco Content Analysis**, Naga VS Raviteja Chappa et.al., Paper: [http://arxiv.org/abs/2410.19896](http://arxiv.org/abs/2410.19896)
 - 2024-10-24, **Causal Order Discovery based on Monotonic SCMs**, Ali Izadi et.al., Paper: [http://arxiv.org/abs/2410.19870](http://arxiv.org/abs/2410.19870)
@@ -281,7 +281,7 @@
 - 2024-10-25, **Two are better than one: Context window extension with multi-grained self-injection**, Wei Han et.al., Paper: [http://arxiv.org/abs/2410.19318](http://arxiv.org/abs/2410.19318), Code: **[https://github.com/clement25/sharedllm](https://github.com/clement25/sharedllm)**
 - 2024-10-28, **MambaCPU: Enhanced Correlation Mining with State Space Models for CPU Performance Prediction**, Xiaoman Liu et.al., Paper: [http://arxiv.org/abs/2410.19297](http://arxiv.org/abs/2410.19297), Code: **[https://github.com/xiaoman-liu/mac](https://github.com/xiaoman-liu/mac)**
 - 2024-10-28, **Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning**, Yu Fu et.al., Paper: [http://arxiv.org/abs/2410.19258](http://arxiv.org/abs/2410.19258)
-- 2024-10-24, **TEAM: Topological Evolution-aware Framework for Traffic Forecasting--Extended Version**, Duc Kieu et.al., Paper: [http://arxiv.org/abs/2410.19192](http://arxiv.org/abs/2410.19192), Code: **[https://github.com/kvmduc/TEAM-topo-evo-traffic-forecasting](https://github.com/kvmduc/TEAM-topo-evo-traffic-forecasting)**
+- 2024-11-01, **TEAM: Topological Evolution-aware Framework for Traffic Forecasting--Extended Version**, Duc Kieu et.al., Paper: [http://arxiv.org/abs/2410.19192](http://arxiv.org/abs/2410.19192), Code: **[https://github.com/kvmduc/TEAM-topo-evo-traffic-forecasting](https://github.com/kvmduc/TEAM-topo-evo-traffic-forecasting)**
 - 2024-10-24, **DCT-HistoTransformer: Efficient Lightweight Vision Transformer with DCT Integration for histopathological image analysis**, Mahtab Ranjbar et.al., Paper: [http://arxiv.org/abs/2410.19166](http://arxiv.org/abs/2410.19166)
 - 2024-10-24, **Fairness and Efficiency in Online Class Matching**, MohammadTaghi Hajiaghayi et.al., Paper: [http://arxiv.org/abs/2410.19163](http://arxiv.org/abs/2410.19163)
 - 2024-10-24, **Retrieving Implicit and Explicit Emotional Events Using Large Language Models**, Guimin Hu et.al., Paper: [http://arxiv.org/abs/2410.19128](http://arxiv.org/abs/2410.19128)
@@ -1901,7 +1901,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20241103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
