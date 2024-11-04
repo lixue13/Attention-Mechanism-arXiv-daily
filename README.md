@@ -754,7 +754,7 @@
 |**2024-10-14**|**Robust Gradient Descent for Phase Retrieval**|Alex Buna et.al.|[2410.10623](http://arxiv.org/abs/2410.10623)|null|
 |**2024-10-29**|**Lambda-Skip Connections: the architectural component that prevents Rank Collapse**|Federico Arangath Joseph et.al.|[2410.10609](http://arxiv.org/abs/2410.10609)|null|
 |**2024-10-14**|**Development of a 3D virtual world tool for sustainable energy education**|Marta Guerra-Mota et.al.|[2410.10586](http://arxiv.org/abs/2410.10586)|null|
-|**2024-10-14**|**Queryable Prototype Multiple Instance Learning with Vision-Language Models for Incremental Whole Slide Image Classification**|Jiaxiang Gou et.al.|[2410.10573](http://arxiv.org/abs/2410.10573)|null|
+|**2024-10-14**|**Queryable Prototype Multiple Instance Learning with Vision-Language Models for Incremental Whole Slide Image Classification**|Jiaxiang Gou et.al.|[2410.10573](http://arxiv.org/abs/2410.10573)|**[link](https://github.com/can-can-ya/QPMIL-VL)**|
 |**2024-10-14**|**Hybrid Transformer for Early Alzheimer's Detection: Integration of Handwriting-Based 2D Images and 1D Signal Features**|Changqing Gong et.al.|[2410.10547](http://arxiv.org/abs/2410.10547)|null|
 |**2024-10-14**|**Transparent Networks for Multivariate Time Series**|Minkyu Kim et.al.|[2410.10535](http://arxiv.org/abs/2410.10535)|**[link](https://github.com/gim4855744/gatsm)**|
 |**2024-10-14**|**Vision-guided and Mask-enhanced Adaptive Denoising for Prompt-based Image Editing**|Kejie Wang et.al.|[2410.10496](http://arxiv.org/abs/2410.10496)|null|
@@ -828,7 +828,7 @@
 |**2024-10-12**|**Bi-temporal Gaussian Feature Dependency Guided Change Detection in Remote Sensing Images**|Yi Xiao et.al.|[2410.09539](http://arxiv.org/abs/2410.09539)|null|
 |**2024-10-24**|**SUS-Lib: An automated tool for usability evaluation based on the Software Usability Scale from user feedback**|Paweł Weichbroth et.al.|[2410.09534](http://arxiv.org/abs/2410.09534)|null|
 |**2024-10-12**|**Emphasis Rendering for Conversational Text-to-Speech with Multi-modal Multi-scale Context Modeling**|Rui Liu et.al.|[2410.09524](http://arxiv.org/abs/2410.09524)|null|
-|**2024-10-12**|**CollabEdit: Towards Non-destructive Collaborative Knowledge Editing**|Jiamu Zheng et.al.|[2410.09508](http://arxiv.org/abs/2410.09508)|null|
+|**2024-10-12**|**CollabEdit: Towards Non-destructive Collaborative Knowledge Editing**|Jiamu Zheng et.al.|[2410.09508](http://arxiv.org/abs/2410.09508)|**[link](https://github.com/LINs-lab/CollabEdit)**|
 |**2024-10-12**|**Towards Efficient Visual-Language Alignment of the Q-Former for Visual Reasoning Tasks**|Sungkyung Kim et.al.|[2410.09489](http://arxiv.org/abs/2410.09489)|**[link](https://github.com/attentionx/instructblip_peft)**|
 |**2024-10-12**|**Exploring Channel Distinguishability in Local Neighborhoods of the Model Space in Quantum Neural Networks**|Sabrina Herbst et.al.|[2410.09470](http://arxiv.org/abs/2410.09470)|**[link](https://github.com/sabrinaherbst/qnn_local_neighborhood)**|
 |**2024-10-12**|**Power-Softmax: Towards Secure LLM Inference over Encrypted Data**|Itamar Zimerman et.al.|[2410.09457](http://arxiv.org/abs/2410.09457)|null|
