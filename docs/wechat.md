@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.11.08
+> Updated on 2024.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@
 - 2024-11-07, **Si/SiO $_\text{2}$ MOSFET Reliability Physics: From Four-State Model to All-State Model**, Xinjing Guo et.al., Paper: [http://arxiv.org/abs/2411.04823](http://arxiv.org/abs/2411.04823)
 - 2024-11-07, **Enhancing Investment Analysis: Optimizing AI-Agent Collaboration in Financial Research**, Xuewen Han et.al., Paper: [http://arxiv.org/abs/2411.04788](http://arxiv.org/abs/2411.04788), Code: **[https://github.com/ai4finance-foundation/finrobot](https://github.com/ai4finance-foundation/finrobot)**
 - 2024-11-07, **Conceptualization and Quantitative study of Aesthetic and Affective Perception of Pictures in Physics Education**, Tatjana Zähringer et.al., Paper: [http://arxiv.org/abs/2411.04779](http://arxiv.org/abs/2411.04779)
-- 2024-11-07, **Attention Masks Help Adversarial Attacks to Bypass Safety Detectors**, Yunfan Shi et.al., Paper: [http://arxiv.org/abs/2411.04772](http://arxiv.org/abs/2411.04772)
+- 2024-11-07, **Attention Masks Help Adversarial Attacks to Bypass Safety Detectors**, Yunfan Shi et.al., Paper: [http://arxiv.org/abs/2411.04772](http://arxiv.org/abs/2411.04772), Code: **[https://github.com/FrankShi9/Attention-Mask-Attack](https://github.com/FrankShi9/Attention-Mask-Attack)**
 - 2024-11-07, **SpectraFM: Tuning into Stellar Foundation Models**, Nolan Koblischke et.al., Paper: [http://arxiv.org/abs/2411.04750](http://arxiv.org/abs/2411.04750)
 - 2024-11-07, **Equivariant Graph Attention Networks with Structural Motifs for Predicting Cell Line-Specific Synergistic Drug Combinations**, Zachary Schwehr et.al., Paper: [http://arxiv.org/abs/2411.04747](http://arxiv.org/abs/2411.04747), Code: **[https://github.com/wetothemoon/egat_drugsynergy](https://github.com/wetothemoon/egat_drugsynergy)**
 - 2024-11-07, **Taming Rectified Flow for Inversion and Editing**, Jiangshan Wang et.al., Paper: [http://arxiv.org/abs/2411.04746](http://arxiv.org/abs/2411.04746), Code: **[https://github.com/wangjiangshan0725/rf-solver-edit](https://github.com/wangjiangshan0725/rf-solver-edit)**
@@ -2139,7 +2139,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20241108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241109>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

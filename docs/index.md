@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.08
+## Updated on 2024.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -26,7 +26,7 @@ layout: default
 |**2024-11-07**|**Si/SiO $_\text{2}$ MOSFET Reliability Physics: From Four-State Model to All-State Model**|Xinjing Guo et.al.|[2411.04823](http://arxiv.org/abs/2411.04823)|null|
 |**2024-11-07**|**Enhancing Investment Analysis: Optimizing AI-Agent Collaboration in Financial Research**|Xuewen Han et.al.|[2411.04788](http://arxiv.org/abs/2411.04788)|**[link](https://github.com/ai4finance-foundation/finrobot)**|
 |**2024-11-07**|**Conceptualization and Quantitative study of Aesthetic and Affective Perception of Pictures in Physics Education**|Tatjana Zähringer et.al.|[2411.04779](http://arxiv.org/abs/2411.04779)|null|
-|**2024-11-07**|**Attention Masks Help Adversarial Attacks to Bypass Safety Detectors**|Yunfan Shi et.al.|[2411.04772](http://arxiv.org/abs/2411.04772)|null|
+|**2024-11-07**|**Attention Masks Help Adversarial Attacks to Bypass Safety Detectors**|Yunfan Shi et.al.|[2411.04772](http://arxiv.org/abs/2411.04772)|**[link](https://github.com/FrankShi9/Attention-Mask-Attack)**|
 |**2024-11-07**|**SpectraFM: Tuning into Stellar Foundation Models**|Nolan Koblischke et.al.|[2411.04750](http://arxiv.org/abs/2411.04750)|null|
 |**2024-11-07**|**Equivariant Graph Attention Networks with Structural Motifs for Predicting Cell Line-Specific Synergistic Drug Combinations**|Zachary Schwehr et.al.|[2411.04747](http://arxiv.org/abs/2411.04747)|**[link](https://github.com/wetothemoon/egat_drugsynergy)**|
 |**2024-11-07**|**Taming Rectified Flow for Inversion and Editing**|Jiangshan Wang et.al.|[2411.04746](http://arxiv.org/abs/2411.04746)|**[link](https://github.com/wangjiangshan0725/rf-solver-edit)**|
