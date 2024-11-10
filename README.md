@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.09
+## Updated on 2024.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -125,7 +125,7 @@
 |**2024-11-04**|**Pseudo-Probability Unlearning: Towards Efficient and Privacy-Preserving Machine Unlearning**|Zihao Zhao et.al.|[2411.02622](http://arxiv.org/abs/2411.02622)|null|
 |**2024-11-04**|**Enhancing Multiple Dimensions of Trustworthiness in LLMs via Sparse Activation Control**|Yuxin Xiao et.al.|[2411.02461](http://arxiv.org/abs/2411.02461)|null|
 |**2024-11-07**|**Adaptive Caching for Faster Video Generation with Diffusion Transformers**|Kumara Kahatapitiya et.al.|[2411.02397](http://arxiv.org/abs/2411.02397)|null|
-|**2024-11-04**|**Training-free Regional Prompting for Diffusion Transformers**|Anthony Chen et.al.|[2411.02395](http://arxiv.org/abs/2411.02395)|**[link](https://github.com/antonioo-c/regional-prompting-flux)**|
+|**2024-11-04**|**Training-free Regional Prompting for Diffusion Transformers**|Anthony Chen et.al.|[2411.02395](http://arxiv.org/abs/2411.02395)|**[link](https://github.com/instantX-research/Regional-Prompting-FLUX)**|
 |**2024-11-04**|**Machine learning identification of maternal inflammatory response and histologic choroamnionitis from placental membrane whole slide images**|Abhishek Sharma et.al.|[2411.02354](http://arxiv.org/abs/2411.02354)|null|
 |**2024-11-04**|**Federated GNNs for EEG-Based Stroke Assessment**|Andrea Protani et.al.|[2411.02286](http://arxiv.org/abs/2411.02286)|null|
 |**2024-11-04**|**Targeted Learning for Variable Importance**|Xiaohan Wang et.al.|[2411.02221](http://arxiv.org/abs/2411.02221)|null|
@@ -301,7 +301,7 @@
 |**2024-10-30**|**Learning Lipschitz Operators with respect to Gaussian Measures with Near-Optimal Sample Complexity**|Ben Adcock et.al.|[2410.23440](http://arxiv.org/abs/2410.23440)|null|
 |**2024-10-30**|**EchoFM: Foundation Model for Generalizable Echocardiogram Analysis**|Sekeun Kim et.al.|[2410.23413](http://arxiv.org/abs/2410.23413)|null|
 |**2024-10-30**|**TPP-Gaze: Modelling Gaze Dynamics in Space and Time with Neural Temporal Point Processes**|Alessandro D'Amelio et.al.|[2410.23409](http://arxiv.org/abs/2410.23409)|**[link](https://github.com/phuselab/tppgaze)**|
-|**2024-10-30**|**Understanding Representation of Deep Equilibrium Models from Neural Collapse Perspective**|Haixiang sun et.al.|[2410.23391](http://arxiv.org/abs/2410.23391)|null|
+|**2024-10-30**|**Understanding Representation of Deep Equilibrium Models from Neural Collapse Perspective**|Haixiang Sun et.al.|[2410.23391](http://arxiv.org/abs/2410.23391)|null|
 |**2024-10-30**|**Multilingual Vision-Language Pre-training for the Remote Sensing Domain**|João Daniel Silva et.al.|[2410.23370](http://arxiv.org/abs/2410.23370)|null|
 |**2024-10-30**|**MoLE: Enhancing Human-centric Text-to-image Diffusion via Mixture of Low-rank Experts**|Jie Zhu et.al.|[2410.23332](http://arxiv.org/abs/2410.23332)|null|
 |**2024-10-30**|**CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP**|Tianyu Yang et.al.|[2410.23330](http://arxiv.org/abs/2410.23330)|null|
@@ -2141,7 +2141,7 @@
 |**2024-10-03**|**Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**|Jinwoo Go et.al.|[2409.09141](http://arxiv.org/abs/2409.09141)|null|
 |**2024-09-13**|**Neural Message Passing Induced by Energy-Constrained Diffusion**|Qitian Wu et.al.|[2409.09111](http://arxiv.org/abs/2409.09111)|null|
 
-<p align=right>(<a href=#updated-on-20241109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241110>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
