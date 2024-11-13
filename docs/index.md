@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -52,7 +52,7 @@ layout: default
 |**2024-11-10**|**CityGuessr: City-Level Video Geo-Localization on a Global Scale**|Parth Parag Kulkarni et.al.|[2411.06344](http://arxiv.org/abs/2411.06344)|**[link](https://github.com/parthpk/cityguessr)**|
 |**2024-11-10**|**CRTRE: Causal Rule Generation with Target Trial Emulation Framework**|Junda Wang et.al.|[2411.06338](http://arxiv.org/abs/2411.06338)|null|
 |**2024-11-10**|**Monitoring-feedback induced entanglement relaxations in a tilted free fermionic chain**|Xuyang Huang et.al.|[2411.06332](http://arxiv.org/abs/2411.06332)|null|
-|**2024-11-09**|**Adaptive Aspect Ratios with Patch-Mixup-ViT-based Vehicle ReID**|Mei Qiu et.al.|[2411.06297](http://arxiv.org/abs/2411.06297)|null|
+|**2024-11-09**|**Adaptive Aspect Ratios with Patch-Mixup-ViT-based Vehicle ReID**|Mei Qiu et.al.|[2411.06297](http://arxiv.org/abs/2411.06297)|**[link](https://github.com/qiumei1101/adaptive_ar_pm_transreid)**|
 |**2024-11-09**|**KeyB2: Selecting Key Blocks is Also Important for Long Document Ranking with Large Language Models**|Minghan Li et.al.|[2411.06254](http://arxiv.org/abs/2411.06254)|null|
 |**2024-11-09**|**Knowledge Authoring with Factual English, Rules, and Actions**|Yuheng Wang et.al.|[2411.06253](http://arxiv.org/abs/2411.06253)|null|
 |**2024-11-09**|**Generalizing Hyperedge Expansion for Hyper-relational Knowledge Graph Modeling**|Yu Liu et.al.|[2411.06191](http://arxiv.org/abs/2411.06191)|null|
@@ -76,7 +76,7 @@ layout: default
 |**2024-11-06**|**Reducing catastrophic forgetting of incremental learning in the absence of rehearsal memory with task-specific token**|Young Jo Choi et.al.|[2411.05846](http://arxiv.org/abs/2411.05846)|null|
 |**2024-11-06**|**StegaVision: Enhancing Steganography with Attention Mechanism**|Abhinav Kumar et.al.|[2411.05838](http://arxiv.org/abs/2411.05838)|null|
 |**2024-11-06**|**To Ask or Not to Ask? Detecting Absence of Information in Vision and Language Navigation**|Savitha Sam Abraham et.al.|[2411.05831](http://arxiv.org/abs/2411.05831)|null|
-|**2024-10-29**|**SkipSNN: Efficiently Classifying Spike Trains with Event-attention**|Hang Yin et.al.|[2411.05806](http://arxiv.org/abs/2411.05806)|null|
+|**2024-10-29**|**SkipSNN: Efficiently Classifying Spike Trains with Event-attention**|Hang Yin et.al.|[2411.05806](http://arxiv.org/abs/2411.05806)|**[link](https://github.com/Anonymous6369/SkipSNN)**|
 |**2024-10-24**|**A Comprehensive Survey of Time Series Forecasting: Architectural Diversity and Open Challenges**|Jongseon Kim et.al.|[2411.05793](http://arxiv.org/abs/2411.05793)|null|
 |**2024-11-08**|**Recycled Attention: Efficient inference for long-context language models**|Fangyuan Xu et.al.|[2411.05787](http://arxiv.org/abs/2411.05787)|null|
 |**2024-11-08**|**Gender Inequalities in Content Collaborations: Asymmetric Creator Synergy and Symmetric Audience Biases**|Mingyue Zha et.al.|[2411.05782](http://arxiv.org/abs/2411.05782)|null|
@@ -110,9 +110,9 @@ layout: default
 |**2024-11-07**|**Intellectual Property Protection for Deep Learning Model and Dataset Intelligence**|Yongqi Jiang et.al.|[2411.05051](http://arxiv.org/abs/2411.05051)|null|
 |**2024-11-07**|**ProverbEval: Exploring LLM Evaluation Challenges for Low-resource Language Understanding**|Israel Abebe Azime et.al.|[2411.05049](http://arxiv.org/abs/2411.05049)|null|
 |**2024-11-06**|**YouTube Comments Decoded: Leveraging LLMs for Low Resource Language Classification**|Aniket Deroy et.al.|[2411.05039](http://arxiv.org/abs/2411.05039)|null|
-|**2024-11-06**|**Towards Interpreting Language Models: A Case Study in Multi-Hop Reasoning**|Mansi Sakarvadia et.al.|[2411.05037](http://arxiv.org/abs/2411.05037)|null|
+|**2024-11-06**|**Towards Interpreting Language Models: A Case Study in Multi-Hop Reasoning**|Mansi Sakarvadia et.al.|[2411.05037](http://arxiv.org/abs/2411.05037)|**[link](https://github.com/msakarvadia/attentionlens)**|
 |**2024-11-05**|**Leveraging Transfer Learning and Multiple Instance Learning for HER2 Automatic Scoring of H\&E Whole Slide Images**|Rawan S. Abdulsadig et.al.|[2411.05028](http://arxiv.org/abs/2411.05028)|null|
-|**2024-11-05**|**Generative Artificial Intelligence Meets Synthetic Aperture Radar: A Survey**|Zhongling Huang et.al.|[2411.05027](http://arxiv.org/abs/2411.05027)|null|
+|**2024-11-05**|**Generative Artificial Intelligence Meets Synthetic Aperture Radar: A Survey**|Zhongling Huang et.al.|[2411.05027](http://arxiv.org/abs/2411.05027)|**[link](https://github.com/xai4sar/genaixsar)**|
 |**2024-11-07**|**Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models**|Weixin Liang et.al.|[2411.04996](http://arxiv.org/abs/2411.04996)|null|
 |**2024-11-07**|**LoFi: Scalable Local Image Reconstruction with Implicit Neural Representation**|AmirEhsan Khorashadizadeh et.al.|[2411.04995](http://arxiv.org/abs/2411.04995)|null|
 |**2024-11-10**|**Clustering in Causal Attention Masking**|Nikita Karagodin et.al.|[2411.04990](http://arxiv.org/abs/2411.04990)|null|
@@ -126,7 +126,7 @@ layout: default
 |**2024-11-07**|**Enhancing Investment Analysis: Optimizing AI-Agent Collaboration in Financial Research**|Xuewen Han et.al.|[2411.04788](http://arxiv.org/abs/2411.04788)|**[link](https://github.com/ai4finance-foundation/finrobot)**|
 |**2024-11-07**|**Conceptualization and Quantitative study of Aesthetic and Affective Perception of Pictures in Physics Education**|Tatjana Zähringer et.al.|[2411.04779](http://arxiv.org/abs/2411.04779)|null|
 |**2024-11-07**|**Attention Masks Help Adversarial Attacks to Bypass Safety Detectors**|Yunfan Shi et.al.|[2411.04772](http://arxiv.org/abs/2411.04772)|**[link](https://github.com/FrankShi9/Attention-Mask-Attack)**|
-|**2024-11-07**|**SpectraFM: Tuning into Stellar Foundation Models**|Nolan Koblischke et.al.|[2411.04750](http://arxiv.org/abs/2411.04750)|null|
+|**2024-11-07**|**SpectraFM: Tuning into Stellar Foundation Models**|Nolan Koblischke et.al.|[2411.04750](http://arxiv.org/abs/2411.04750)|**[link](https://github.com/NolanKoblischke/SpectraFM_NeurIPS_FM4Science)**|
 |**2024-11-07**|**Equivariant Graph Attention Networks with Structural Motifs for Predicting Cell Line-Specific Synergistic Drug Combinations**|Zachary Schwehr et.al.|[2411.04747](http://arxiv.org/abs/2411.04747)|**[link](https://github.com/wetothemoon/egat_drugsynergy)**|
 |**2024-11-07**|**Taming Rectified Flow for Inversion and Editing**|Jiangshan Wang et.al.|[2411.04746](http://arxiv.org/abs/2411.04746)|**[link](https://github.com/wangjiangshan0725/rf-solver-edit)**|
 |**2024-11-05**|**TIP-I2V: A Million-Scale Real Text and Image Prompt Dataset for Image-to-Video Generation**|Wenhao Wang et.al.|[2411.04709](http://arxiv.org/abs/2411.04709)|null|
