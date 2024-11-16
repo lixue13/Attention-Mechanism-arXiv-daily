@@ -804,7 +804,7 @@ layout: default
 |**2024-10-22**|**Quantum Large Language Models via Tensor Network Disentanglers**|Borja Aizpurua et.al.|[2410.17397](http://arxiv.org/abs/2410.17397)|null|
 |**2024-10-22**|**Efficient Feature Extraction Using Light-Weight CNN Attention-Based Deep Learning Architectures for Ultrasound Fetal Plane Classification**|Arrun Sivasubramanian et.al.|[2410.17396](http://arxiv.org/abs/2410.17396)|null|
 |**2024-10-22**|**Revealing The Secret Power: How Algorithms Can Influence Content Visibility on Social Media**|Mauro Conti et.al.|[2410.17390](http://arxiv.org/abs/2410.17390)|null|
-|**2024-10-22**|**Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference Under Ambiguities**|Zheyuan Zhang et.al.|[2410.17385](http://arxiv.org/abs/2410.17385)|null|
+|**2024-10-22**|**Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference Under Ambiguities**|Zheyuan Zhang et.al.|[2410.17385](http://arxiv.org/abs/2410.17385)|**[link](https://github.com/sled-group/COMFORT)**|
 |**2024-10-22**|**Kendall Correlation Coefficients for Portfolio Optimization**|Tomas Espana et.al.|[2410.17366](http://arxiv.org/abs/2410.17366)|null|
 |**2024-10-22**|**FairLoRA: Unpacking Bias Mitigation in Vision Models with Fairness-Driven Low-Rank Adaptation**|Rohan Sukumaran et.al.|[2410.17358](http://arxiv.org/abs/2410.17358)|null|
 |**2024-10-22**|**Captions Speak Louder than Images (CASLIE): Generalizing Foundation Models for E-commerce from High-quality Multimodal Instruction Data**|Xinyi Ling et.al.|[2410.17337](http://arxiv.org/abs/2410.17337)|null|
