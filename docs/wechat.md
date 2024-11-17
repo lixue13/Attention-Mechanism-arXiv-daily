@@ -34,7 +34,7 @@
 - 2024-11-14, **Towards Unified Neural Decoding of Perceived, Spoken and Imagined Speech from EEG Signals**, Jung-Sun Lee et.al., Paper: [http://arxiv.org/abs/2411.09243](http://arxiv.org/abs/2411.09243)
 - 2024-11-14, **Wavelet analysis of possible association between sunspot number and rainfall over Kerala, India: A case study**, Elizabeth Thomas et.al., Paper: [http://arxiv.org/abs/2411.09234](http://arxiv.org/abs/2411.09234)
 - 2024-11-14, **Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation**, Yuheng Shi et.al., Paper: [http://arxiv.org/abs/2411.09219](http://arxiv.org/abs/2411.09219), Code: **[https://github.com/YuHengsss/Trident](https://github.com/YuHengsss/Trident)**
-- 2024-11-14, **Risk-aware MPPI for Stochastic Hybrid Systems**, Hardik Parwana et.al., Paper: [http://arxiv.org/abs/2411.09198](http://arxiv.org/abs/2411.09198)
+- 2024-11-14, **Risk-aware MPPI for Stochastic Hybrid Systems**, Hardik Parwana et.al., Paper: [http://arxiv.org/abs/2411.09198](http://arxiv.org/abs/2411.09198), Code: **[https://github.com/hardikparwana/social-navigation](https://github.com/hardikparwana/social-navigation)**
 - 2024-11-14, **VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation**, Youpeng Wen et.al., Paper: [http://arxiv.org/abs/2411.09153](http://arxiv.org/abs/2411.09153)
 - 2024-11-14, **GRAINRec: Graph and Attention Integrated Approach for Real-Time Session-Based Item Recommendations**, Bhavtosh Rath et.al., Paper: [http://arxiv.org/abs/2411.09152](http://arxiv.org/abs/2411.09152)
 - 2024-11-14, **A Strategic Topology on Information Structures**, Dirk Bergemann et.al., Paper: [http://arxiv.org/abs/2411.09149](http://arxiv.org/abs/2411.09149)
@@ -45,6 +45,7 @@
 - 2024-11-13, **Scale Contrastive Learning with Selective Attentions for Blind Image Quality Assessment**, Zihao Huang et.al., Paper: [http://arxiv.org/abs/2411.09007](http://arxiv.org/abs/2411.09007)
 - 2024-11-13, **Fluoroformer: Scaling multiple instance learning to multiplexed images via attention-based channel fusion**, Marc Harary et.al., Paper: [http://arxiv.org/abs/2411.08975](http://arxiv.org/abs/2411.08975)
 - 2024-11-13, **The rich structural, electronic and bonding landscape of 1 $T$-type TaTe$_2$ single-layers**, Jose Angel Silva-Guillén et.al., Paper: [http://arxiv.org/abs/2411.08946](http://arxiv.org/abs/2411.08946)
+- 2024-11-12, **Does the fluid-static equilibrium of a self-gravitating isothermal sphere of van der Waals' gas present multiple solutions?**, Domenico Giordano et.al., Paper: [http://arxiv.org/abs/2411.08931](http://arxiv.org/abs/2411.08931)
 - 2024-10-27, **Network scaling and scale-driven loss balancing for intelligent poroelastography**, Yang Xu et.al., Paper: [http://arxiv.org/abs/2411.08886](http://arxiv.org/abs/2411.08886)
 - 2024-11-13, **Multimodal Instruction Tuning with Hybrid State Space Models**, Jianing Zhou et.al., Paper: [http://arxiv.org/abs/2411.08840](http://arxiv.org/abs/2411.08840)
 - 2024-11-13, **FinRobot: AI Agent for Equity Research and Valuation with Large Language Models**, Tianyu Zhou et.al., Paper: [http://arxiv.org/abs/2411.08804](http://arxiv.org/abs/2411.08804), Code: **[https://github.com/ai4finance-foundation/finrobot](https://github.com/ai4finance-foundation/finrobot)**
