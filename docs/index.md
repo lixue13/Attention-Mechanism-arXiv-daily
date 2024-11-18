@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.17
+## Updated on 2024.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -557,7 +557,7 @@ layout: default
 |**2024-10-29**|**Lightweight Frequency Masker for Cross-Domain Few-Shot Semantic Segmentation**|Jintao Tong et.al.|[2410.22135](http://arxiv.org/abs/2410.22135)|null|
 |**2024-10-29**|**Improving Performance of Commercially Available AI Products in a Multi-Agent Configuration**|Cory Hymel et.al.|[2410.22129](http://arxiv.org/abs/2410.22129)|null|
 |**2024-10-29**|**Low-Dimensional Solid-State Single-Photon Emitters**|Jinli Chen et.al.|[2410.22106](http://arxiv.org/abs/2410.22106)|null|
-|**2024-10-29**|**Hyperspectral Imaging-Based Perception in Autonomous Driving Scenarios: Benchmarking Baseline Semantic Segmentation Models**|Imad Ali Shah et.al.|[2410.22101](http://arxiv.org/abs/2410.22101)|null|
+|**2024-10-29**|**Hyperspectral Imaging-Based Perception in Autonomous Driving Scenarios: Benchmarking Baseline Semantic Segmentation Models**|Imad Ali Shah et.al.|[2410.22101](http://arxiv.org/abs/2410.22101)|**[link](https://github.com/imadalishah/HSI_SSM)**|
 |**2024-10-29**|**PACA: Perspective-Aware Cross-Attention Representation for Zero-Shot Scene Rearrangement**|Shutong Jin et.al.|[2410.22059](http://arxiv.org/abs/2410.22059)|null|
 |**2024-10-29**|**FANCL: Feature-Guided Attention Network with Curriculum Learning for Brain Metastases Segmentation**|Zijiang Liu et.al.|[2410.22057](http://arxiv.org/abs/2410.22057)|null|
 |**2024-11-02**|**Multi-modal Speech Emotion Recognition via Feature Distribution Adaptation Network**|Shaokai Li et.al.|[2410.22023](http://arxiv.org/abs/2410.22023)|**[link](https://github.com/shaokai1209/fdan)**|
