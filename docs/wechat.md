@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.11.19
+> Updated on 2024.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -189,7 +189,7 @@
 - 2024-11-12, **Fast Disentangled Slim Tensor Learning for Multi-view Clustering**, Deng Xu et.al., Paper: [http://arxiv.org/abs/2411.07685](http://arxiv.org/abs/2411.07685), Code: **[https://github.com/dengxu-nju/dstl](https://github.com/dengxu-nju/dstl)**
 - 2024-11-12, **HMIL: Hierarchical Multi-Instance Learning for Fine-Grained Whole Slide Image Classification**, Cheng Jin et.al., Paper: [http://arxiv.org/abs/2411.07660](http://arxiv.org/abs/2411.07660)
 - 2024-11-12, **On the BCI Problem**, Ted Dobson et.al., Paper: [http://arxiv.org/abs/2411.07652](http://arxiv.org/abs/2411.07652)
-- 2024-11-14, **Breaking the Low-Rank Dilemma of Linear Attention**, Qihang Fan et.al., Paper: [http://arxiv.org/abs/2411.07635](http://arxiv.org/abs/2411.07635), Code: **[https://github.com/qhfan/rala](https://github.com/qhfan/rala)**
+- 2024-11-17, **Breaking the Low-Rank Dilemma of Linear Attention**, Qihang Fan et.al., Paper: [http://arxiv.org/abs/2411.07635](http://arxiv.org/abs/2411.07635), Code: **[https://github.com/qhfan/rala](https://github.com/qhfan/rala)**
 - 2024-11-12, **Multimodal Clinical Reasoning through Knowledge-augmented Rationale Generation**, Shuai Niu et.al., Paper: [http://arxiv.org/abs/2411.07611](http://arxiv.org/abs/2411.07611)
 - 2024-11-12, **Circuit Complexity Bounds for RoPE-based Transformer Architecture**, Bo Chen et.al., Paper: [http://arxiv.org/abs/2411.07602](http://arxiv.org/abs/2411.07602)
 - 2024-11-12, **Multi-task Feature Enhancement Network for No-Reference Image Quality Assessment**, Li Yu et.al., Paper: [http://arxiv.org/abs/2411.07556](http://arxiv.org/abs/2411.07556)
@@ -2434,7 +2434,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241120>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
