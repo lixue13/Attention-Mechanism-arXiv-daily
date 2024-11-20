@@ -24,4 +24,7 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "Attention": 
         filters: ["Attention", "Attention Mechanism"]
-
+    "IRSTD": 
+        filters: ["Infrared small target detection", "Infrared small target segmentation", "IRSTD", "NUDT-SIRST", "NUAA-SIRST", "IRSTD-1K"]
+    "UNet": 
+        filters: ["UNet", "U-Net", "medical image segmentation"]
