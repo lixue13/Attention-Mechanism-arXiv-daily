@@ -2471,6 +2471,1078 @@ layout: default
 |**2024-10-03**|**Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**|Jinwoo Go et.al.|[2409.09141](http://arxiv.org/abs/2409.09141)|null|
 |**2024-09-13**|**Neural Message Passing Induced by Energy-Constrained Diffusion**|Qitian Wu et.al.|[2409.09111](http://arxiv.org/abs/2409.09111)|null|
 
+## IRSTD
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-16**|**SFA-UNet: More Attention to Multi-Scale Contrast and Contextual Information in Infrared Small Object Segmentation**|Imad Ali Shah et.al.|[2410.22881](http://arxiv.org/abs/2410.22881)|**[link](https://github.com/imadalishah/sfa_unet)**|
+|**2024-10-09**|**Robust infrared small target detection using self-supervised and a contrario paradigms**|Alina Ciocarlan et.al.|[2410.07437](http://arxiv.org/abs/2410.07437)|null|
+|**2024-09-29**|**Gradient is All You Need: Gradient-Based Attention Fusion for Infrared Small Target Detection**|Chen Hu et.al.|[2409.19599](http://arxiv.org/abs/2409.19599)|null|
+|**2024-10-04**|**Infrared Small Target Detection in Satellite Videos: A New Dataset and A Novel Recurrent Feature Refinement Framework**|Xinyi Ying et.al.|[2409.12448](http://arxiv.org/abs/2409.12448)|**[link](https://github.com/xinyiying/rfr)**|
+|**2024-09-07**|**Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2409.04714](http://arxiv.org/abs/2409.04714)|null|
+|**2024-09-06**|**Hybrid Mask Generation for Infrared Small Target Detection with Single-Point Supervision**|Weijie He et.al.|[2409.04011](http://arxiv.org/abs/2409.04011)|null|
+|**2024-08-18**|**The First Competition on Resource-Limited Infrared Small Target Detection Challenge: Methods and Results**|Boyang Li et.al.|[2408.09615](http://arxiv.org/abs/2408.09615)|**[link](https://github.com/xinyiying/basicirstd)**|
+|**2024-11-16**|**Beyond Full Labels: Energy-Double-Guided Single-Point Prompt for Infrared Small Target Label Generation**|Shuai Yuan et.al.|[2408.08191](http://arxiv.org/abs/2408.08191)|**[link](https://github.com/xdfai/edgsp)**|
+|**2024-09-15**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|**[link](https://github.com/d-iceice/one-shot-irsts)**|
+|**2024-10-03**|**Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention**|Yimian Dai et.al.|[2408.03717](http://arxiv.org/abs/2408.03717)|**[link](https://github.com/grokcv/serankdet)**|
+|**2024-08-05**|**LR-Net: A Lightweight and Robust Network for Infrared Small Target Detection**|Chuang Yu et.al.|[2408.02780](http://arxiv.org/abs/2408.02780)|null|
+|**2024-08-05**|**Refined Infrared Small Target Detection Scheme with Single-Point Supervision**|Jinmiao Zhao et.al.|[2408.02773](http://arxiv.org/abs/2408.02773)|null|
+|**2024-08-08**|**Single-Point Supervised High-Resolution Dynamic Network for Infrared Small Target Detection**|Jing Wu et.al.|[2408.01976](http://arxiv.org/abs/2408.01976)|null|
+|**2024-07-29**|**Infrared Small Target Detection based on Adjustable Sensitivity Strategy and Multi-Scale Fusion**|Jinmiao Zhao et.al.|[2407.20090](http://arxiv.org/abs/2407.20090)|null|
+|**2024-11-02**|**Background Semantics Matter: Cross-Task Feature Exchange Network for Clustered Infrared Small Target Detection With Sky-Annotated Dataset**|Mengxuan Xiao et.al.|[2407.20078](http://arxiv.org/abs/2407.20078)|**[link](https://github.com/grokcv/bafe-net)**|
+|**2024-07-22**|**Sparse Prior Is Not All You Need: When Differential Directionality Meets Saliency Coherence for Infrared Small Target Detection**|Fei Zhou et.al.|[2407.15369](http://arxiv.org/abs/2407.15369)|**[link](https://github.com/grokcv/sdd)**|
+|**2024-07-10**|**IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2407.07520](http://arxiv.org/abs/2407.07520)|**[link](https://github.com/ipic-lab/irsam)**|
+|**2024-06-19**|**Lost in UNet: Improving Infrared Small Target Detection by Underappreciated Local Features**|Wuzhou Quan et.al.|[2406.13445](http://arxiv.org/abs/2406.13445)|**[link](https://github.com/wuzhou-quan/hintu)**|
+|**2024-09-05**|**Triple-domain Feature Learning with Frequency-aware Memory Enhancement for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[2406.06949](http://arxiv.org/abs/2406.06949)|**[link](https://github.com/uestc-nnlab/tridos)**|
+|**2024-06-04**|**Multi-Scale Direction-Aware Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[2406.02037](http://arxiv.org/abs/2406.02037)|null|
+|**2024-06-02**|**Diff-Mosaic: Augmenting Realistic Representations in Infrared Small Target Detection via Diffusion Prior**|Yukai Shi et.al.|[2406.00632](http://arxiv.org/abs/2406.00632)|**[link](https://github.com/yupeilin2388/diff-mosaic)**|
+|**2024-03-28**|**Infrared Small Target Detection with Scale and Location Sensitivity**|Qiankun Liu et.al.|[2403.19366](http://arxiv.org/abs/2403.19366)|**[link](https://github.com/ying-fu/mshnet)**|
+|**2024-03-13**|**Mitigate Target-level Insensitivity of Infrared Small Target Detection via Posterior Distribution Modeling**|Haoqing Li et.al.|[2403.08380](http://arxiv.org/abs/2403.08380)|**[link](https://github.com/li-haoqing/irstd-diff)**|
+|**2024-03-08**|**SIRST-5K: Exploring Massive Negatives Synthesis with Self-supervised Learning for Robust Infrared Small Target Detection**|Yahao Lu et.al.|[2403.05416](http://arxiv.org/abs/2403.05416)|**[link](https://github.com/luy0222/sirst-5k)**|
+|**2024-06-24**|**MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**|Tianxiang Chen et.al.|[2403.02148](http://arxiv.org/abs/2403.02148)|**[link](https://github.com/txchen-ustc/mim-istd)**|
+|**2024-02-28**|**Infrared Small Target Detection via tensor $L_{2,1}$ norm minimization and ASSTV regularization: A Novel Tensor Recovery Approach**|Jiqian Zhao et.al.|[2402.18003](http://arxiv.org/abs/2402.18003)|null|
+|**2024-02-08**|**SpirDet: Towards Efficient, Accurate and Lightweight Infrared Small Target Detector**|Qianchen Mao et.al.|[2402.05410](http://arxiv.org/abs/2402.05410)|null|
+|**2024-02-03**|**$\textit{A Contrario}$ Paradigm for YOLO-based Infrared Small Target Detection**|Alina Ciocarlan et.al.|[2402.02288](http://arxiv.org/abs/2402.02288)|null|
+|**2024-02-03**|**TCI-Former: Thermal Conduction-Inspired Transformer for Infrared Small Target Detection**|Tianxiang Chen et.al.|[2402.02046](http://arxiv.org/abs/2402.02046)|null|
+|**2024-04-30**|**SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection**|Shuai Yuan et.al.|[2401.15583](http://arxiv.org/abs/2401.15583)|**[link](https://github.com/xdfai/sctransnet)**|
+|**2024-06-04**|**ASCNet: Asymmetric Sampling Correction Network for Infrared Image Destriping**|Shuai Yuan et.al.|[2401.15578](http://arxiv.org/abs/2401.15578)|**[link](https://github.com/xdfai/ascnet)**|
+|**2024-01-17**|**Improved Dense Nested Attention Network Based on Transformer for Infrared Small Target Detection**|Chun Bao et.al.|[2311.08747](http://arxiv.org/abs/2311.08747)|**[link](https://github.com/edwardbao1006/bit_sirst)**|
+|**2023-11-02**|**RPCANet: Deep Unfolding RPCA Based Infrared Small Target Detection**|Fengyi Wu et.al.|[2311.00917](http://arxiv.org/abs/2311.00917)|**[link](https://github.com/fengyiwu98/rpcanet)**|
+|**2023-10-19**|**Click on Mask: A Labor-efficient Annotation Framework with Level Set for Infrared Small Target Detection**|Haoqing Li et.al.|[2310.12562](http://arxiv.org/abs/2310.12562)|**[link](https://github.com/li-haoqing/com)**|
+|**2023-10-09**|**Infrared Small Target Detection Using Double-Weighted Multi-Granularity Patch Tensor Model With Tensor-Train Decomposition**|Guiyu Zhang et.al.|[2310.05347](http://arxiv.org/abs/2310.05347)|null|
+|**2023-09-24**|**ILNet: Low-level Matters for Salient Infrared Small Target Detection**|Haoqing Li et.al.|[2309.13646](http://arxiv.org/abs/2309.13646)|**[link](https://github.com/li-haoqing/ilnet)**|
+|**2023-09-03**|**Enhancing Infrared Small Target Detection Robustness with Bi-Level Adversarial Framework**|Zhu Liu et.al.|[2309.01099](http://arxiv.org/abs/2309.01099)|null|
+|**2024-02-27**|**EFLNet: Enhancing Feature Learning for Infrared Small Target Detection**|Bo Yang et.al.|[2307.14723](http://arxiv.org/abs/2307.14723)|**[link](https://github.com/yangbo0411/infrared-small-target)**|
+|**2023-04-10**|**Monte Carlo Linear Clustering with Single-Point Supervision is Enough for Infrared Small Target Detection**|Boyang Li et.al.|[2304.04442](http://arxiv.org/abs/2304.04442)|**[link](https://github.com/yeren123455/sirst-single-point-supervision)**|
+|**2024-10-04**|**Mapping Degeneration Meets Label Evolution: Learning Infrared Small Target Detection with Single Point Supervision**|Xinyi Ying et.al.|[2304.01484](http://arxiv.org/abs/2304.01484)|**[link](https://github.com/xinyiying/lesps)**|
+|**2023-03-18**|**ABC: Attention with Bilinear Correlation for Infrared Small Target Detection**|Peiwen Pan et.al.|[2303.10321](http://arxiv.org/abs/2303.10321)|**[link](https://github.com/panpeiwen/abc)**|
+|**2023-04-09**|**Dynamic Background Reconstruction via MAE for Infrared Small Target Detection**|Jingchao Peng et.al.|[2301.04497](http://arxiv.org/abs/2301.04497)|null|
+|**2024-08-25**|**Enhancing Evaluation Methods for Infrared Small-Target Detection in Real-world Scenarios**|Saed Moradi et.al.|[2301.03796](http://arxiv.org/abs/2301.03796)|null|
+|**2022-12-31**|**One-Stage Cascade Refinement Networks for Infrared Small Target Detection**|Yimian Dai et.al.|[2212.08472](http://arxiv.org/abs/2212.08472)|**[link](https://github.com/yimiandai/open-deepinfrared)**|
+|**2023-06-29**|**iSmallNet: Densely Nested Network with Label Decoupling for Infrared Small Target Detection**|Zhiheng Hu et.al.|[2210.16561](http://arxiv.org/abs/2210.16561)|null|
+|**2023-04-15**|**CourtNet for Infrared Small-Target Detection**|Jingchao Peng et.al.|[2209.13780](http://arxiv.org/abs/2209.13780)|null|
+|**2022-06-14**|**A Multi-task Framework for Infrared Small Target Detection and Segmentation**|Yuhang Chen et.al.|[2206.06923](http://arxiv.org/abs/2206.06923)|**[link](https://github.com/chenastron/mtunet)**|
+|**2022-06-05**|**MPANet: Multi-Patch Attention For Infrared Small Target object Detection**|Ao Wang et.al.|[2206.02120](http://arxiv.org/abs/2206.02120)|null|
+|**2022-05-26**|**PixelGame: Infrared small target segmentation as a Nash equilibrium**|Heng Zhou et.al.|[2205.13124](http://arxiv.org/abs/2205.13124)|null|
+|**2023-04-04**|**Local Motion and Contrast Priors Driven Deep Network for Infrared Small Target Super-Resolution**|Xinyi Ying et.al.|[2201.01014](http://arxiv.org/abs/2201.01014)|**[link](https://github.com/xinyiying/mocopnet)**|
+|**2021-11-05**|**AGPCNet: Attention-Guided Pyramid Context Networks for Infrared Small Target Detection**|Tianfang Zhang et.al.|[2111.03580](http://arxiv.org/abs/2111.03580)|**[link](https://github.com/tianfang-zhang/agpcnet)**|
+|**2021-09-29**|**Local Patch Network with Global Attention for Infrared Small Target Detection**|Fang Chen et.al.|[2108.06054](http://arxiv.org/abs/2108.06054)|**[link](https://github.com/cquptimg/Local-Patch-Network-with-Global-Attention)**|
+|**2022-08-16**|**Dense Nested Attention Network for Infrared Small Target Detection**|Boyang Li et.al.|[2106.00487](http://arxiv.org/abs/2106.00487)|**[link](https://github.com/YeRen123455/Infrared-Small-Target-Detection)**|
+|**2021-11-21**|**Non-Convex Tensor Low-Rank Approximation for Infrared Small Target Detection**|Ting Liu et.al.|[2105.14974](http://arxiv.org/abs/2105.14974)|**[link](https://github.com/LiuTing20a/ASTTV-NTLA)**|
+|**2020-12-15**|**Attentional Local Contrast Networks for Infrared Small Target Detection**|Yimian Dai et.al.|[2012.08573](http://arxiv.org/abs/2012.08573)|**[link](https://github.com/YimianDai/open-alcnet)**|
+|**2020-11-24**|**Infrared small target detection based on isotropic constraint under complex background**|Fan Wang et.al.|[2011.12059](http://arxiv.org/abs/2011.12059)|null|
+|**2020-10-02**|**Multiple Infrared Small Targets Detection based on Hierarchical Maximal Entropy Random Walk**|Chaoqun Xia et.al.|[2010.00923](http://arxiv.org/abs/2010.00923)|null|
+|**2020-09-30**|**Asymmetric Contextual Modulation for Infrared Small Target Detection**|Yimian Dai et.al.|[2009.14530](http://arxiv.org/abs/2009.14530)|**[link](https://github.com/YimianDai/open-acm)**|
+|**2020-06-15**|**Filter design for small target detection on infrared imagery using normalized-cross-correlation layer**|H. Seçkin Demir et.al.|[2006.08162](http://arxiv.org/abs/2006.08162)|null|
+|**2019-12-27**|**TBC-Net: A real-time detector for infrared small target detection using semantic constraint**|Mingxin Zhao et.al.|[2001.05852](http://arxiv.org/abs/2001.05852)|null|
+|**2020-07-29**|**Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**|Saed Moradi et.al.|[1810.03173](http://arxiv.org/abs/1810.03173)|**[link](https://github.com/moradisaed/ADMD)**|
+|**2017-03-27**|**Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**|Yimian Dai et.al.|[1703.09157](http://arxiv.org/abs/1703.09157)|**[link](https://github.com/YimianDai/DENTIST)**|
+
+## UNet
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**DLBacktrace: A Model Agnostic Explainability for any Deep Learning Models**|Vinay Kumar Sankarapu et.al.|[2411.12643](http://arxiv.org/abs/2411.12643)|**[link](https://github.com/aryaxai/dlbacktrace)**|
+|**2024-11-19**|**SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation**|Ron Keuth et.al.|[2411.12602](http://arxiv.org/abs/2411.12602)|**[link](https://github.com/multimodallearning/samcarriestheburden)**|
+|**2024-11-19**|**High-Throughput Blind Co-Channel Interference Cancellation for Edge Devices Using Depthwise Separable Convolutions, Quantization, and Pruning**|Mostafa Naseri et.al.|[2411.12541](http://arxiv.org/abs/2411.12541)|null|
+|**2024-11-19**|**DiM: $f$ -Divergence Minimization Guided Sharpness-Aware Optimization for Semi-supervised Medical Image Segmentation**|Bingli Wang et.al.|[2411.12350](http://arxiv.org/abs/2411.12350)|null|
+|**2024-11-19**|**Visualizing Loss Functions as Topological Landscape Profiles**|Caleb Geniesse et.al.|[2411.12136](http://arxiv.org/abs/2411.12136)|null|
+|**2024-11-18**|**KAN-Mamba FusionNet: Redefining Medical Image Segmentation with Non-Linear Modeling**|Akansh Agrawal et.al.|[2411.11926](http://arxiv.org/abs/2411.11926)|null|
+|**2024-11-18**|**SP ${ }^3$ : Superpixel-propagated pseudo-label learning for weakly semi-supervised medical image segmentation**|Shiman Li et.al.|[2411.11636](http://arxiv.org/abs/2411.11636)|null|
+|**2024-11-18**|**TP-UNet: Temporal Prompt Guided UNet for Medical Image Segmentation**|Ranmin Wang et.al.|[2411.11305](http://arxiv.org/abs/2411.11305)|null|
+|**2024-11-18**|**AI-Powered Reconstruction of Dark Matter Velocity Fields from Redshift-Space Halo Distribution**|Xu Xiao et.al.|[2411.11280](http://arxiv.org/abs/2411.11280)|null|
+|**2024-11-17**|**Low-Rank Conjugate Gradient-Net for Accelerated Cardiac MR Imaging**|Jaykumar H. Patel et.al.|[2411.11175](http://arxiv.org/abs/2411.11175)|null|
+|**2024-11-17**|**Label Sharing Incremental Learning Framework for Independent Multi-Label Segmentation Tasks**|Deepa Anand et.al.|[2411.11105](http://arxiv.org/abs/2411.11105)|null|
+|**2024-11-17**|**Direct and Explicit 3D Generation from a Single Image**|Haoyu Wu et.al.|[2411.10947](http://arxiv.org/abs/2411.10947)|null|
+|**2024-11-16**|**Attention-based U-Net Method for Autonomous Lane Detection**|Mohammadhamed Tangestanizadeh et.al.|[2411.10902](http://arxiv.org/abs/2411.10902)|null|
+|**2024-11-16**|**FIAS: Feature Imbalance-Aware Medical Image Segmentation with Dynamic Fusion and Mixing Attention**|Xiwei Liu et.al.|[2411.10881](http://arxiv.org/abs/2411.10881)|null|
+|**2024-11-16**|**Explainable DNN-based Beamformer with Postfilter**|Adi Cohen et.al.|[2411.10854](http://arxiv.org/abs/2411.10854)|null|
+|**2024-11-15**|**On the Foundation Model for Cardiac MRI Reconstruction**|Chi Zhang et.al.|[2411.10403](http://arxiv.org/abs/2411.10403)|null|
+|**2024-11-15**|**ScribbleVS: Scribble-Supervised Medical Image Segmentation via Dynamic Competitive Pseudo Label Selection**|Tao Wang et.al.|[2411.10237](http://arxiv.org/abs/2411.10237)|**[link](https://github.com/ortonwang/scribblevs)**|
+|**2024-11-15**|**CoSAM: Self-Correcting SAM for Domain Generalization in 2D Medical Image Segmentation**|Yihang Fu et.al.|[2411.10136](http://arxiv.org/abs/2411.10136)|null|
+|**2024-11-14**|**OneNet: A Channel-Wise 1D Convolutional U-Net**|Sanghyun Byun et.al.|[2411.09838](http://arxiv.org/abs/2411.09838)|**[link](https://github.com/shbyun080/onenet)**|
+|**2024-11-14**|**Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images**|Bipasha Kundu et.al.|[2411.09598](http://arxiv.org/abs/2411.09598)|null|
+|**2024-11-17**|**OOD-SEG: Out-Of-Distribution detection for image SEGmentation with sparse multi-class positive-only annotations**|Junwen Wang et.al.|[2411.09553](http://arxiv.org/abs/2411.09553)|null|
+|**2024-11-14**|**DiffRoad: Realistic and Diverse Road Scenario Generation for Autonomous Vehicle Testing**|Junjie Zhou et.al.|[2411.09451](http://arxiv.org/abs/2411.09451)|null|
+|**2024-11-14**|**RibCageImp: A Deep Learning Framework for 3D Ribcage Implant Generation**|Gyanendra Chaubey et.al.|[2411.09204](http://arxiv.org/abs/2411.09204)|null|
+|**2024-11-14**|**Advancing Diffusion Models: Alias-Free Resampling and Enhanced Rotational Equivariance**|Md Fahim Anjum et.al.|[2411.09174](http://arxiv.org/abs/2411.09174)|null|
+|**2024-11-14**|**Heuristical Comparison of Vision Transformers Against Convolutional Neural Networks for Semantic Segmentation on Remote Sensing Imagery**|Ashim Dahal et.al.|[2411.09101](http://arxiv.org/abs/2411.09101)|**[link](https://github.com/ashimdahal/vit-vs-cnn-image-segmentation)**|
+|**2024-11-13**|**Zero-shot capability of SAM-family models for bone segmentation in CT scans**|Caroline Magg et.al.|[2411.08629](http://arxiv.org/abs/2411.08629)|null|
+|**2024-11-13**|**Slender Object Scene Segmentation in Remote Sensing Image Based on Learnable Morphological Skeleton with Segment Anything Model**|Jun Xie et.al.|[2411.08592](http://arxiv.org/abs/2411.08592)|null|
+|**2024-11-17**|**DINO-LG: A Task-Specific DINO Model for Coronary Calcium Scoring**|Mahmut S. Gokmen et.al.|[2411.07976](http://arxiv.org/abs/2411.07976)|null|
+|**2024-11-12**|**Joint multi-dimensional dynamic attention and transformer for general image restoration**|Huan Zhang et.al.|[2411.07893](http://arxiv.org/abs/2411.07893)|**[link](https://github.com/house-yuyu/mdda-former)**|
+|**2024-11-12**|**Semantic segmentation on multi-resolution optical and microwave data using deep learning**|Jai G Singla et.al.|[2411.07581](http://arxiv.org/abs/2411.07581)|null|
+|**2024-11-14**|**MSEG-VCUQ: Multimodal SEGmentation with Enhanced Vision Foundation Models, Convolutional Neural Networks, and Uncertainty Quantification for High-Speed Video Phase Detection Data**|Chika Maduabuchi et.al.|[2411.07463](http://arxiv.org/abs/2411.07463)|**[link](https://github.com/chikap421/mseg_vcuq)**|
+|**2024-11-12**|**Gaussian Process Emulators for Few-Shot Segmentation in Cardiac MRI**|Bruno Viti et.al.|[2411.06911](http://arxiv.org/abs/2411.06911)|**[link](https://gitlab.com/bruno_viti/gpe_4_cardiac_fss)**|
+|**2024-11-09**|**Scalable, Tokenization-Free Diffusion Model Architectures with Efficient Initial Convolution and Fixed-Size Reusable Structures for On-Device Image Generation**|Sanchar Palit et.al.|[2411.06119](http://arxiv.org/abs/2411.06119)|null|
+|**2024-11-09**|**Predicting band structures for 2D Photonic Crystals via Deep Learning**|Yueqi Wang et.al.|[2411.06063](http://arxiv.org/abs/2411.06063)|null|
+|**2024-11-07**|**Exploring the Feasibility of Affordable Sonar Technology: Object Detection in Underwater Environments Using the Ping 360**|Md Junayed Hasan et.al.|[2411.05863](http://arxiv.org/abs/2411.05863)|**[link](https://github.com/junayed/sonar-scan-dataset-with-ping-360)**|
+|**2024-11-08**|**Comparative Study of Probabilistic Atlas and Deep Learning Approaches for Automatic Brain Tissue Segmentation from MRI Using N4 Bias Field Correction and Anisotropic Diffusion Pre-processing Techniques**|Mohammad Imran Hossain et.al.|[2411.05456](http://arxiv.org/abs/2411.05456)|**[link](https://github.com/imran-maia/ibsr_18_bratseg_deep_learning)**|
+|**2024-11-08**|**Agricultural Landscape Understanding At Country-Scale**|Radhika Dua et.al.|[2411.05359](http://arxiv.org/abs/2411.05359)|null|
+|**2024-11-08**|**SASWISE-UE: Segmentation and Synthesis with Interpretable Scalable Ensembles for Uncertainty Estimation**|Weijie Chen et.al.|[2411.05324](http://arxiv.org/abs/2411.05324)|null|
+|**2024-11-07**|**Generalizable Single-Source Cross-modality Medical Image Segmentation via Invariant Causal Mechanisms**|Boqi Chen et.al.|[2411.05223](http://arxiv.org/abs/2411.05223)|null|
+|**2024-11-07**|**Robust Iris Centre Localisation for Assistive Eye-Gaze Tracking**|Nipun Sandamal Ranasekara Pathiranage et.al.|[2411.04912](http://arxiv.org/abs/2411.04912)|null|
+|**2024-11-07**|**End-to-end Inception-Unet based Generative Adversarial Networks for Snow and Rain Removals**|Ibrahim Kajo et.al.|[2411.04821](http://arxiv.org/abs/2411.04821)|null|
+|**2024-11-06**|**Multi-Reward as Condition for Instruction-based Image Editing**|Xin Gu et.al.|[2411.04713](http://arxiv.org/abs/2411.04713)|null|
+|**2024-11-07**|**Multi-temporal crack segmentation in concrete structure using deep learning approaches**|Said Harb et.al.|[2411.04620](http://arxiv.org/abs/2411.04620)|null|
+|**2024-11-13**|**Synergy-Guided Regional Supervision of Pseudo Labels for Semi-Supervised Medical Image Segmentation**|Tao Wang et.al.|[2411.04493](http://arxiv.org/abs/2411.04493)|null|
+|**2024-11-08**|**GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807](http://arxiv.org/abs/2411.03807)|null|
+|**2024-11-06**|**Cross Feature Fusion of Fundus Image and Generated Lesion Map for Referable Diabetic Retinopathy Classification**|Dahyun Mok et.al.|[2411.03618](http://arxiv.org/abs/2411.03618)|null|
+|**2024-10-08**|**Learning Force Distribution Estimation for the GelSight Mini Optical Tactile Sensor Based on Finite Element Analysis**|Erik Helmut et.al.|[2411.03315](http://arxiv.org/abs/2411.03315)|null|
+|**2024-11-07**|**DiT4Edit: Diffusion Transformer for Image Editing**|Kunyu Feng et.al.|[2411.03286](http://arxiv.org/abs/2411.03286)|null|
+|**2024-11-05**|**Exploiting the Segment Anything Model (SAM) for Lung Segmentation in Chest X-ray Images**|Gabriel Bellon de Carvalho et.al.|[2411.03064](http://arxiv.org/abs/2411.03064)|null|
+|**2024-11-05**|**UNet: A Generic and Reliable Multi-UAV Communication and Networking Architecture for Heterogeneous Applications**|Sanku Kumar Roy et.al.|[2411.03048](http://arxiv.org/abs/2411.03048)|null|
+|**2024-11-05**|**OLAF: A Plug-and-Play Framework for Enhanced Multi-object Multi-part Scene Parsing**|Pranav Gupta et.al.|[2411.02858](http://arxiv.org/abs/2411.02858)|null|
+|**2024-11-05**|**Specialized Foundation Models Struggle to Beat Supervised Baselines**|Zongzhe Xu et.al.|[2411.02796](http://arxiv.org/abs/2411.02796)|**[link](https://github.com/Zongzhe-Xu/AutoAR)**|
+|**2024-11-05**|**Foundation AI Model for Medical Image Segmentation**|Rina Bao et.al.|[2411.02745](http://arxiv.org/abs/2411.02745)|null|
+|**2024-11-05**|**TransUNext: towards a more advanced U-shaped framework for automatic vessel segmentation in the fundus image**|Xiang Li et.al.|[2411.02724](http://arxiv.org/abs/2411.02724)|null|
+|**2024-11-04**|**Training-free Regional Prompting for Diffusion Transformers**|Anthony Chen et.al.|[2411.02395](http://arxiv.org/abs/2411.02395)|**[link](https://github.com/instantX-research/Regional-Prompting-FLUX)**|
+|**2024-11-05**|**Improving Domain Generalization in Self-supervised Monocular Depth Estimation via Stabilized Adversarial Training**|Yuanqi Yao et.al.|[2411.02149](http://arxiv.org/abs/2411.02149)|null|
+|**2024-11-04**|**UnSegMedGAT: Unsupervised Medical Image Segmentation using Graph Attention Networks Clustering**|A. Mudit Adityaja et.al.|[2411.01966](http://arxiv.org/abs/2411.01966)|**[link](https://github.com/mudit-adityaja/unsegmedgat)**|
+|**2024-11-04**|**MBDRes-U-Net: Multi-Scale Lightweight Brain Tumor Segmentation Network**|Longfeng Shen et.al.|[2411.01896](http://arxiv.org/abs/2411.01896)|**[link](https://github.com/huaibei-normal-university-cv-laboratory/mbdresunet)**|
+|**2024-11-04**|**Prediction of three-dimensional chemically reacting compressible turbulence based on implicit U-Net enhanced Fourier neural operator**|Zhiyao Zhang et.al.|[2411.01885](http://arxiv.org/abs/2411.01885)|null|
+|**2024-11-04**|**Disentangled PET Lesion Segmentation**|Tanya Gatsak et.al.|[2411.01758](http://arxiv.org/abs/2411.01758)|null|
+|**2024-11-04**|**xDiT: an Inference Engine for Diffusion Transformers (DiTs) with Massive Parallelism**|Jiarui Fang et.al.|[2411.01738](http://arxiv.org/abs/2411.01738)|**[link](https://github.com/xdit-project/xdit)**|
+|**2024-11-03**|**MamT $^4$ : Multi-view Attention Networks for Mammography Cancer Classification**|Alisher Ibragimov et.al.|[2411.01669](http://arxiv.org/abs/2411.01669)|**[link](https://github.com/ispras/mammo_crop)**|
+|**2024-11-02**|**Enhancing Diabetic Retinopathy Detection with CNN-Based Models: A Comparative Study of UNET and Stacked UNET Architectures**|Ameya Uppina et.al.|[2411.01251](http://arxiv.org/abs/2411.01251)|null|
+|**2024-11-02**|**Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models**|Wonguk Cho et.al.|[2411.01179](http://arxiv.org/abs/2411.01179)|null|
+|**2024-11-01**|**A lightweight Convolutional Neural Network based on U shape structure and Attention Mechanism for Anterior Mediastinum Segmentation**|Sina Soleimani-Fard et.al.|[2411.01019](http://arxiv.org/abs/2411.01019)|null|
+|**2024-11-08**|**Lung tumor segmentation in MRI mice scans using 3D nnU-Net with minimum annotations**|Piotr Kaniewski et.al.|[2411.00922](http://arxiv.org/abs/2411.00922)|null|
+|**2024-10-29**|**Unsupervised Training of a Dynamic Context-Aware Deep Denoising Framework for Low-Dose Fluoroscopic Imaging**|Sun-Young Jeon et.al.|[2411.00830](http://arxiv.org/abs/2411.00830)|**[link](https://github.com/sunyoungIT/UDCA-Net)**|
+|**2024-11-01**|**Cross-modal semantic segmentation for indoor environmental perception using single-chip millimeter-wave radar raw data**|Hairuo Hu et.al.|[2411.00499](http://arxiv.org/abs/2411.00499)|null|
+|**2024-10-31**|**Enhancing Brain Source Reconstruction through Physics-Informed 3D Neural Networks**|Marco Morik et.al.|[2411.00143](http://arxiv.org/abs/2411.00143)|null|
+|**2024-10-31**|**Disentangling Disentangled Representations: Towards Improved Latent Units via Diffusion Models**|Youngjun Jun et.al.|[2410.23820](http://arxiv.org/abs/2410.23820)|null|
+|**2024-10-31**|**MLLA-UNet: Mamba-like Linear Attention in an Efficient U-Shape Model for Medical Image Segmentation**|Yufeng Jiang et.al.|[2410.23738](http://arxiv.org/abs/2410.23738)|**[link](https://github.com/csyfjiang/mlla-unet)**|
+|**2024-10-30**|**NCAdapt: Dynamic adaptation with domain-specific Neural Cellular Automata for continual hippocampus segmentation**|Amin Ranem et.al.|[2410.23368](http://arxiv.org/abs/2410.23368)|null|
+|**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329](http://arxiv.org/abs/2410.23329)|null|
+|**2024-10-30**|**Revisiting MAE pre-training for 3D medical image segmentation**|Tassilo Wald et.al.|[2410.23132](http://arxiv.org/abs/2410.23132)|null|
+|**2024-10-30**|**Improving Musical Accompaniment Co-creation via Diffusion Transformers**|Javier Nistal et.al.|[2410.23005](http://arxiv.org/abs/2410.23005)|null|
+|**2024-11-16**|**SFA-UNet: More Attention to Multi-Scale Contrast and Contextual Information in Infrared Small Object Segmentation**|Imad Ali Shah et.al.|[2410.22881](http://arxiv.org/abs/2410.22881)|**[link](https://github.com/imadalishah/sfa_unet)**|
+|**2024-11-11**|**FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images**|Zheng Yu et.al.|[2410.22771](http://arxiv.org/abs/2410.22771)|**[link](https://github.com/thomas-wyh/fuseanypart)**|
+|**2024-10-30**|**st-DTPM: Spatial-Temporal Guided Diffusion Transformer Probabilistic Model for Delayed Scan PET Image Prediction**|Ran Hong et.al.|[2410.22732](http://arxiv.org/abs/2410.22732)|null|
+|**2024-10-28**|**Unpacking SDXL Turbo: Interpreting Text-to-Image Models with Sparse Autoencoders**|Viacheslav Surkov et.al.|[2410.22366](http://arxiv.org/abs/2410.22366)|**[link](https://github.com/surkovv/sdxl-unbox)**|
+|**2024-10-28**|**Vascular Segmentation of Functional Ultrasound Images using Deep Learning**|Hana Sebia et.al.|[2410.22365](http://arxiv.org/abs/2410.22365)|null|
+|**2024-10-29**|**MAPUNetR: A Hybrid Vision Transformer and U-Net Architecture for Efficient and Interpretable Medical Image Segmentation**|Ovais Iqbal Shah et.al.|[2410.22223](http://arxiv.org/abs/2410.22223)|null|
+|**2024-10-29**|**Hyperspectral Imaging-Based Perception in Autonomous Driving Scenarios: Benchmarking Baseline Semantic Segmentation Models**|Imad Ali Shah et.al.|[2410.22101](http://arxiv.org/abs/2410.22101)|**[link](https://github.com/imadalishah/HSI_SSM)**|
+|**2024-10-29**|**Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images**|Suhyun Ahn et.al.|[2410.21826](http://arxiv.org/abs/2410.21826)|**[link](https://github.com/Ahn-Ssu/VCM)**|
+|**2024-10-27**|**CloudCast -- Total Cloud Cover Nowcasting with Machine Learning**|Mikko Partio et.al.|[2410.21329](http://arxiv.org/abs/2410.21329)|**[link](https://github.com/fmidev/cloudcast)**|
+|**2024-11-03**|**VideoSAM: A Large Vision Foundation Model for High-Speed Video Segmentation**|Chika Maduabuchi et.al.|[2410.21304](http://arxiv.org/abs/2410.21304)|**[link](https://github.com/chikap421/videosam)**|
+|**2024-10-28**|**On Inductive Biases That Enable Generalization of Diffusion Transformers**|Jie An et.al.|[2410.21273](http://arxiv.org/abs/2410.21273)|**[link](https://github.com/dit-generalization/dit-generalization.github.io)**|
+|**2024-10-28**|**KA $^2$ ER: Knowledge Adaptive Amalgamation of ExpeRts for Medical Images Segmentation**|Shangde Gao et.al.|[2410.21085](http://arxiv.org/abs/2410.21085)|null|
+|**2024-10-28**|**SepMamba: State-space models for speaker separation using Mamba**|Thor Højhus Avenstrup et.al.|[2410.20997](http://arxiv.org/abs/2410.20997)|**[link](https://github.com/andrasschin/SepMamba)**|
+|**2024-10-28**|**Robust Segmentation of CPR-Induced Capnogram Using U-net: Overcoming Challenges with Deep Learning**|Andoni Elola et.al.|[2410.20899](http://arxiv.org/abs/2410.20899)|null|
+|**2024-10-28**|**Generative Simulations of The Solar Corona Evolution With Denoising Diffusion : Proof of Concept**|Grégoire Francisco et.al.|[2410.20843](http://arxiv.org/abs/2410.20843)|**[link](https://github.com/gfrancisco20/video_diffusion)**|
+|**2024-11-05**|**A Framework for Real-Time Volcano-Seismic Event Recognition Based on Multi-Station Seismograms and Semantic Segmentation Models**|Camilo Espinosa-Curilem et.al.|[2410.20595](http://arxiv.org/abs/2410.20595)|**[link](https://github.com/camilo-espinosa/volcano-seismic-segmentation)**|
+|**2024-10-26**|**GeoFUSE: A High-Efficiency Surrogate Model for Seawater Intrusion Prediction and Uncertainty Reduction**|Su Jiang et.al.|[2410.20118](http://arxiv.org/abs/2410.20118)|null|
+|**2024-10-25**|**Exploring Self-Supervised Learning with U-Net Masked Autoencoders and EfficientNet B7 for Improved Classification**|Vamshi Krishna Kancharla et.al.|[2410.19899](http://arxiv.org/abs/2410.19899)|null|
+|**2024-10-12**|**A New Perspective to Boost Performance Fairness for Medical Federated Learning**|Yunlu Yan et.al.|[2410.19765](http://arxiv.org/abs/2410.19765)|null|
+|**2024-10-24**|**Diff-Instruct++: Training One-step Text-to-image Generator Model to Align with Human Preferences**|Weijian Luo et.al.|[2410.18881](http://arxiv.org/abs/2410.18881)|null|
+|**2024-10-24**|**Enhancing pretraining efficiency for medical image segmentation via transferability metrics**|Gábor Hidy et.al.|[2410.18677](http://arxiv.org/abs/2410.18677)|**[link](https://github.com/aielte-research/MedSegPretrainImageNet)**|
+|**2024-10-24**|**Uncertainty-Error correlations in Evidential Deep Learning models for biomedical segmentation**|Hai Siong Tan et.al.|[2410.18461](http://arxiv.org/abs/2410.18461)|null|
+|**2024-11-10**|**Multi-Stage Airway Segmentation in Lung CT Based on Multi-scale Nested Residual UNet**|Bingyu Yang et.al.|[2410.18456](http://arxiv.org/abs/2410.18456)|null|
+|**2024-10-23**|**E2E-Swin-Unet++: An Enhanced End-to-End Swin-Unet Architecture With Dual Decoders For PTMC Segmentation**|Maryam Dialameh et.al.|[2410.18239](http://arxiv.org/abs/2410.18239)|null|
+|**2024-11-17**|**Gaze-Assisted Medical Image Segmentation**|Leila Khaertdinova et.al.|[2410.17920](http://arxiv.org/abs/2410.17920)|**[link](https://github.com/leiluk1/gaze-based-segmentation)**|
+|**2024-10-23**|**PGDiffSeg: Prior-Guided Denoising Diffusion Model with Parameter-Shared Attention for Breast Cancer Segmentation**|Feiyan Feng et.al.|[2410.17812](http://arxiv.org/abs/2410.17812)|null|
+|**2024-10-23**|**Double Banking on Knowledge: Customized Modulation and Prototypes for Multi-Modality Semi-supervised Medical Image Segmentation**|Yingyu Chen et.al.|[2410.17565](http://arxiv.org/abs/2410.17565)|null|
+|**2024-10-07**|**Masked Autoencoder with Swin Transformer Network for Mitigating Electrode Shift in HD-EMG-based Gesture Recognition**|Kasra Laamerad et.al.|[2410.17261](http://arxiv.org/abs/2410.17261)|null|
+|**2024-10-22**|**Joint Point Cloud Upsampling and Cleaning with Octree-based CNNs**|Jihe Li et.al.|[2410.17001](http://arxiv.org/abs/2410.17001)|**[link](https://github.com/octree-nn/upsample-clean)**|
+|**2024-10-22**|**LIMIS: Towards Language-based Interactive Medical Image Segmentation**|Lena Heinemann et.al.|[2410.16939](http://arxiv.org/abs/2410.16939)|null|
+|**2024-10-21**|**Label Filling via Mixed Supervision for Medical Image Segmentation from Noisy Annotations**|Ming Li et.al.|[2410.16057](http://arxiv.org/abs/2410.16057)|null|
+|**2024-10-21**|**Leveraging CORAL-Correlation Consistency Network for Semi-Supervised Left Atrium MRI Segmentation**|Xinze Li et.al.|[2410.15916](http://arxiv.org/abs/2410.15916)|**[link](https://github.com/Powertony102/corn_official)**|
+|**2024-10-20**|**Taming Mambas for Voxel Level 3D Medical Image Segmentation**|Luca Lumetti et.al.|[2410.15496](http://arxiv.org/abs/2410.15496)|null|
+|**2024-10-22**|**Multi-Layer Feature Fusion with Cross-Channel Attention-Based U-Net for Kidney Tumor Segmentation**|Fnu Neha et.al.|[2410.15472](http://arxiv.org/abs/2410.15472)|null|
+|**2024-10-20**|**MDFI-Net: Multiscale Differential Feature Interaction Network for Accurate Retinal Vessel Segmentation**|Yiwang Dong et.al.|[2410.15444](http://arxiv.org/abs/2410.15444)|null|
+|**2024-10-20**|**Improving 3D Medical Image Segmentation at Boundary Regions using Local Self-attention and Global Volume Mixing**|Daniya Najiha Abdul Kareem et.al.|[2410.15360](http://arxiv.org/abs/2410.15360)|**[link](https://github.com/Daniyanaj/vMixer)**|
+|**2024-10-19**|**Automated Segmentation and Analysis of Cone Photoreceptors in Multimodal Adaptive Optics Imaging**|Prajol Shrestha et.al.|[2410.15158](http://arxiv.org/abs/2410.15158)|null|
+|**2024-10-19**|**EViT-Unet: U-Net Like Efficient Vision Transformer for Medical Image Segmentation on Mobile and Edge Devices**|Xin Li et.al.|[2410.15036](http://arxiv.org/abs/2410.15036)|**[link](https://github.com/Retinal-Research/EVIT-UNET)**|
+|**2024-10-19**|**Pathologist-like explainable AI for interpretable Gleason grading in prostate cancer**|Gesa Mittmann et.al.|[2410.15012](http://arxiv.org/abs/2410.15012)|null|
+|**2024-10-19**|**SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning**|Zhewei Dai et.al.|[2410.14987](http://arxiv.org/abs/2410.14987)|**[link](https://github.com/HUST-SLOW/SeaS)**|
+|**2024-10-19**|**NeuralMAG: Fast and Generalizable Micromagnetic Simulation with Deep Neural Nets**|Yunqi Cai et.al.|[2410.14986](http://arxiv.org/abs/2410.14986)|**[link](https://github.com/Caiyq2019/NeuralMAG)**|
+|**2024-10-18**|**FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models**|Rui Hu et.al.|[2410.14429](http://arxiv.org/abs/2410.14429)|null|
+|**2024-10-18**|**MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging**|Zhenghao Pan et.al.|[2410.14214](http://arxiv.org/abs/2410.14214)|null|
+|**2024-10-18**|**Shape Transformation Driven by Active Contour for Class-Imbalanced Semi-Supervised Medical Image Segmentation**|Yuliang Gu et.al.|[2410.14210](http://arxiv.org/abs/2410.14210)|**[link](https://github.com/gugull123/stac)**|
+|**2024-10-18**|**Combining Hough Transform and Deep Learning Approaches to Reconstruct ECG Signals From Printouts**|Felix Krones et.al.|[2410.14185](http://arxiv.org/abs/2410.14185)|null|
+|**2024-10-22**|**Data-driven rainfall prediction at a regional scale: a case study with Ghana**|Indrajit Kalita et.al.|[2410.14062](http://arxiv.org/abs/2410.14062)|**[link](https://github.com/indrakalita/RainfallForecasting)**|
+|**2024-10-17**|**Probabilistic U-Net with Kendall Shape Spaces for Geometry-Aware Segmentations of Images**|Jiyoung Park et.al.|[2410.14017](http://arxiv.org/abs/2410.14017)|null|
+|**2024-10-17**|**Islanding Detection for Active Distribution Networks Using WaveNet+UNet Classifier**|Amirhosein Alizadeh et.al.|[2410.13926](http://arxiv.org/abs/2410.13926)|null|
+|**2024-10-17**|**Label-free prediction of fluorescence markers in bovine satellite cells using deep learning**|Sania Sinha et.al.|[2410.13685](http://arxiv.org/abs/2410.13685)|null|
+|**2024-10-17**|**360U-Former: HDR Illumination Estimation with Panoramic Adapted Vision Transformers**|Jack Hilliard et.al.|[2410.13566](http://arxiv.org/abs/2410.13566)|null|
+|**2024-10-18**|**AI-based 3-Lead to 12-Lead ECG Reconstruction: Towards Smartphone-based Public Healthcare**|Aditya Mallick et.al.|[2410.13528](http://arxiv.org/abs/2410.13528)|null|
+|**2024-10-17**|**SemSim: Revisiting Weak-to-Strong Consistency from a Semantic Similarity Perspective for Semi-supervised Medical Image Segmentation**|Shiao Xie et.al.|[2410.13486](http://arxiv.org/abs/2410.13486)|null|
+|**2024-10-17**|**Day-Night Adaptation: An Innovative Source-free Adaptation Framework for Medical Image Segmentation**|Ziyang Chen et.al.|[2410.13472](http://arxiv.org/abs/2410.13472)|null|
+|**2024-10-17**|**Precipitation Nowcasting Using Diffusion Transformer with Causal Attention**|ChaoRong Li et.al.|[2410.13314](http://arxiv.org/abs/2410.13314)|null|
+|**2024-10-02**|**Segment as You Wish -- Free-Form Language-Based Segmentation for Medical Images**|Longchao Da et.al.|[2410.12831](http://arxiv.org/abs/2410.12831)|null|
+|**2024-10-16**|**Transformer based super-resolution downscaling for regional reanalysis: Full domain vs tiling approaches**|Antonio Pérez et.al.|[2410.12728](http://arxiv.org/abs/2410.12728)|null|
+|**2024-10-16**|**Cascade learning in multi-task encoder-decoder networks for concurrent bone segmentation and glenohumeral joint assessment in shoulder CT scans**|Luca Marsilio et.al.|[2410.12641](http://arxiv.org/abs/2410.12641)|null|
+|**2024-10-31**|**Mind the Context: Attention-Guided Weak-to-Strong Consistency for Enhanced Semi-Supervised Medical Image Segmentation**|Yuxuan Cheng et.al.|[2410.12419](http://arxiv.org/abs/2410.12419)|null|
+|**2024-10-15**|**Visual Fixation-Based Retinal Prosthetic Simulation**|Yuli Wu et.al.|[2410.11688](http://arxiv.org/abs/2410.11688)|null|
+|**2024-10-13**|**STA-Unet: Rethink the semantic redundant for Medical Imaging Segmentation**|Vamsi Krishna Vasa et.al.|[2410.11578](http://arxiv.org/abs/2410.11578)|**[link](https://github.com/retinal-research/sta-unet)**|
+|**2024-10-15**|**Dual-Teacher Ensemble Models with Double-Copy-Paste for 3D Semi-Supervised Medical Image Segmentation**|Zhan Fa et.al.|[2410.11509](http://arxiv.org/abs/2410.11509)|**[link](https://github.com/fazhan-cs/dcp)**|
+|**2024-10-16**|**A Unified Framework for Forward and Inverse Problems in Subsurface Imaging using Latent Space Translations**|Naveen Gupta et.al.|[2410.11247](http://arxiv.org/abs/2410.11247)|null|
+|**2024-10-14**|**CleanUMamba: A Compact Mamba Network for Speech Denoising using Channel Pruning**|Sjoerd Groot et.al.|[2410.11062](http://arxiv.org/abs/2410.11062)|null|
+|**2024-10-14**|**Boosting Camera Motion Control for Video Diffusion Transformers**|Soon Yau Cheong et.al.|[2410.10802](http://arxiv.org/abs/2410.10802)|null|
+|**2024-10-14**|**Benefiting from Quantum? A Comparative Study of Q-Seg, Quantum-Inspired Techniques, and U-Net for Crack Segmentation**|Akshaya Srinivasan et.al.|[2410.10713](http://arxiv.org/abs/2410.10713)|null|
+|**2024-10-14**|**WAND: Wavelet Analysis-based Neural Decomposition of MRS Signals for Artifact Removal**|Julian P. Merkofer et.al.|[2410.10427](http://arxiv.org/abs/2410.10427)|**[link](https://github.com/julianmer/wand-for-mrs)**|
+|**2024-10-14**|**Affinity-Graph-Guided Contractive Learning for Pretext-Free Medical Image Segmentation with Minimal Annotation**|Zehua Cheng et.al.|[2410.10366](http://arxiv.org/abs/2410.10366)|null|
+|**2024-10-15**|**Pubic Symphysis-Fetal Head Segmentation Network Using BiFormer Attention Mechanism and Multipath Dilated Convolution**|Pengzhou Cai et.al.|[2410.10352](http://arxiv.org/abs/2410.10352)|null|
+|**2024-10-18**|**Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective**|Xiangru Zhu et.al.|[2410.10291](http://arxiv.org/abs/2410.10291)|**[link](https://github.com/zhuxiangru/semvarbench)**|
+|**2024-10-14**|**Manifold-Aware Local Feature Modeling for Semi-Supervised Medical Image Segmentation**|Sicheng Shen et.al.|[2410.10287](http://arxiv.org/abs/2410.10287)|**[link](https://github.com/sichengs/manet)**|
+|**2024-10-16**|**MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting**|Yue Zhang et.al.|[2410.10122](http://arxiv.org/abs/2410.10122)|**[link](https://github.com/tmelyralab/musetalk)**|
+|**2024-10-14**|**High-Precision Dichotomous Image Segmentation via Probing Diffusion Capacity**|Qian Yu et.al.|[2410.10105](http://arxiv.org/abs/2410.10105)|null|
+|**2024-10-25**|**Few Exemplar-Based General Medical Image Segmentation via Domain-Aware Selective Adaptation**|Chen Xu et.al.|[2410.09254](http://arxiv.org/abs/2410.09254)|null|
+|**2024-10-11**|**Cross-Domain Distribution Alignment for Segmentation of Private Unannotated 3D Medical Images**|Ruitong Sun et.al.|[2410.09210](http://arxiv.org/abs/2410.09210)|**[link](https://github.com/rusu4943/3d-sfuda)**|
+|**2024-10-11**|**RealEra: Semantic-level Concept Erasure via Neighbor-Concept Mining**|Yufan Liu et.al.|[2410.09140](http://arxiv.org/abs/2410.09140)|null|
+|**2024-10-12**|**CrackSegDiff: Diffusion Probability Model-based Multi-modal Crack Segmentation**|Xiaoyan Jiang et.al.|[2410.08100](http://arxiv.org/abs/2410.08100)|**[link](https://github.com/sky-visionx/cracksegdiff)**|
+|**2024-10-10**|**FLIER: Few-shot Language Image Models Embedded with Latent Representations**|Zhinuo Zhou et.al.|[2410.07648](http://arxiv.org/abs/2410.07648)|null|
+|**2024-10-10**|**Moyun: A Diffusion-Based Model for Style-Specific Chinese Calligraphy Generation**|Kaiyuan Liu et.al.|[2410.07618](http://arxiv.org/abs/2410.07618)|null|
+|**2024-10-09**|**Exploring the design space of deep-learning-based weather forecasting systems**|Shoaib Ahmed Siddiqui et.al.|[2410.07472](http://arxiv.org/abs/2410.07472)|null|
+|**2024-11-01**|**Aligning Motion-Blurred Images Using Contrastive Learning on Overcomplete Pixels**|Leonid Pogorelyuk et.al.|[2410.07410](http://arxiv.org/abs/2410.07410)|**[link](https://github.com/leonidprinceton/oxels)**|
+|**2024-10-08**|**Reconstruction of Particle Flow Energy Distribution Using Deep Learning Algorithms**|Han Zhang et.al.|[2410.07250](http://arxiv.org/abs/2410.07250)|**[link](https://github.com/image-processing-particle-flow/project1)**|
+|**2024-10-09**|**Selecting the Best Sequential Transfer Path for Medical Image Segmentation with Limited Labeled Data**|Jingyun Yang et.al.|[2410.06892](http://arxiv.org/abs/2410.06892)|**[link](https://github.com/hiyoochan/sequentialtransfer)**|
+|**2024-10-09**|**K-SAM: A Prompting Method Using Pretrained U-Net to Improve Zero Shot Performance of SAM on Lung Segmentation in CXR Images**|Mohamed Deriche et.al.|[2410.06825](http://arxiv.org/abs/2410.06825)|null|
+|**2024-10-09**|**An Improved Approach for Cardiac MRI Segmentation based on 3D UNet Combined with Papillary Muscle Exclusion**|Narjes Benameur et.al.|[2410.06818](http://arxiv.org/abs/2410.06818)|null|
+|**2024-10-08**|**Topology-Agnostic Graph U-Nets for Scalar Field Prediction on Unstructured Meshes**|Kevin Ferguson et.al.|[2410.06406](http://arxiv.org/abs/2410.06406)|**[link](https://github.com/kevinferg/graph-field-prediction)**|
+|**2024-10-08**|**UnSeGArmaNet: Unsupervised Image Segmentation using Graph Neural Networks with Convolutional ARMA Filters**|Kovvuri Sai Gopal Reddy et.al.|[2410.06114](http://arxiv.org/abs/2410.06114)|**[link](https://github.com/ksgr5566/unsegarmanet)**|
+|**2024-10-08**|**MedUniSeg: 2D and 3D Medical Image Segmentation via a Prompt-driven Universal Model**|Yiwen Ye et.al.|[2410.05905](http://arxiv.org/abs/2410.05905)|**[link](https://github.com/yeerwen/uniseg)**|
+|**2024-10-08**|**Remote Sensing Image Segmentation Using Vision Mamba and Multi-Scale Multi-Frequency Feature Fusion**|Yice Cao et.al.|[2410.05624](http://arxiv.org/abs/2410.05624)|null|
+|**2024-10-08**|**Improved deep learning of chaotic dynamical systems with multistep penalty losses**|Dibyajyoti Chakraborty et.al.|[2410.05572](http://arxiv.org/abs/2410.05572)|null|
+|**2024-10-10**|**The Dawn of Video Generation: Preliminary Explorations with SORA-like Models**|Ailing Zeng et.al.|[2410.05227](http://arxiv.org/abs/2410.05227)|null|
+|**2024-10-07**|**Editing Music with Melody and Text: Using ControlNet for Diffusion Transformer**|Siyuan Hou et.al.|[2410.05151](http://arxiv.org/abs/2410.05151)|null|
+|**2024-10-07**|**RelUNet: Relative Channel Fusion U-Net for Multichannel Speech Enhancement**|Ibrahim Aldarmaki et.al.|[2410.05019](http://arxiv.org/abs/2410.05019)|null|
+|**2024-10-06**|**AdaptDiff: Cross-Modality Domain Adaptation via Weak Conditional Semantic Diffusion for Retinal Vessel Segmentation**|Dewei Hu et.al.|[2410.04648](http://arxiv.org/abs/2410.04648)|**[link](https://github.com/deweihu/adaptdiff)**|
+|**2024-10-06**|**U-net based prediction of cerebrospinal fluid distribution and ventricular reflux grading**|Melanie Rieff et.al.|[2410.04460](http://arxiv.org/abs/2410.04460)|null|
+|**2024-10-06**|**A Mathematical Explanation of UNet**|Xue-Cheng Tai et.al.|[2410.04434](http://arxiv.org/abs/2410.04434)|null|
+|**2024-10-05**|**Deep Learning generated observations of galaxy clusters from dark-matter-only simulations**|Andrés Caro et.al.|[2410.04229](http://arxiv.org/abs/2410.04229)|null|
+|**2024-10-05**|**DB-SAM: Delving into High Quality Universal Medical Image Segmentation**|Chao Qin et.al.|[2410.04172](http://arxiv.org/abs/2410.04172)|**[link](https://github.com/alfredqin/db-sam)**|
+|**2024-10-05**|**IceCloudNet: 3D reconstruction of cloud ice from Meteosat SEVIRI**|Kai Jeggle et.al.|[2410.04135](http://arxiv.org/abs/2410.04135)|**[link](https://github.com/tabularaza27/ice_cloud_net)**|
+|**2024-10-05**|**Optimizing Medical Image Segmentation with Advanced Decoder Design**|Weibin Yang et.al.|[2410.04128](http://arxiv.org/abs/2410.04128)|**[link](https://github.com/willbeanyang/swin-der)**|
+|**2024-10-05**|**WAVE-UNET: Wavelength based Image Reconstruction method using attention UNET for OCT images**|Maryam Viqar et.al.|[2410.04123](http://arxiv.org/abs/2410.04123)|null|
+|**2024-10-04**|**Interpolation-Free Deep Learning for Meteorological Downscaling on Unaligned Grids Across Multiple Domains with Application to Wind Power**|Jean-Sébastien Giroux et.al.|[2410.03945](http://arxiv.org/abs/2410.03945)|null|
+|**2024-10-04**|**SONIQUE: Video Background Music Generation Using Unpaired Audio-Visual Data**|Liqian Zhang et.al.|[2410.03879](http://arxiv.org/abs/2410.03879)|**[link](https://github.com/zxxwxyyy/sonique)**|
+|**2024-10-08**|**TrustEMG-Net: Using Representation-Masking Transformer with U-Net for Surface Electromyography Enhancement**|Kuan-Chen Wang et.al.|[2410.03843](http://arxiv.org/abs/2410.03843)|**[link](https://github.com/eric-wang135/TrustEMG)**|
+|**2024-10-17**|**Lost in Tracking: Uncertainty-guided Cardiac Cine MRI Segmentation at Right Ventricle Base**|Yidong Zhao et.al.|[2410.03320](http://arxiv.org/abs/2410.03320)|null|
+|**2024-10-04**|**Generative Edge Detection with Stable Diffusion**|Caixia Zhou et.al.|[2410.03080](http://arxiv.org/abs/2410.03080)|null|
+|**2024-10-03**|**Galaxy-Galaxy Strong Lensing with U-Net (GGSL-UNet). I. Extracting 2-Dimensional Information from Multi-Band Images in Ground and Space Observations**|Fucheng Zhong et.al.|[2410.02936](http://arxiv.org/abs/2410.02936)|**[link](https://github.com/Fucheng-Zhong/GGSL-UNet)**|
+|**2024-09-19**|**KLDD: Kalman Filter based Linear Deformable Diffusion Model in Retinal Image Segmentation**|Zhihao Zhao et.al.|[2410.02808](http://arxiv.org/abs/2410.02808)|null|
+|**2024-10-03**|**Med-TTT: Vision Test-Time Training model for Medical Image Segmentation**|Jiashu Xu et.al.|[2410.02523](http://arxiv.org/abs/2410.02523)|**[link](https://github.com/jiashu-xu/med-ttt)**|
+|**2024-10-04**|**MedVisionLlama: Leveraging Pre-Trained Large Language Model Layers to Enhance Medical Image Segmentation**|Gurucharan Marthi Krishna Kumar et.al.|[2410.02458](http://arxiv.org/abs/2410.02458)|null|
+|**2024-10-03**|**Learning K-U-Net with constant complexity: An Application to time series forecasting**|Jiang You et.al.|[2410.02438](http://arxiv.org/abs/2410.02438)|null|
+|**2024-10-03**|**A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond**|Shubhi Bansal et.al.|[2410.02362](http://arxiv.org/abs/2410.02362)|**[link](https://github.com/madhavaprasath23/awesome-mamba-papers-on-medical-domain)**|
+|**2024-10-03**|**Comparative Analysis of Deep Learning Architectures for Breast Region Segmentation with a Novel Breast Boundary Proposal**|Sam Narimani et.al.|[2410.02337](http://arxiv.org/abs/2410.02337)|null|
+|**2024-10-03**|**CTARR: A fast and robust method for identifying anatomical regions on CT images via atlas registration**|Thomas Buddenkotte et.al.|[2410.02316](http://arxiv.org/abs/2410.02316)|**[link](https://github.com/thomasbudd/ctarr)**|
+|**2024-10-04**|**Decoupling Layout from Glyph in Online Chinese Handwriting Generation**|Min-Si Ren et.al.|[2410.02309](http://arxiv.org/abs/2410.02309)|null|
+|**2024-10-03**|**MDSGen: Fast and Efficient Masked Diffusion Temporal-Aware Transformers for Open-Domain Sound Generation**|Trung X. Pham et.al.|[2410.02130](http://arxiv.org/abs/2410.02130)|null|
+|**2024-10-03**|**DMC-Net: Lightweight Dynamic Multi-Scale and Multi-Resolution Convolution Network for Pancreas Segmentation in CT Images**|Jin Yang et.al.|[2410.02129](http://arxiv.org/abs/2410.02129)|null|
+|**2024-10-02**|**Deep learning assisted high resolution microscopy image processing for phase segmentation in functional composite materials**|Ganesh Raghavendran et.al.|[2410.01928](http://arxiv.org/abs/2410.01928)|null|
+|**2024-10-02**|**PASS:Test-Time Prompting to Adapt Styles and Semantic Shapes in Medical Image Segmentation**|Chuyan Zhang et.al.|[2410.01573](http://arxiv.org/abs/2410.01573)|**[link](https://github.com/endoluminalsurgicalvision-imr/pass)**|
+|**2024-10-09**|**RobustEMD: Domain Robust Matching for Cross-domain Few-shot Medical Image Segmentation**|Yazhou Zhu et.al.|[2410.01110](http://arxiv.org/abs/2410.01110)|null|
+|**2024-10-01**|**Y-CA-Net: A Convolutional Attention Based Network for Volumetric Medical Image Segmentation**|Muhammad Hamza Sharif et.al.|[2410.01003](http://arxiv.org/abs/2410.01003)|null|
+|**2024-10-01**|**TransResNet: Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting**|Muhammad Hamza Sharif et.al.|[2410.00986](http://arxiv.org/abs/2410.00986)|**[link](https://github.com/sharifmhamza/transresnet)**|
+|**2024-10-01**|**Deep Multimodal Fusion for Semantic Segmentation of Remote Sensing Earth Observation Data**|Ivica Dimitrovski et.al.|[2410.00469](http://arxiv.org/abs/2410.00469)|null|
+|**2024-09-30**|**KANDU-Net:A Dual-Channel U-Net with KAN for Medical Image Segmentation**|Chenglin Fang et.al.|[2409.20414](http://arxiv.org/abs/2409.20414)|null|
+|**2024-09-30**|**Leveraging CAM Algorithms for Explaining Medical Semantic Segmentation**|Tillmann Rheude et.al.|[2409.20287](http://arxiv.org/abs/2409.20287)|**[link](https://github.com/TillmannRheude/SegHiResGrad_CAM)**|
+|**2024-09-30**|**Medical Image Segmentation with SAM-generated Annotations**|Iira Häkkinen et.al.|[2409.20253](http://arxiv.org/abs/2409.20253)|null|
+|**2024-09-29**|**Hyperspectral Unmixing of Agricultural Images taken from UAV Using Adapted U-Net Architecture**|Vytautas Paura et.al.|[2409.19701](http://arxiv.org/abs/2409.19701)|null|
+|**2024-11-18**|**MedCLIP-SAMv2: Towards Universal Text-Driven Medical Image Segmentation**|Taha Koleilat et.al.|[2409.19483](http://arxiv.org/abs/2409.19483)|**[link](https://github.com/healthx-lab/medclip-samv2)**|
+|**2024-09-28**|**Toward Deep Learning-based Segmentation and Quantitative Analysis of Cervical Spinal Cord Magnetic Resonance Images**|Maryam Tavakol Elahi et.al.|[2409.19354](http://arxiv.org/abs/2409.19354)|null|
+|**2024-10-02**|**Fusion is all you need: Face Fusion for Customized Identity-Preserving Image Synthesis**|Salaheldin Mohamed et.al.|[2409.19111](http://arxiv.org/abs/2409.19111)|null|
+|**2024-09-27**|**MIMII-Gen: Generative Modeling Approach for Simulated Evaluation of Anomalous Sound Detection System**|Harsh Purohit et.al.|[2409.18542](http://arxiv.org/abs/2409.18542)|null|
+|**2024-09-27**|**Underwater Image Enhancement with Physical-based Denoising Diffusion Implicit Models**|Nguyen Gia Bach et.al.|[2409.18476](http://arxiv.org/abs/2409.18476)|**[link](https://github.com/bachzz/uw-diffphys)**|
+|**2024-09-26**|**DRL-STNet: Unsupervised Domain Adaptation for Cross-modality Medical Image Segmentation via Disentangled Representation Learning**|Hui Lin et.al.|[2409.18340](http://arxiv.org/abs/2409.18340)|null|
+|**2024-10-01**|**Automated Segmentation and Analysis of Microscopy Images of Laser Powder Bed Fusion Melt Tracks**|Aagam Shah et.al.|[2409.18326](http://arxiv.org/abs/2409.18326)|null|
+|**2024-09-26**|**PNR: Physics-informed Neural Representation for high-resolution LFM reconstruction**|Jiayin Zhao et.al.|[2409.18223](http://arxiv.org/abs/2409.18223)|null|
+|**2024-09-26**|**EM-Net: Efficient Channel and Frequency Learning with Mamba for 3D Medical Image Segmentation**|Ao Chang et.al.|[2409.17675](http://arxiv.org/abs/2409.17675)|**[link](https://github.com/zang0902/EM-Net)**|
+|**2024-09-26**|**Pixel-Space Post-Training of Latent Diffusion Models**|Christina Zhang et.al.|[2409.17565](http://arxiv.org/abs/2409.17565)|null|
+|**2024-09-26**|**Shape-intensity knowledge distillation for robust medical image segmentation**|Wenhui Dong et.al.|[2409.17503](http://arxiv.org/abs/2409.17503)|**[link](https://github.com/whdong-whu/sikd)**|
+|**2024-10-29**|**Global-Local Medical SAM Adaptor Based on Full Adaption**|Meng Wang et.al.|[2409.17486](http://arxiv.org/abs/2409.17486)|null|
+|**2024-09-25**|**AgRegNet: A Deep Regression Network for Flower and Fruit Density Estimation, Localization, and Counting in Orchards**|Uddhav Bhattarai et.al.|[2409.17400](http://arxiv.org/abs/2409.17400)|null|
+|**2024-09-25**|**Small metal artifact detection and inpainting in cardiac CT images**|Trevor McKeown et.al.|[2409.17342](http://arxiv.org/abs/2409.17342)|null|
+|**2024-09-25**|**SEN12-WATER: A New Dataset for Hydrological Applications and its Benchmarking**|Luigi Russo et.al.|[2409.17087](http://arxiv.org/abs/2409.17087)|null|
+|**2024-09-25**|**Going Beyond U-Net: Assessing Vision Transformers for Semantic Segmentation in Microscopy Image Analysis**|Illia Tsiporenko et.al.|[2409.16940](http://arxiv.org/abs/2409.16940)|null|
+|**2024-09-25**|**Real-time fetAl brain and placental T2* mapping at 0.55T low-field MRI (RAT)**|Jordina Aviles Verdera et.al.|[2409.16878](http://arxiv.org/abs/2409.16878)|null|
+|**2024-09-25**|**The Effect of Lossy Compression on 3D Medical Images Segmentation with Deep Learning**|Anvar Kurmukov et.al.|[2409.16733](http://arxiv.org/abs/2409.16733)|null|
+|**2024-10-04**|**SDCL: Students Discrepancy-Informed Correction Learning for Semi-supervised Medical Image Segmentation**|Bentao Song et.al.|[2409.16728](http://arxiv.org/abs/2409.16728)|**[link](https://github.com/pascalcpp/sdcl)**|
+|**2024-10-02**|**Segmentation Strategies in Deep Learning for Prostate Cancer Diagnosis: A Comparative Study of Mamba, SAM, and YOLO**|Ali Badiezadeh et.al.|[2409.16205](http://arxiv.org/abs/2409.16205)|null|
+|**2024-09-24**|**Multi-Model Ensemble Approach for Accurate Bi-Atrial Segmentation in LGE-MRI of Atrial Fibrillation Patients**|Lucas Beveridge et.al.|[2409.16083](http://arxiv.org/abs/2409.16083)|null|
+|**2024-09-24**|**Deep convolutional framelets for dose reconstruction in BNCT with Compton camera detector**|Angelo Didonna et.al.|[2409.15916](http://arxiv.org/abs/2409.15916)|null|
+|**2024-09-24**|**FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving**|Erxin Guo et.al.|[2409.15841](http://arxiv.org/abs/2409.15841)|null|
+|**2024-09-23**|**Deep Learning Approach for Knee Point Detection on Noisy Data**|Ting Yan Fok et.al.|[2409.15608](http://arxiv.org/abs/2409.15608)|null|
+|**2024-09-23**|**Adenocarcinoma Segmentation Using Pre-trained Swin-UNet with Parallel Cross-Attention for Multi-Domain Imaging**|Abdul Qayyum et.al.|[2409.15501](http://arxiv.org/abs/2409.15501)|null|
+|**2024-09-05**|**Enhancing coastal water body segmentation with Landsat Irish Coastal Segmentation (LICS) dataset**|Conor O'Sullivan et.al.|[2409.15311](http://arxiv.org/abs/2409.15311)|null|
+|**2024-09-23**|**MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning**|Yue Han et.al.|[2409.15179](http://arxiv.org/abs/2409.15179)|null|
+|**2024-09-23**|**Deep Learning-Based Automated Post-Operative Gross Tumor Volume Segmentation in Glioblastoma Patients**|Rajarajeswari Muthusivarajan et.al.|[2409.15177](http://arxiv.org/abs/2409.15177)|null|
+|**2024-09-23**|**LoVA: Long-form Video-to-Audio Generation**|Xin Cheng et.al.|[2409.15157](http://arxiv.org/abs/2409.15157)|null|
+|**2024-09-23**|**MAR-DTN: Metal Artifact Reduction using Domain Transformation Network for Radiotherapy Planning**|Belén Serrano-Antón et.al.|[2409.15155](http://arxiv.org/abs/2409.15155)|null|
+|**2024-09-23**|**Two Deep Learning Solutions for Automatic Blurring of Faces in Videos**|Roman Plaud et.al.|[2409.14828](http://arxiv.org/abs/2409.14828)|null|
+|**2024-09-25**|**TransUKAN:Computing-Efficient Hybrid KAN-Transformer for Enhanced Medical Image Segmentation**|Yanlin Wu et.al.|[2409.14676](http://arxiv.org/abs/2409.14676)|null|
+|**2024-09-22**|**UU-Mamba: Uncertainty-aware U-Mamba for Cardiovascular Segmentation**|Ting Yu Tsai et.al.|[2409.14305](http://arxiv.org/abs/2409.14305)|**[link](https://github.com/tiffany9056/uu-mamba)**|
+|**2024-09-28**|**Nonlinear Inverse Design of Mechanical Multi-Material Metamaterials Enabled by Video Denoising Diffusion and Structure Identifier**|Jaewan Park et.al.|[2409.13908](http://arxiv.org/abs/2409.13908)|null|
+|**2024-09-20**|**Multi-Modality Conditioned Variational U-Net for Field-of-View Extension in Brain Diffusion MRI**|Zhiyuan Li et.al.|[2409.13846](http://arxiv.org/abs/2409.13846)|null|
+|**2024-09-20**|**Transfer Learning and Double U-Net Empowered Wave Propagation Model in Complex Indoor Environment**|Ziheng Fu et.al.|[2409.13833](http://arxiv.org/abs/2409.13833)|null|
+|**2024-09-19**|**AutoPET III Challenge: Tumor Lesion Segmentation using ResEnc-Model Ensemble**|Tanya Chutani et.al.|[2409.13779](http://arxiv.org/abs/2409.13779)|null|
+|**2024-09-20**|**Improved Unet brain tumor image segmentation based on GSConv module and ECA attention mechanism**|Qiyuan Tian et.al.|[2409.13626](http://arxiv.org/abs/2409.13626)|null|
+|**2024-09-20**|**PlainUSR: Chasing Faster ConvNet for Efficient Super-Resolution**|Yan Wang et.al.|[2409.13435](http://arxiv.org/abs/2409.13435)|**[link](https://github.com/icandle/plainusr)**|
+|**2024-09-20**|**Understanding Stain Separation Improves Cross-Scanner Adenocarcinoma Segmentation with Joint Multi-Task Learning**|Ho Heon Kim et.al.|[2409.13246](http://arxiv.org/abs/2409.13246)|null|
+|**2024-09-20**|**GASA-UNet: Global Axial Self-Attention U-Net for 3D Medical Image Segmentation**|Chengkun Sun et.al.|[2409.13146](http://arxiv.org/abs/2409.13146)|null|
+|**2024-09-19**|**AutoPET III Challenge: PET/CT Semantic Segmentation**|Reza Safdari et.al.|[2409.13006](http://arxiv.org/abs/2409.13006)|null|
+|**2024-09-19**|**Semi-overcomplete convolutional auto-encoder embedding as shape priors for deep vessel segmentation**|Amine Sadikine et.al.|[2409.13001](http://arxiv.org/abs/2409.13001)|null|
+|**2024-09-19**|**Fast End-to-End Generation of Belief Space Paths for Minimum Sensing Navigation**|Lukas Taus et.al.|[2409.12902](http://arxiv.org/abs/2409.12902)|null|
+|**2024-09-19**|**PMR-Net: Parallel Multi-Resolution Encoder-Decoder Network Framework for Medical Image Segmentation**|Xiaogang Du et.al.|[2409.12678](http://arxiv.org/abs/2409.12678)|null|
+|**2024-09-19**|**MambaClinix: Hierarchical Gated Convolution and Mamba-Based U-Net for Enhanced 3D Medical Image Segmentation**|Chenyuan Bian et.al.|[2409.12533](http://arxiv.org/abs/2409.12533)|**[link](https://github.com/cyb08/mambaclinix-pytorch)**|
+|**2024-09-19**|**Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation**|Zhikai Wei et.al.|[2409.12522](http://arxiv.org/abs/2409.12522)|**[link](https://github.com/wkklavis/dapsam)**|
+|**2024-09-18**|**Axial Attention Transformer Networks: A New Frontier in Breast Cancer Detection**|Weijie He et.al.|[2409.12347](http://arxiv.org/abs/2409.12347)|null|
+|**2024-09-18**|**Scale-specific auxiliary multi-task contrastive learning for deep liver vessel segmentation**|Amine Sadikine et.al.|[2409.12333](http://arxiv.org/abs/2409.12333)|null|
+|**2024-09-18**|**GCA-SUN: A Gated Context-Aware Swin-UNet for Exemplar-Free Counting**|Yuzhe Wu et.al.|[2409.12249](http://arxiv.org/abs/2409.12249)|null|
+|**2024-09-18**|**World of Forms: Deformable Geometric Templates for One-Shot Surface Meshing in Coronary CT Angiography**|Rudolf L. M. van Herten et.al.|[2409.11837](http://arxiv.org/abs/2409.11837)|null|
+|**2024-09-18**|**DPI-TTS: Directional Patch Interaction for Fast-Converging and Style Temporal Modeling in Text-to-Speech**|Xin Qi et.al.|[2409.11835](http://arxiv.org/abs/2409.11835)|null|
+|**2024-09-18**|**PainDiffusion: Can robot express pain?**|Quang Tien Dam et.al.|[2409.11635](http://arxiv.org/abs/2409.11635)|null|
+|**2024-09-17**|**Retinal Vessel Segmentation with Deep Graph and Capsule Reasoning**|Xinxu Wei et.al.|[2409.11508](http://arxiv.org/abs/2409.11508)|null|
+|**2024-09-18**|**TTT-Unet: Enhancing U-Net with Test-Time Training Layers for Biomedical Image Segmentation**|Rong Zhou et.al.|[2409.11299](http://arxiv.org/abs/2409.11299)|**[link](https://github.com/rongzhou7/ttt-unet)**|
+|**2024-09-17**|**SDP: Spiking Diffusion Policy for Robotic Manipulation with Learnable Channel-Wise Membrane Thresholds**|Zhixing Hou et.al.|[2409.11195](http://arxiv.org/abs/2409.11195)|null|
+|**2024-09-16**|**Deep Learning tools to support deforestation monitoring in the Ivory Coast using SAR and Optical satellite imagery**|Gabriele Sartor et.al.|[2409.11186](http://arxiv.org/abs/2409.11186)|null|
+|**2024-09-17**|**Enhanced segmentation of femoral bone metastasis in CT scans of patients using synthetic data generation with 3D diffusion models**|Emile Saillard et.al.|[2409.11011](http://arxiv.org/abs/2409.11011)|null|
+|**2024-09-16**|**Using Generative Models to Produce Realistic Populations of the United Kingdom Windstorms**|Etron Yee Chun Tsoi et.al.|[2409.10696](http://arxiv.org/abs/2409.10696)|null|
+|**2024-09-16**|**Learning Semi-Supervised Medical Image Segmentation from Spatial Registration**|Qianying Liu et.al.|[2409.10422](http://arxiv.org/abs/2409.10422)|null|
+|**2024-09-17**|**Fuse4Seg: Image-Level Fusion Based Multi-Modality Medical Image Segmentation**|Yuchen Guo et.al.|[2409.10328](http://arxiv.org/abs/2409.10328)|null|
+|**2024-09-16**|**AutoPET Challenge III: Testing the Robustness of Generalized Dice Focal Loss trained 3D Residual UNet for FDG and PSMA Lesion Segmentation from Whole-Body PET/CT Images**|Shadab Ahamed et.al.|[2409.10151](http://arxiv.org/abs/2409.10151)|**[link](https://github.com/ahxmeds/autosegnet2024)**|
+|**2024-09-16**|**Cross-modality image synthesis from TOF-MRA to CTA using diffusion-based models**|Alexander Koch et.al.|[2409.10089](http://arxiv.org/abs/2409.10089)|null|
+|**2024-09-16**|**AttnMod: Attention-Based New Art Styles**|Shih-Chieh Su et.al.|[2409.10028](http://arxiv.org/abs/2409.10028)|null|
+|**2024-09-15**|**Domain and Content Adaptive Convolutions for Cross-Domain Adenocarcinoma Segmentation**|Frauke Wilm et.al.|[2409.09797](http://arxiv.org/abs/2409.09797)|**[link](https://github.com/DeepMicroscopy/nnUNet)**|
+|**2024-09-15**|**Universal Topology Refinement for Medical Image Segmentation with Polynomial Feature Synthesis**|Liu Li et.al.|[2409.09796](http://arxiv.org/abs/2409.09796)|null|
+|**2024-09-15**|**E-Commerce Inpainting with Mask Guidance in Controlnet for Reducing Overcompletion**|Guandong Li et.al.|[2409.09681](http://arxiv.org/abs/2409.09681)|null|
+|**2024-09-15**|**Mitigating Dimensionality in 2D Rectangle Packing Problem under Reinforcement Learning Schema**|Waldemar Kołodziejczyk et.al.|[2409.09677](http://arxiv.org/abs/2409.09677)|null|
+|**2024-09-14**|**An Augmentation-based Model Re-adaptation Framework for Robust Image Segmentation**|Zheming Zuo et.al.|[2409.09530](http://arxiv.org/abs/2409.09530)|null|
+|**2024-09-13**|**Spectral U-Net: Enhancing Medical Image Segmentation via Spectral Decomposition**|Yaopeng Peng et.al.|[2409.09216](http://arxiv.org/abs/2409.09216)|null|
+|**2024-09-13**|**D2-MLP: Dynamic Decomposed MLP Mixer for Medical Image Segmentation**|Jin Yang et.al.|[2409.08905](http://arxiv.org/abs/2409.08905)|null|
+|**2024-09-13**|**RF Challenge: The Data-Driven Radio Frequency Signal Separation Challenge**|Alejandro Lancho et.al.|[2409.08839](http://arxiv.org/abs/2409.08839)|null|
+|**2024-09-23**|**Pathfinder for Low-altitude Aircraft with Binary Neural Network**|Kaijie Yin et.al.|[2409.08824](http://arxiv.org/abs/2409.08824)|**[link](https://github.com/imrl/pathfinder)**|
+|**2024-09-13**|**Improved Unet model for brain tumor image segmentation based on ASPP-coordinate attention mechanism**|Zixuan Wang et.al.|[2409.08588](http://arxiv.org/abs/2409.08588)|null|
+|**2024-09-13**|**Cross-conditioned Diffusion Model for Medical Image to Image Translation**|Zhaohu Xing et.al.|[2409.08500](http://arxiv.org/abs/2409.08500)|null|
+|**2024-09-13**|**Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images**|Hualiang Wang et.al.|[2409.08492](http://arxiv.org/abs/2409.08492)|null|
+|**2024-09-12**|**SoloAudio: Target Sound Extraction with Language-oriented Audio Diffusion Transformer**|Helin Wang et.al.|[2409.08425](http://arxiv.org/abs/2409.08425)|**[link](https://github.com/wanghelin1997/soloaudio)**|
+|**2024-09-12**|**Improving Text-guided Object Inpainting with Semantic Pre-inpainting**|Yifu Chen et.al.|[2409.08260](http://arxiv.org/abs/2409.08260)|**[link](https://github.com/nnn-s/catdiffusion)**|
+|**2024-09-12**|**Improving Virtual Try-On with Garment-focused Diffusion Models**|Siqi Wan et.al.|[2409.08258](http://arxiv.org/abs/2409.08258)|null|
+|**2024-09-12**|**Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding**|Hongyu Li et.al.|[2409.08251](http://arxiv.org/abs/2409.08251)|null|
+|**2024-09-12**|**Open Source Infrastructure for Automatic Cell Segmentation**|Aaron Rock Menezes et.al.|[2409.08163](http://arxiv.org/abs/2409.08163)|null|
+|**2024-09-12**|**Effective Segmentation of Post-Treatment Gliomas Using Simple Approaches: Artificial Sequence Generation and Ensemble Models**|Heejong Kim et.al.|[2409.08143](http://arxiv.org/abs/2409.08143)|null|
+|**2024-10-01**|**EZIGen: Enhancing zero-shot subject-driven image generation with precise subject encoding and decoupled guidance**|Zicheng Duan et.al.|[2409.08091](http://arxiv.org/abs/2409.08091)|**[link](https://github.com/ZichengDuan/EZIGen)**|
+|**2024-09-12**|**Do Vision Foundation Models Enhance Domain Generalization in Medical Image Segmentation?**|Kerem Cekmeceli et.al.|[2409.07960](http://arxiv.org/abs/2409.07960)|**[link](https://github.com/kerem-cekmeceli/foundation-models-for-medical-imagery)**|
+|**2024-09-12**|**Lagrange Duality and Compound Multi-Attention Transformer for Semi-Supervised Medical Image Segmentation**|Fuchen Zheng et.al.|[2409.07793](http://arxiv.org/abs/2409.07793)|**[link](https://github.com/lzeeorno/lagrange-duality-and-cmaformer)**|
+|**2024-09-12**|**ASSNet: Adaptive Semantic Segmentation Network for Microtumors and Multi-Organ Segmentation**|Fuchen Zheng et.al.|[2409.07779](http://arxiv.org/abs/2409.07779)|**[link](https://github.com/lzeeorno/assnet)**|
+|**2024-09-12**|**DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing**|Zhenyuan Dong et.al.|[2409.07756](http://arxiv.org/abs/2409.07756)|null|
+|**2024-09-11**|**Swin-LiteMedSAM: A Lightweight Box-Based Segment Anything Model for Large-Scale Medical Image Datasets**|Ruochen Gao et.al.|[2409.07172](http://arxiv.org/abs/2409.07172)|null|
+|**2024-09-11**|**Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models**|Jiahang Cao et.al.|[2409.07163](http://arxiv.org/abs/2409.07163)|null|
+|**2024-09-11**|**Dual channel CW nnU-Net for 3D PET-CT Lesion Segmentation in 2024 autoPET III Challenge**|Ching-Wei Wang et.al.|[2409.07144](http://arxiv.org/abs/2409.07144)|**[link](https://github.com/cwwang1979/CW-nnU-Net-for-PET-CT)**|
+|**2024-10-01**|**RICAU-Net: Residual-block Inspired Coordinate Attention U-Net for Segmentation of Small and Sparse Calcium Lesions in Cardiac CT**|Doyoung Park et.al.|[2409.06993](http://arxiv.org/abs/2409.06993)|null|
+|**2024-09-10**|**Sam2Rad: A Segmentation Model for Medical Images with Learnable Prompts**|Assefa Seyoum Wahd et.al.|[2409.06821](http://arxiv.org/abs/2409.06821)|**[link](https://github.com/aswahd/sam2radiology)**|
+|**2024-09-10**|**InstructSing: High-Fidelity Singing Voice Generation via Instructing Yourself**|Chang Zeng et.al.|[2409.06330](http://arxiv.org/abs/2409.06330)|null|
+|**2024-09-10**|**RealisDance: Equip controllable character animation with realistic hands**|Jingkai Zhou et.al.|[2409.06202](http://arxiv.org/abs/2409.06202)|**[link](https://github.com/damo-cv/realisdance)**|
+|**2024-09-09**|**SVS-GAN: Leveraging GANs for Semantic Video Synthesis**|Khaled M. Seyam et.al.|[2409.06074](http://arxiv.org/abs/2409.06074)|null|
+|**2024-09-09**|**Pioneering Precision in Lumbar Spine MRI Segmentation with Advanced Deep Learning and Data Enhancement**|Istiak Ahmed et.al.|[2409.06018](http://arxiv.org/abs/2409.06018)|null|
+|**2024-09-09**|**SX-Stitch: An Efficient VMS-UNet Based Framework for Intraoperative Scoliosis X-Ray Image Stitching**|Yi Li et.al.|[2409.05681](http://arxiv.org/abs/2409.05681)|null|
+|**2024-09-09**|**3D-SAR Tomography and Machine Learning for High-Resolution Tree Height Estimation**|Grace Colverd et.al.|[2409.05636](http://arxiv.org/abs/2409.05636)|null|
+|**2024-09-09**|**FIF-UNet: An Efficient UNet Using Feature Interaction and Fusion for Medical Image Segmentation**|Xiaolin Gou et.al.|[2409.05324](http://arxiv.org/abs/2409.05324)|null|
+|**2024-09-15**|**PMT: Progressive Mean Teacher via Exploring Temporal Consistency for Semi-Supervised Medical Image Segmentation**|Ning Gao et.al.|[2409.05122](http://arxiv.org/abs/2409.05122)|**[link](https://github.com/axi404/pmt)**|
+|**2024-09-19**|**DreamMapping: High-Fidelity Text-to-3D Generation via Variational Distribution Mapping**|Zeyu Cai et.al.|[2409.05099](http://arxiv.org/abs/2409.05099)|null|
+|**2024-09-26**|**Deep Self-Cleansing for Medical Image Segmentation with Noisy Labels**|Jiahua Dong et.al.|[2409.05024](http://arxiv.org/abs/2409.05024)|null|
+|**2024-09-08**|**Attention-Based Efficient Breath Sound Removal in Studio Audio Recordings**|Nidula Elgiriyewithana et.al.|[2409.04949](http://arxiv.org/abs/2409.04949)|null|
+|**2024-09-07**|**Medical Image Segmentation via Single-Source Domain Generalization with Random Amplitude Spectrum Synthesis**|Qiang Qiao et.al.|[2409.04768](http://arxiv.org/abs/2409.04768)|**[link](https://github.com/qintianjian-lab/ras4dg)**|
+|**2024-09-07**|**Training-Free Style Consistent Image Synthesis with Condition and Mask Guidance in E-Commerce**|Guandong Li et.al.|[2409.04750](http://arxiv.org/abs/2409.04750)|null|
+|**2024-09-06**|**Colloidoscope: Detecting Dense Colloids in 3d with Deep Learning**|Abdelwahab Kawafi et.al.|[2409.04603](http://arxiv.org/abs/2409.04603)|**[link](https://github.com/wahabk/colloidoscope)**|
+|**2024-09-06**|**Influence of Early through Late Fusion on Pancreas Segmentation from Imperfectly Registered Multimodal MRI**|Lucas W. Remedios et.al.|[2409.04563](http://arxiv.org/abs/2409.04563)|**[link](https://github.com/masilab/influence_of_fusion_on_pancreas_segmentation)**|
+|**2024-09-06**|**FS-MedSAM2: Exploring the Potential of SAM2 for Few-Shot Medical Image Segmentation without Fine-tuning**|Yunhao Bai et.al.|[2409.04298](http://arxiv.org/abs/2409.04298)|**[link](https://github.com/deepmed-lab-ecnu/fs_medsam2)**|
+|**2024-09-06**|**CISCA and CytoDArk0: a Cell Instance Segmentation and Classification method for histo(patho)logical image Analyses and a new, open, Nissl-stained dataset for brain cytoarchitecture studies**|Valentina Vadori et.al.|[2409.04175](http://arxiv.org/abs/2409.04175)|**[link](https://github.com/Vadori/CytoArk)**|
+|**2024-09-06**|**Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks**|Hangcheng Cao et.al.|[2409.04133](http://arxiv.org/abs/2409.04133)|null|
+|**2024-09-06**|**Boundary feature fusion network for tooth image segmentation**|Dongping Zhang et.al.|[2409.03982](http://arxiv.org/abs/2409.03982)|null|
+|**2024-08-21**|**Exploiting XAI maps to improve MS lesion segmentation and detection in MRI**|Federico Spagnolo et.al.|[2409.03772](http://arxiv.org/abs/2409.03772)|null|
+|**2024-09-05**|**Multimodal Laryngoscopic Video Analysis for Assisted Diagnosis of Vocal Cord Paralysis**|Yucong Zhang et.al.|[2409.03597](http://arxiv.org/abs/2409.03597)|null|
+|**2024-09-05**|**Blended Latent Diffusion under Attention Control for Real-World Video Editing**|Deyin Liu et.al.|[2409.03514](http://arxiv.org/abs/2409.03514)|null|
+|**2024-09-05**|**Improving Uncertainty-Error Correspondence in Deep Bayesian Medical Image Segmentation**|Prerak Mody et.al.|[2409.03470](http://arxiv.org/abs/2409.03470)|**[link](https://github.com/prerakmody/bayesuncertainty-error-correspondence)**|
+|**2024-09-05**|**TG-LMM: Enhancing Medical Image Segmentation Accuracy through Text-Guided Large Multi-Modal Model**|Yihao Zhao et.al.|[2409.03412](http://arxiv.org/abs/2409.03412)|null|
+|**2024-09-05**|**TBConvL-Net: A Hybrid Deep Learning Architecture for Robust Medical Image Segmentation**|Shahzaib Iqbal et.al.|[2409.03367](http://arxiv.org/abs/2409.03367)|null|
+|**2024-09-05**|**Labeled-to-Unlabeled Distribution Alignment for Partially-Supervised Multi-Organ Medical Image Segmentation**|Xixi Jiang et.al.|[2409.03228](http://arxiv.org/abs/2409.03228)|**[link](https://github.com/xjiangmed/ltuda)**|
+|**2024-09-04**|**Coupling AI and Citizen Science in Creation of Enhanced Training Dataset for Medical Image Segmentation**|Amir Syahmi et.al.|[2409.03087](http://arxiv.org/abs/2409.03087)|null|
+|**2024-09-04**|**MobileUNETR: A Lightweight End-To-End Hybrid Vision Transformer For Efficient Medical Image Segmentation**|Shehan Perera et.al.|[2409.03062](http://arxiv.org/abs/2409.03062)|**[link](https://github.com/osupcvlab/mobileunetr)**|
+|**2024-09-04**|**MOSMOS: Multi-organ segmentation facilitated by medical report supervision**|Weiwei Tian et.al.|[2409.02418](http://arxiv.org/abs/2409.02418)|null|
+|**2024-09-03**|**QID $^2$ : An Image-Conditioned Diffusion Model for Q-space Up-sampling of DWI Data**|Zijian Chen et.al.|[2409.02309](http://arxiv.org/abs/2409.02309)|null|
+|**2024-10-17**|**LinFusion: 1 GPU, 1 Minute, 16K Image**|Songhua Liu et.al.|[2409.02097](http://arxiv.org/abs/2409.02097)|**[link](https://github.com/huage001/linfusion)**|
+|**2024-09-03**|**TransDAE: Dual Attention Mechanism in a Hierarchical Transformer for Efficient Medical Image Segmentation**|Bobby Azad et.al.|[2409.02018](http://arxiv.org/abs/2409.02018)|null|
+|**2024-09-12**|**Attenuation of marine seismic interference noise employing a customized U-Net**|Jing Sun et.al.|[2409.01673](http://arxiv.org/abs/2409.01673)|null|
+|**2024-09-02**|**Ground-truth effects in learning-based fiber orientation distribution estimation in neonatal brains**|Rizhong Lin et.al.|[2409.01195](http://arxiv.org/abs/2409.01195)|**[link](https://github.com/medical-image-analysis-laboratory/dl_fiber_domain_shift)**|
+|**2024-09-14**|**DPDEdit: Detail-Preserved Diffusion Models for Multimodal Fashion Image Editing**|Xiaolong Wang et.al.|[2409.01086](http://arxiv.org/abs/2409.01086)|null|
+|**2024-09-02**|**Fed-MUnet: Multi-modal Federated Unet for Brain Tumor Segmentation**|Ruojun Zhou et.al.|[2409.01020](http://arxiv.org/abs/2409.01020)|**[link](https://github.com/arnold-jun/fed-munet)**|
+|**2024-09-02**|**MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM**|Nan Zhou et.al.|[2409.00924](http://arxiv.org/abs/2409.00924)|null|
+|**2024-09-02**|**A Novel Hybrid Parameter-Efficient Fine-Tuning Approach for Hippocampus Segmentation and Alzheimer's Disease Diagnosis**|Wangang Cheng et.al.|[2409.00884](http://arxiv.org/abs/2409.00884)|null|
+|**2024-09-01**|**Misaligned Over-The-Air Computation of Multi-Sensor Data with Wiener-Denoiser Network**|Mingjun Du et.al.|[2409.00738](http://arxiv.org/abs/2409.00738)|**[link](https://github.com/auto-dog/moac_deep)**|
+|**2024-09-01**|**Curriculum Prompting Foundation Models for Medical Image Segmentation**|Xiuqi Zheng et.al.|[2409.00695](http://arxiv.org/abs/2409.00695)|**[link](https://github.com/annazzz-zxq/curriculum-prompting)**|
+|**2024-11-19**|**Modifying the U-Net's Encoder-Decoder Architecture for Segmentation of Tumors in Breast Ultrasound Images**|Sina Derakhshandeh et.al.|[2409.00647](http://arxiv.org/abs/2409.00647)|null|
+|**2024-09-16**|**SMAFormer: Synergistic Multi-Attention Transformer for Medical Image Segmentation**|Fuchen Zheng et.al.|[2409.00346](http://arxiv.org/abs/2409.00346)|**[link](https://github.com/lzeeorno/SMAFormer)**|
+|**2024-08-30**|**Generative AI Enables Medical Image Segmentation in Ultra Low-Data Regimes**|Li Zhang et.al.|[2408.17421](http://arxiv.org/abs/2408.17421)|**[link](https://github.com/importzl/semantic_segmentation)**|
+|**2024-09-02**|**LSMS: Language-guided Scale-aware MedSegmentor for Medical Image Referring Segmentation**|Shuyi Ouyang et.al.|[2408.17347](http://arxiv.org/abs/2408.17347)|null|
+|**2024-08-30**|**VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers**|Juncan Deng et.al.|[2408.17131](http://arxiv.org/abs/2408.17131)|null|
+|**2024-08-29**|**LV-UNet: A Lightweight and Vanilla Model for Medical Image Segmentation**|Juntao Jiang et.al.|[2408.16886](http://arxiv.org/abs/2408.16886)|null|
+|**2024-08-28**|**Uncertainty-aware segmentation for rainfall prediction post processing**|Simone Monaco et.al.|[2408.16792](http://arxiv.org/abs/2408.16792)|null|
+|**2024-08-28**|**Generalization Capabilities of Neural Cellular Automata for Medical Image Segmentation: A Robust and Lightweight Approach**|Steven Korevaar et.al.|[2408.15557](http://arxiv.org/abs/2408.15557)|null|
+|**2024-08-27**|**Automatic 8-tissue Segmentation for 6-month Infant Brains**|Yilan Dong et.al.|[2408.15198](http://arxiv.org/abs/2408.15198)|null|
+|**2024-08-27**|**Machine Learning for Methane Detection and Quantification from Space - A survey**|Enno Tiemann et.al.|[2408.15122](http://arxiv.org/abs/2408.15122)|null|
+|**2024-09-19**|**MeshUp: Multi-Target Mesh Deformation via Blended Score Distillation**|Hyunwoo Kim et.al.|[2408.14899](http://arxiv.org/abs/2408.14899)|null|
+|**2024-08-27**|**OctFusion: Octree-based Diffusion Models for 3D Shape Generation**|Bojun Xiong et.al.|[2408.14732](http://arxiv.org/abs/2408.14732)|**[link](https://github.com/octree-nn/octfusion)**|
+|**2024-08-26**|**BreakNet: Discontinuity-Resilient Multi-Scale Transformer Segmentation of Retinal Layers**|Razieh Ganjee et.al.|[2408.14606](http://arxiv.org/abs/2408.14606)|null|
+|**2024-08-27**|**A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations**|Sheel Nidhan et.al.|[2408.14461](http://arxiv.org/abs/2408.14461)|null|
+|**2024-08-26**|**Few-Shot 3D Volumetric Segmentation with Multi-Surrogate Fusion**|Meng Zheng et.al.|[2408.14427](http://arxiv.org/abs/2408.14427)|null|
+|**2024-08-26**|**LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation**|Trung Dinh Quoc Dang et.al.|[2408.14415](http://arxiv.org/abs/2408.14415)|**[link](https://github.com/oulu-imeds/log-vmamba)**|
+|**2024-08-26**|**A Brief Analysis of the Iterative Next Boundary Detection Network for Tree Rings Delineation in Images of Pinus taeda**|Henry Marichal et.al.|[2408.14343](http://arxiv.org/abs/2408.14343)|**[link](https://github.com/hmarichal93/mlbrief_inbd)**|
+|**2024-11-01**|**Foodfusion: A Novel Approach for Food Image Composition via Diffusion Models**|Chaohua Shi et.al.|[2408.14135](http://arxiv.org/abs/2408.14135)|null|
+|**2024-08-26**|**ShapeMamba-EM: Fine-Tuning Foundation Model with Local Shape Descriptors and Mamba Blocks for 3D EM Image Segmentation**|Ruohua Shi et.al.|[2408.14114](http://arxiv.org/abs/2408.14114)|null|
+|**2024-08-26**|**Pixel-Aligned Multi-View Generation with Depth Guided Decoder**|Zhenggang Tang et.al.|[2408.14016](http://arxiv.org/abs/2408.14016)|null|
+|**2024-10-25**|**PAM: A Propagation-Based Model for Segmenting Any 3D Objects across Multi-Modal Medical Images**|Zifan Chen et.al.|[2408.13836](http://arxiv.org/abs/2408.13836)|null|
+|**2024-08-25**|**MSVM-UNet: Multi-Scale Vision Mamba UNet for Medical Image Segmentation**|Chaowei Chen et.al.|[2408.13735](http://arxiv.org/abs/2408.13735)|**[link](https://github.com/gndlwch2w/msvm-unet)**|
+|**2024-08-27**|**CNN-Transformer Rectified Collaborative Learning for Medical Image Segmentation**|Lanhu Wu et.al.|[2408.13698](http://arxiv.org/abs/2408.13698)|null|
+|**2024-08-24**|**Size Aware Cross-shape Scribble Supervision for Medical Image Segmentation**|Jing Yuan et.al.|[2408.13639](http://arxiv.org/abs/2408.13639)|null|
+|**2024-08-24**|**Topological GCN for Improving Detection of Hip Landmarks from B-Mode Ultrasound Images**|Tianxiang Huang et.al.|[2408.13495](http://arxiv.org/abs/2408.13495)|null|
+|**2024-08-23**|**Task-Oriented Diffusion Inversion for High-Fidelity Text-based Editing**|Yangyang Xu et.al.|[2408.13395](http://arxiv.org/abs/2408.13395)|null|
+|**2024-09-16**|**EasyControl: Transfer ControlNet to Video Diffusion for Controllable Generation and Interpolation**|Cong Wang et.al.|[2408.13005](http://arxiv.org/abs/2408.13005)|null|
+|**2024-08-23**|**From Few to More: Scribble-based Medical Image Segmentation via Masked Context Modeling and Continuous Pseudo Labels**|Zhisong Wang et.al.|[2408.12814](http://arxiv.org/abs/2408.12814)|null|
+|**2024-08-22**|**Research on Improved U-net Based Remote Sensing Image Segmentation Algorithm**|Qiming Yang et.al.|[2408.12672](http://arxiv.org/abs/2408.12672)|null|
+|**2024-08-21**|**Detection of Under-represented Samples Using Dynamic Batch Training for Brain Tumor Segmentation from MR Images**|Subin Sahayam et.al.|[2408.12013](http://arxiv.org/abs/2408.12013)|null|
+|**2024-08-21**|**Pixel Is Not A Barrier: An Effective Evasion Attack for Pixel-Domain Diffusion Models**|Chun-Yen Shih et.al.|[2408.11810](http://arxiv.org/abs/2408.11810)|null|
+|**2024-08-21**|**Approaching Deep Learning through the Spectral Dynamics of Weights**|David Yunis et.al.|[2408.11804](http://arxiv.org/abs/2408.11804)|**[link](https://github.com/dyunis/spectral_dynamics)**|
+|**2024-08-21**|**Enhancing Cross-Modal Medical Image Segmentation through Compositionality**|Aniek Eijpe et.al.|[2408.11733](http://arxiv.org/abs/2408.11733)|**[link](https://github.com/trustworthy-ai-uu-nki/cross-modal-segmentation)**|
+|**2024-08-21**|**FedGS: Federated Gradient Scaling for Heterogeneous Medical Image Segmentation**|Philip Schutte et.al.|[2408.11701](http://arxiv.org/abs/2408.11701)|**[link](https://github.com/trustworthy-ai-uu-nki/federated-learning-disentanglement)**|
+|**2024-10-21**|**UNetMamba: An Efficient UNet-Like Mamba for Semantic Segmentation of High-Resolution Remote Sensing Images**|Enze Zhu et.al.|[2408.11545](http://arxiv.org/abs/2408.11545)|**[link](https://github.com/enzezhu2001/unetmamba)**|
+|**2024-09-07**|**HMT-UNet: A hybird Mamba-Transformer Vision UNet for Medical Image Segmentation**|Mingya Zhang et.al.|[2408.11289](http://arxiv.org/abs/2408.11289)|**[link](https://github.com/simzhangbest/hmt-unet)**|
+|**2024-08-20**|**A Short Review and Evaluation of SAM2's Performance in 3D CT Image Segmentation**|Yufan He et.al.|[2408.11210](http://arxiv.org/abs/2408.11210)|**[link](https://github.com/Project-MONAI/VISTA)**|
+|**2024-08-10**|**Deep Learning for Automated Wound Classification And Segmentation**|Md. Zihad Bin Jahangir et.al.|[2408.11064](http://arxiv.org/abs/2408.11064)|null|
+|**2024-08-20**|**Atmospheric Transport Modeling of CO $_2$ with Neural Networks**|Vitus Benson et.al.|[2408.11032](http://arxiv.org/abs/2408.11032)|**[link](https://github.com/vitusbenson/neural_transport)**|
+|**2024-08-20**|**Radio U-Net: a convolutional neural network to detect diffuse radio sources in galaxy clusters and beyond**|Chiara Stuardi et.al.|[2408.10871](http://arxiv.org/abs/2408.10871)|null|
+|**2024-08-20**|**Multilevel CNNs for Parametric PDEs based on Adaptive Finite Elements**|Janina Enrica Schütte et.al.|[2408.10838](http://arxiv.org/abs/2408.10838)|null|
+|**2024-08-20**|**Constructing a High Temporal Resolution Global Lakes Dataset via Swin-Unet with Applications to Area Prediction**|Yutian Han et.al.|[2408.10821](http://arxiv.org/abs/2408.10821)|null|
+|**2024-08-20**|**Accelerated training of deep learning surrogate models for surface displacement and flow, with application to MCMC-based history matching of CO2 storage operations**|Yifu Han et.al.|[2408.10717](http://arxiv.org/abs/2408.10717)|null|
+|**2024-08-19**|**SAM-UNet:Enhancing Zero-Shot Segmentation of SAM for Universal Medical Images**|Sihan Yang et.al.|[2408.09886](http://arxiv.org/abs/2408.09886)|**[link](https://github.com/hhankyangg/sam-unet)**|
+|**2024-08-19**|**ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement**|Eashan Adhikarla et.al.|[2408.09650](http://arxiv.org/abs/2408.09650)|**[link](https://github.com/eashanadhikarla/expomamba)**|
+|**2024-08-18**|**MedMAP: Promoting Incomplete Multi-modal Brain Tumor Segmentation with Alignment**|Tianyi Liu et.al.|[2408.09465](http://arxiv.org/abs/2408.09465)|null|
+|**2024-08-18**|**FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model**|Ziyu Yao et.al.|[2408.09384](http://arxiv.org/abs/2408.09384)|null|
+|**2024-08-17**|**Thin-Plate Spline-based Interpolation for Animation Line Inbetweening**|Tianyi Zhu et.al.|[2408.09131](http://arxiv.org/abs/2408.09131)|**[link](https://github.com/tian-one/tps-inbetween)**|
+|**2024-10-15**|**U-MedSAM: Uncertainty-aware MedSAM for Medical Image Segmentation**|Xin Wang et.al.|[2408.08881](http://arxiv.org/abs/2408.08881)|**[link](https://github.com/liangzw599/co-developed-by-litemedsam)**|
+|**2024-08-02**|**SHARP-Net: A Refined Pyramid Network for Deficiency Segmentation in Culverts and Sewer Pipes**|Rasha Alshawi et.al.|[2408.08879](http://arxiv.org/abs/2408.08879)|null|
+|**2024-08-16**|**SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation**|Xinyu Xiong et.al.|[2408.08870](http://arxiv.org/abs/2408.08870)|**[link](https://github.com/wzh0120/sam2-unet)**|
+|**2024-08-16**|**Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models**|Lin Zhao et.al.|[2408.08813](http://arxiv.org/abs/2408.08813)|null|
+|**2024-08-16**|**MM-UNet: A Mixed MLP Architecture for Improved Ophthalmic Image Segmentation**|Zunjie Xiao et.al.|[2408.08600](http://arxiv.org/abs/2408.08600)|null|
+|**2024-11-10**|**RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction**|Xiucheng Wang et.al.|[2408.08593](http://arxiv.org/abs/2408.08593)|**[link](https://github.com/unic-lab/radiodiff)**|
+|**2024-08-16**|**Efficient Image-to-Image Diffusion Classifier for Adversarial Robustness**|Hefei Mei et.al.|[2408.08502](http://arxiv.org/abs/2408.08502)|**[link](https://github.com/hfmei/idc)**|
+|**2024-08-15**|**U-WNO: U-Net Enhanced Wavelet Neural Operator for Solving Parametric Partial Differential Equations**|Wei-Min Lei et.al.|[2408.08190](http://arxiv.org/abs/2408.08190)|null|
+|**2024-08-15**|**Learned denoising with simulated and experimental low-dose CT data**|Maximilian B. Kiss et.al.|[2408.08115](http://arxiv.org/abs/2408.08115)|null|
+|**2024-08-15**|**MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation**|Beoungwoo Kang et.al.|[2408.07576](http://arxiv.org/abs/2408.07576)|**[link](https://github.com/hyunwoo137/metaseg)**|
+|**2024-08-16**|**Gradient Alignment Improves Test-Time Adaptation for Medical Image Segmentation**|Ziyang Chen et.al.|[2408.07343](http://arxiv.org/abs/2408.07343)|null|
+|**2024-09-04**|**Robust Semi-supervised Multimodal Medical Image Segmentation via Cross Modality Collaboration**|Xiaogen Zhou et.al.|[2408.07341](http://arxiv.org/abs/2408.07341)|**[link](https://github.com/med-air/cmc)**|
+|**2024-08-14**|**Enhancing Autonomous Vehicle Perception in Adverse Weather through Image Augmentation during Semantic Segmentation Training**|Ethan Kou et.al.|[2408.07239](http://arxiv.org/abs/2408.07239)|**[link](https://github.com/bubblybingbong/augmentationsegmentation)**|
+|**2024-08-13**|**KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation**|Daniele Rege Cambrin et.al.|[2408.07040](http://arxiv.org/abs/2408.07040)|**[link](https://github.com/darthreca/crop-field-segmentation-ukan)**|
+|**2024-08-15**|**Prompt-Based Segmentation at Multiple Resolutions and Lighting Conditions using Segment Anything Model 2**|Osher Rafaeli et.al.|[2408.06970](http://arxiv.org/abs/2408.06970)|null|
+|**2024-08-13**|**DCMSA: Multi-Head Self-Attention Mechanism Based on Deformable Convolution For Seismic Data Denoising**|Wang Mingwei et.al.|[2408.06963](http://arxiv.org/abs/2408.06963)|null|
+|**2024-10-30**|**Hybrid SD: Edge-Cloud Collaborative Inference for Stable Diffusion Models**|Chenqian Yan et.al.|[2408.06646](http://arxiv.org/abs/2408.06646)|null|
+|**2024-08-14**|**Generalization Enhancement Strategies to Enable Cross-year Cropland Mapping with Convolutional Neural Networks Trained Using Historical Samples**|Sam Khallaghi et.al.|[2408.06467](http://arxiv.org/abs/2408.06467)|**[link](https://github.com/agroimpacts/cnn-generalization-enhancement)**|
+|**2024-08-12**|**S-SAM: SVD-based Fine-Tuning of Segment Anything Model for Medical Image Segmentation**|Jay N. Paranjape et.al.|[2408.06447](http://arxiv.org/abs/2408.06447)|**[link](https://github.com/jayparanjape/svdsam)**|
+|**2024-07-26**|**How good nnU-Net for Segmenting Cardiac MRI: A Comprehensive Evaluation**|Malitha Gunawardhana et.al.|[2408.06358](http://arxiv.org/abs/2408.06358)|null|
+|**2024-08-12**|**Correlation Weighted Prototype-based Self-Supervised One-Shot Segmentation of Medical Images**|Siladittya Manna et.al.|[2408.06235](http://arxiv.org/abs/2408.06235)|null|
+|**2024-09-26**|**FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**|Lukas Meyer et.al.|[2408.06190](http://arxiv.org/abs/2408.06190)|**[link](https://github.com/meyerls/fruitnerf)**|
+|**2024-08-12**|**Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models**|Ioannis Romanelis et.al.|[2408.06145](http://arxiv.org/abs/2408.06145)|**[link](https://github.com/JohnRomanelis/SPVD_Lightning)**|
+|**2024-08-12**|**Diffuse-UDA: Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models**|Haifan Gong et.al.|[2408.05985](http://arxiv.org/abs/2408.05985)|null|
+|**2024-08-14**|**Camera Perspective Transformation to Bird's Eye View via Spatial Transformer Model for Road Intersection Monitoring**|Rukesh Prajapati et.al.|[2408.05577](http://arxiv.org/abs/2408.05577)|null|
+|**2024-08-10**|**How Does Audio Influence Visual Attention in Omnidirectional Videos? Database and Model**|Yuxin Zhu et.al.|[2408.05411](http://arxiv.org/abs/2408.05411)|null|
+|**2024-08-09**|**Multi-Garment Customized Model Generation**|Yichen Liu et.al.|[2408.05206](http://arxiv.org/abs/2408.05206)|null|
+|**2024-08-09**|**Integrating Edge Information into Ground Truth for the Segmentation of the Optic Disc and Cup from Fundus Images**|Yoga Sri Varshan V et.al.|[2408.05052](http://arxiv.org/abs/2408.05052)|null|
+|**2024-09-02**|**GuidedNet: Semi-Supervised Multi-Organ Segmentation via Labeled Data Guide Unlabeled Data**|Haochen Zhao et.al.|[2408.04914](http://arxiv.org/abs/2408.04914)|**[link](https://github.com/kimjisoo12/guidednet)**|
+|**2024-08-09**|**UGrid: An Efficient-And-Rigorous Neural Multigrid Solver for Linear PDEs**|Xi Han et.al.|[2408.04846](http://arxiv.org/abs/2408.04846)|**[link](https://github.com/axihixa/ugrid)**|
+|**2024-08-09**|**Geo-UNet: A Geometrically Constrained Neural Framework for Clinical-Grade Lumen Segmentation in Intravascular Ultrasound**|Yiming Chen et.al.|[2408.04826](http://arxiv.org/abs/2408.04826)|null|
+|**2024-08-09**|**Improved Robustness for Deep Learning-based Segmentation of Multi-Center Myocardial Perfusion MRI Datasets Using Data Adaptive Uncertainty-guided Space-time Analysis**|Dilek M. Yalcinkaya et.al.|[2408.04805](http://arxiv.org/abs/2408.04805)|null|
+|**2024-08-08**|**BRAT: Bonus oRthogonAl Token for Architecture Agnostic Textual Inversion**|James Baker et.al.|[2408.04785](http://arxiv.org/abs/2408.04785)|**[link](https://github.com/jamesbaker361/tex_inv_plus)**|
+|**2024-08-08**|**Segmentation of Mental Foramen in Orthopantomographs: A Deep Learning Approach**|Haider Raza et.al.|[2408.04763](http://arxiv.org/abs/2408.04763)|null|
+|**2024-08-08**|**Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2**|Andrew Seohwan Yu et.al.|[2408.04762](http://arxiv.org/abs/2408.04762)|null|
+|**2024-08-08**|**Quantifying the Impact of Population Shift Across Age and Sex for Abdominal Organ Segmentation**|Kate Čevora et.al.|[2408.04610](http://arxiv.org/abs/2408.04610)|null|
+|**2024-08-10**|**SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**|Tianrun Chen et.al.|[2408.04579](http://arxiv.org/abs/2408.04579)|null|
+|**2024-08-12**|**Is SAM 2 Better than SAM in Medical Image Segmentation?**|Sourya Sengupta et.al.|[2408.04212](http://arxiv.org/abs/2408.04212)|null|
+|**2024-08-07**|**Soft-Hard Attention U-Net Model and Benchmark Dataset for Multiscale Image Shadow Removal**|Eirini Cholopoulou et.al.|[2408.03734](http://arxiv.org/abs/2408.03734)|null|
+|**2024-10-03**|**Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention**|Yimian Dai et.al.|[2408.03717](http://arxiv.org/abs/2408.03717)|**[link](https://github.com/grokcv/serankdet)**|
+|**2024-09-04**|**Path-SAM2: Transfer SAM2 for digital pathology semantic segmentation**|Mingya Zhang et.al.|[2408.03651](http://arxiv.org/abs/2408.03651)|**[link](https://github.com/simzhangbest/sam2path)**|
+|**2024-08-07**|**Distillation Learning Guided by Image Reconstruction for One-Shot Medical Image Segmentation**|Feng Zhou et.al.|[2408.03616](http://arxiv.org/abs/2408.03616)|**[link](https://github.com/novicefodder/os-medseg)**|
+|**2024-08-06**|**FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning**|Zhi Chen et.al.|[2408.03355](http://arxiv.org/abs/2408.03355)|null|
+|**2024-07-19**|**Reconstruction of the shape of irregular rough particles from their interferometric images using a convolutional neural network**|Alexis Abad et.al.|[2408.03327](http://arxiv.org/abs/2408.03327)|null|
+|**2024-08-06**|**Static IR Drop Prediction with Attention U-Net and Saliency-Based Explainability**|Lizi Zhang et.al.|[2408.03292](http://arxiv.org/abs/2408.03292)|null|
+|**2024-08-17**|**Biomedical SAM 2: Segment Anything in Biomedical Images and Videos**|Zhiling Yan et.al.|[2408.03286](http://arxiv.org/abs/2408.03286)|**[link](https://github.com/ZhilingYan/Biomedical-SAM-2)**|
+|**2024-09-06**|**Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**|Van Phi Nguyen et.al.|[2408.03035](http://arxiv.org/abs/2408.03035)|**[link](https://github.com/gungui98/echo-free)**|
+|**2024-08-05**|**Segmentation Style Discovery: Application to Skin Lesion Images**|Kumar Abhishek et.al.|[2408.02787](http://arxiv.org/abs/2408.02787)|**[link](https://github.com/sfu-mial/styleseg)**|
+|**2024-10-02**|**Dimensionality Reduction and Nearest Neighbors for Improving Out-of-Distribution Detection in Medical Image Segmentation**|McKell Woodland et.al.|[2408.02761](http://arxiv.org/abs/2408.02761)|**[link](https://github.com/mckellwoodland/dimen_reduce_mahal)**|
+|**2024-08-05**|**Interactive 3D Medical Image Segmentation with SAM 2**|Chuyun Shen et.al.|[2408.02635](http://arxiv.org/abs/2408.02635)|**[link](https://github.com/chuyun-shen/sam_2_medical_3d)**|
+|**2024-09-19**|**LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**|Yunxiang Fu et.al.|[2408.02615](http://arxiv.org/abs/2408.02615)|**[link](https://github.com/yunxiangfu2001/lamamba-diff)**|
+|**2024-08-05**|**Attenuation-adjusted deep learning of pore defects in 2D radiographs of additive manufacturing powders**|Andreas Bjerregaard et.al.|[2408.02427](http://arxiv.org/abs/2408.02427)|**[link](https://github.com/yhsure/porosity)**|
+|**2024-07-22**|**FDiff-Fusion:Denoising diffusion fusion network based on fuzzy learning for 3D medical image segmentation**|Weiping Ding et.al.|[2408.02075](http://arxiv.org/abs/2408.02075)|null|
+|**2024-08-09**|**NuLite -- Lightweight and Fast Model for Nuclei Instance Segmentation and Classification**|Cristian Tommasino et.al.|[2408.01797](http://arxiv.org/abs/2408.01797)|**[link](https://github.com/cosmoiknoslab/nulite)**|
+|**2024-08-03**|**A Comparative Analysis of CNN-based Deep Learning Models for Landslide Detection**|Omkar Oak et.al.|[2408.01692](http://arxiv.org/abs/2408.01692)|null|
+|**2024-08-03**|**MedUHIP: Towards Human-In-the-Loop Medical Segmentation**|Jiayuan Zhu et.al.|[2408.01620](http://arxiv.org/abs/2408.01620)|null|
+|**2024-08-02**|**Multi-Unit Floor Plan Recognition and Reconstruction Using Improved Semantic Segmentation of Raster-Wise Floor Plans**|Lukas Kratochvila et.al.|[2408.01526](http://arxiv.org/abs/2408.01526)|null|
+|**2024-08-01**|**Medical SAM 2: Segment medical images as video via Segment Anything Model 2**|Jiayuan Zhu et.al.|[2408.00874](http://arxiv.org/abs/2408.00874)|**[link](https://github.com/medicinetoken/medical-sam2)**|
+|**2024-07-16**|**Hybrid Deep Learning Framework for Enhanced Melanoma Detection**|Peng Zhang et.al.|[2408.00772](http://arxiv.org/abs/2408.00772)|null|
+|**2024-08-01**|**Synthetic dual image generation for reduction of labeling efforts in semantic segmentation of micrographs with a customized metric function**|Matias Oscar Volman Stern et.al.|[2408.00707](http://arxiv.org/abs/2408.00707)|null|
+|**2024-08-01**|**Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM**|Xiaofeng Liu et.al.|[2408.00706](http://arxiv.org/abs/2408.00706)|null|
+|**2024-08-15**|**AMAES: Augmented Masked Autoencoder Pretraining on Public Brain MRI Data for 3D-Native Segmentation**|Asbjørn Munk et.al.|[2408.00640](http://arxiv.org/abs/2408.00640)|**[link](https://github.com/asbjrnmunk/amaes)**|
+|**2024-09-26**|**Regional quality estimation for echocardiography using deep learning**|Gilles Van De Vyver et.al.|[2408.00591](http://arxiv.org/abs/2408.00591)|**[link](https://github.com/gillesvandevyver/arqee)**|
+|**2024-08-01**|**SegStitch: Multidimensional Transformer for Robust and Efficient Medical Imaging Segmentation**|Shengbo Tan et.al.|[2408.00496](http://arxiv.org/abs/2408.00496)|**[link](https://github.com/goblin327/segstitch)**|
+|**2024-09-01**|**Advancing Medical Image Segmentation: Morphology-Driven Learning with Diffusion Transformer**|Sungmin Kang et.al.|[2408.00347](http://arxiv.org/abs/2408.00347)|**[link](https://github.com/ready2drop/DTS)**|
+|**2024-08-01**|**3D U-KAN Implementation for Multi-modal MRI Brain Tumor Segmentation**|Tianze Tang et.al.|[2408.00273](http://arxiv.org/abs/2408.00273)|null|
+|**2024-07-31**|**A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation**|Mothilal Asokan et.al.|[2407.21739](http://arxiv.org/abs/2407.21739)|null|
+|**2024-11-09**|**MSA $^2$ Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation**|Sina Ghorbani Kolahi et.al.|[2407.21640](http://arxiv.org/abs/2407.21640)|**[link](https://github.com/xmindflow/msa-2net)**|
+|**2024-07-31**|**Adaptive Mix for Semi-Supervised Medical Image Segmentation**|Zhiqiang Shen et.al.|[2407.21586](http://arxiv.org/abs/2407.21586)|null|
+|**2024-07-31**|**Expanding the Medical Decathlon dataset: segmentation of colon and colorectal cancer from computed tomography images**|I. M. Chernenkiy et.al.|[2407.21516](http://arxiv.org/abs/2407.21516)|**[link](https://github.com/blacky-i/MDE_colon_segmentation)**|
+|**2024-07-31**|**Force Sensing Guided Artery-Vein Segmentation via Sequential Ultrasound Images**|Yimeng Geng et.al.|[2407.21394](http://arxiv.org/abs/2407.21394)|null|
+|**2024-11-18**|**MIST: A Simple and Scalable End-To-End 3D Medical Imaging Segmentation Framework**|Adrian Celaya et.al.|[2407.21343](http://arxiv.org/abs/2407.21343)|**[link](https://github.com/mist-medical/MIST)**|
+|**2024-07-31**|**Robust Box Prompt based SAM for Medical Image Segmentation**|Yuhao Huang et.al.|[2407.21284](http://arxiv.org/abs/2407.21284)|null|
+|**2024-07-31**|**Enhanced Uncertainty Estimation in Ultrasound Image Segmentation with MSU-Net**|Rohini Banerjee et.al.|[2407.21273](http://arxiv.org/abs/2407.21273)|null|
+|**2024-08-01**|**DDU-Net: A Domain Decomposition-based CNN for High-Resolution Image Segmentation on Multiple GPUs**|Corné Verburg et.al.|[2407.21266](http://arxiv.org/abs/2407.21266)|**[link](https://github.com/corne00/hires-seg-cnn)**|
+|**2024-07-30**|**Distribution-Aware Replay for Continual MRI Segmentation**|Nick Lemke et.al.|[2407.21216](http://arxiv.org/abs/2407.21216)|null|
+|**2024-09-04**|**Weakly Supervised Intracranial Hemorrhage Segmentation with YOLO and an Uncertainty Rectified Segment Anything Model**|Pascal Spiegler et.al.|[2407.20461](http://arxiv.org/abs/2407.20461)|null|
+|**2024-08-02**|**Deep Learning for Super-resolution Ultrasound Imaging with Spatiotemporal Data**|Arthur David Redfern et.al.|[2407.20407](http://arxiv.org/abs/2407.20407)|null|
+|**2024-07-29**|**Dense Self-Supervised Learning for Medical Image Segmentation**|Maxime Seince et.al.|[2407.20395](http://arxiv.org/abs/2407.20395)|null|
+|**2024-07-29**|**Segmenting Fetal Head with Efficient Fine-tuning Strategies in Low-resource Settings: an empirical study with U-Net**|Fangyijie Wang et.al.|[2407.20086](http://arxiv.org/abs/2407.20086)|null|
+|**2024-07-29**|**Robust Conformal Volume Estimation in 3D Medical Images**|Benjamin Lambert et.al.|[2407.19938](http://arxiv.org/abs/2407.19938)|**[link](https://github.com/benolmbrt/wcp_miccai)**|
+|**2024-07-28**|**Automated Detection of Satellite Trails in Ground-Based Observations Using U-Net and Hough Transform**|F. Stoppa et.al.|[2407.19461](http://arxiv.org/abs/2407.19461)|null|
+|**2024-07-27**|**Polyp segmentation in colonoscopy images using DeepLabV3++**|Al Mohimanul Islam et.al.|[2407.19327](http://arxiv.org/abs/2407.19327)|null|
+|**2024-07-27**|**Channel Boosted CNN-Transformer-based Multi-Level and Multi-Scale Nuclei Segmentation**|Zunaira Rauf et.al.|[2407.19186](http://arxiv.org/abs/2407.19186)|null|
+|**2024-07-27**|**Few-Shot Medical Image Segmentation with Large Kernel Attention**|Xiaoxiao Wu et.al.|[2407.19148](http://arxiv.org/abs/2407.19148)|null|
+|**2024-09-12**|**DINOv2 Rocks Geological Image Analysis: Classification, Segmentation, and Interpretability**|Florent Brondolo et.al.|[2407.18100](http://arxiv.org/abs/2407.18100)|**[link](https://github.com/flofive/dinov2-x-geosciences)**|
+|**2024-09-19**|**CSWin-UNet: Transformer UNet with Cross-Shaped Windows for Medical Image Segmentation**|Xiao Liu et.al.|[2407.18070](http://arxiv.org/abs/2407.18070)|**[link](https://github.com/eatbeanss/CSWin-UNet)**|
+|**2024-07-25**|**Segmentation by registration-enabled SAM prompt engineering using five reference images**|Yaxi Chen et.al.|[2407.17933](http://arxiv.org/abs/2407.17933)|**[link](https://github.com/chrissyinreallife/kneesegmentwithsam)**|
+|**2024-07-25**|**Artificial Immunofluorescence in a Flash: Rapid Synthetic Imaging from Brightfield Through Residual Diffusion**|Xiaodan Xing et.al.|[2407.17882](http://arxiv.org/abs/2407.17882)|null|
+|**2024-07-25**|**Topology-Preserving Downsampling of Binary Images**|Chia-Chia Chen et.al.|[2407.17786](http://arxiv.org/abs/2407.17786)|**[link](https://github.com/pengchihan/binaryimagedownsampling)**|
+|**2024-07-25**|**A Two-Stage Imaging Framework Combining CNN and Physics-Informed Neural Networks for Full-Inverse Tomography: A Case Study in Electrical Impedance Tomography (EIT)**|Xuanxuan Yang et.al.|[2407.17721](http://arxiv.org/abs/2407.17721)|null|
+|**2024-07-24**|**DarSwin-Unet: Distortion Aware Encoder-Decoder Architecture**|Akshaya Athwale et.al.|[2407.17328](http://arxiv.org/abs/2407.17328)|null|
+|**2024-07-24**|**Trans2Unet: Neural fusion for Nuclei Semantic Segmentation**|Dinh-Phu Tran et.al.|[2407.17181](http://arxiv.org/abs/2407.17181)|null|
+|**2024-07-24**|**Aggregated Attributions for Explanatory Analysis of 3D Segmentation Models**|Maciej Chrabaszcz et.al.|[2407.16653](http://arxiv.org/abs/2407.16653)|**[link](https://github.com/mi2datalab/agg2exp)**|
+|**2024-10-01**|**Deformable Convolution Based Road Scene Semantic Segmentation of Fisheye Images in Autonomous Driving**|Anam Manzoor et.al.|[2407.16647](http://arxiv.org/abs/2407.16647)|null|
+|**2024-07-23**|**Deep Bayesian segmentation for colon polyps: Well-calibrated predictions in medical imaging**|Daniela L. Ramos et.al.|[2407.16608](http://arxiv.org/abs/2407.16608)|null|
+|**2024-07-23**|**Navigating Uncertainty in Medical Image Segmentation**|Kilian Zepf et.al.|[2407.16367](http://arxiv.org/abs/2407.16367)|null|
+|**2024-07-23**|**Diff-Shadow: Global-guided Diffusion Model for Shadow Removal**|Jinting Luo et.al.|[2407.16214](http://arxiv.org/abs/2407.16214)|null|
+|**2024-07-24**|**A spatiotemporal deep learning framework for prediction of crack dynamics in heterogeneous solids: efficient mapping of concrete microstructures to its fracture properties**|Rasoul Najafi Koopas et.al.|[2407.15665](http://arxiv.org/abs/2407.15665)|null|
+|**2024-07-21**|**MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM**|Navyansh Mahla et.al.|[2407.15042](http://arxiv.org/abs/2407.15042)|null|
+|**2024-07-20**|**PASSION: Towards Effective Incomplete Multi-Modal Medical Image Segmentation with Imbalanced Missing Rates**|Junjie Shi et.al.|[2407.14796](http://arxiv.org/abs/2407.14796)|**[link](https://github.com/jun-jie-shi/passion)**|
+|**2024-07-20**|**Representing Topological Self-Similarity Using Fractal Feature Maps for Accurate Segmentation of Tubular Structures**|Jiaxing Huang et.al.|[2407.14754](http://arxiv.org/abs/2407.14754)|**[link](https://github.com/cbmi-group/ffm-multi-decoder-network)**|
+|**2024-07-20**|**FedDM: Enhancing Communication Efficiency and Handling Data Heterogeneity in Federated Diffusion Models**|Jayneel Vora et.al.|[2407.14730](http://arxiv.org/abs/2407.14730)|null|
+|**2024-07-19**|**MLMT-CNN for Object Detection and Segmentation in Multi-layer and Multi-spectral Images**|Majedaldein Almahasneh et.al.|[2407.14473](http://arxiv.org/abs/2407.14473)|null|
+|**2024-08-18**|**ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation**|Qing Xu et.al.|[2407.14153](http://arxiv.org/abs/2407.14153)|**[link](https://github.com/xq141839/esp-medsam)**|
+|**2024-10-02**|**Comparing and Contrasting Deep Learning Weather Prediction Backbones on Navier-Stokes and Atmospheric Dynamics**|Matthias Karlbauer et.al.|[2407.14129](http://arxiv.org/abs/2407.14129)|**[link](https://github.com/amazon-science/dlwp-benchmark)**|
+|**2024-07-19**|**Stable-Hair: Real-World Hair Transfer via Diffusion Model**|Yuxuan Zhang et.al.|[2407.14078](http://arxiv.org/abs/2407.14078)|**[link](https://github.com/Xiaojiu-z/Stable-Hair)**|
+|**2024-07-19**|**Segmentation of Brain Metastases in MRI: A Two-Stage Deep Learning Approach with Modality Impact Study**|Yousef Sadegheih et.al.|[2407.14011](http://arxiv.org/abs/2407.14011)|**[link](https://github.com/xmindflow/met-seg)**|
+|**2024-07-18**|**Removing cloud shadows from ground-based solar imagery**|Amal Chaoui et.al.|[2407.13379](http://arxiv.org/abs/2407.13379)|null|
+|**2024-07-21**|**Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement**|Yulin He et.al.|[2407.13155](http://arxiv.org/abs/2407.13155)|null|
+|**2024-09-24**|**Enhanced Denoising of Optical Coherence Tomography Images Using Residual U-Net**|Akkidas Noel Prakash et.al.|[2407.13090](http://arxiv.org/abs/2407.13090)|null|
+|**2024-07-17**|**Deep Learning for Quantitative Dynamic Fragmentation Analysis**|Erwin Cazares et.al.|[2407.12972](http://arxiv.org/abs/2407.12972)|null|
+|**2024-07-17**|**Denoising Diffusions in Latent Space for Medical Image Segmentation**|Fahim Ahmed Zaman et.al.|[2407.12952](http://arxiv.org/abs/2407.12952)|null|
+|**2024-07-20**|**VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control**|Sherwin Bahmani et.al.|[2407.12781](http://arxiv.org/abs/2407.12781)|null|
+|**2024-08-06**|**IMAGDressing-v1: Customizable Virtual Dressing**|Fei Shen et.al.|[2407.12705](http://arxiv.org/abs/2407.12705)|**[link](https://github.com/muzishen/imagdressing)**|
+|**2024-07-17**|**FastSAM-3DSlicer: A 3D-Slicer Extension for 3D Volumetric Segment Anything Model with Uncertainty Quantification**|Yiqing Shen et.al.|[2407.12658](http://arxiv.org/abs/2407.12658)|**[link](https://github.com/arcadelab/fastsam3d_slicer)**|
+|**2024-10-31**|**Subject-driven Text-to-Image Generation via Preference-based Reinforcement Learning**|Yanting Miao et.al.|[2407.12164](http://arxiv.org/abs/2407.12164)|null|
+|**2024-07-16**|**Haze-Aware Attention Network for Single-Image Dehazing**|Lihan Tong et.al.|[2407.11505](http://arxiv.org/abs/2407.11505)|null|
+|**2024-07-21**|**How Control Information Influences Multilingual Text Image Generation and Editing?**|Boqiang Zhang et.al.|[2407.11502](http://arxiv.org/abs/2407.11502)|**[link](https://github.com/cyrilsterling/textgen)**|
+|**2024-07-16**|**Diff-MTS: Temporal-Augmented Conditional Diffusion-based AIGC for Industrial Time Series Towards the Large Model Era**|Lei Ren et.al.|[2407.11501](http://arxiv.org/abs/2407.11501)|null|
+|**2024-07-16**|**Leveraging Segment Anything Model in Identifying Buildings within Refugee Camps (SAM4Refugee) from Satellite Imagery for Humanitarian Operations**|Yunya Gao et.al.|[2407.11381](http://arxiv.org/abs/2407.11381)|**[link](https://github.com/yunyagaotree/sam-adapter-for-refugee-dwelling-extraction)**|
+|**2024-08-01**|**The Devil is in the Statistics: Mitigating and Exploiting Statistics Difference for Generalizable Semi-supervised Medical Image Segmentation**|Muyang Qiu et.al.|[2407.11356](http://arxiv.org/abs/2407.11356)|**[link](https://github.com/qiumuyang/siab)**|
+|**2024-07-19**|**LoRA-PT: Low-Rank Adapting UNETR for Hippocampus Segmentation Using Principal Tensor Singular Values and Vectors**|Guanghua He et.al.|[2407.11292](http://arxiv.org/abs/2407.11292)|**[link](https://github.com/wangangcheng/lora-pt)**|
+|**2024-07-15**|**Efficient In-Context Medical Segmentation with Meta-driven Visual Prompt Selection**|Chenwei Wu et.al.|[2407.11188](http://arxiv.org/abs/2407.11188)|null|
+|**2024-07-15**|**IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation**|Yuanhao Zhai et.al.|[2407.10937](http://arxiv.org/abs/2407.10937)|**[link](https://github.com/yhZhai/idol)**|
+|**2024-07-15**|**Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation**|Friedhelm Hamann et.al.|[2407.10802](http://arxiv.org/abs/2407.10802)|**[link](https://github.com/tub-rip/motionpriorcmax)**|
+|**2024-07-15**|**Mammographic Breast Positioning Assessment via Deep Learning**|Toygar Tanyel et.al.|[2407.10796](http://arxiv.org/abs/2407.10796)|**[link](https://github.com/tanyelai/deep-breast-positioning)**|
+|**2024-07-15**|**Segmentation of Prostate Tumour Volumes from PET Images is a Different Ball Game**|Shrajan Bhandary et.al.|[2407.10537](http://arxiv.org/abs/2407.10537)|null|
+|**2024-07-13**|**DiffRect: Latent Diffusion Label Rectification for Semi-supervised Medical Image Segmentation**|Xinyu Liu et.al.|[2407.09918](http://arxiv.org/abs/2407.09918)|**[link](https://github.com/cuhk-aim-group/diffrect)**|
+|**2024-07-13**|**Enhancing Semantic Segmentation with Adaptive Focal Loss: A Novel Approach**|Md Rakibul Islam et.al.|[2407.09828](http://arxiv.org/abs/2407.09828)|null|
+|**2024-07-12**|**ConRebSeg: A Segmentation Dataset for Reinforced Concrete Construction**|Patrick Schmidt et.al.|[2407.09372](http://arxiv.org/abs/2407.09372)|**[link](https://github.com/dtu-pas/conrebseg)**|
+|**2024-07-12**|**Segmenting Medical Images with Limited Data**|Zhaoshan Liua et.al.|[2407.09189](http://arxiv.org/abs/2407.09189)|**[link](https://github.com/nus-tim/dems)**|
+|**2024-07-12**|**TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models**|Jeongho Kim et.al.|[2407.09012](http://arxiv.org/abs/2407.09012)|null|
+|**2024-07-18**|**FairDomain: Achieving Fairness in Cross-Domain Medical Image Segmentation and Classification**|Yu Tian et.al.|[2407.08813](http://arxiv.org/abs/2407.08813)|**[link](https://github.com/harvard-ophthalmology-ai-lab/fairdomain)**|
+|**2024-08-19**|**SliceMamba with Neural Architecture Search for Medical Image Segmentation**|Chao Fan et.al.|[2407.08481](http://arxiv.org/abs/2407.08481)|null|
+|**2024-07-11**|**Brain Tumor Segmentation in MRI Images with 3D U-Net and Contextual Transformer**|Thien-Qua T. Nguyen et.al.|[2407.08470](http://arxiv.org/abs/2407.08470)|null|
+|**2024-07-11**|**MeshAvatar: Learning High-quality Triangular Human Avatars from Multi-view Videos**|Yushuo Chen et.al.|[2407.08414](http://arxiv.org/abs/2407.08414)|**[link](https://github.com/shad0wta9/meshavatar)**|
+|**2024-07-11**|**Improving the Automated Coronal Jet Identification with U-NET**|Jiajia Liu et.al.|[2407.08119](http://arxiv.org/abs/2407.08119)|null|
+|**2024-07-10**|**S&D Messenger: Exchanging Semantic and Domain Knowledge for Generic Semi-Supervised Medical Image Segmentation**|Qixiang Zhang et.al.|[2407.07763](http://arxiv.org/abs/2407.07763)|null|
+|**2024-08-30**|**Early Explorations of Lightweight Models for Wound Segmentation on Mobile Devices**|Vanessa Borst et.al.|[2407.07605](http://arxiv.org/abs/2407.07605)|null|
+|**2024-07-10**|**Federated Foundation Model for Cardiac CT Imaging**|Malte Tölle et.al.|[2407.07557](http://arxiv.org/abs/2407.07557)|**[link](https://github.com/cardio-ai/fed-foundation-model-cardiac-ct)**|
+|**2024-07-10**|**Swin SMT: Global Sequential Modeling in 3D Medical Image Segmentation**|Szymon Płotka et.al.|[2407.07514](http://arxiv.org/abs/2407.07514)|**[link](https://github.com/mi2datalab/swinsmt)**|
+|**2024-07-10**|**Weakly-supervised Medical Image Segmentation with Gaze Annotations**|Yuan Zhong et.al.|[2407.07406](http://arxiv.org/abs/2407.07406)|**[link](https://github.com/med-air/gazemedseg)**|
+|**2024-07-09**|**TrackFormers: In Search of Transformer-Based Particle Tracking for the High-Luminosity LHC Era**|Sascha Caron et.al.|[2407.07179](http://arxiv.org/abs/2407.07179)|null|
+|**2024-07-18**|**ProtoSAM: One-Shot Medical Image Segmentation With Foundational Models**|Lev Ayzenberg et.al.|[2407.07042](http://arxiv.org/abs/2407.07042)|**[link](https://github.com/levayz/protosam)**|
+|**2024-07-23**|**Mobius: A High Efficient Spatial-Temporal Parallel Training Paradigm for Text-to-Video Generation Task**|Yiran Yang et.al.|[2407.06617](http://arxiv.org/abs/2407.06617)|**[link](https://github.com/youngfly/Mobius)**|
+|**2024-07-16**|**AnatoMask: Enhancing Medical Image Segmentation with Reconstruction-guided Self-masking**|Yuheng Li et.al.|[2407.06468](http://arxiv.org/abs/2407.06468)|**[link](https://github.com/ricklisz/anatomask)**|
+|**2024-07-08**|**Layered Diffusion Model for One-Shot High Resolution Text-to-Image Synthesis**|Emaad Khwaja et.al.|[2407.06079](http://arxiv.org/abs/2407.06079)|null|
+|**2024-07-08**|**Self-Prior Guided Mamba-UNet Networks for Medical Image Super-Resolution**|Zexin Ji et.al.|[2407.05993](http://arxiv.org/abs/2407.05993)|null|
+|**2024-07-08**|**Interpretability of Uncertainty: Exploring Cortical Lesion Segmentation in Multiple Sclerosis**|Nataliia Molchanova et.al.|[2407.05761](http://arxiv.org/abs/2407.05761)|**[link](https://github.com/nataliiamolch/interpret-lesion-unc)**|
+|**2024-07-07**|**Cross Prompting Consistency with Segment Anything Model for Semi-supervised Medical Image Segmentation**|Juzheng Miao et.al.|[2407.05416](http://arxiv.org/abs/2407.05416)|**[link](https://github.com/JuzhengMiao/CPC-SAM)**|
+|**2024-07-07**|**Image-Conditional Diffusion Transformer for Underwater Image Enhancement**|Xingyang Nie et.al.|[2407.05389](http://arxiv.org/abs/2407.05389)|null|
+|**2024-07-07**|**Enhancing Label-efficient Medical Image Segmentation with Text-guided Diffusion Models**|Chun-Mei Feng et.al.|[2407.05323](http://arxiv.org/abs/2407.05323)|null|
+|**2024-07-07**|**Self-Paced Sample Selection for Barely-Supervised Medical Image Segmentation**|Junming Su et.al.|[2407.05248](http://arxiv.org/abs/2407.05248)|null|
+|**2024-07-06**|**Leveraging Task-Specific Knowledge from LLM for Semi-Supervised 3D Medical Image Segmentation**|Suruchi Kumari et.al.|[2407.05088](http://arxiv.org/abs/2407.05088)|null|
+|**2024-07-06**|**Resource Constrained U-Net for Extraction of Retinal Vascular Trees**|Georgiy Kiselev et.al.|[2407.04940](http://arxiv.org/abs/2407.04940)|null|
+|**2024-07-06**|**SAM-Med3D-MoE: Towards a Non-Forgetting Segment Anything Model via Mixture of Experts for 3D Medical Image Segmentation**|Guoan Wang et.al.|[2407.04938](http://arxiv.org/abs/2407.04938)|null|
+|**2024-07-05**|**Semi-Supervised Segmentation via Embedding Matching**|Weiyi Xie et.al.|[2407.04638](http://arxiv.org/abs/2407.04638)|null|
+|**2024-07-05**|**Gaussian Eigen Models for Human Heads**|Wojciech Zielonka et.al.|[2407.04545](http://arxiv.org/abs/2407.04545)|null|
+|**2024-07-05**|**Segmenting Medical Images: From UNet to Res-UNet and nnUNet**|Lina Huang et.al.|[2407.04353](http://arxiv.org/abs/2407.04353)|null|
+|**2024-07-04**|**MRIR: Integrating Multimodal Insights for Diffusion-based Realistic Image Restoration**|Yuhong Zhang et.al.|[2407.03635](http://arxiv.org/abs/2407.03635)|null|
+|**2024-07-03**|**HiDiff: Hybrid Diffusion Framework for Medical Image Segmentation**|Tao Chen et.al.|[2407.03548](http://arxiv.org/abs/2407.03548)|**[link](https://github.com/takimailto/hidiff)**|
+|**2024-07-23**|**Probing Perfection: The Relentless Art of Meddling for Pulmonary Airway Segmentation from HRCT via a Human-AI Collaboration Based Active Learning Method**|Shiyi Wang et.al.|[2407.03542](http://arxiv.org/abs/2407.03542)|null|
+|**2024-11-07**|**OrbitGrasp: $SE(3)$ -Equivariant Grasp Learning**|Boce Hu et.al.|[2407.03531](http://arxiv.org/abs/2407.03531)|null|
+|**2024-05-12**|**Dual-Domain Deep D-bar Method for Solving Electrical Impedance Tomography**|Xiang Cao et.al.|[2407.03335](http://arxiv.org/abs/2407.03335)|null|
+|**2024-07-15**|**Solving the inverse problem of microscopy deconvolution with a residual Beylkin-Coifman-Rokhlin neural network**|Rui Li et.al.|[2407.03239](http://arxiv.org/abs/2407.03239)|**[link](https://github.com/leeroyhannover/m-rbcr)**|
+|**2024-07-03**|**An Organism Starts with a Single Pix-Cell: A Neural Cellular Diffusion for High-Resolution Image Synthesis**|Marawan Elbatel et.al.|[2407.03018](http://arxiv.org/abs/2407.03018)|**[link](https://github.com/xmed-lab/geca)**|
+|**2024-07-04**|**An Uncertainty-guided Tiered Self-training Framework for Active Source-free Domain Adaptation in Prostate Segmentation**|Zihao Luo et.al.|[2407.02893](http://arxiv.org/abs/2407.02893)|**[link](https://github.com/hilab-git/ugtst)**|
+|**2024-07-02**|**Robust ADAS: Enhancing Robustness of Machine Learning-based Advanced Driver Assistance Systems for Adverse Weather**|Muhammad Zaeem Shahzad et.al.|[2407.02581](http://arxiv.org/abs/2407.02581)|null|
+|**2024-07-03**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280](http://arxiv.org/abs/2407.02280)|**[link](https://github.com/hustxyy/fedia)**|
+|**2024-07-02**|**Distributional Regression U-Nets for the Postprocessing of Precipitation Ensemble Forecasts**|Romain Pic et.al.|[2407.02125](http://arxiv.org/abs/2407.02125)|**[link](https://github.com/pic-romain/unet-pp)**|
+|**2024-07-02**|**xLSTM-UNet can be an Effective 2D & 3D Medical Image Segmentation Backbone with Vision-LSTM (ViL) better than its Mamba Counterpart**|Tianrun Chen et.al.|[2407.01530](http://arxiv.org/abs/2407.01530)|**[link](https://github.com/tianrun-chen/xLSTM-UNet-PyTorch)**|
+|**2024-08-05**|**Domain Influence in MRI Medical Image Segmentation: spatial versus k-space inputs**|Erik Gösche et.al.|[2407.01367](http://arxiv.org/abs/2407.01367)|**[link](https://github.com/rauschecker-sugrue-labs/kspace-segmentation)**|
+|**2024-07-01**|**Efficient Cutting Tool Wear Segmentation Based on Segment Anything Model**|Zongshuo Li et.al.|[2407.01211](http://arxiv.org/abs/2407.01211)|null|
+|**2024-07-01**|**Kolmogorov-Arnold Convolutions: Design Principles and Empirical Studies**|Ivan Drokin et.al.|[2407.01092](http://arxiv.org/abs/2407.01092)|**[link](https://github.com/ivandrokin/torch-conv-kan)**|
+|**2024-06-30**|**Inferring intrahalo light from stellar kinematics -- A deep learning approach**|I. Marini et.al.|[2407.00838](http://arxiv.org/abs/2407.00838)|null|
+|**2024-06-30**|**Generative prediction of flow field based on the diffusion model**|Jiajun Hu et.al.|[2407.00735](http://arxiv.org/abs/2407.00735)|null|
+|**2024-06-29**|**pFLFE: Cross-silo Personalized Federated Learning via Feature Enhancement on Medical Image Segmentation**|Luyuan Xie et.al.|[2407.00462](http://arxiv.org/abs/2407.00462)|null|
+|**2024-08-05**|**Stable Machine-Learning Parameterization of Subgrid Processes with Real Geography and Full-physics Emulation**|Zeyuan Hu et.al.|[2407.00124](http://arxiv.org/abs/2407.00124)|null|
+|**2024-06-28**|**Impact of Initialization on Intra-subject Pediatric Brain MR Image Registration: A Comparative Analysis between SyN ANTs and Deep Learning-Based Approaches**|Andjela Dimitrijevic et.al.|[2406.19943](http://arxiv.org/abs/2406.19943)|**[link](https://github.com/neuropoly/pediatric-dl-registration)**|
+|**2024-06-28**|**Fine-tuning of Geospatial Foundation Models for Aboveground Biomass Estimation**|Michal Muszynski et.al.|[2406.19888](http://arxiv.org/abs/2406.19888)|null|
+|**2024-06-28**|**AstMatch: Adversarial Self-training Consistency Framework for Semi-Supervised Medical Image Segmentation**|Guanghao Zhu et.al.|[2406.19649](http://arxiv.org/abs/2406.19649)|**[link](https://github.com/guanghaozhu663/astmatch)**|
+|**2024-06-27**|**Cost-efficient Active Illumination Camera For Hyper-spectral Reconstruction**|Yuxuan Zhang et.al.|[2406.19560](http://arxiv.org/abs/2406.19560)|null|
+|**2024-06-27**|**Robustness Testing of Black-Box Models Against CT Degradation Through Test-Time Augmentation**|Jack Highton et.al.|[2406.19557](http://arxiv.org/abs/2406.19557)|null|
+|**2024-09-25**|**SimTxtSeg: Weakly-Supervised Medical Image Segmentation with Simple Text Cues**|Yuxin Xie et.al.|[2406.19364](http://arxiv.org/abs/2406.19364)|**[link](https://github.com/xyx1024/SimTxtSeg)**|
+|**2024-06-30**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057](http://arxiv.org/abs/2406.19057)|null|
+|**2024-08-28**|**Structural Attention: Rethinking Transformer for Unpaired Medical Image Synthesis**|Vu Minh Hieu Phan et.al.|[2406.18967](http://arxiv.org/abs/2406.18967)|**[link](https://github.com/hieuphan33/miccai2024-unest)**|
+|**2024-05-23**|**Exploration of Multi-Scale Image Fusion Systems in Intelligent Medical Image Analysis**|Yuxiang Hu et.al.|[2406.18548](http://arxiv.org/abs/2406.18548)|null|
+|**2024-07-09**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361](http://arxiv.org/abs/2406.18361)|**[link](https://github.com/lin-tianyu/stable-diffusion-seg)**|
+|**2024-06-26**|**ConStyle v2: A Strong Prompter for All-in-One Image Restoration**|Dongqi Fan et.al.|[2406.18242](http://arxiv.org/abs/2406.18242)|**[link](https://github.com/Dongqi-Fan/ConStyle_v2)**|
+|**2024-06-26**|**EFCNet: Every Feature Counts for Small Medical Object Segmentation**|Lingjie Kong et.al.|[2406.18201](http://arxiv.org/abs/2406.18201)|null|
+|**2024-06-26**|**Few-Shot Medical Image Segmentation with High-Fidelity Prototypes**|Song Tang et.al.|[2406.18074](http://arxiv.org/abs/2406.18074)|**[link](https://github.com/tntek/dspnet)**|
+|**2024-11-13**|**Leveraging Pre-trained Models for FF-to-FFPE Histopathological Image Translation**|Qilai Zhang et.al.|[2406.18054](http://arxiv.org/abs/2406.18054)|**[link](https://github.com/qilaizhang/diffusion-ffpe)**|
+|**2024-08-08**|**Towards Synchronous Memorizability and Generalizability with Site-Modulated Diffusion Replay for Cross-Site Continual Segmentation**|Dunyuan Xu et.al.|[2406.18037](http://arxiv.org/abs/2406.18037)|**[link](https://github.com/dyxu-cuhkcse/smg-learning)**|
+|**2024-06-25**|**Domain Adaptation of Echocardiography Segmentation Via Reinforcement Learning**|Arnaud Judge et.al.|[2406.17902](http://arxiv.org/abs/2406.17902)|**[link](https://github.com/arnaudjudge/rl4seg)**|
+|**2024-09-09**|**SUM: Saliency Unification through Mamba for Visual Attention Modeling**|Alireza Hosseini et.al.|[2406.17815](http://arxiv.org/abs/2406.17815)|**[link](https://github.com/Arhosseini77/SUM)**|
+|**2024-06-25**|**Mask-Guided Attention U-Net for Enhanced Neonatal Brain Extraction and Image Preprocessing**|Bahram Jafrasteh et.al.|[2406.17709](http://arxiv.org/abs/2406.17709)|**[link](https://github.com/bahramjafrasteh/mga-net)**|
+|**2024-06-25**|**Aligning Diffusion Models with Noise-Conditioned Perception**|Alexander Gambashidze et.al.|[2406.17636](http://arxiv.org/abs/2406.17636)|null|
+|**2024-06-25**|**Test-Time Generative Augmentation for Medical Image Segmentation**|Xiao Ma et.al.|[2406.17608](http://arxiv.org/abs/2406.17608)|**[link](https://github.com/maxiao0234/ttga)**|
+|**2024-06-25**|**Medical Image Segmentation Using Directional Window Attention**|Daniya Najiha Abdul Kareem et.al.|[2406.17471](http://arxiv.org/abs/2406.17471)|**[link](https://github.com/daniyanaj/dwinformer)**|
+|**2024-06-25**|**Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers**|Lei Chen et.al.|[2406.17343](http://arxiv.org/abs/2406.17343)|**[link](https://github.com/juanerx/q-dit)**|
+|**2024-06-25**|**Disentangled Motion Modeling for Video Frame Interpolation**|Jaihyun Lew et.al.|[2406.17256](http://arxiv.org/abs/2406.17256)|**[link](https://github.com/jhlew/momo)**|
+|**2024-07-08**|**Accelerating Phase Field Simulations Through a Hybrid Adaptive Fourier Neural Operator with U-Net Backbone**|Christophe Bonneville et.al.|[2406.17119](http://arxiv.org/abs/2406.17119)|null|
+|**2024-06-24**|**Multi-Aperture Fusion of Transformer-Convolutional Network (MFTC-Net) for 3D Medical Image Segmentation and Visualization**|Siyavash Shabani et.al.|[2406.17080](http://arxiv.org/abs/2406.17080)|**[link](https://github.com/siyavashshabani/mftc-net)**|
+|**2024-06-24**|**Are Vision xLSTM Embedded UNet More Reliable in Medical 3D Image Segmentation?**|Pallabi Dutta et.al.|[2406.16993](http://arxiv.org/abs/2406.16993)|**[link](https://github.com/duttapallabi2907/uvixlstm)**|
+|**2024-06-26**|**ECGrecover: a Deep Learning Approach for Electrocardiogram Signal Completion**|Alex Lence et.al.|[2406.16901](http://arxiv.org/abs/2406.16901)|null|
+|**2024-05-30**|**Utilizing Weak-to-Strong Consistency for Semi-Supervised Glomeruli Segmentation**|Irina Zhang et.al.|[2406.16900](http://arxiv.org/abs/2406.16900)|null|
+|**2024-06-24**|**Demystifying the Effect of Receptive Field Size in U-Net Models for Medical Image Segmentation**|Vincent Loos et.al.|[2406.16701](http://arxiv.org/abs/2406.16701)|**[link](https://github.com/vinloo/u-net-receptive-field-study)**|
+|**2024-06-23**|**Machine-Learning-Enabled Fast Optical Identification and Characterization of 2D Materials**|Polina A. Leger et.al.|[2406.16211](http://arxiv.org/abs/2406.16211)|null|
+|**2024-06-22**|**Soft Masked Mamba Diffusion Model for CT to MRI Conversion**|Zhenbin Wang et.al.|[2406.15910](http://arxiv.org/abs/2406.15910)|**[link](https://github.com/wongzbb/diffma-diffusion-mamba)**|
+|**2024-06-22**|**psPRF:Pansharpening Planar Neural Radiance Field for Generalized 3D Reconstruction Satellite Imagery**|Tongtong Zhang et.al.|[2406.15707](http://arxiv.org/abs/2406.15707)|null|
+|**2024-06-22**|**Self-Supervised Alignment Learning for Medical Image Segmentation**|Haofeng Li et.al.|[2406.15699](http://arxiv.org/abs/2406.15699)|null|
+|**2024-08-02**|**LeapFrog: Getting the Jump on Multi-Scale Materials Simulations Using Machine Learning**|Damien Pinto et.al.|[2406.15326](http://arxiv.org/abs/2406.15326)|null|
+|**2024-06-21**|**Surface Normal Reconstruction Using Polarization-Unet**|F. S. Mortazavi et.al.|[2406.15118](http://arxiv.org/abs/2406.15118)|null|
+|**2024-06-21**|**Benchmarking Retinal Blood Vessel Segmentation Models for Cross-Dataset and Cross-Disease Generalization**|Jeremiah Fadugba et.al.|[2406.14994](http://arxiv.org/abs/2406.14994)|**[link](https://github.com/berenslab/retinal-vessel-segmentation-benchmark)**|
+|**2024-06-21**|**LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement**|Haodong Yang et.al.|[2406.14973](http://arxiv.org/abs/2406.14973)|null|
+|**2024-06-21**|**VividDreamer: Towards High-Fidelity and Efficient Text-to-3D Generation**|Zixuan Chen et.al.|[2406.14964](http://arxiv.org/abs/2406.14964)|null|
+|**2024-06-21**|**Extraction of 3D trajectories of mandibular condyles from 2D real-time MRI**|Karyna Isaieva et.al.|[2406.14925](http://arxiv.org/abs/2406.14925)|null|
+|**2024-06-21**|**SelfReg-UNet: Self-Regularized UNet for Medical Image Segmentation**|Wenhui Zhu et.al.|[2406.14896](http://arxiv.org/abs/2406.14896)|**[link](https://github.com/chongqingnosubway/selfreg-unet)**|
+|**2024-06-21**|**Bayesian neural networks for predicting uncertainty in full-field material response**|George D. Pasparakis et.al.|[2406.14838](http://arxiv.org/abs/2406.14838)|null|
+|**2024-08-18**|**Self-supervised Brain Lesion Generation for Effective Data Augmentation of Medical Images**|Jiayu Huo et.al.|[2406.14826](http://arxiv.org/abs/2406.14826)|null|
+|**2024-06-21**|**SAM-EG: Segment Anything Model with Egde Guidance framework for efficient Polyp Segmentation**|Quoc-Huy Trinh et.al.|[2406.14819](http://arxiv.org/abs/2406.14819)|null|
+|**2024-10-14**|**Latent diffusion models for parameterization and data assimilation of facies-based geomodels**|Guido Di Federico et.al.|[2406.14815](http://arxiv.org/abs/2406.14815)|null|
+|**2024-09-17**|**ImageFlowNet: Forecasting Multiscale Image-Level Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images**|Chen Liu et.al.|[2406.14794](http://arxiv.org/abs/2406.14794)|**[link](https://github.com/ChenLiu-1996/ImageFlowNet)**|
+|**2024-11-13**|**Machine Learning Global Simulation of Nonlocal Gravity Wave Propagation**|Aman Gupta et.al.|[2406.14775](http://arxiv.org/abs/2406.14775)|null|
+|**2024-06-20**|**MM-GTUNets: Unified Multi-Modal Graph Deep Learning for Brain Disorders Prediction**|Luhui Cai et.al.|[2406.14455](http://arxiv.org/abs/2406.14455)|null|
+|**2024-06-20**|**Graph Representation Learning Strategies for Omics Data: A Case Study on Parkinson's Disease**|Elisa Gómez de Lope et.al.|[2406.14442](http://arxiv.org/abs/2406.14442)|null|
+|**2024-06-20**|**FIESTA: Fourier-Based Semantic Augmentation with Uncertainty Guidance for Enhanced Domain Generalizability in Medical Image Segmentation**|Kwanseok Oh et.al.|[2406.14308](http://arxiv.org/abs/2406.14308)|null|
+|**2024-06-20**|**Segmentation of Non-Small Cell Lung Carcinomas: Introducing DRU-Net and Multi-Lens Distortion**|Soroush Oskouei et.al.|[2406.14287](http://arxiv.org/abs/2406.14287)|**[link](https://github.com/AICAN-Research/DRU-Net)**|
+|**2024-07-01**|**Evaluation of Deep Learning Semantic Segmentation for Land Cover Mapping on Multispectral, Hyperspectral and High Spatial Aerial Imagery**|Ilham Adi Panuntun et.al.|[2406.14220](http://arxiv.org/abs/2406.14220)|null|
+|**2024-06-20**|**Trusting Semantic Segmentation Networks**|Samik Some et.al.|[2406.14201](http://arxiv.org/abs/2406.14201)|null|
+|**2024-06-20**|**CriDiff: Criss-cross Injection Diffusion Framework via Generative Pre-train for Prostate Segmentation**|Tingwei Liu et.al.|[2406.14186](http://arxiv.org/abs/2406.14186)|**[link](https://github.com/LiuTingWed/CriDiff)**|
+|**2024-06-20**|**Peculiar Velocity Reconstruction From Simulations and Observations Using Deep Learning Algorithms**|Yuyu Wang et.al.|[2406.14101](http://arxiv.org/abs/2406.14101)|null|
+|**2024-06-20**|**Perspective+ Unet: Enhancing Segmentation with Bi-Path Fusion and Efficient Non-Local Attention for Superior Receptive Fields**|Jintong Hu et.al.|[2406.14052](http://arxiv.org/abs/2406.14052)|**[link](https://github.com/tljxyys/perspective-unet)**|
+|**2024-06-20**|**Synthesizing Multimodal Electronic Health Records via Predictive Diffusion Models**|Yuan Zhong et.al.|[2406.13942](http://arxiv.org/abs/2406.13942)|null|
+|**2024-08-22**|**Can AI be enabled to dynamical downscaling? A Latent Diffusion Model to mimic km-scale COSMO5.0\_CLM9 simulations**|Elena Tomasi et.al.|[2406.13627](http://arxiv.org/abs/2406.13627)|**[link](https://github.com/DSIP-FBK/DiffScaler)**|
+|**2024-06-19**|**Low-Rank Mixture-of-Experts for Continual Medical Image Segmentation**|Qian Chen et.al.|[2406.13583](http://arxiv.org/abs/2406.13583)|null|
+|**2024-06-19**|**Lost in UNet: Improving Infrared Small Target Detection by Underappreciated Local Features**|Wuzhou Quan et.al.|[2406.13445](http://arxiv.org/abs/2406.13445)|**[link](https://github.com/wuzhou-quan/hintu)**|
+|**2024-07-21**|**Neural Residual Diffusion Models for Deep Scalable Vision Generation**|Zhiyuan Ma et.al.|[2406.13215](http://arxiv.org/abs/2406.13215)|null|
+|**2024-06-19**|**CU-Net: a U-Net architecture for efficient brain-tumor segmentation on BraTS 2019 dataset**|Qimin Zhang et.al.|[2406.13113](http://arxiv.org/abs/2406.13113)|null|
+|**2024-06-18**|**A transformer boosted UNet for smoke segmentation in complex backgrounds in multispectral LandSat imagery**|Jixue Liu et.al.|[2406.13105](http://arxiv.org/abs/2406.13105)|null|
+|**2024-06-18**|**An Empirical Study on the Fairness of Foundation Models for Multi-Organ Image Segmentation**|Qin Li et.al.|[2406.12646](http://arxiv.org/abs/2406.12646)|null|
+|**2024-06-18**|**Cyclic 2.5D Perceptual Loss for Cross-Modal 3D Image Synthesis: T1 MRI to Tau-PET**|Symac Kim et.al.|[2406.12632](http://arxiv.org/abs/2406.12632)|null|
+|**2024-06-18**|**Training Diffusion Models with Federated Learning**|Matthijs de Goede et.al.|[2406.12575](http://arxiv.org/abs/2406.12575)|null|
+|**2024-06-18**|**IR2QSM: Quantitative Susceptibility Mapping via Deep Neural Networks with Iterative Reverse Concatenations and Recurrent Modules**|Min Li et.al.|[2406.12300](http://arxiv.org/abs/2406.12300)|null|
+|**2024-06-17**|**Discriminative Hamiltonian Variational Autoencoder for Accurate Tumor Segmentation in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.11659](http://arxiv.org/abs/2406.11659)|null|
+|**2024-07-05**|**AnyMaker: Zero-shot General Object Customization via Decoupled Dual-Level ID Injection**|Lingjie Kong et.al.|[2406.11643](http://arxiv.org/abs/2406.11643)|**[link](https://github.com/lingjiekong-fdu/anymaker)**|
+|**2024-06-17**|**MusicScore: A Dataset for Music Score Modeling and Generation**|Yuheng Lin et.al.|[2406.11462](http://arxiv.org/abs/2406.11462)|**[link](https://github.com/dzq84/MusicScore-script)**|
+|**2024-06-17**|**SMRU: Split-and-Merge Recurrent-based UNet for Acoustic Echo Cancellation and Noise Suppression**|Zhihang Sun et.al.|[2406.11175](http://arxiv.org/abs/2406.11175)|null|
+|**2024-06-16**|**An Analysis on Quantizing Diffusion Transformers**|Yuewei Yang et.al.|[2406.11100](http://arxiv.org/abs/2406.11100)|null|
+|**2024-06-16**|**Boosting Medical Image Classification with Segmentation Foundation Model**|Pengfei Gu et.al.|[2406.11026](http://arxiv.org/abs/2406.11026)|null|
+|**2024-06-16**|**ALPS: An Auto-Labeling and Pre-training Scheme for Remote Sensing Segmentation With Segment Anything Model**|Song Zhang et.al.|[2406.10855](http://arxiv.org/abs/2406.10855)|**[link](https://github.com/strivezs/alps)**|
+|**2024-07-15**|**Self Pre-training with Topology- and Spatiality-aware Masked Autoencoders for 3D Medical Image Segmentation**|Pengfei Gu et.al.|[2406.10519](http://arxiv.org/abs/2406.10519)|null|
+|**2024-06-14**|**Enhancing Incomplete Multi-modal Brain Tumor Segmentation with Intra-modal Asymmetry and Inter-modal Dependency**|Weide Liu et.al.|[2406.10175](http://arxiv.org/abs/2406.10175)|null|
+|**2024-06-14**|**A lightweight residual network for unsupervised deformable image registration**|Ahsan Raza Siyal et.al.|[2406.09774](http://arxiv.org/abs/2406.09774)|null|
+|**2024-06-13**|**Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models**|Qihao Liu et.al.|[2406.09416](http://arxiv.org/abs/2406.09416)|null|
+|**2024-06-25**|**Instance-level quantitative saliency in multiple sclerosis lesion segmentation**|Federico Spagnolo et.al.|[2406.09335](http://arxiv.org/abs/2406.09335)|**[link](https://github.com/federicospagnolo/IES)**|
+|**2024-06-13**|**FlowAVSE: Efficient Audio-Visual Speech Enhancement with Conditional Flow Matching**|Chaeyoung Jung et.al.|[2406.09286](http://arxiv.org/abs/2406.09286)|null|
+|**2024-06-13**|**AMSA-UNet: An Asymmetric Multiple Scales U-net Based on Self-attention for Deblurring**|Yingying Wang et.al.|[2406.09015](http://arxiv.org/abs/2406.09015)|null|
+|**2024-06-16**|**Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**|Mingwang Xu et.al.|[2406.08801](http://arxiv.org/abs/2406.08801)|null|
+|**2024-06-12**|**AWGUNET: Attention-Aided Wavelet Guided U-Net for Nuclei Segmentation in Histopathology Images**|Ayush Roy et.al.|[2406.08425](http://arxiv.org/abs/2406.08425)|**[link](https://github.com/ayushroy2001/awgunet)**|
+|**2024-08-19**|**Spatial-Frequency Dual Progressive Attention Network For Medical Image Segmentation**|Zhenhuan Zhou et.al.|[2406.07952](http://arxiv.org/abs/2406.07952)|null|
+|**2024-06-11**|**Comparing Deep Learning Models for Rice Mapping in Bhutan Using High Resolution Satellite Imagery**|Biplov Bhandari et.al.|[2406.07482](http://arxiv.org/abs/2406.07482)|**[link](https://github.com/biplovbhandari/aces)**|
+|**2024-11-18**|**Global and Local Attention-based Inception U-Net for Static IR Drop Prediction**|Yilu Chen et.al.|[2406.06541](http://arxiv.org/abs/2406.06541)|null|
+|**2024-06-10**|**Neuro-TransUNet: Segmentation of stroke lesion in MRI using transformers**|Muhammad Nouman et.al.|[2406.06017](http://arxiv.org/abs/2406.06017)|null|
+|**2024-06-10**|**MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba**|Zhongping Ji et.al.|[2406.05992](http://arxiv.org/abs/2406.05992)|**[link](https://github.com/pixdeep/mhs-vm)**|
+|**2024-06-09**|**GCtx-UNet: Efficient Network for Medical Image Segmentation**|Khaled Alrfou et.al.|[2406.05891](http://arxiv.org/abs/2406.05891)|**[link](https://github.com/kalrfou/gctx-unet)**|
+|**2024-10-29**|**CAMS: Convolution and Attention-Free Mamba-based Cardiac Image Segmentation**|Abbas Khan et.al.|[2406.05786](http://arxiv.org/abs/2406.05786)|**[link](https://github.com/kabbas570/cams-net)**|
+|**2024-10-31**|**Binarized Diffusion Model for Image Super-Resolution**|Zheng Chen et.al.|[2406.05723](http://arxiv.org/abs/2406.05723)|**[link](https://github.com/zhengchen1999/bi-diffsr)**|
+|**2024-06-08**|**3D MRI Synthesis with Slice-Based Latent Diffusion Models: Improving Tumor Segmentation Tasks in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.05421](http://arxiv.org/abs/2406.05421)|**[link](https://github.com/Arksyd96/synthesis-with-slice-based-ldm)**|
+|**2024-08-07**|**VISTA3D: Versatile Imaging SegmenTation and Annotation model for 3D Computed Tomography**|Yufan He et.al.|[2406.05285](http://arxiv.org/abs/2406.05285)|**[link](https://github.com/Project-MONAI/VISTA)**|
+|**2024-06-07**|**Prototype Correlation Matching and Class-Relation Reasoning for Few-Shot Medical Image Segmentation**|Yumin Zhang et.al.|[2406.05054](http://arxiv.org/abs/2406.05054)|null|
+|**2024-06-07**|**Nacala-Roof-Material: Drone Imagery for Roof Detection, Classification, and Segmentation to Support Mosquito-borne Disease Risk Assessment**|Venkanna Babu Guthula et.al.|[2406.04949](http://arxiv.org/abs/2406.04949)|null|
+|**2024-06-19**|**MUSE: Flexible Voiceprint Receptive Fields and Multi-Path Fusion Enhanced Taylor Transformer for U-Net-based Speech Enhancement**|Zizhen Lin et.al.|[2406.04589](http://arxiv.org/abs/2406.04589)|**[link](https://github.com/huaidanquede/MUSE-Speech-Enhancement)**|
+|**2024-06-06**|**M&M VTO: Multi-Garment Virtual Try-On and Editing**|Luyang Zhu et.al.|[2406.04542](http://arxiv.org/abs/2406.04542)|**[link](https://github.com/minar09/awesome-virtual-try-on)**|
+|**2024-06-06**|**MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation**|Ionuţ Grigore et.al.|[2406.04532](http://arxiv.org/abs/2406.04532)|null|
+|**2024-10-26**|**BitsFusion: 1.99 bits Weight Quantization of Diffusion Model**|Yang Sui et.al.|[2406.04333](http://arxiv.org/abs/2406.04333)|**[link](https://github.com/huggingface/diffusers)**|
+|**2024-06-06**|**Characterizing segregation in blast rock piles a deep-learning approach leveraging aerial image analysis**|Chengeng Liu et.al.|[2406.04149](http://arxiv.org/abs/2406.04149)|null|
+|**2024-06-06**|**Polyp and Surgical Instrument Segmentation with Double Encoder-Decoder Networks**|Adrian Galdran et.al.|[2406.03901](http://arxiv.org/abs/2406.03901)|null|
+|**2024-06-06**|**PLDNet: PLD-Guided Lightweight Deep Network Boosted by Efficient Attention for Handheld Dual-Microphone Speech Enhancement**|Nan Zhou et.al.|[2406.03899](http://arxiv.org/abs/2406.03899)|null|
+|**2024-10-17**|**Enhancing Graph U-Nets for Mesh-Agnostic Spatio-Temporal Flow Prediction**|Sunwoong Yang et.al.|[2406.03789](http://arxiv.org/abs/2406.03789)|null|
+|**2024-06-06**|**Instance Segmentation and Teeth Classification in Panoramic X-rays**|Devichand Budagam et.al.|[2406.03747](http://arxiv.org/abs/2406.03747)|**[link](https://github.com/devichand579/Instance_seg_teeth)**|
+|**2024-09-16**|**Npix2Cpix: A GAN-Based Image-to-Image Translation Network With Retrieval- Classification Integration for Watermark Retrieval From Historical Document Images**|Utsab Saha et.al.|[2406.03556](http://arxiv.org/abs/2406.03556)|null|
+|**2024-06-05**|**EngineBench: Flow Reconstruction in the Transparent Combustion Chamber III Optical Engine**|Samuel J. Baker et.al.|[2406.03325](http://arxiv.org/abs/2406.03325)|**[link](https://github.com/sambkr/enginebench)**|
+|**2024-06-24**|**Comparative Benchmarking of Failure Detection Methods in Medical Image Segmentation: Unveiling the Role of Confidence Aggregation**|Maximilian Zenk et.al.|[2406.03323](http://arxiv.org/abs/2406.03323)|null|
+|**2024-06-05**|**Interactive Image Selection and Training for Brain Tumor Segmentation Network**|Matheus A. Cerqueira et.al.|[2406.03225](http://arxiv.org/abs/2406.03225)|null|
+|**2024-06-05**|**Multi-Task Multi-Scale Contrastive Knowledge Distillation for Efficient Medical Image Segmentation**|Risab Biswas et.al.|[2406.03173](http://arxiv.org/abs/2406.03173)|**[link](https://github.com/risabbiswas/knowledge-distillation-in-medical-image-segmentation)**|
+|**2024-06-05**|**VQUNet: Vector Quantization U-Net for Defending Adversarial Atacks by Regularizing Unwanted Noise**|Zhixun He et.al.|[2406.03117](http://arxiv.org/abs/2406.03117)|null|
+|**2024-08-22**|**U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation**|Chenxin Li et.al.|[2406.02918](http://arxiv.org/abs/2406.02918)|null|
+|**2024-10-05**|**DiffCut: Catalyzing Zero-Shot Semantic Segmentation with Diffusion Features and Recursive Normalized Cut**|Paul Couairon et.al.|[2406.02842](http://arxiv.org/abs/2406.02842)|**[link](https://github.com/paulcouairon/diffcut)**|
+|**2024-06-30**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|**[link](https://github.com/a-suozhang/vidit-q)**|
+|**2024-06-05**|**Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation**|Clement Chadebec et.al.|[2406.02347](http://arxiv.org/abs/2406.02347)|**[link](https://github.com/gojasper/flash-diffusion)**|
+|**2024-06-04**|**Domain Game: Disentangle Anatomical Feature for Single Domain Generalized Segmentation**|Hao Chen et.al.|[2406.02125](http://arxiv.org/abs/2406.02125)|null|
+|**2024-06-03**|**An approximation-based approach versus an AI one for the study of CT images of abdominal aorta aneurysms**|Lucrezia Rinelli et.al.|[2406.01764](http://arxiv.org/abs/2406.01764)|null|
+|**2024-06-11**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388](http://arxiv.org/abs/2406.01388)|**[link](https://github.com/donahowe/AutoStudio)**|
+|**2024-06-03**|**$Δ$ -DiT: A Training-Free Acceleration Method Tailored for Diffusion Transformers**|Pengtao Chen et.al.|[2406.01125](http://arxiv.org/abs/2406.01125)|null|
+|**2024-06-03**|**Improving Segment Anything on the Fly: Auxiliary Online Learning and Adaptive Fusion for Medical Image Segmentation**|Tianyu Huang et.al.|[2406.00956](http://arxiv.org/abs/2406.00956)|null|
+|**2024-06-02**|**SimSAM: Zero-shot Medical Image Segmentation via Simulated Interaction**|Benjamin Towle et.al.|[2406.00663](http://arxiv.org/abs/2406.00663)|**[link](https://github.com/benjamintowle/simsam)**|
+|**2024-06-02**|**Deep learning enables automated assessments of inflammatory response in zebrafish exposed to different pollutants**|Lulu Xu et.al.|[2406.00603](http://arxiv.org/abs/2406.00603)|null|
+|**2024-06-01**|**SAM-VMNet: Deep Neural Networks For Coronary Angiography Vessel Segmentation**|Xueying Zeng et.al.|[2406.00492](http://arxiv.org/abs/2406.00492)|**[link](https://github.com/qimingfan10/SAM-VMNet)**|
+|**2024-06-17**|**A-SDM: Accelerating Stable Diffusion through Model Assembly and Feature Inheritance Strategies**|Jinchao Zhu et.al.|[2406.00210](http://arxiv.org/abs/2406.00210)|null|
+|**2024-05-31**|**From Structured to Unstructured:A Comparative Analysis of Computer Vision and Graph Models in solving Mesh-based PDEs**|Jens Decke et.al.|[2406.00081](http://arxiv.org/abs/2406.00081)|null|
+|**2024-05-25**|**Towards Black-Box Membership Inference Attack for Diffusion Models**|Jingwei Li et.al.|[2405.20771](http://arxiv.org/abs/2405.20771)|null|
+|**2024-07-24**|**P-MSDiff: Parallel Multi-Scale Diffusion for Remote Sensing Image Segmentation**|Qi Zhang et.al.|[2405.20443](http://arxiv.org/abs/2405.20443)|**[link](https://github.com/QiZhangsama/P-MSDiff)**|
+|**2024-09-04**|**Convolutional L2LFlows: Generating Accurate Showers in Highly Granular Calorimeters Using Convolutional Normalizing Flows**|Thorsten Buss et.al.|[2405.20407](http://arxiv.org/abs/2405.20407)|**[link](https://github.com/FLC-QU-hep/ConvL2LFlow)**|
+|**2024-06-03**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen et.al.|[2405.20310](http://arxiv.org/abs/2405.20310)|null|
+|**2024-05-30**|**Spectral Mapping of Singing Voices: U-Net-Assisted Vocal Segmentation**|Adam Sorrenti et.al.|[2405.20059](http://arxiv.org/abs/2405.20059)|**[link](https://github.com/mbrotos/soundseg)**|
+|**2024-08-17**|**DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild**|Honghao Fu et.al.|[2405.19996](http://arxiv.org/abs/2405.19996)|**[link](https://github.com/RomGai/DP-IQA)**|
+|**2024-05-31**|**HQ-DiT: Efficient Diffusion Transformer with FP4 Hybrid Quantization**|Wenxuan Liu et.al.|[2405.19751](http://arxiv.org/abs/2405.19751)|null|
+|**2024-05-30**|**CRIS: Collaborative Refinement Integrated with Segmentation for Polyp Segmentation**|Ankush Gajanan Arudkar et.al.|[2405.19672](http://arxiv.org/abs/2405.19672)|null|
+|**2024-05-29**|**VBIM-Net: Variational Born Iterative Network for Inverse Scattering Problems**|Ziqing Xing et.al.|[2405.18731](http://arxiv.org/abs/2405.18731)|null|
+|**2024-11-14**|**Learning Diffeomorphism for Image Registration with Time-Continuous Networks using Semigroup Regularization**|Mohammadjavad Matinkia et.al.|[2405.18684](http://arxiv.org/abs/2405.18684)|**[link](https://github.com/mattkia/SGDIR)**|
+|**2024-05-29**|**Exploring Automated Contouring Across Institutional Boundaries: A Deep Learning Approach with Mouse Micro-CT Datasets**|Lu Jiang et.al.|[2405.18676](http://arxiv.org/abs/2405.18676)|null|
+|**2024-06-24**|**QUBIQ: Uncertainty Quantification for Biomedical Image Segmentation Challenge**|Hongwei Bran Li et.al.|[2405.18435](http://arxiv.org/abs/2405.18435)|null|
+|**2024-07-12**|**CT-based brain ventricle segmentation via diffusion Schrödinger Bridge without target domain ground truths**|Reihaneh Teimouri et.al.|[2405.18267](http://arxiv.org/abs/2405.18267)|**[link](https://github.com/HealthX-Lab/DiffusionSynCTSeg)**|
+|**2024-05-28**|**SubDLe: identification of substructures in cosmological simulations with deep learning**|Michela Esposito et.al.|[2405.18257](http://arxiv.org/abs/2405.18257)|null|
+|**2024-05-28**|**FlowSDF: Flow Matching for Medical Image Segmentation Using Distance Transforms**|Lea Bogensperger et.al.|[2405.18087](http://arxiv.org/abs/2405.18087)|null|
+|**2024-05-29**|**Color Shift Estimation-and-Correction for Image Enhancement**|Yiyu Li et.al.|[2405.17725](http://arxiv.org/abs/2405.17725)|**[link](https://github.com/yiyulics/csec)**|
+|**2024-09-21**|**Advancing Medical Image Segmentation with Mini-Net: A Lightweight Solution Tailored for Efficient Segmentation of Medical Images**|Syed Javed et.al.|[2405.17520](http://arxiv.org/abs/2405.17520)|null|
+|**2024-08-27**|**UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation**|Ting Yu Tsai et.al.|[2405.17496](http://arxiv.org/abs/2405.17496)|**[link](https://github.com/tiffany9056/uu-mamba)**|
+|**2024-07-16**|**Accelerating Simulation of Two-Phase Flows with Neural PDE Surrogates**|Yoeri Poels et.al.|[2405.17260](http://arxiv.org/abs/2405.17260)|**[link](https://github.com/yoeripoels/neural-pde-surrogates)**|
+|**2024-05-27**|**Ensembling Diffusion Models via Adaptive Feature Aggregation**|Cong Wang et.al.|[2405.17082](http://arxiv.org/abs/2405.17082)|**[link](https://github.com/tenvence/afa)**|
+|**2024-05-27**|**DSU-Net: Dynamic Snake U-Net for 2-D Seismic First Break Picking**|Hongtao Wang et.al.|[2405.16980](http://arxiv.org/abs/2405.16980)|null|
+|**2024-07-25**|**Image-level Regression for Uncertainty-aware Retinal Image Segmentation**|Trung Dang et.al.|[2405.16815](http://arxiv.org/abs/2405.16815)|**[link](https://github.com/oulu-imeds/sauna)**|
+|**2024-05-26**|**FRCNet Frequency and Region Consistency for Semi-supervised Medical Image Segmentation**|Along He et.al.|[2405.16573](http://arxiv.org/abs/2405.16573)|null|
+|**2024-05-25**|**A Classifier-Free Incremental Learning Framework for Scalable Medical Image Segmentation**|Xiaoyang Chen et.al.|[2405.16328](http://arxiv.org/abs/2405.16328)|null|
+|**2024-05-25**|**Combining Radiomics and Machine Learning Approaches for Objective ASD Diagnosis: Verifying White Matter Associations with ASD**|Junlin Song et.al.|[2405.16248](http://arxiv.org/abs/2405.16248)|null|
+|**2024-05-25**|**A better approach to diagnose retinal diseases: Combining our Segmentation-based Vascular Enhancement with deep learning features**|Yuzhuo Chen et.al.|[2405.16235](http://arxiv.org/abs/2405.16235)|null|
+|**2024-05-25**|**Improving 3D Occupancy Prediction through Class-balancing Loss and Multi-scale Representation**|Huizhou Chen et.al.|[2405.16099](http://arxiv.org/abs/2405.16099)|null|
+|**2024-05-24**|**MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation**|Chunyu Yuan et.al.|[2405.15925](http://arxiv.org/abs/2405.15925)|**[link](https://github.com/chunyuyuan/mucm-net)**|
+|**2024-05-23**|**Efficient Point Transformer with Dynamic Token Aggregating for Point Cloud Processing**|Dening Lu et.al.|[2405.15827](http://arxiv.org/abs/2405.15827)|null|
+|**2024-05-23**|**3D Learnable Supertoken Transformer for LiDAR Point Cloud Scene Segmentation**|Dening Lu et.al.|[2405.15826](http://arxiv.org/abs/2405.15826)|null|
+|**2024-04-04**|**LiteNeXt: A Novel Lightweight ConvMixer-based Model with Self-embedding Representation Parallel for Medical Image Segmentation**|Ngoc-Du Tran et.al.|[2405.15779](http://arxiv.org/abs/2405.15779)|null|
+|**2024-04-03**|**Investigation of Energy-efficient AI Model Architectures and Compression Techniques for "Green" Fetal Brain Segmentation**|Szymon Mazurek et.al.|[2405.15778](http://arxiv.org/abs/2405.15778)|null|
+|**2024-11-18**|**ArtWeaver: Advanced Dynamic Style Integration via Diffusion Model**|Chengming Xu et.al.|[2405.15287](http://arxiv.org/abs/2405.15287)|null|
+|**2024-10-09**|**Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models**|Yimeng Zhang et.al.|[2405.15234](http://arxiv.org/abs/2405.15234)|**[link](https://github.com/optml-group/advunlearn)**|
+|**2024-04-01**|**BloodCell-Net: A lightweight convolutional neural network for the classification of all microscopic blood cell images of the human body**|Sohag Kumar Mondal et.al.|[2405.14875](http://arxiv.org/abs/2405.14875)|null|
+|**2024-05-23**|**HemSeg-200: A Voxel-Annotated Dataset for Intracerebral Hemorrhages Segmentation in Brain CT Scans**|Changwei Song et.al.|[2405.14559](http://arxiv.org/abs/2405.14559)|**[link](https://github.com/songchangwei/3dct-sd-ivh-ich)**|
+|**2024-05-23**|**DuEDL: Dual-Branch Evidential Deep Learning for Scribble-Supervised Medical Image Segmentation**|Yitong Yang et.al.|[2405.14444](http://arxiv.org/abs/2405.14444)|**[link](https://github.com/gardnery/duedl)**|
+|**2024-07-10**|**DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis**|Yao Teng et.al.|[2405.14224](http://arxiv.org/abs/2405.14224)|**[link](https://github.com/tyshiwo1/dim-diffusionmamba)**|
+|**2024-05-22**|**Two Heads are Better Than One: Neural Networks Quantization with 2D Hilbert Curve-based Output Representation**|Mykhailo Uss et.al.|[2405.14024](http://arxiv.org/abs/2405.14024)|null|
+|**2024-05-22**|**Hybrid Multihead Attentive Unet-3D for Brain Tumor Segmentation**|Muhammad Ansab Butt et.al.|[2405.13304](http://arxiv.org/abs/2405.13304)|null|
+|**2024-05-21**|**BeadSight: An Inexpensive Tactile Sensor Using Hydro-Gel Beads**|Abraham George et.al.|[2405.13204](http://arxiv.org/abs/2405.13204)|**[link](https://github.com/abraham190137/beadsight)**|
+|**2024-05-20**|**Paired Conditional Generative Adversarial Network for Highly Accelerated Liver 4D MRI**|Di Xu et.al.|[2405.12357](http://arxiv.org/abs/2405.12357)|null|
+|**2024-05-20**|**Multi-dimension Transformer with Attention-based Filtering for Medical Image Segmentation**|Wentao Wang et.al.|[2405.12328](http://arxiv.org/abs/2405.12328)|null|
+|**2024-05-18**|**Medical Image Analysis for Detection, Treatment and Planning of Disease using Artificial Intelligence Approaches**|Nand Lal Yadav et.al.|[2405.11295](http://arxiv.org/abs/2405.11295)|null|
+|**2024-05-18**|**AquaLoRA: Toward White-box Protection for Customized Stable Diffusion Models via Watermark LoRA**|Weitao Feng et.al.|[2405.11135](http://arxiv.org/abs/2405.11135)|**[link](https://github.com/georgefwt/aqualora)**|
+|**2024-05-17**|**Blackbox Adaptation for Medical Image Segmentation**|Jay N. Paranjape et.al.|[2405.10913](http://arxiv.org/abs/2405.10913)|**[link](https://github.com/jayparanjape/blackbox)**|
+|**2024-05-17**|**CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation**|Mushui Liu et.al.|[2405.10530](http://arxiv.org/abs/2405.10530)|**[link](https://github.com/xiaobul/cm-unet)**|
+|**2024-05-16**|**Region-level labels in ice charts can produce pixel-level segmentation for Sea Ice types**|Muhammed Patel et.al.|[2405.10456](http://arxiv.org/abs/2405.10456)|null|
+|**2024-05-16**|**Diversity-Aware Sign Language Production through a Pose Encoding Variational Autoencoder**|Mohamed Ilyes Lakhal et.al.|[2405.10423](http://arxiv.org/abs/2405.10423)|null|
+|**2024-09-27**|**Vision Transformers for End-to-End Vision-Based Quadrotor Obstacle Avoidance**|Anish Bhattacharya et.al.|[2405.10391](http://arxiv.org/abs/2405.10391)|null|
+|**2024-05-16**|**RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing**|Huiling Zhou et.al.|[2405.10030](http://arxiv.org/abs/2405.10030)|null|
+|**2024-09-04**|**Rethinking Barely-Supervised Volumetric Medical Image Segmentation from an Unsupervised Domain Adaptation Perspective**|Zhiqiang Shen et.al.|[2405.09777](http://arxiv.org/abs/2405.09777)|**[link](https://github.com/senyh/bva)**|
+|**2024-07-25**|**SOEDiff: Efficient Distillation for Small Object Editing**|Yiming Wu et.al.|[2405.09114](http://arxiv.org/abs/2405.09114)|null|
+|**2024-05-15**|**CTS: A Consistency-Based Medical Image Segmentation Model**|Kejia Zhang et.al.|[2405.09056](http://arxiv.org/abs/2405.09056)|**[link](https://github.com/LanHEU/CTS)**|
+|**2024-07-09**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556](http://arxiv.org/abs/2405.08556)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
+|**2024-05-14**|**Towards Clinician-Preferred Segmentation: Leveraging Human-in-the-Loop for Test Time Adaptation in Medical Image Segmentation**|Shishuai Hu et.al.|[2405.08270](http://arxiv.org/abs/2405.08270)|null|
+|**2024-08-29**|**Estimating Direct and Indirect Causal Effects of Spatiotemporal Interventions in Presence of Spatial Interference**|Sahara Ali et.al.|[2405.08174](http://arxiv.org/abs/2405.08174)|null|
+|**2024-06-03**|**Ground-based image deconvolution with Swin Transformer UNet**|Utsav Akhaury et.al.|[2405.07842](http://arxiv.org/abs/2405.07842)|null|
+|**2024-05-13**|**Coarse or Fine? Recognising Action End States without Labels**|Davide Moltisanti et.al.|[2405.07723](http://arxiv.org/abs/2405.07723)|**[link](https://github.com/dmoltisanti/coficut-cvprw24)**|
+|**2024-05-13**|**Support-Query Prototype Fusion Network for Few-shot Medical Image Segmentation**|Xiaoxiao Wu et.al.|[2405.07516](http://arxiv.org/abs/2405.07516)|null|
+|**2024-05-12**|**Explainable Convolutional Neural Networks for Retinal Fundus Classification and Cutting-Edge Segmentation Models for Retinal Blood Vessels from Fundus Images**|Fatema Tuj Johora Faria et.al.|[2405.07338](http://arxiv.org/abs/2405.07338)|**[link](https://github.com/fatemafaria142/Retinal-Fundus-Classification-using-XAI-and-Segmentation)**|
+|**2024-05-12**|**Leveraging Fixed and Dynamic Pseudo-labels for Semi-supervised Medical Image Segmentation**|Suruchi Kumari et.al.|[2405.07256](http://arxiv.org/abs/2405.07256)|null|
+|**2024-05-11**|**Learning Monocular Depth from Focus with Event Focal Stack**|Chenxu Jiang et.al.|[2405.06944](http://arxiv.org/abs/2405.06944)|null|
+|**2024-05-11**|**EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Medical Image Segmentation**|Md Mostafijur Rahman et.al.|[2405.06880](http://arxiv.org/abs/2405.06880)|**[link](https://github.com/sldgroup/emcad)**|
+|**2024-09-27**|**Automated Cell Structure Extraction for 3D Electron Microscopy by Deep Learning**|Jin Kousaka et.al.|[2405.06303](http://arxiv.org/abs/2405.06303)|null|
+|**2024-05-18**|**PCLMix: Weakly Supervised Medical Image Segmentation via Pixel-Level Contrastive Learning and Dynamic Mix Augmentation**|Yu Lei et.al.|[2405.06288](http://arxiv.org/abs/2405.06288)|**[link](https://github.com/torpedo2648/pclmix)**|
+|**2024-05-10**|**Modality-agnostic Domain Generalizable Medical Image Segmentation by Multi-Frequency in Multi-Scale Attention**|Ju-Hyeon Nam et.al.|[2405.06284](http://arxiv.org/abs/2405.06284)|**[link](https://github.com/Inha-CVAI/MADGNet)**|
+|**2024-05-23**|**TransAnaNet: Transformer-based Anatomy Change Prediction Network for Head and Neck Cancer Patient Radiotherapy**|Meixu Chen et.al.|[2405.05674](http://arxiv.org/abs/2405.05674)|null|
+|**2024-05-09**|**Continuous max-flow augmentation of self-supervised few-shot learning on SPECT left ventricles**|Ádám István Szűcs et.al.|[2405.05520](http://arxiv.org/abs/2405.05520)|**[link](https://github.com/jacksonfurrier/isbi_2024_code)**|
+|**2024-05-08**|**An anti-noise seismic inversion method based on diffusion model**|Yingtian Liu et.al.|[2405.05026](http://arxiv.org/abs/2405.05026)|**[link](https://github.com/goodlikewater/DSIM-USSL)**|
+|**2024-10-02**|**HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation**|Jiashu Xu et.al.|[2405.05007](http://arxiv.org/abs/2405.05007)|null|
+|**2024-05-08**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312](http://arxiv.org/abs/2405.04312)|**[link](https://github.com/thudm/inf-dit)**|
+|**2024-05-07**|**Lumbar Spine Tumor Segmentation and Localization in T2 MRI Images Using AI**|Rikathi Pal et.al.|[2405.04023](http://arxiv.org/abs/2405.04023)|null|
+|**2024-10-04**|**Simple Drop-in LoRA Conditioning on Attention Layers Will Improve Your Diffusion Model**|Joo Young Choi et.al.|[2405.03958](http://arxiv.org/abs/2405.03958)|null|
+|**2024-09-02**|**Unicorn: U-Net for Sea Ice Forecasting with Convolutional Neural Ordinary Differential Equations**|Jaesung Park et.al.|[2405.03929](http://arxiv.org/abs/2405.03929)|**[link](https://github.com/optim-lab/sif-models)**|
+|**2024-05-06**|**CCDM: Continuous Conditional Diffusion Models for Image Generation**|Xin Ding et.al.|[2405.03546](http://arxiv.org/abs/2405.03546)|**[link](https://github.com/ubcdingxin/ccdm)**|
+|**2024-05-06**|**Implantable Adaptive Cells: differentiable architecture search to improve the performance of any trained U-shaped network**|Emil Benedykciuk et.al.|[2405.03420](http://arxiv.org/abs/2405.03420)|**[link](https://gitlab.com/emil-benedykciuk/u-net-darts-tensorflow)**|
+|**2024-05-05**|**SalFAU-Net: Saliency Fusion Attention U-Net for Salient Object Detection**|Kassaw Abraham Mulat et.al.|[2405.02906](http://arxiv.org/abs/2405.02906)|null|
+|**2024-05-05**|**On Enhancing Brain Tumor Segmentation Across Diverse Populations with Convolutional Neural Networks**|Fadillah Maani et.al.|[2405.02852](http://arxiv.org/abs/2405.02852)|**[link](https://github.com/biomedia-mbzuai/brats2024_biomediambz)**|
+|**2024-10-30**|**U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers**|Yuchuan Tian et.al.|[2405.02730](http://arxiv.org/abs/2405.02730)|**[link](https://github.com/yuchuantian/u-dit)**|
+|**2024-05-03**|**Continuous Learned Primal Dual**|Christina Runkel et.al.|[2405.02478](http://arxiv.org/abs/2405.02478)|null|
+|**2024-05-07**|**Introducing a microstructure-embedded autoencoder approach for reconstructing high-resolution solution field data from a reduced parametric space**|Rasoul Najafi Koopas et.al.|[2405.01975](http://arxiv.org/abs/2405.01975)|**[link](https://github.com/rasoulnajafi/microstructure-embedded-autoencoder-mea-)**|
+|**2024-05-02**|**PAM-UNet: Shifting Attention on Region of Interest in Medical Images**|Abhijit Das et.al.|[2405.01503](http://arxiv.org/abs/2405.01503)|null|
+|**2024-05-15**|**RaffeSDG: Random Frequency Filtering enabled Single-source Domain Generalization for Medical Image Segmentation**|Heng Li et.al.|[2405.01228](http://arxiv.org/abs/2405.01228)|**[link](https://github.com/liamheng/non-iid_medical_image_segmentation)**|
+|**2024-05-02**|**Image segmentation of treated and untreated tumor spheroids by Fully Convolutional Networks**|Matthias Streller et.al.|[2405.01105](http://arxiv.org/abs/2405.01105)|null|
+|**2024-05-08**|**On Mechanistic Knowledge Localization in Text-to-Image Generative Models**|Samyadeep Basu et.al.|[2405.01008](http://arxiv.org/abs/2405.01008)|**[link](https://github.com/samyadeepbasu/locogen)**|
+|**2024-05-01**|**DmADs-Net: Dense multiscale attention and depth-supervised network for medical image segmentation**|Zhaojin Fu et.al.|[2405.00472](http://arxiv.org/abs/2405.00472)|null|
+|**2024-06-29**|**Predictive Accuracy-Based Active Learning for Medical Image Segmentation**|Jun Shi et.al.|[2405.00452](http://arxiv.org/abs/2405.00452)|**[link](https://github.com/shijun18/paal-medseg)**|
+|**2024-05-01**|**Adaptive Bidirectional Displacement for Semi-Supervised Medical Image Segmentation**|Hanyang Chi et.al.|[2405.00378](http://arxiv.org/abs/2405.00378)|**[link](https://github.com/chy-upc/abd)**|
+|**2024-08-07**|**CrossMatch: Enhance Semi-Supervised Medical Image Segmentation with Perturbation Strategies and Knowledge Distillation**|Bin Zhao et.al.|[2405.00354](http://arxiv.org/abs/2405.00354)|**[link](https://github.com/aieson/crossmatch)**|
+|**2024-04-30**|**A Flexible 2.5D Medical Image Segmentation Approach with In-Slice and Cross-Slice Attention**|Amarjeet Kumar et.al.|[2405.00130](http://arxiv.org/abs/2405.00130)|**[link](https://github.com/mirthai/csa-net)**|
+|**2024-04-29**|**Real-Time Convolutional Neural Network-Based Star Detection and Centroiding Method for CubeSat Star Tracker**|Hongrui Zhao et.al.|[2404.19108](http://arxiv.org/abs/2404.19108)|null|
+|**2024-04-29**|**Improving Interpretability of Deep Active Learning for Flood Inundation Mapping Through Class Ambiguity Indices Using Multi-spectral Satellite Imagery**|Hyunho Lee et.al.|[2404.19043](http://arxiv.org/abs/2404.19043)|null|
+|**2024-05-01**|**U-Nets as Belief Propagation: Efficient Classification, Denoising, and Diffusion in Generative Hierarchical Models**|Song Mei et.al.|[2404.18444](http://arxiv.org/abs/2404.18444)|null|
+|**2024-04-28**|**Panoptic Segmentation and Labelling of Lumbar Spine Vertebrae using Modified Attention Unet**|Rikathi Pal et.al.|[2404.18291](http://arxiv.org/abs/2404.18291)|null|
+|**2024-04-28**|**Rethinking Attention Gated with Hybrid Dual Pyramid Transformer-CNN for Generalized Segmentation in Medical Imaging**|Fares Bougourzi et.al.|[2404.18199](http://arxiv.org/abs/2404.18199)|**[link](https://github.com/faresbougourzi/pagtransynet)**|
+|**2024-09-26**|**EvaNet: Elevation-Guided Flood Extent Mapping on Earth Imagery (Extended Version)**|Mirza Tanzim Sami et.al.|[2404.17917](http://arxiv.org/abs/2404.17917)|**[link](https://github.com/mtsami/evanet)**|
+|**2024-04-27**|**GLIMS: Attention-Guided Lightweight Multi-Scale Hybrid Network for Volumetric Semantic Segmentation**|Ziya Ata Yazıcı et.al.|[2404.17854](http://arxiv.org/abs/2404.17854)|**[link](https://github.com/yaziciz/GLIMS)**|
+|**2024-04-27**|**Instance-free Text to Point Cloud Localization with Relative Position Awareness**|Lichao Wang et.al.|[2404.17845](http://arxiv.org/abs/2404.17845)|null|
+|**2024-04-27**|**Generative Diffusion-based Downscaling for Climate**|Robbie A. Watt et.al.|[2404.17752](http://arxiv.org/abs/2404.17752)|**[link](https://github.com/robbiewatt1/climatediffuse)**|
+|**2024-07-11**|**MMA-UNet: A Multi-Modal Asymmetric UNet Architecture for Infrared and Visible Image Fusion**|Jingxue Huang et.al.|[2404.17747](http://arxiv.org/abs/2404.17747)|null|
+|**2024-05-14**|**Segmentation Quality and Volumetric Accuracy in Medical Imaging**|Zheyuan Zhang et.al.|[2404.17742](http://arxiv.org/abs/2404.17742)|null|
+|**2024-04-26**|**Defending Spiking Neural Networks against Adversarial Attacks through Image Purification**|Weiran Chen et.al.|[2404.17092](http://arxiv.org/abs/2404.17092)|null|
+|**2024-04-25**|**Auto-Generating Weak Labels for Real & Synthetic Data to Improve Label-Scarce Medical Image Segmentation**|Tanvi Deshpande et.al.|[2404.17033](http://arxiv.org/abs/2404.17033)|**[link](https://github.com/stanfordmlgroup/auto-generate-wls)**|
+|**2024-04-27**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617](http://arxiv.org/abs/2404.16617)|**[link](https://github.com/tetsuyaodaka/steerablepyramid)**|
+|**2024-04-25**|**DiffSeg: A Segmentation Model for Skin Lesions Based on Diffusion Difference**|Zhihao Shuai et.al.|[2404.16474](http://arxiv.org/abs/2404.16474)|null|
+|**2024-04-25**|**Multimodal Information Interaction for Medical Image Segmentation**|Xinxin Fan et.al.|[2404.16371](http://arxiv.org/abs/2404.16371)|**[link](https://github.com/fxxjuses/micformer)**|
+|**2024-04-25**|**Semantic Segmentation Refiner for Ultrasound Applications with Zero-Shot Foundation Models**|Hedda Cohen Indelman et.al.|[2404.16325](http://arxiv.org/abs/2404.16325)|null|
+|**2024-04-24**|**Toward Physics-Aware Deep Learning Architectures for LiDAR Intensity Simulation**|Vivek Anand et.al.|[2404.15774](http://arxiv.org/abs/2404.15774)|**[link](https://github.com/voodooed/LBLIS)**|
+|**2024-04-24**|**Mitigating False Predictions In Unreasonable Body Regions**|Constantin Ulrich et.al.|[2404.15718](http://arxiv.org/abs/2404.15718)|null|
+|**2024-04-23**|**CFPFormer: Feature-pyramid like Transformer Decoder for Segmentation and Detection**|Hongyi Cai et.al.|[2404.15451](http://arxiv.org/abs/2404.15451)|null|
+|**2024-04-23**|**ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model**|Yuanshao Zhu et.al.|[2404.15380](http://arxiv.org/abs/2404.15380)|null|
+|**2024-04-23**|**Ultrasound SAM Adapter: Adapting SAM for Breast Lesion Segmentation in Ultrasound Images**|Zhengzheng Tu et.al.|[2404.14837](http://arxiv.org/abs/2404.14837)|**[link](https://github.com/bscs12/bussam)**|
+|**2024-05-07**|**A Novel Approach to Chest X-ray Lung Segmentation Using U-net and Modified Convolutional Block Attention Module**|Mohammad Ali Labbaf Khaniki et.al.|[2404.14322](http://arxiv.org/abs/2404.14322)|null|
+|**2024-04-21**|**PEMMA: Parameter-Efficient Multi-Modal Adaptation for Medical Image Segmentation**|Nada Saadi et.al.|[2404.13704](http://arxiv.org/abs/2404.13704)|null|
+|**2024-04-21**|**Cell Phone Image-Based Persian Rice Detection and Classification Using Deep Learning Techniques**|Mahmood Saeedi kelishami et.al.|[2404.13555](http://arxiv.org/abs/2404.13555)|null|
+|**2024-04-20**|**AMMUNet: Multi-Scale Attention Map Merging for Remote Sensing Image Segmentation**|Yang Yang et.al.|[2404.13408](http://arxiv.org/abs/2404.13408)|**[link](https://github.com/interpretty/ammunet)**|
+|**2024-04-20**|**Seismic Interpolation Transformer for Consecutively Missing Data: A Case Study in DAS-VSP Data**|Ming Cheng et.al.|[2404.13312](http://arxiv.org/abs/2404.13312)|null|
+|**2024-04-20**|**Beyond Pixel-Wise Supervision for Medical Image Segmentation: From Traditional Models to Foundation Models**|Yuyan Shi et.al.|[2404.13239](http://arxiv.org/abs/2404.13239)|null|
+|**2024-04-19**|**ToNNO: Tomographic Reconstruction of a Neural Network's Output for Weakly Supervised Segmentation of 3D Medical Images**|Marius Schmidt-Mengin et.al.|[2404.13103](http://arxiv.org/abs/2404.13103)|null|
+|**2024-04-19**|**DensePANet: An improved generative adversarial network for photoacoustic tomography image reconstruction from sparse data**|Hesam Hakimnejad et.al.|[2404.13101](http://arxiv.org/abs/2404.13101)|null|
+|**2024-04-19**|**Nuclei Instance Segmentation of Cryosectioned H&E Stained Histological Images using Triple U-Net Architecture**|Zarif Ahmed et.al.|[2404.12986](http://arxiv.org/abs/2404.12986)|null|
+|**2024-04-18**|**Cross-model Mutual Learning for Exemplar-based Medical Image Segmentation**|Qing En et.al.|[2404.11812](http://arxiv.org/abs/2404.11812)|null|
+|**2024-04-17**|**CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration**|Rui Deng et.al.|[2404.11778](http://arxiv.org/abs/2404.11778)|null|
+|**2024-04-17**|**Boosting Medical Image Segmentation Performance with Adaptive Convolution Layer**|Seyed M. R. Modaresi et.al.|[2404.11361](http://arxiv.org/abs/2404.11361)|**[link](https://github.com/modaresimr/adaptive_mis)**|
+|**2024-04-17**|**Multi-target and multi-stage liver lesion segmentation and detection in multi-phase computed tomography scans**|Abdullah F. Al-Battal et.al.|[2404.11152](http://arxiv.org/abs/2404.11152)|null|
+|**2024-04-17**|**Music Enhancement with Deep Filters: A Technical Report for The ICASSP 2024 Cadenza Challenge**|Keren Shao et.al.|[2404.11116](http://arxiv.org/abs/2404.11116)|null|
+|**2024-04-17**|**LADDER: An Efficient Framework for Video Frame Interpolation**|Tong Shen et.al.|[2404.11108](http://arxiv.org/abs/2404.11108)|null|
+|**2024-04-19**|**LAPTOP-Diff: Layer Pruning and Normalized Distillation for Compressing Diffusion Models**|Dingkun Zhang et.al.|[2404.11098](http://arxiv.org/abs/2404.11098)|null|
+|**2024-04-16**|**Mixed Prototype Consistency Learning for Semi-supervised Medical Image Segmentation**|Lijian Li et.al.|[2404.10717](http://arxiv.org/abs/2404.10717)|null|
+|**2024-04-16**|**Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**|John Francis et.al.|[2404.10626](http://arxiv.org/abs/2404.10626)|null|
+|**2024-09-16**|**CorrespondentDream: Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences**|Seungwook Kim et.al.|[2404.10603](http://arxiv.org/abs/2404.10603)|null|
+|**2024-04-23**|**SegFormer3D: an Efficient Transformer for 3D Medical Image Segmentation**|Shehan Perera et.al.|[2404.10156](http://arxiv.org/abs/2404.10156)|**[link](https://github.com/osupcvlab/segformer3d)**|
+|**2024-05-24**|**Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model**|Han Lin et.al.|[2404.09967](http://arxiv.org/abs/2404.09967)|null|
+|**2024-05-13**|**How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model**|Hanxue Gu et.al.|[2404.09957](http://arxiv.org/abs/2404.09957)|**[link](https://github.com/mazurowski-lab/finetune-sam)**|
+|**2024-04-18**|**Post-Training Network Compression for 3D Medical Image Segmentation: Reducing Computational Efforts via Tucker Decomposition**|Tobias Weber et.al.|[2404.09683](http://arxiv.org/abs/2404.09683)|**[link](https://github.com/clinicaldatascience/tucker-cnn)**|
+|**2024-07-25**|**nnU-Net Revisited: A Call for Rigorous Validation in 3D Medical Image Segmentation**|Fabian Isensee et.al.|[2404.09556](http://arxiv.org/abs/2404.09556)|**[link](https://github.com/MIC-DKFZ/nnunet)**|
+|**2024-04-29**|**WiTUnet: A U-Shaped Architecture Integrating CNN and Transformer for Improved Feature Alignment and Local Information Fusion**|Bin Wang et.al.|[2404.09533](http://arxiv.org/abs/2404.09533)|**[link](https://github.com/woldier/witunet)**|
+|**2024-04-15**|**Q2A: Querying Implicit Fully Continuous Feature Pyramid to Align Features for Medical Image Segmentation**|Jiahao Yu et.al.|[2404.09472](http://arxiv.org/abs/2404.09472)|null|
+|**2024-04-14**|**Change Guiding Network: Incorporating Change Prior to Guide Change Detection in Remote Sensing Imagery**|Chengxi Han et.al.|[2404.09179](http://arxiv.org/abs/2404.09179)|**[link](https://github.com/chengxihan/cgnet-cd)**|
+|**2024-04-16**|**LoopAnimate: Loopable Salient Object Animation**|Fanyi Wang et.al.|[2404.09172](http://arxiv.org/abs/2404.09172)|null|
+|**2024-04-13**|**Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation**|Qinghe Ma et.al.|[2404.08951](http://arxiv.org/abs/2404.08951)|**[link](https://github.com/mqinghe/midss)**|
+|**2024-04-12**|**Structured Model Pruning for Efficient Inference in Computational Pathology**|Mohammed Adnan et.al.|[2404.08831](http://arxiv.org/abs/2404.08831)|null|
+|**2024-04-12**|**Seismic First Break Picking in a Higher Dimension Using Deep Graph Learning**|Hongtao Wang et.al.|[2404.08408](http://arxiv.org/abs/2404.08408)|null|
+|**2024-07-17**|**DisorderUnetLM: Validating ProteinUnet for efficient protein intrinsic disorder prediction**|Krzysztof Kotowski et.al.|[2404.08108](http://arxiv.org/abs/2404.08108)|null|
+|**2024-04-11**|**Toward ultra-efficient high fidelity predictions of wind turbine wakes: Augmenting the accuracy of engineering models via LES-trained machine learning**|Christian Santoni et.al.|[2404.07938](http://arxiv.org/abs/2404.07938)|null|
+|**2024-05-14**|**ViM-UNet: Vision Mamba for Biomedical Segmentation**|Anwai Archit et.al.|[2404.07705](http://arxiv.org/abs/2404.07705)|**[link](https://github.com/constantinpape/torch-em)**|
+|**2024-04-11**|**Weakly-Supervised Learning via Multi-Lateral Decoder Branching for Guidewire Segmentation in Robot-Assisted Cardiovascular Catheterization**|Olatunji Mumini Omisore et.al.|[2404.07594](http://arxiv.org/abs/2404.07594)|null|
+|**2024-08-23**|**Multi-rater Prompting for Ambiguous Medical Image Segmentation**|Jinhong Wang et.al.|[2404.07580](http://arxiv.org/abs/2404.07580)|null|
+|**2024-04-11**|**LUCF-Net: Lightweight U-shaped Cascade Fusion Network for Medical Image Segmentation**|Songkai Sun et.al.|[2404.07473](http://arxiv.org/abs/2404.07473)|null|
+|**2024-04-11**|**A fine-tuning workflow for automatic first-break picking with deep learning**|Amir Mardan et.al.|[2404.07400](http://arxiv.org/abs/2404.07400)|**[link](https://github.com/geo-stack/first_break_picking)**|
+|**2024-04-10**|**An Evidential-enhanced Tri-Branch Consistency Learning Method for Semi-supervised Medical Image Segmentation**|Zhenxi Zhang et.al.|[2404.07032](http://arxiv.org/abs/2404.07032)|null|
+|**2024-04-10**|**Accelerating Cardiac MRI Reconstruction with CMRatt: An Attention-Driven Approach**|Anam Hashmi et.al.|[2404.06941](http://arxiv.org/abs/2404.06941)|null|
+|**2024-07-13**|**Dismai-Bench: Benchmarking and designing generative models using disordered materials and interfaces**|Adrian Xiao Bin Yong et.al.|[2404.06734](http://arxiv.org/abs/2404.06734)|**[link](https://github.com/ertekin-research-group/cryingan)**|
+|**2024-04-09**|**Res-U2Net: Untrained Deep Learning for Phase Retrieval and Image Reconstruction**|Carlos Osorio Quero et.al.|[2404.06657](http://arxiv.org/abs/2404.06657)|null|
+|**2024-04-09**|**Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations**|Maximilian Witte et.al.|[2404.06400](http://arxiv.org/abs/2404.06400)|null|
+|**2024-04-30**|**Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation**|Sidra Aleem et.al.|[2404.06362](http://arxiv.org/abs/2404.06362)|**[link](https://github.com/aleemsidra/SaLIP)**|
+|**2024-04-09**|**EPL: Evidential Prototype Learning for Semi-supervised Medical Image Segmentation**|Yuanpeng He et.al.|[2404.06181](http://arxiv.org/abs/2404.06181)|null|
+|**2024-04-11**|**Uncertainty-aware Evidential Fusion-based Learning for Semi-supervised Medical Image Segmentation**|Yuanpeng He et.al.|[2404.06177](http://arxiv.org/abs/2404.06177)|null|
+|**2024-04-09**|**Object Dynamics Modeling with Hierarchical Point Cloud-based Representations**|Chanho Kim et.al.|[2404.06044](http://arxiv.org/abs/2404.06044)|null|
+|**2024-04-09**|**LATUP-Net: A Lightweight 3D Attention U-Net with Parallel Convolutions for Brain Tumor Segmentation**|Ebtihal J. Alwadee et.al.|[2404.05911](http://arxiv.org/abs/2404.05911)|null|
+|**2024-04-06**|**Deep Learning-Based Brain Image Segmentation for Automated Tumour Detection**|Suman Sourabh et.al.|[2404.05763](http://arxiv.org/abs/2404.05763)|null|
+|**2024-04-08**|**Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery**|Ionut M. Motoi et.al.|[2404.05693](http://arxiv.org/abs/2404.05693)|**[link](https://github.com/IonutMotoi/CutPasteSatSeg)**|
+|**2024-04-09**|**Generating Galaxy Clusters Mass Density Maps from Mock Multiview Images via Deep Learning**|Daniel de Andres et.al.|[2404.05400](http://arxiv.org/abs/2404.05400)|null|
+|**2024-04-08**|**Rethinking the Spatial Inconsistency in Classifier-Free Diffusion Guidance**|Dazhong Shen et.al.|[2404.05384](http://arxiv.org/abs/2404.05384)|**[link](https://github.com/smilesdzgk/s-cfg)**|
+|**2024-04-08**|**Comparative Analysis of Image Enhancement Techniques for Brain Tumor Segmentation: Contrast, Histogram, and Hybrid Approaches**|Shoffan Saifullah et.al.|[2404.05341](http://arxiv.org/abs/2404.05341)|null|
+|**2024-09-11**|**LHU-Net: A Light Hybrid U-Net for Cost-Efficient, High-Performance Volumetric Medical Image Segmentation**|Yousef Sadegheih et.al.|[2404.05102](http://arxiv.org/abs/2404.05102)|**[link](https://github.com/xmindflow/lhunet)**|
+|**2024-04-07**|**PlateSegFL: A Privacy-Preserving License Plate Detection Using Federated Segmentation Learning**|Md. Shahriar Rahman Anuvab et.al.|[2404.05049](http://arxiv.org/abs/2404.05049)|null|
+|**2024-04-07**|**FPL+: Filtered Pseudo Label-based Unsupervised Cross-Modality Adaptation for 3D Medical Image Segmentation**|Jianghao Wu et.al.|[2404.04971](http://arxiv.org/abs/2404.04971)|**[link](https://github.com/hilab-git/fpl-plus)**|
+|**2024-04-06**|**PointSAGE: Mesh-independent superresolution approach to fluid flow predictions**|Rajat Sarkar et.al.|[2404.04615](http://arxiv.org/abs/2404.04615)|null|
+|**2024-04-05**|**Uformer: A UNet-Transformer fused robust end-to-end deep learning framework for real-time denoising of lung sounds**|Samiul Based Shuvo et.al.|[2404.04365](http://arxiv.org/abs/2404.04365)|null|
+|**2024-04-05**|**Physics-Inspired Synthesized Underwater Image Dataset**|Reina Kaneko et.al.|[2404.03998](http://arxiv.org/abs/2404.03998)|null|
+|**2024-04-05**|**Towards Efficient and Accurate CT Segmentation via Edge-Preserving Probabilistic Downsampling**|Shahzad Ali et.al.|[2404.03991](http://arxiv.org/abs/2404.03991)|null|
+|**2024-04-04**|**Segmentation-Guided Knee Radiograph Generation using Conditional Diffusion Models**|Siyuan Mei et.al.|[2404.03541](http://arxiv.org/abs/2404.03541)|null|
+|**2024-04-03**|**On the Scalability of Diffusion-based Text-to-Image Generation**|Hao Li et.al.|[2404.02883](http://arxiv.org/abs/2404.02883)|null|
+|**2024-07-07**|**Cross-Modal Conditioned Reconstruction for Language-guided Medical Image Segmentation**|Xiaoshuang Huang et.al.|[2404.02845](http://arxiv.org/abs/2404.02845)|**[link](https://github.com/shawnhuang497/reclmis)**|
+|**2024-04-03**|**Adaptive Affinity-Based Generalization For MRI Imaging Segmentation Across Resource-Limited Settings**|Eddardaa B. Loussaief et.al.|[2404.02738](http://arxiv.org/abs/2404.02738)|null|
+|**2024-04-03**|**Ensemble Deep Learning for enhanced seismic data reconstruction**|Mohammad Mahdi Abedi et.al.|[2404.02632](http://arxiv.org/abs/2404.02632)|null|
+|**2024-09-29**|**Neural network reconstruction of density and velocity fields from the 2MASS Redshift Survey**|Robert Lilow et.al.|[2404.02278](http://arxiv.org/abs/2404.02278)|**[link](https://github.com/rlilow/2mrs-neuralnet)**|
+|**2024-04-01**|**DPMesh: Exploiting Diffusion Prior for Occluded Human Mesh Recovery**|Yixuan Zhu et.al.|[2404.01424](http://arxiv.org/abs/2404.01424)|**[link](https://github.com/eternalevan/dpmesh)**|
+|**2024-04-03**|**Language Guided Domain Generalized Medical Image Segmentation**|Shahina Kunhimon et.al.|[2404.01272](http://arxiv.org/abs/2404.01272)|**[link](https://github.com/shahinakk/lg_sdg)**|
+|**2024-04-01**|**Medical Visual Prompting (MVP): A Unified Framework for Versatile and High-Quality Medical Image Segmentation**|Yulin Chen et.al.|[2404.01127](http://arxiv.org/abs/2404.01127)|null|
+|**2024-04-01**|**Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On**|Xu Yang et.al.|[2404.01089](http://arxiv.org/abs/2404.01089)|**[link](https://github.com/gal4way/tpd)**|
+|**2024-04-16**|**The state-of-the-art in Cardiac MRI Reconstruction: Results of the CMRxRecon Challenge in MICCAI 2023**|Jun Lyu et.al.|[2404.01082](http://arxiv.org/abs/2404.01082)|**[link](https://github.com/CmrxRecon/CMRxRecon)**|
+|**2024-08-01**|**T-Mamba: A unified framework with Long-Range Dependency in dual-domain for 2D & 3D Tooth Segmentation**|Jing Hao et.al.|[2404.01065](http://arxiv.org/abs/2404.01065)|**[link](https://github.com/isbrycee/t-mamba)**|
+|**2024-04-01**|**Drag Your Noise: Interactive Point-based Editing via Diffusion Semantic Propagation**|Haofeng Liu et.al.|[2404.01050](http://arxiv.org/abs/2404.01050)|**[link](https://github.com/haofengl/dragnoise)**|
+|**2024-03-30**|**SVGCraft: Beyond Single Object Text-to-SVG Synthesis with Comprehensive Canvas Layout**|Ayan Banerjee et.al.|[2404.00412](http://arxiv.org/abs/2404.00412)|null|
+|**2024-07-05**|**YNetr: Dual-Encoder architecture on Plain Scan Liver Tumors (PSLT)**|Wen Sheng et.al.|[2404.00327](http://arxiv.org/abs/2404.00327)|null|
+|**2024-03-30**|**Radio Frequency Interference Detection Using Efficient Multi-Scale Convolutional Attention UNet**|Fei Gu et.al.|[2404.00277](http://arxiv.org/abs/2404.00277)|null|
+|**2024-03-30**|**Grid Diffusion Models for Text-to-Video Generation**|Taegyeong Lee et.al.|[2404.00234](http://arxiv.org/abs/2404.00234)|null|
+|**2024-09-17**|**AgileFormer: Spatially Agile Transformer UNet for Medical Image Segmentation**|Peijie Qiu et.al.|[2404.00122](http://arxiv.org/abs/2404.00122)|**[link](https://github.com/sotiraslab/AgileFormer)**|
+|**2024-08-21**|**Boosting Cardiac Color Doppler Frame Rates with Deep Learning**|Julia Puig et.al.|[2404.00067](http://arxiv.org/abs/2404.00067)|null|
+|**2024-06-19**|**MedCLIP-SAM: Bridging Text and Image Towards Universal Medical Image Segmentation**|Taha Koleilat et.al.|[2403.20253](http://arxiv.org/abs/2403.20253)|**[link](https://github.com/HealthX-Lab/MedCLIP-SAM)**|
+|**2024-03-29**|**Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**|Jaehoon Ko et.al.|[2403.20153](http://arxiv.org/abs/2403.20153)|**[link](https://github.com/KU-CVLAB/Talk3D)**|
+|**2024-04-24**|**UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation**|Renkai Wu et.al.|[2403.20035](http://arxiv.org/abs/2403.20035)|**[link](https://github.com/wurenkai/UltraLight-VM-UNet)**|
+|**2024-03-29**|**Automated Identification and Segmentation of Hi Sources in CRAFTS Using Deep Learning Method**|Zihao Song et.al.|[2403.19912](http://arxiv.org/abs/2403.19912)|**[link](https://github.com/fishszh/hisf)**|
+|**2024-10-31**|**GaussianCube: A Structured and Explicit Radiance Representation for 3D Generative Modeling**|Bowen Zhang et.al.|[2403.19655](http://arxiv.org/abs/2403.19655)|null|
+|**2024-03-28**|**SineNet: Learning Temporal Dynamics in Time-Dependent Partial Differential Equations**|Xuan Zhang et.al.|[2403.19507](http://arxiv.org/abs/2403.19507)|**[link](https://github.com/divelab/AIRS)**|
+|**2024-03-28**|**Infrared Small Target Detection with Scale and Location Sensitivity**|Qiankun Liu et.al.|[2403.19366](http://arxiv.org/abs/2403.19366)|**[link](https://github.com/ying-fu/mshnet)**|
+|**2024-03-28**|**Rethinking Information Loss in Medical Image Segmentation with Various-sized Targets**|Tianyi Liu et.al.|[2403.19177](http://arxiv.org/abs/2403.19177)|null|
+|**2024-03-27**|**TextCraftor: Your Text Encoder Can be Image Quality Controller**|Yanyu Li et.al.|[2403.18978](http://arxiv.org/abs/2403.18978)|null|
+|**2024-03-27**|**SMOF: Streaming Modern CNNs on FPGAs with Smart Off-Chip Eviction**|Petros Toupas et.al.|[2403.18921](http://arxiv.org/abs/2403.18921)|null|
+|**2024-08-26**|**Teaching AI the Anatomy Behind the Scan: Addressing Anatomical Flaws in Medical Image Segmentation with Learnable Prior**|Young Seok Jeon et.al.|[2403.18878](http://arxiv.org/abs/2403.18878)|null|
+|**2024-09-26**|**HEMIT: H&E to Multiplex-immunohistochemistry Image Translation with Dual-Branch Pix2pix Generator**|Chang Bian et.al.|[2403.18501](http://arxiv.org/abs/2403.18501)|**[link](https://github.com/BianChang/HEMIT-DATASET)**|
+|**2024-03-27**|**Deep Learning Segmentation and Classification of Red Blood Cells Using a Large Multi-Scanner Dataset**|Mohamed Elmanna et.al.|[2403.18468](http://arxiv.org/abs/2403.18468)|null|
+|**2024-07-02**|**DiffStyler: Diffusion-based Localized Image Style Transfer**|Shaoxu Li et.al.|[2403.18461](http://arxiv.org/abs/2403.18461)|**[link](https://github.com/lishaoxu1994/diffstyler)**|
+|**2024-03-27**|**U-Sketch: An Efficient Approach for Sketch to Image Diffusion Models**|Ilias Mitsouras et.al.|[2403.18425](http://arxiv.org/abs/2403.18425)|null|
+|**2024-03-27**|**Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding**|Zhiheng Cheng et.al.|[2403.18271](http://arxiv.org/abs/2403.18271)|**[link](https://github.com/cccccczh404/h-sam)**|
+|**2024-03-27**|**Conditional Denoising Diffusion Probabilistic Model for Ground-roll Attenuation**|Yuanyuan Li et.al.|[2403.18224](http://arxiv.org/abs/2403.18224)|null|
+|**2024-08-19**|**Generative Medical Segmentation**|Jiayu Huo et.al.|[2403.18198](http://arxiv.org/abs/2403.18198)|**[link](https://github.com/king-haw/gms)**|
+|**2024-03-26**|**Adaptive TTD Configurations for Near-Field Communications: An Unsupervised Transformer Approach**|Hsienchih Ting et.al.|[2403.18146](http://arxiv.org/abs/2403.18146)|null|
+|**2024-03-26**|**Segment Any Medical Model Extended**|Yihao Liu et.al.|[2403.18114](http://arxiv.org/abs/2403.18114)|**[link](https://github.com/bingogome/samm)**|
+|**2024-03-26**|**CT Synthesis with Conditional Diffusion Models for Abdominal Lymph Node Segmentation**|Yongrui Yu et.al.|[2403.17770](http://arxiv.org/abs/2403.17770)|null|
+|**2024-05-03**|**Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation**|Hao Tang et.al.|[2403.17701](http://arxiv.org/abs/2403.17701)|null|
+|**2024-03-26**|**Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion**|Kazi Shahriar Sanjid et.al.|[2403.17432](http://arxiv.org/abs/2403.17432)|null|
+|**2024-03-26**|**Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance**|Donghoon Ahn et.al.|[2403.17377](http://arxiv.org/abs/2403.17377)|**[link](https://github.com/KU-CVLAB/Perturbed-Attention-Guidance)**|
+|**2024-11-16**|**Deep models for stroke segmentation: do complex architectures always perform better?**|Yalda Zafari-Ghadim et.al.|[2403.17177](http://arxiv.org/abs/2403.17177)|null|
+|**2024-03-25**|**Deep learning-based predictive modelling of transonic flow over an aerofoil**|Li-Wei Chen et.al.|[2403.17131](http://arxiv.org/abs/2403.17131)|null|
+|**2024-03-25**|**Invertible Diffusion Models for Compressed Sensing**|Bin Chen et.al.|[2403.17006](http://arxiv.org/abs/2403.17006)|null|
+|**2024-03-25**|**TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models**|Zhongwei Zhang et.al.|[2403.17005](http://arxiv.org/abs/2403.17005)|null|
+|**2024-03-25**|**Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution**|Zhikai Chen et.al.|[2403.17000](http://arxiv.org/abs/2403.17000)|null|
+|**2024-03-29**|**Joint chest X-ray diagnosis and clinical visual attention prediction with multi-stage cooperative learning: enhancing interpretability**|Zirui Qiu et.al.|[2403.16970](http://arxiv.org/abs/2403.16970)|null|
+|**2024-03-25**|**Clustering Propagation for Universal Medical Image Segmentation**|Yuhang Ding et.al.|[2403.16646](http://arxiv.org/abs/2403.16646)|**[link](https://github.com/dyh127/s2vnet)**|
+|**2024-04-17**|**SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions**|Yuda Song et.al.|[2403.16627](http://arxiv.org/abs/2403.16627)|**[link](https://github.com/IDKiro/sdxs)**|
+|**2024-03-25**|**EDUE: Expert Disagreement-Guided One-Pass Uncertainty Estimation for Medical Image Segmentation**|Kudaibergen Abutalip et.al.|[2403.16594](http://arxiv.org/abs/2403.16594)|null|
+|**2024-05-30**|**SegICL: A Multimodal In-context Learning Framework for Enhanced Segmentation in Medical Imaging**|Lingdong Shen et.al.|[2403.16578](http://arxiv.org/abs/2403.16578)|null|
+|**2024-03-25**|**Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**|Ziyao Huang et.al.|[2403.16510](http://arxiv.org/abs/2403.16510)|**[link](https://github.com/ictmcg/make-your-anchor)**|
+|**2024-06-04**|**ChebMixer: Efficient Graph Representation Learning with MLP Mixer**|Xiaoyan Kui et.al.|[2403.16358](http://arxiv.org/abs/2403.16358)|null|
+|**2024-03-25**|**3D-EffiViTCaps: 3D Efficient Vision Transformer with Capsule for Medical Image Segmentation**|Dongwei Gan et.al.|[2403.16350](http://arxiv.org/abs/2403.16350)|**[link](https://github.com/hidneuron/3d-effivitcaps)**|
+|**2024-03-26**|**MEDDAP: Medical Dataset Enhancement via Diversified Augmentation Pipeline**|Yasamin Medghalchi et.al.|[2403.16335](http://arxiv.org/abs/2403.16335)|**[link](https://github.com/yasamin-med/meddap)**|
+|**2024-03-24**|**SM2C: Boost the Semi-supervised Segmentation for Medical Image by using Meta Pseudo Labels and Mixed Images**|Yifei Wang et.al.|[2403.16009](http://arxiv.org/abs/2403.16009)|null|
+|**2024-08-17**|**MatchSeg: Towards Better Segmentation via Reference Image Matching**|Jiayu Huo et.al.|[2403.15901](http://arxiv.org/abs/2403.15901)|**[link](https://github.com/keeplearning-again/matchseg)**|
+|**2024-03-23**|**An edge detection-based deep learning approach for tear meniscus height measurement**|Kesheng Wang et.al.|[2403.15853](http://arxiv.org/abs/2403.15853)|null|
+|**2024-03-23**|**3D-TransUNet for Brain Metastases Segmentation in the BraTS2023 Challenge**|Siwei Yang et.al.|[2403.15735](http://arxiv.org/abs/2403.15735)|null|
+|**2024-03-22**|**Towards Automatic Abdominal MRI Organ Segmentation: Leveraging Synthesized Data Generated From CT Labels**|Cosmin Ciausu et.al.|[2403.15609](http://arxiv.org/abs/2403.15609)|null|
+|**2024-03-22**|**Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations**|Pranav Kulkarni et.al.|[2403.15218](http://arxiv.org/abs/2403.15218)|**[link](https://github.com/um2ii/sam_dataannotation)**|
+|**2024-03-22**|**Towards a Comprehensive, Efficient and Promptable Anatomic Structure Segmentation Model using 3D Whole-body CT Scans**|Heng Guo et.al.|[2403.15063](http://arxiv.org/abs/2403.15063)|null|
+|**2024-03-21**|**Advanced Deep Operator Networks to Predict Multiphysics Solution Fields in Materials Processing and Additive Manufacturing**|Shashank Kushwaha et.al.|[2403.14795](http://arxiv.org/abs/2403.14795)|null|
+|**2024-08-30**|**Zero-Shot Multi-Object Scene Completion**|Shun Iwase et.al.|[2403.14628](http://arxiv.org/abs/2403.14628)|null|
+|**2024-03-21**|**Application of deep learning and inline holography to estimate the droplet size distribution**|Someshwar Sanjay Ade et.al.|[2403.14391](http://arxiv.org/abs/2403.14391)|null|
+|**2024-03-21**|**Safeguarding Medical Image Segmentation Datasets against Unauthorized Training via Contour- and Texture-Aware Perturbations**|Xun Lin et.al.|[2403.14250](http://arxiv.org/abs/2403.14250)|null|
+|**2024-03-21**|**PECI-Net: Bolus segmentation from video fluoroscopic swallowing study images using preprocessing ensemble and cascaded inference**|Dougho Park et.al.|[2403.14191](http://arxiv.org/abs/2403.14191)|null|
+|**2024-03-21**|**Leveraging Large Language Model-based Room-Object Relationships Knowledge for Enhancing Multimodal-Input Object Goal Navigation**|Leyuan Sun et.al.|[2403.14163](http://arxiv.org/abs/2403.14163)|null|
+|**2024-03-21**|**MaskSAM: Towards Auto-prompt SAM with Mask Classification for Medical Image Segmentation**|Bin Xie et.al.|[2403.14103](http://arxiv.org/abs/2403.14103)|null|
+|**2024-03-20**|**DiffImpute: Tabular Data Imputation With Denoising Diffusion Probabilistic Model**|Yizhu Wen et.al.|[2403.13863](http://arxiv.org/abs/2403.13863)|**[link](https://github.com/dendiiiii/diffimpute)**|
+|**2024-03-26**|**ProMamba: Prompt-Mamba for polyp segmentation**|Jianhao Xie et.al.|[2403.13660](http://arxiv.org/abs/2403.13660)|null|
+|**2024-03-20**|**H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation**|Renkai Wu et.al.|[2403.13642](http://arxiv.org/abs/2403.13642)|**[link](https://github.com/wurenkai/h-vmunet)**|
+|**2024-07-19**|**ReGround: Improving Textual and Spatial Grounding at No Cost**|Phillip Y. Lee et.al.|[2403.13589](http://arxiv.org/abs/2403.13589)|null|
+|**2024-03-20**|**Diversified and Personalized Multi-rater Medical Image Segmentation**|Yicheng Wu et.al.|[2403.13417](http://arxiv.org/abs/2403.13417)|**[link](https://github.com/ycwu1997/d-persona)**|
+|**2024-03-19**|**A Parallel Workflow for Polar Sea-Ice Classification using Auto-labeling of Sentinel-2 Imagery**|Jurdana Masuma Iqrah et.al.|[2403.13135](http://arxiv.org/abs/2403.13135)|null|
+|**2024-03-19**|**Federated Semi-supervised Learning for Medical Image Segmentation with intra-client and inter-client Consistency**|Yubin Zheng et.al.|[2403.12695](http://arxiv.org/abs/2403.12695)|null|
+|**2024-03-19**|**Tuning-Free Image Customization with Image and Text Guidance**|Pengzhi Li et.al.|[2403.12658](http://arxiv.org/abs/2403.12658)|**[link](https://github.com/zrealli/TIGIC)**|
+|**2024-03-19**|**U-Net Kalman Filter (UNetKF): An Example of Machine Learning-assisted Ensemble Data Assimilation**|Feiyu Lu et.al.|[2403.12366](http://arxiv.org/abs/2403.12366)|null|
+|**2024-03-18**|**Sub-photon accuracy noise reduction of single shot coherent diffraction pattern with atomic model trained autoencoder**|Takuto Ishikawa et.al.|[2403.11992](http://arxiv.org/abs/2403.11992)|null|
+|**2024-07-01**|**MoreStyle: Relax Low-frequency Constraint of Fourier-based Image Reconstruction in Generalizable Medical Image Segmentation**|Haoyu Zhao et.al.|[2403.11689](http://arxiv.org/abs/2403.11689)|**[link](https://github.com/zhaohaoyu376/morestyle)**|
+|**2024-03-18**|**Synthesizing multi-log grasp poses**|Arvid Fälldin et.al.|[2403.11623](http://arxiv.org/abs/2403.11623)|null|
+|**2024-03-18**|**VmambaIR: Visual State Space Model for Image Restoration**|Yuan Shi et.al.|[2403.11423](http://arxiv.org/abs/2403.11423)|**[link](https://github.com/alphacatplus/vmambair)**|
+|**2024-10-30**|**Robustness of data-driven approaches in limited angle tomography**|Yiran Wang et.al.|[2403.11350](http://arxiv.org/abs/2403.11350)|**[link](https://github.com/lowrank/robustness-limited-angle-tomography)**|
+|**2024-03-17**|**Ensembling and Test Augmentation for Covid-19 Detection and Covid-19 Domain Adaptation from 3D CT-Scans**|Fares Bougourzi et.al.|[2403.11338](http://arxiv.org/abs/2403.11338)|null|
+|**2024-03-17**|**Concatenate, Fine-tuning, Re-training: A SAM-enabled Framework for Semi-supervised 3D Medical Image Segmentation**|Shumeng Li et.al.|[2403.11229](http://arxiv.org/abs/2403.11229)|null|
+|**2024-03-17**|**Adaptive Semantic-Enhanced Denoising Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution**|Jialu Sui et.al.|[2403.11078](http://arxiv.org/abs/2403.11078)|**[link](https://github.com/littlebeen/asddpm-adaptive-semantic-enhanced-ddpm)**|
+|**2024-03-17**|**Intelligent Railroad Grade Crossing: Leveraging Semantic Segmentation and Object Detection for Enhanced Safety**|Al Amin et.al.|[2403.11060](http://arxiv.org/abs/2403.11060)|null|
+|**2024-10-09**|**Topologically Faithful Multi-class Segmentation in Medical Images**|Alexander H. Berger et.al.|[2403.11001](http://arxiv.org/abs/2403.11001)|null|
+|**2024-03-19**|**Uncertainty-Aware Adapter: Adapting Segment Anything Model (SAM) for Ambiguous Medical Image Segmentation**|Mingzhou Jiang et.al.|[2403.10931](http://arxiv.org/abs/2403.10931)|null|
+|**2024-03-19**|**Urban Sound Propagation: a Benchmark for 1-Step Generative Modeling of Complex Physical Systems**|Martin Spitznagel et.al.|[2403.10904](http://arxiv.org/abs/2403.10904)|null|
+|**2024-03-16**|**Fuzzy Rank-based Late Fusion Technique for Cytology image Segmentation**|Soumyajyoti Dey et.al.|[2403.10884](http://arxiv.org/abs/2403.10884)|null|
+|**2024-03-16**|**StableGarment: Garment-Centric Generation via Stable Diffusion**|Rui Wang et.al.|[2403.10783](http://arxiv.org/abs/2403.10783)|null|
+|**2024-10-17**|**D-Net: Dynamic Large Kernel with Dynamic Feature Fusion for Volumetric Medical Image Segmentation**|Jin Yang et.al.|[2403.10674](http://arxiv.org/abs/2403.10674)|**[link](https://github.com/sotiraslab/dlk)**|
+|**2024-09-26**|**SF-MMCN: Low-Power Sever Flow Multi-Mode Diffusion Model Accelerator**|Huan-Ke Hsu et.al.|[2403.10542](http://arxiv.org/abs/2403.10542)|null|
+|**2024-03-15**|**Strong and Controllable Blind Image Decomposition**|Zeyu Zhang et.al.|[2403.10520](http://arxiv.org/abs/2403.10520)|**[link](https://github.com/zhangzeyu97/cbd)**|
+|**2024-03-15**|**Synthesizing impurity clustering in the edge plasma of tokamaks using neural networks**|Zetao Lin et.al.|[2403.10219](http://arxiv.org/abs/2403.10219)|null|
+|**2024-03-15**|**Attention-Enhanced Hybrid Feature Aggregation Network for 3D Brain Tumor Segmentation**|Ziya Ata Yazıcı et.al.|[2403.09942](http://arxiv.org/abs/2403.09942)|**[link](https://github.com/yaziciz/GLIMS)**|
+|**2024-03-14**|**FastSAM3D: An Efficient Segment Anything Model for 3D Volumetric Medical Images**|Yiqing Shen et.al.|[2403.09827](http://arxiv.org/abs/2403.09827)|**[link](https://github.com/arcadelab/fastsam3d)**|
+|**2024-03-14**|**Region-based U-net for accelerated training and enhanced precision in deep brain segmentation**|Mengyu Li et.al.|[2403.09414](http://arxiv.org/abs/2403.09414)|null|
+|**2024-03-14**|**VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation**|Mingya Zhang et.al.|[2403.09157](http://arxiv.org/abs/2403.09157)|**[link](https://github.com/nobodyplayer1/vm-unetv2)**|
+|**2024-03-13**|**Federated Data Model**|Xiao Chen et.al.|[2403.08887](http://arxiv.org/abs/2403.08887)|null|
+|**2024-03-13**|**SLCF-Net: Sequential LiDAR-Camera Fusion for Semantic Scene Completion using a 3D Recurrent U-Net**|Helin Cao et.al.|[2403.08885](http://arxiv.org/abs/2403.08885)|**[link](https://github.com/helincao618/SLCF-Net)**|
+|**2024-03-13**|**Deep Learning for In-Orbit Cloud Segmentation and Classification in Hyperspectral Satellite Data**|Daniel Kovac et.al.|[2403.08695](http://arxiv.org/abs/2403.08695)|null|
+|**2024-03-13**|**An Analysis of Human Alignment of Latent Diffusion Models**|Lorenz Linhardt et.al.|[2403.08469](http://arxiv.org/abs/2403.08469)|null|
+|**2024-03-13**|**The Development and Performance of a Machine Learning Based Mobile Platform for Visually Determining the Etiology of Penile Pathology**|Lao-Tzu Allan-Blitz et.al.|[2403.08417](http://arxiv.org/abs/2403.08417)|null|
+|**2024-03-13**|**STMPL: Human Soft-Tissue Simulation**|Anton Agafonov et.al.|[2403.08344](http://arxiv.org/abs/2403.08344)|null|
+|**2024-03-13**|**Iterative Learning for Joint Image Denoising and Motion Artifact Correction of 3D Brain MRI**|Lintao Zhang et.al.|[2403.08162](http://arxiv.org/abs/2403.08162)|**[link](https://github.com/goodaycoder/jdac)**|
+|**2024-03-13**|**Multiscale Low-Frequency Memory Network for Improved Feature Extraction in Convolutional Neural Networks**|Fuzhi Wu et.al.|[2403.08157](http://arxiv.org/abs/2403.08157)|**[link](https://github.com/alphawuseu/mlfm)**|
+|**2024-03-12**|**SAMDA: Leveraging SAM on Few-Shot Domain Adaptation for Electronic Microscopy Segmentation**|Yiran Wang et.al.|[2403.07951](http://arxiv.org/abs/2403.07951)|null|
+|**2024-03-12**|**Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model**|Yuxuan Zhang et.al.|[2403.07764](http://arxiv.org/abs/2403.07764)|**[link](https://github.com/Xiaojiu-z/Stable-Makeup)**|
+|**2024-03-13**|**MinkUNeXt: Point Cloud-based Large-scale Place Recognition using 3D Sparse Convolutions**|J. J. Cabrera et.al.|[2403.07593](http://arxiv.org/abs/2403.07593)|**[link](https://github.com/juanjo-cabrera/minkunext)**|
+|**2024-08-03**|**Motion Mamba: Efficient and Long Sequence Motion Generation**|Zeyu Zhang et.al.|[2403.07487](http://arxiv.org/abs/2403.07487)|**[link](https://github.com/steve-zeyu-zhang/MotionMamba)**|
+|**2024-06-25**|**LKM-UNet: Large Kernel Vision Mamba UNet for Medical Image Segmentation**|Jinhong Wang et.al.|[2403.07332](http://arxiv.org/abs/2403.07332)|**[link](https://github.com/wjh892521292/lkm-unet)**|
+|**2024-03-12**|**Dynamic U-Net: Adaptively Calibrate Features for Abdominal Multi-organ Segmentation**|Jin Yang et.al.|[2403.07303](http://arxiv.org/abs/2403.07303)|**[link](https://github.com/sotiraslab/dynamicunet)**|
+|**2024-03-11**|**A slice classification neural network for automated classification of axial PET/CT slices from a multi-centric lymphoma dataset**|Shadab Ahamed et.al.|[2403.07105](http://arxiv.org/abs/2403.07105)|null|
+|**2024-03-11**|**Stochastic Cortical Self-Reconstruction**|Christian Wachinger et.al.|[2403.06837](http://arxiv.org/abs/2403.06837)|null|
+|**2024-03-11**|**Average Calibration Error: A Differentiable Loss for Improved Reliability in Image Segmentation**|Theodore Barfoot et.al.|[2403.06759](http://arxiv.org/abs/2403.06759)|**[link](https://github.com/cai4cai/ace-dliris)**|
+|**2024-06-27**|**Shortcut Learning in Medical Image Segmentation**|Manxi Lin et.al.|[2403.06748](http://arxiv.org/abs/2403.06748)|**[link](https://github.com/nina-weng/shortcut_skinseg)**|
+|**2024-03-11**|**A Segmentation Foundation Model for Diverse-type Tumors**|Jianhao Xie et.al.|[2403.06396](http://arxiv.org/abs/2403.06396)|null|
+|**2024-03-12**|**SEMRes-DDPM: Residual Network Based Diffusion Modelling Applied to Imbalanced Data**|Ming Zheng et.al.|[2403.05918](http://arxiv.org/abs/2403.05918)|null|
+|**2024-03-09**|**Deep Learning based acoustic measurement approach for robotic applications on orthopedics**|Bangyu Lan et.al.|[2403.05879](http://arxiv.org/abs/2403.05879)|null|
+|**2024-03-09**|**A self-supervised CNN for image watermark removal**|Chunwei Tian et.al.|[2403.05807](http://arxiv.org/abs/2403.05807)|**[link](https://github.com/hellloxiaotian/swcnn)**|
+|**2024-11-06**|**FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation**|Yuxi Liu et.al.|[2403.05408](http://arxiv.org/abs/2403.05408)|**[link](https://github.com/lmiapc/fednnu-net)**|
+|**2024-03-11**|**LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation**|Weibin Liao et.al.|[2403.05246](http://arxiv.org/abs/2403.05246)|**[link](https://github.com/mrblankness/lightm-unet)**|
+|**2024-07-29**|**Improving Diffusion Models for Authentic Virtual Try-on in the Wild**|Yisol Choi et.al.|[2403.05139](http://arxiv.org/abs/2403.05139)|**[link](https://github.com/yisol/IDM-VTON)**|
+|**2024-03-08**|**ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment**|Xiwei Hu et.al.|[2403.05135](http://arxiv.org/abs/2403.05135)|null|
+|**2024-03-08**|**APPLE: Adversarial Privacy-aware Perturbations on Latent Embedding for Unfairness Mitigation**|Zikang Xu et.al.|[2403.05114](http://arxiv.org/abs/2403.05114)|null|
+|**2024-03-08**|**CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model**|Zhengyi Wang et.al.|[2403.05034](http://arxiv.org/abs/2403.05034)|null|
+|**2024-10-29**|**A Probabilistic Hadamard U-Net for MRI Bias Field Correction**|Xin Zhu et.al.|[2403.05024](http://arxiv.org/abs/2403.05024)|null|
+|**2024-03-05**|**(Un)paired signal-to-signal translation with 1D conditional GANs**|Eric Easthope et.al.|[2403.04800](http://arxiv.org/abs/2403.04800)|null|
+|**2024-04-12**|**Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning**|Martin Willbo et.al.|[2403.04385](http://arxiv.org/abs/2403.04385)|null|
+|**2024-09-28**|**ProMISe: Promptable Medical Image Segmentation using SAM**|Jinfeng Wang et.al.|[2403.04164](http://arxiv.org/abs/2403.04164)|**[link](https://github.com/xinkunwang111/promise)**|
+|**2024-03-06**|**Self and Mixed Supervision to Improve Training Labels for Multi-Class Medical Image Segmentation**|Jianfei Liu et.al.|[2403.03882](http://arxiv.org/abs/2403.03882)|null|
+|**2024-03-06**|**Low-Dose CT Image Reconstruction by Fine-Tuning a UNet Pretrained for Gaussian Denoising for the Downstream Task of Image Enhancement**|Tim Selig et.al.|[2403.03551](http://arxiv.org/abs/2403.03551)|null|
+|**2024-03-05**|**DINOv2 based Self Supervised Learning For Few Shot Medical Image Segmentation**|Lev Ayzenberg et.al.|[2403.03273](http://arxiv.org/abs/2403.03273)|**[link](https://github.com/levayz/dinov2-based-self-supervised-learning)**|
+|**2024-11-04**|**Prediction of turbulent channel flow using Fourier neural operator-based machine-learning strategy**|Yunpeng Wang et.al.|[2403.03051](http://arxiv.org/abs/2403.03051)|null|
+|**2024-03-26**|**Doubly Abductive Counterfactual Inference for Text-based Image Editing**|Xue Song et.al.|[2403.02981](http://arxiv.org/abs/2403.02981)|**[link](https://github.com/xuesong39/dac)**|
+|**2024-07-11**|**Domain wall and Magnetic Tunnel Junction Hybrid for on-chip Learning in UNet architecture**|Venkatesh Vadde et.al.|[2403.02863](http://arxiv.org/abs/2403.02863)|null|
+|**2024-03-05**|**Enhancing Weakly Supervised 3D Medical Image Segmentation through Probabilistic-aware Learning**|Zhaoxin Fan et.al.|[2403.02566](http://arxiv.org/abs/2403.02566)|**[link](https://github.com/runminjiang/pw4medseg)**|
+|**2024-06-27**|**Bayesian Uncertainty Estimation by Hamiltonian Monte Carlo: Applications to Cardiac MRI Segmentation**|Yidong Zhao et.al.|[2403.02311](http://arxiv.org/abs/2403.02311)|null|
+|**2024-07-29**|**ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**|Lukas Höllein et.al.|[2403.01807](http://arxiv.org/abs/2403.01807)|**[link](https://github.com/facebookresearch/viewdiff)**|
+|**2024-03-07**|**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**|Yuhao Xu et.al.|[2403.01779](http://arxiv.org/abs/2403.01779)|**[link](https://github.com/levihsu/ootdiffusion)**|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
