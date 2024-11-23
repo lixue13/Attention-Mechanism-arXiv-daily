@@ -289,7 +289,7 @@ layout: default
 |**2024-11-18**|**Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer**|Xiao Huo et.al.|[2411.07899](http://arxiv.org/abs/2411.07899)|null|
 |**2024-11-12**|**Joint multi-dimensional dynamic attention and transformer for general image restoration**|Huan Zhang et.al.|[2411.07893](http://arxiv.org/abs/2411.07893)|**[link](https://github.com/house-yuyu/mdda-former)**|
 |**2024-11-12**|**Horticultural Temporal Fruit Monitoring via 3D Instance Segmentation and Re-Identification using Point Clouds**|Daniel Fusaro et.al.|[2411.07799](http://arxiv.org/abs/2411.07799)|**[link](https://github.com/prbonn/iris3d)**|
-|**2024-11-10**|**Feature Fusion Transferability Aware Transformer for Unsupervised Domain Adaptation**|Xiaowei Yu et.al.|[2411.07794](http://arxiv.org/abs/2411.07794)|null|
+|**2024-11-10**|**Feature Fusion Transferability Aware Transformer for Unsupervised Domain Adaptation**|Xiaowei Yu et.al.|[2411.07794](http://arxiv.org/abs/2411.07794)|**[link](https://github.com/Shawey94/WACV2025-FFTAT)**|
 |**2024-11-12**|**Librations and obliquity of the largest moons of Uranus**|Rose-Marie Baland et.al.|[2411.07788](http://arxiv.org/abs/2411.07788)|null|
 |**2024-11-12**|**Interaction Asymmetry: A General Principle for Learning Composable Abstractions**|Jack Brady et.al.|[2411.07784](http://arxiv.org/abs/2411.07784)|**[link](https://github.com/jackbrady/interaction-asymmetry)**|
 |**2024-11-12**|**Spatially Regularized Graph Attention Autoencoder Framework for Detecting Rainfall Extremes**|Mihir Agarwal et.al.|[2411.07753](http://arxiv.org/abs/2411.07753)|null|
