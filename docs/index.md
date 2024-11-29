@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.28
+## Updated on 2024.11.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -375,7 +375,7 @@ layout: default
 |**2024-11-18**|**Measuring coherence via Kirkwood-Dirac nonclassicality with respect to mutually unbiased bases**|Yan Liu et.al.|[2411.11666](http://arxiv.org/abs/2411.11666)|null|
 |**2024-11-18**|**Introducing IHARDS-CNN: A Cutting-Edge Deep Learning Method for Human Activity Recognition Using Wearable Sensors**|Nazanin Sedaghati et.al.|[2411.11658](http://arxiv.org/abs/2411.11658)|null|
 |**2024-11-18**|**The ethical landscape of robot-assisted surgery. A systematic review**|Joschka Haltaufderheide et.al.|[2411.11637](http://arxiv.org/abs/2411.11637)|null|
-|**2024-11-18**|**ST-Tree with Interpretability for Multivariate Time Series Classification**|Mingsen Du et.al.|[2411.11620](http://arxiv.org/abs/2411.11620)|null|
+|**2024-11-18**|**ST-Tree with Interpretability for Multivariate Time Series Classification**|Mingsen Du et.al.|[2411.11620](http://arxiv.org/abs/2411.11620)|**[link](https://github.com/dumingsen/ST-Tree)**|
 |**2024-11-18**|**SeqProFT: Applying LoRA Finetuning for Sequence-only Protein Property Predictions**|Shuo Zhang et.al.|[2411.11530](http://arxiv.org/abs/2411.11530)|null|
 |**2024-11-18**|**Preempting Text Sanitization Utility in Resource-Constrained Privacy-Preserving LLM Interactions**|Robin Carpentier et.al.|[2411.11521](http://arxiv.org/abs/2411.11521)|**[link](https://github.com/inathwor/Preempting-Text-Sanitization)**|
 |**2024-11-18**|**Transformer networks for Heavy flavor jet tagging**|A. Hammad et.al.|[2411.11519](http://arxiv.org/abs/2411.11519)|null|
@@ -430,7 +430,7 @@ layout: default
 |**2024-11-15**|**"On the goals of linguistic theory": Revisiting Chomskyan theories in the era of AI**|Eva Portelance et.al.|[2411.10533](http://arxiv.org/abs/2411.10533)|null|
 |**2024-11-15**|**Hydride superconductivity: here to stay**|Gregory S. Boebinger et.al.|[2411.10522](http://arxiv.org/abs/2411.10522)|null|
 |**2024-11-15**|**SmoothCache: A Universal Inference Acceleration Technique for Diffusion Transformers**|Joseph Liu et.al.|[2411.10510](http://arxiv.org/abs/2411.10510)|**[link](https://github.com/roblox/smoothcache)**|
-|**2024-11-22**|**FitDiT: Advancing the Authentic Garment Details for High-fidelity Virtual Try-on**|Boyuan Jiang et.al.|[2411.10499](http://arxiv.org/abs/2411.10499)|null|
+|**2024-11-22**|**FitDiT: Advancing the Authentic Garment Details for High-fidelity Virtual Try-on**|Boyuan Jiang et.al.|[2411.10499](http://arxiv.org/abs/2411.10499)|**[link](https://github.com/BoyuanJiang/FitDiT)**|
 |**2024-11-15**|**Boundary Attention Constrained Zero-Shot Layout-To-Image Generation**|Huancheng Chen et.al.|[2411.10495](http://arxiv.org/abs/2411.10495)|null|
 |**2024-11-14**|**The Future of Skill: What Is It to Be Skilled at Work?**|Axel Niklasson et.al.|[2411.10488](http://arxiv.org/abs/2411.10488)|null|
 |**2024-11-13**|**Challenges in the Differential Classification of Individual Diagnoses from Co-Occurring Autism and ADHD Using Survey Data**|Aditi Jaiswal et.al.|[2411.10479](http://arxiv.org/abs/2411.10479)|null|

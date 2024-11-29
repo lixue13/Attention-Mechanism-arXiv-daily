@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.11.28
+> Updated on 2024.11.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -378,7 +378,7 @@
 - 2024-11-18, **Measuring coherence via Kirkwood-Dirac nonclassicality with respect to mutually unbiased bases**, Yan Liu et.al., Paper: [http://arxiv.org/abs/2411.11666](http://arxiv.org/abs/2411.11666)
 - 2024-11-18, **Introducing IHARDS-CNN: A Cutting-Edge Deep Learning Method for Human Activity Recognition Using Wearable Sensors**, Nazanin Sedaghati et.al., Paper: [http://arxiv.org/abs/2411.11658](http://arxiv.org/abs/2411.11658)
 - 2024-11-18, **The ethical landscape of robot-assisted surgery. A systematic review**, Joschka Haltaufderheide et.al., Paper: [http://arxiv.org/abs/2411.11637](http://arxiv.org/abs/2411.11637)
-- 2024-11-18, **ST-Tree with Interpretability for Multivariate Time Series Classification**, Mingsen Du et.al., Paper: [http://arxiv.org/abs/2411.11620](http://arxiv.org/abs/2411.11620)
+- 2024-11-18, **ST-Tree with Interpretability for Multivariate Time Series Classification**, Mingsen Du et.al., Paper: [http://arxiv.org/abs/2411.11620](http://arxiv.org/abs/2411.11620), Code: **[https://github.com/dumingsen/ST-Tree](https://github.com/dumingsen/ST-Tree)**
 - 2024-11-18, **SeqProFT: Applying LoRA Finetuning for Sequence-only Protein Property Predictions**, Shuo Zhang et.al., Paper: [http://arxiv.org/abs/2411.11530](http://arxiv.org/abs/2411.11530)
 - 2024-11-18, **Preempting Text Sanitization Utility in Resource-Constrained Privacy-Preserving LLM Interactions**, Robin Carpentier et.al., Paper: [http://arxiv.org/abs/2411.11521](http://arxiv.org/abs/2411.11521), Code: **[https://github.com/inathwor/Preempting-Text-Sanitization](https://github.com/inathwor/Preempting-Text-Sanitization)**
 - 2024-11-18, **Transformer networks for Heavy flavor jet tagging**, A. Hammad et.al., Paper: [http://arxiv.org/abs/2411.11519](http://arxiv.org/abs/2411.11519)
@@ -433,7 +433,7 @@
 - 2024-11-15, **"On the goals of linguistic theory": Revisiting Chomskyan theories in the era of AI**, Eva Portelance et.al., Paper: [http://arxiv.org/abs/2411.10533](http://arxiv.org/abs/2411.10533)
 - 2024-11-15, **Hydride superconductivity: here to stay**, Gregory S. Boebinger et.al., Paper: [http://arxiv.org/abs/2411.10522](http://arxiv.org/abs/2411.10522)
 - 2024-11-15, **SmoothCache: A Universal Inference Acceleration Technique for Diffusion Transformers**, Joseph Liu et.al., Paper: [http://arxiv.org/abs/2411.10510](http://arxiv.org/abs/2411.10510), Code: **[https://github.com/roblox/smoothcache](https://github.com/roblox/smoothcache)**
-- 2024-11-22, **FitDiT: Advancing the Authentic Garment Details for High-fidelity Virtual Try-on**, Boyuan Jiang et.al., Paper: [http://arxiv.org/abs/2411.10499](http://arxiv.org/abs/2411.10499)
+- 2024-11-22, **FitDiT: Advancing the Authentic Garment Details for High-fidelity Virtual Try-on**, Boyuan Jiang et.al., Paper: [http://arxiv.org/abs/2411.10499](http://arxiv.org/abs/2411.10499), Code: **[https://github.com/BoyuanJiang/FitDiT](https://github.com/BoyuanJiang/FitDiT)**
 - 2024-11-15, **Boundary Attention Constrained Zero-Shot Layout-To-Image Generation**, Huancheng Chen et.al., Paper: [http://arxiv.org/abs/2411.10495](http://arxiv.org/abs/2411.10495)
 - 2024-11-14, **The Future of Skill: What Is It to Be Skilled at Work?**, Axel Niklasson et.al., Paper: [http://arxiv.org/abs/2411.10488](http://arxiv.org/abs/2411.10488)
 - 2024-11-13, **Challenges in the Differential Classification of Individual Diagnoses from Co-Occurring Autism and ADHD Using Survey Data**, Aditi Jaiswal et.al., Paper: [http://arxiv.org/abs/2411.10479](http://arxiv.org/abs/2411.10479)
@@ -2791,7 +2791,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241129>back to top</a>)</p>
 
 ## IRSTD
 
@@ -2859,7 +2859,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241129>back to top</a>)</p>
 
 ## UNet
 
@@ -3902,7 +3902,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241129>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
