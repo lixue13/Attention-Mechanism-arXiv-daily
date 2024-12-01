@@ -125,7 +125,7 @@
 |**2024-11-24**|**LetsTalk: Latent Diffusion Transformer for Talking Video Synthesis**|Haojie Zhang et.al.|[2411.16748](http://arxiv.org/abs/2411.16748)|null|
 |**2024-11-23**|**FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction**|Junwei You et.al.|[2411.16747](http://arxiv.org/abs/2411.16747)|null|
 |**2024-11-23**|**Federated Learning in Chemical Engineering: A Tutorial on a Framework for Privacy-Preserving Collaboration Across Distributed Data Sources**|Siddhant Dutta et.al.|[2411.16737](http://arxiv.org/abs/2411.16737)|**[link](https://github.com/elucidator8918/Fed-ML-Chem)**|
-|**2024-11-23**|**Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method**|Pan Yin et.al.|[2411.16733](http://arxiv.org/abs/2411.16733)|null|
+|**2024-11-23**|**Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method**|Pan Yin et.al.|[2411.16733](http://arxiv.org/abs/2411.16733)|**[link](https://github.com/earth-insights/samroadplus)**|
 |**2024-11-23**|**Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens**|Zhangqi Jiang et.al.|[2411.16724](http://arxiv.org/abs/2411.16724)|null|
 |**2024-11-22**|**SafeLight: Enhancing Security in Optical Convolutional Neural Network Accelerators**|Salma Afifi et.al.|[2411.16712](http://arxiv.org/abs/2411.16712)|null|
 |**2024-11-25**|**Edge Weight Prediction For Category-Agnostic Pose Estimation**|Or Hirschorn et.al.|[2411.16665](http://arxiv.org/abs/2411.16665)|**[link](https://github.com/orhir/EdgeCape)**|
@@ -971,7 +971,7 @@
 |**2024-10-30**|**General Bayesian quantile regression for counts via generative modeling**|Yuta Yamauchi et.al.|[2410.23081](http://arxiv.org/abs/2410.23081)|null|
 |**2024-10-30**|**Don't Just Pay Attention, PLANT It: Transfer L2R Models to Fine-tune Attention in Extreme Multi-Label Text Classification**|Debjyoti Saharoy et.al.|[2410.23066](http://arxiv.org/abs/2410.23066)|null|
 |**2024-10-30**|**The Days On Days Off Scheduling Problem**|Fabien Nießen et.al.|[2410.23056](http://arxiv.org/abs/2410.23056)|null|
-|**2024-10-30**|**Emotional RAG: Enhancing Role-Playing Agents through Emotional Retrieval**|Le Huang et.al.|[2410.23041](http://arxiv.org/abs/2410.23041)|null|
+|**2024-10-30**|**Emotional RAG: Enhancing Role-Playing Agents through Emotional Retrieval**|Le Huang et.al.|[2410.23041](http://arxiv.org/abs/2410.23041)|**[link](https://github.com/bai-lab/emotionalrag)**|
 |**2024-10-30**|**Neural Attention Field: Emerging Point Relevance in 3D Scenes for One-Shot Dexterous Grasping**|Qianxu Wang et.al.|[2410.23039](http://arxiv.org/abs/2410.23039)|null|
 |**2024-10-30**|**Audiovisual angle and voice incongruence do not affect audiovisual verbal short-term memory in virtual reality**|Cosima A. Ermert et.al.|[2410.23015](http://arxiv.org/abs/2410.23015)|null|
 |**2024-10-30**|**Comparison of arm exponents in planar FK-percolation**|Loïc Gassmann et.al.|[2410.23013](http://arxiv.org/abs/2410.23013)|null|
@@ -2880,7 +2880,7 @@
 |**2024-11-25**|**Improving Deformable Image Registration Accuracy through a Hybrid Similarity Metric and CycleGAN Based Auto-Segmentation**|Keyur D. Shah et.al.|[2411.16992](http://arxiv.org/abs/2411.16992)|null|
 |**2024-11-25**|**CMAViT: Integrating Climate, Managment, and Remote Sensing Data for Crop Yield Estimation with Multimodel Vision Transformers**|Hamid Kamangir et.al.|[2411.16989](http://arxiv.org/abs/2411.16989)|null|
 |**2024-11-25**|**SEMU-Net: A Segmentation-based Corrector for Fabrication Process Variations of Nanophotonics with Microscopic Images**|Rambod Azimi et.al.|[2411.16973](http://arxiv.org/abs/2411.16973)|null|
-|**2024-11-25**|**A SAM-guided and Match-based Semi-Supervised Segmentation Framework for Medical Imaging**|Guoping Xu et.al.|[2411.16949](http://arxiv.org/abs/2411.16949)|null|
+|**2024-11-25**|**A SAM-guided and Match-based Semi-Supervised Segmentation Framework for Medical Imaging**|Guoping Xu et.al.|[2411.16949](http://arxiv.org/abs/2411.16949)|**[link](https://github.com/apple1986/samatch)**|
 |**2024-11-25**|**U-WNO:U-Net-enhanced Wavelet Neural Operator for fetal head segmentation**|Pranava Seth et.al.|[2411.16890](http://arxiv.org/abs/2411.16890)|null|
 |**2024-11-25**|**Quark: Real-time, High-resolution, and General Neural View Synthesis**|John Flynn et.al.|[2411.16680](http://arxiv.org/abs/2411.16680)|null|
 |**2024-11-25**|**J-CaPA : Joint Channel and Pyramid Attention Improves Medical Image Segmentation**|Marzia Binta Nizam et.al.|[2411.16568](http://arxiv.org/abs/2411.16568)|null|
