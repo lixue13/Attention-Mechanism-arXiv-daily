@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.01
+## Updated on 2024.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -213,7 +213,7 @@
 |**2024-11-22**|**MambaIRv2: Attentive State Space Restoration**|Hang Guo et.al.|[2411.15269](http://arxiv.org/abs/2411.15269)|**[link](https://github.com/csguoh/mambair)**|
 |**2024-11-22**|**ICT: Image-Object Cross-Level Trusted Intervention for Mitigating Object Hallucination in Large Vision-Language Models**|Junzhe Chen et.al.|[2411.15268](http://arxiv.org/abs/2411.15268)|null|
 |**2024-11-22**|**LocRef-Diffusion:Tuning-Free Layout and Appearance-Guided Generation**|Fan Deng et.al.|[2411.15252](http://arxiv.org/abs/2411.15252)|null|
-|**2024-11-22**|**J-Invariant Volume Shuffle for Self-Supervised Cryo-Electron Tomogram Denoising on Single Noisy Volume**|Xiwei Liu et.al.|[2411.15248](http://arxiv.org/abs/2411.15248)|null|
+|**2024-11-27**|**J-Invariant Volume Shuffle for Self-Supervised Cryo-Electron Tomogram Denoising on Single Noisy Volume**|Xiwei Liu et.al.|[2411.15248](http://arxiv.org/abs/2411.15248)|null|
 |**2024-11-22**|**AnyText2: Visual Text Generation and Editing With Customizable Attributes**|Yuxiang Tuo et.al.|[2411.15245](http://arxiv.org/abs/2411.15245)|null|
 |**2024-11-22**|**EfficientViM: Efficient Vision Mamba with Hidden State Mixer based State Space Duality**|Sanghyeok Lee et.al.|[2411.15241](http://arxiv.org/abs/2411.15241)|**[link](https://github.com/mlvlab/EfficientViM)**|
 |**2024-11-26**|**Is Attention All You Need For Actigraphy? Foundation Models of Wearable Accelerometer Data for Mental Health Research**|Franklin Y. Ruan et.al.|[2411.15240](http://arxiv.org/abs/2411.15240)|**[link](https://github.com/njacobsonlab/pretrained-actigraphy-transformer)**|
@@ -418,7 +418,7 @@
 |**2024-11-16**|**Attention-based U-Net Method for Autonomous Lane Detection**|Mohammadhamed Tangestanizadeh et.al.|[2411.10902](http://arxiv.org/abs/2411.10902)|null|
 |**2024-11-16**|**Deep BI-RADS Network for Improved Cancer Detection from Mammograms**|Gil Ben-Artzi et.al.|[2411.10894](http://arxiv.org/abs/2411.10894)|null|
 |**2024-11-16**|**Adaptive Soft Actor-Critic Framework for RIS-Assisted and UAV-Aided Communication**|Abuzar B. M. Adam et.al.|[2411.10882](http://arxiv.org/abs/2411.10882)|null|
-|**2024-11-16**|**FIAS: Feature Imbalance-Aware Medical Image Segmentation with Dynamic Fusion and Mixing Attention**|Xiwei Liu et.al.|[2411.10881](http://arxiv.org/abs/2411.10881)|null|
+|**2024-11-27**|**FIAS: Feature Imbalance-Aware Medical Image Segmentation with Dynamic Fusion and Mixing Attention**|Xiwei Liu et.al.|[2411.10881](http://arxiv.org/abs/2411.10881)|null|
 |**2024-11-16**|**Explainable DNN-based Beamformer with Postfilter**|Adi Cohen et.al.|[2411.10854](http://arxiv.org/abs/2411.10854)|**[link](https://github.com/AdiCohen501/ExNet-BF-PF)**|
 |**2024-11-16**|**One-Layer Transformer Provably Learns One-Nearest Neighbor In Context**|Zihao Li et.al.|[2411.10830](http://arxiv.org/abs/2411.10830)|null|
 |**2024-11-16**|**FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations**|Hmrishav Bandyopadhyay et.al.|[2411.10818](http://arxiv.org/abs/2411.10818)|**[link](https://github.com/hmrishavbandy/flipsketch)**|
@@ -2793,7 +2793,7 @@
 |**2024-10-03**|**Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**|Jinwoo Go et.al.|[2409.09141](http://arxiv.org/abs/2409.09141)|null|
 |**2024-09-13**|**Neural Message Passing Induced by Energy-Constrained Diffusion**|Qitian Wu et.al.|[2409.09111](http://arxiv.org/abs/2409.09111)|null|
 
-<p align=right>(<a href=#updated-on-20241201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
 
 ## IRSTD
 
@@ -2863,7 +2863,7 @@
 |**2020-07-29**|**Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**|Saed Moradi et.al.|[1810.03173](http://arxiv.org/abs/1810.03173)|**[link](https://github.com/moradisaed/ADMD)**|
 |**2017-03-27**|**Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**|Yimian Dai et.al.|[1703.09157](http://arxiv.org/abs/1703.09157)|**[link](https://github.com/YimianDai/DENTIST)**|
 
-<p align=right>(<a href=#updated-on-20241201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
 
 ## UNet
 
@@ -2872,7 +2872,7 @@
 |**2024-11-27**|**Improved implicit diffusion model with knowledge distillation to estimate the spatial distribution density of carbon stock in remote sensing imagery**|Zhenyu Yu et.al.|[2411.17973](http://arxiv.org/abs/2411.17973)|null|
 |**2024-11-20**|**Generating CKM Using Others' Data: Cross-AP CKM Inference with Deep Learning**|Zhuoyin Dai et.al.|[2411.17716](http://arxiv.org/abs/2411.17716)|null|
 |**2024-11-26**|**An Ensemble Approach for Brain Tumor Segmentation and Synthesis**|Juampablo E. Heras Rivera et.al.|[2411.17617](http://arxiv.org/abs/2411.17617)|null|
-|**2024-11-26**|**Accelerating Vision Diffusion Transformers with Skip Branches**|Guanjie Chen et.al.|[2411.17616](http://arxiv.org/abs/2411.17616)|**[link](https://github.com/opensparsellms/skip-dit)**|
+|**2024-11-27**|**Accelerating Vision Diffusion Transformers with Skip Branches**|Guanjie Chen et.al.|[2411.17616](http://arxiv.org/abs/2411.17616)|**[link](https://github.com/opensparsellms/skip-dit)**|
 |**2024-11-26**|**TAFM-Net: A Novel Approach to Skin Lesion Segmentation Using Transformer Attention and Focal Modulation**|Tariq M Khan et.al.|[2411.17556](http://arxiv.org/abs/2411.17556)|null|
 |**2024-11-26**|**vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation**|Bastian Wittmann et.al.|[2411.17386](http://arxiv.org/abs/2411.17386)|null|
 |**2024-11-26**|**SAM-MPA: Applying SAM to Few-shot Medical Image Segmentation using Mask Propagation and Auto-prompting**|Jie Xu et.al.|[2411.17363](http://arxiv.org/abs/2411.17363)|null|
@@ -2920,7 +2920,7 @@
 |**2024-11-17**|**Label Sharing Incremental Learning Framework for Independent Multi-Label Segmentation Tasks**|Deepa Anand et.al.|[2411.11105](http://arxiv.org/abs/2411.11105)|null|
 |**2024-11-17**|**Direct and Explicit 3D Generation from a Single Image**|Haoyu Wu et.al.|[2411.10947](http://arxiv.org/abs/2411.10947)|null|
 |**2024-11-16**|**Attention-based U-Net Method for Autonomous Lane Detection**|Mohammadhamed Tangestanizadeh et.al.|[2411.10902](http://arxiv.org/abs/2411.10902)|null|
-|**2024-11-16**|**FIAS: Feature Imbalance-Aware Medical Image Segmentation with Dynamic Fusion and Mixing Attention**|Xiwei Liu et.al.|[2411.10881](http://arxiv.org/abs/2411.10881)|null|
+|**2024-11-27**|**FIAS: Feature Imbalance-Aware Medical Image Segmentation with Dynamic Fusion and Mixing Attention**|Xiwei Liu et.al.|[2411.10881](http://arxiv.org/abs/2411.10881)|null|
 |**2024-11-16**|**Explainable DNN-based Beamformer with Postfilter**|Adi Cohen et.al.|[2411.10854](http://arxiv.org/abs/2411.10854)|**[link](https://github.com/AdiCohen501/ExNet-BF-PF)**|
 |**2024-11-15**|**On the Foundation Model for Cardiac MRI Reconstruction**|Chi Zhang et.al.|[2411.10403](http://arxiv.org/abs/2411.10403)|null|
 |**2024-11-15**|**ScribbleVS: Scribble-Supervised Medical Image Segmentation via Dynamic Competitive Pseudo Label Selection**|Tao Wang et.al.|[2411.10237](http://arxiv.org/abs/2411.10237)|**[link](https://github.com/ortonwang/scribblevs)**|
@@ -3908,7 +3908,7 @@
 |**2024-07-29**|**ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**|Lukas Höllein et.al.|[2403.01807](http://arxiv.org/abs/2403.01807)|**[link](https://github.com/facebookresearch/viewdiff)**|
 |**2024-03-07**|**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**|Yuhao Xu et.al.|[2403.01779](http://arxiv.org/abs/2403.01779)|**[link](https://github.com/levihsu/ootdiffusion)**|
 
-<p align=right>(<a href=#updated-on-20241201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
