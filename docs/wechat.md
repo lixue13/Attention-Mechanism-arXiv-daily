@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.12.02
+> Updated on 2024.12.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -65,7 +65,7 @@
 - 2024-11-28, **Visual SLAMMOT Considering Multiple Motion Models**, Peilin Tian et.al., Paper: [http://arxiv.org/abs/2411.19134](http://arxiv.org/abs/2411.19134)
 - 2024-11-28, **Charge transfer induced cubic gauche nitrogen from azides**, Tingting Ye et.al., Paper: [http://arxiv.org/abs/2411.19079](http://arxiv.org/abs/2411.19079)
 - 2024-11-28, **Dynamic Attention and Bi-directional Fusion for Safety Helmet Wearing Detection**, Junwei Feng et.al., Paper: [http://arxiv.org/abs/2411.19071](http://arxiv.org/abs/2411.19071)
-- 2024-11-28, **I Dream My Painting: Connecting MLLMs and Diffusion Models via Prompt Generation for Text-Guided Multi-Mask Inpainting**, Nicola Fanelli et.al., Paper: [http://arxiv.org/abs/2411.19050](http://arxiv.org/abs/2411.19050)
+- 2024-11-28, **I Dream My Painting: Connecting MLLMs and Diffusion Models via Prompt Generation for Text-Guided Multi-Mask Inpainting**, Nicola Fanelli et.al., Paper: [http://arxiv.org/abs/2411.19050](http://arxiv.org/abs/2411.19050), Code: **[https://github.com/cilabuniba/i-dream-my-painting](https://github.com/cilabuniba/i-dream-my-painting)**
 - 2024-11-28, **Pilot Contamination Aware Transformer for Downlink Power Control in Cell-Free Massive MIMO Networks**, Atchutaram K. Kocharlakota et.al., Paper: [http://arxiv.org/abs/2411.19020](http://arxiv.org/abs/2411.19020)
 - 2024-11-28, **A Survey on Automatic Online Hate Speech Detection in Low-Resource Languages**, Susmita Das et.al., Paper: [http://arxiv.org/abs/2411.19017](http://arxiv.org/abs/2411.19017)
 - 2024-11-28, **Locally-Focused Face Representation for Sketch-to-Image Generation Using Noise-Induced Refinement**, Muhammad Umer Ramzan et.al., Paper: [http://arxiv.org/abs/2411.19005](http://arxiv.org/abs/2411.19005)
@@ -156,7 +156,7 @@
 - 2024-11-26, **ShowUI: One Vision-Language-Action Model for GUI Visual Agent**, Kevin Qinghong Lin et.al., Paper: [http://arxiv.org/abs/2411.17465](http://arxiv.org/abs/2411.17465), Code: **[https://github.com/showlab/showui](https://github.com/showlab/showui)**
 - 2024-11-26, **SpikeAtConv: An Integrated Spiking-Convolutional Attention Architecture for Energy-Efficient Neuromorphic Vision Processing**, Wangdan Liao et.al., Paper: [http://arxiv.org/abs/2411.17439](http://arxiv.org/abs/2411.17439)
 - 2024-11-26, **CLOVER: Constrained Learning with Orthonormal Vectors for Eliminating Redundancy**, Fanxu Meng et.al., Paper: [http://arxiv.org/abs/2411.17426](http://arxiv.org/abs/2411.17426)
-- 2024-11-26, **Cross-modal Medical Image Generation Based on Pyramid Convolutional Attention Network**, Fuyou Mao et.al., Paper: [http://arxiv.org/abs/2411.17420](http://arxiv.org/abs/2411.17420)
+- 2024-11-28, **Cross-modal Medical Image Generation Based on Pyramid Convolutional Attention Network**, Fuyou Mao et.al., Paper: [http://arxiv.org/abs/2411.17420](http://arxiv.org/abs/2411.17420)
 - 2024-11-26, **Multimodal Outer Arithmetic Block Dual Fusion of Whole Slide Images and Omics Data for Precision Oncology**, Omnia Alwazzan et.al., Paper: [http://arxiv.org/abs/2411.17418](http://arxiv.org/abs/2411.17418)
 - 2024-11-26, **A Generalized Unified Skew-Normal Process with Neural Bayes Inference**, Kesen Wang et.al., Paper: [http://arxiv.org/abs/2411.17400](http://arxiv.org/abs/2411.17400)
 - 2024-11-26, **DWCL: Dual-Weighted Contrastive Learning for Multi-View Clustering**, Zhihui Zhang et.al., Paper: [http://arxiv.org/abs/2411.17354](http://arxiv.org/abs/2411.17354), Code: **[https://github.com/SHERSONH/DWCL](https://github.com/SHERSONH/DWCL)**
@@ -2866,7 +2866,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241203>back to top</a>)</p>
 
 ## IRSTD
 
@@ -2934,7 +2934,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241203>back to top</a>)</p>
 
 ## UNet
 
@@ -3982,7 +3982,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241203>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
