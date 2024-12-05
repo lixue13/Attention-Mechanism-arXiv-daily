@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -134,7 +134,7 @@ layout: default
 |**2024-12-01**|**MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning**|You Wu et.al.|[2412.00626](http://arxiv.org/abs/2412.00626)|null|
 |**2024-11-30**|**Solving and visualizing fractional quantum Hall wavefunctions with neural network**|Yi Teng et.al.|[2412.00618](http://arxiv.org/abs/2412.00618)|null|
 |**2024-11-30**|**Multi-resolution Guided 3D GANs for Medical Image Translation**|Juhyung Ha et.al.|[2412.00575](http://arxiv.org/abs/2412.00575)|null|
-|**2024-11-30**|**Pruned Convolutional Attention Network Based Wideband Spectrum Sensing with Sub-Nyquist Sampling**|Peihao Dong et.al.|[2412.00562](http://arxiv.org/abs/2412.00562)|null|
+|**2024-11-30**|**Pruned Convolutional Attention Network Based Wideband Spectrum Sensing with Sub-Nyquist Sampling**|Peihao Dong et.al.|[2412.00562](http://arxiv.org/abs/2412.00562)|**[link](https://github.com/AI4CogComm/PCA-WSSNet)**|
 |**2024-11-30**|**Accelerating Multimodel Large Language Models by Searching Optimal Vision Token Reduction**|Shiyu Zhao et.al.|[2412.00556](http://arxiv.org/abs/2412.00556)|null|
 |**2024-11-30**|**Rank It, Then Ask It: Input Reranking for Maximizing the Performance of LLMs on Symmetric Tasks**|Mohsen Dehghankar et.al.|[2412.00546](http://arxiv.org/abs/2412.00546)|null|
 |**2024-11-30**|**Towards Fault Tolerance in Multi-Agent Reinforcement Learning**|Yuchen Shi et.al.|[2412.00534](http://arxiv.org/abs/2412.00534)|null|
