@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.12.05
+> Updated on 2024.12.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -792,7 +792,7 @@
 - 2024-11-13, **UNSCT-HRNet: Modeling Anatomical Uncertainty for Landmark Detection in Total Hip Arthroplasty**, Jiaxin Wan et.al., Paper: [http://arxiv.org/abs/2411.08488](http://arxiv.org/abs/2411.08488)
 - 2024-11-13, **AD-DINO: Attention-Dynamic DINO for Distance-Aware Embodied Reference Understanding**, Hao Guo et.al., Paper: [http://arxiv.org/abs/2411.08451](http://arxiv.org/abs/2411.08451)
 - 2024-11-13, **SASE: A Searching Architecture for Squeeze and Excitation Operations**, Hanming Wang et.al., Paper: [http://arxiv.org/abs/2411.08333](http://arxiv.org/abs/2411.08333)
-- 2024-11-13, **PerceiverS: A Multi-Scale Perceiver with Effective Segmentation for Long-Term Expressive Symbolic Music Generation**, Yungang Yi et.al., Paper: [http://arxiv.org/abs/2411.08307](http://arxiv.org/abs/2411.08307)
+- 2024-12-04, **PerceiverS: A Multi-Scale Perceiver with Effective Segmentation for Long-Term Expressive Symbolic Music Generation**, Yungang Yi et.al., Paper: [http://arxiv.org/abs/2411.08307](http://arxiv.org/abs/2411.08307)
 - 2024-11-13, **RESOLVE: Relational Reasoning with Symbolic and Object-Level Features Using Vector Symbolic Processing**, Mohamed Mejri et.al., Paper: [http://arxiv.org/abs/2411.08290](http://arxiv.org/abs/2411.08290), Code: **[https://github.com/mmejri3/resolve](https://github.com/mmejri3/resolve)**
 - 2024-11-12, **Deceiving Question-Answering Models: A Hybrid Word-Level Adversarial Approach**, Jiyao Li et.al., Paper: [http://arxiv.org/abs/2411.08248](http://arxiv.org/abs/2411.08248), Code: **[https://github.com/utsjiyaoli/qa-attack](https://github.com/utsjiyaoli/qa-attack)**
 - 2024-11-12, **Consistent model selection for estimating functional interactions among stochastic neurons with variable-length memory**, Ricardo F. Ferreira et.al., Paper: [http://arxiv.org/abs/2411.08205](http://arxiv.org/abs/2411.08205)
@@ -3061,7 +3061,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
 
 ## IRSTD
 
@@ -3129,7 +3129,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
 
 ## UNet
 
@@ -3632,7 +3632,7 @@
 - 2024-08-03, **A Comparative Analysis of CNN-based Deep Learning Models for Landslide Detection**, Omkar Oak et.al., Paper: [http://arxiv.org/abs/2408.01692](http://arxiv.org/abs/2408.01692)
 - 2024-08-03, **MedUHIP: Towards Human-In-the-Loop Medical Segmentation**, Jiayuan Zhu et.al., Paper: [http://arxiv.org/abs/2408.01620](http://arxiv.org/abs/2408.01620)
 - 2024-08-02, **Multi-Unit Floor Plan Recognition and Reconstruction Using Improved Semantic Segmentation of Raster-Wise Floor Plans**, Lukas Kratochvila et.al., Paper: [http://arxiv.org/abs/2408.01526](http://arxiv.org/abs/2408.01526)
-- 2024-08-01, **Medical SAM 2: Segment medical images as video via Segment Anything Model 2**, Jiayuan Zhu et.al., Paper: [http://arxiv.org/abs/2408.00874](http://arxiv.org/abs/2408.00874), Code: **[https://github.com/medicinetoken/medical-sam2](https://github.com/medicinetoken/medical-sam2)**
+- 2024-12-04, **Medical SAM 2: Segment medical images as video via Segment Anything Model 2**, Jiayuan Zhu et.al., Paper: [http://arxiv.org/abs/2408.00874](http://arxiv.org/abs/2408.00874), Code: **[https://github.com/medicinetoken/medical-sam2](https://github.com/medicinetoken/medical-sam2)**
 - 2024-07-16, **Hybrid Deep Learning Framework for Enhanced Melanoma Detection**, Peng Zhang et.al., Paper: [http://arxiv.org/abs/2408.00772](http://arxiv.org/abs/2408.00772)
 - 2024-08-01, **Synthetic dual image generation for reduction of labeling efforts in semantic segmentation of micrographs with a customized metric function**, Matias Oscar Volman Stern et.al., Paper: [http://arxiv.org/abs/2408.00707](http://arxiv.org/abs/2408.00707)
 - 2024-08-01, **Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM**, Xiaofeng Liu et.al., Paper: [http://arxiv.org/abs/2408.00706](http://arxiv.org/abs/2408.00706)
@@ -4195,7 +4195,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

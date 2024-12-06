@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.05
+## Updated on 2024.12.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -789,7 +789,7 @@ layout: default
 |**2024-11-13**|**UNSCT-HRNet: Modeling Anatomical Uncertainty for Landmark Detection in Total Hip Arthroplasty**|Jiaxin Wan et.al.|[2411.08488](http://arxiv.org/abs/2411.08488)|null|
 |**2024-11-13**|**AD-DINO: Attention-Dynamic DINO for Distance-Aware Embodied Reference Understanding**|Hao Guo et.al.|[2411.08451](http://arxiv.org/abs/2411.08451)|null|
 |**2024-11-13**|**SASE: A Searching Architecture for Squeeze and Excitation Operations**|Hanming Wang et.al.|[2411.08333](http://arxiv.org/abs/2411.08333)|null|
-|**2024-11-13**|**PerceiverS: A Multi-Scale Perceiver with Effective Segmentation for Long-Term Expressive Symbolic Music Generation**|Yungang Yi et.al.|[2411.08307](http://arxiv.org/abs/2411.08307)|null|
+|**2024-12-04**|**PerceiverS: A Multi-Scale Perceiver with Effective Segmentation for Long-Term Expressive Symbolic Music Generation**|Yungang Yi et.al.|[2411.08307](http://arxiv.org/abs/2411.08307)|null|
 |**2024-11-13**|**RESOLVE: Relational Reasoning with Symbolic and Object-Level Features Using Vector Symbolic Processing**|Mohamed Mejri et.al.|[2411.08290](http://arxiv.org/abs/2411.08290)|**[link](https://github.com/mmejri3/resolve)**|
 |**2024-11-12**|**Deceiving Question-Answering Models: A Hybrid Word-Level Adversarial Approach**|Jiyao Li et.al.|[2411.08248](http://arxiv.org/abs/2411.08248)|**[link](https://github.com/utsjiyaoli/qa-attack)**|
 |**2024-11-12**|**Consistent model selection for estimating functional interactions among stochastic neurons with variable-length memory**|Ricardo F. Ferreira et.al.|[2411.08205](http://arxiv.org/abs/2411.08205)|null|
@@ -3629,7 +3629,7 @@ layout: default
 |**2024-08-03**|**A Comparative Analysis of CNN-based Deep Learning Models for Landslide Detection**|Omkar Oak et.al.|[2408.01692](http://arxiv.org/abs/2408.01692)|null|
 |**2024-08-03**|**MedUHIP: Towards Human-In-the-Loop Medical Segmentation**|Jiayuan Zhu et.al.|[2408.01620](http://arxiv.org/abs/2408.01620)|null|
 |**2024-08-02**|**Multi-Unit Floor Plan Recognition and Reconstruction Using Improved Semantic Segmentation of Raster-Wise Floor Plans**|Lukas Kratochvila et.al.|[2408.01526](http://arxiv.org/abs/2408.01526)|null|
-|**2024-08-01**|**Medical SAM 2: Segment medical images as video via Segment Anything Model 2**|Jiayuan Zhu et.al.|[2408.00874](http://arxiv.org/abs/2408.00874)|**[link](https://github.com/medicinetoken/medical-sam2)**|
+|**2024-12-04**|**Medical SAM 2: Segment medical images as video via Segment Anything Model 2**|Jiayuan Zhu et.al.|[2408.00874](http://arxiv.org/abs/2408.00874)|**[link](https://github.com/medicinetoken/medical-sam2)**|
 |**2024-07-16**|**Hybrid Deep Learning Framework for Enhanced Melanoma Detection**|Peng Zhang et.al.|[2408.00772](http://arxiv.org/abs/2408.00772)|null|
 |**2024-08-01**|**Synthetic dual image generation for reduction of labeling efforts in semantic segmentation of micrographs with a customized metric function**|Matias Oscar Volman Stern et.al.|[2408.00707](http://arxiv.org/abs/2408.00707)|null|
 |**2024-08-01**|**Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM**|Xiaofeng Liu et.al.|[2408.00706](http://arxiv.org/abs/2408.00706)|null|
