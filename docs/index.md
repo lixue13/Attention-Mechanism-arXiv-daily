@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.11
+## Updated on 2024.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-10**|**Video Motion Transfer with Diffusion Transformers**|Alexander Pondaven et.al.|[2412.07776](http://arxiv.org/abs/2412.07776)|null|
+|**2024-12-10**|**Video Motion Transfer with Diffusion Transformers**|Alexander Pondaven et.al.|[2412.07776](http://arxiv.org/abs/2412.07776)|**[link](https://github.com/ditflow/ditflow)**|
 |**2024-12-10**|**From Slow Bidirectional to Fast Causal Video Generators**|Tianwei Yin et.al.|[2412.07772](http://arxiv.org/abs/2412.07772)|null|
 |**2024-12-10**|**3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation**|Xiao Fu et.al.|[2412.07759](http://arxiv.org/abs/2412.07759)|null|
 |**2024-12-10**|**PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation**|Fatemeh Nazarieh et.al.|[2412.07754](http://arxiv.org/abs/2412.07754)|null|
@@ -93,7 +93,7 @@ layout: default
 |**2024-12-09**|**HES-UNet: A U-Net for Hepatic Echinococcosis Lesion Segmentation**|Jiayan Chen et.al.|[2412.06530](http://arxiv.org/abs/2412.06530)|null|
 |**2024-12-10**|**AnomalyControl: Learning Cross-modal Semantic Features for Controllable Anomaly Synthesis**|Shidan He et.al.|[2412.06510](http://arxiv.org/abs/2412.06510)|null|
 |**2024-12-09**|**Hybrid Attention Network: An efficient approach for anatomy-free landmark detection**|Xiaoqian Zhou et.al.|[2412.06499](http://arxiv.org/abs/2412.06499)|null|
-|**2024-12-09**|**Gated Delta Networks: Improving Mamba2 with Delta Rule**|Songlin Yang et.al.|[2412.06464](http://arxiv.org/abs/2412.06464)|null|
+|**2024-12-09**|**Gated Delta Networks: Improving Mamba2 with Delta Rule**|Songlin Yang et.al.|[2412.06464](http://arxiv.org/abs/2412.06464)|**[link](https://github.com/NVlabs/GatedDeltaNet)**|
 |**2024-12-09**|**UAV Virtual Antenna Array Deployment for Uplink Interference Mitigation in Data Collection Networks**|Hongjuan Li et.al.|[2412.06456](http://arxiv.org/abs/2412.06456)|null|
 |**2024-12-09**|**Measurments-induced quantum phase transitions**|Dragi Karevski et.al.|[2412.06440](http://arxiv.org/abs/2412.06440)|null|
 |**2024-12-09**|**Local Attention Transformers for High-Detail Optical Flow Upsampling**|Alexander Gielisse et.al.|[2412.06439](http://arxiv.org/abs/2412.06439)|null|
@@ -1020,7 +1020,7 @@ layout: default
 |**2024-11-13**|**Shadow systems, decomposability and isotropic constants**|Christian Kipp et.al.|[2411.08722](http://arxiv.org/abs/2411.08722)|null|
 |**2024-11-08**|**How Wash Traders Exploit Market Conditions in Cryptocurrency Markets**|Hunter Ng et.al.|[2411.08720](http://arxiv.org/abs/2411.08720)|null|
 |**2024-11-10**|**Balancing Speed and Stability: The Trade-offs of FP8 vs. BF16 Training in LLMs**|Kazuki Fujii et.al.|[2411.08719](http://arxiv.org/abs/2411.08719)|null|
-|**2024-11-13**|**Retrieval Augmented Recipe Generation**|Guoshan Liu et.al.|[2411.08715](http://arxiv.org/abs/2411.08715)|null|
+|**2024-12-09**|**Retrieval Augmented Recipe Generation**|Guoshan Liu et.al.|[2411.08715](http://arxiv.org/abs/2411.08715)|null|
 |**2024-11-13**|**TRACE: Transformer-based Risk Assessment for Clinical Evaluation**|Dionysis Christopoulos et.al.|[2411.08701](http://arxiv.org/abs/2411.08701)|null|
 |**2024-11-13**|**Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval**|Saul Santos et.al.|[2411.08590](http://arxiv.org/abs/2411.08590)|**[link](https://github.com/deep-spin/HFYN)**|
 |**2024-11-19**|**Higher partial waves in femtoscopy**|Koichi Murase et.al.|[2411.08541](http://arxiv.org/abs/2411.08541)|null|
