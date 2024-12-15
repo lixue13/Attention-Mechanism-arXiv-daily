@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -38,9 +38,9 @@ layout: default
 |**2024-12-12**|**Multi-view Clustering via Unified Multi-kernel Learning and Matrix Factorization**|Chenxing Jia et.al.|[2412.09065](http://arxiv.org/abs/2412.09065)|null|
 |**2024-12-12**|**A comprehensive numerical study on four categories of holographic dark energy models**|Jun-Xian Li et.al.|[2412.09064](http://arxiv.org/abs/2412.09064)|null|
 |**2024-12-12**|**ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty**|Meizhi Zhong et.al.|[2412.09036](http://arxiv.org/abs/2412.09036)|null|
-|**2024-12-12**|**RingFormer: A Ring-Enhanced Graph Transformer for Organic Solar Cell Property Prediction**|Zhihao Ding et.al.|[2412.09030](http://arxiv.org/abs/2412.09030)|null|
+|**2024-12-12**|**RingFormer: A Ring-Enhanced Graph Transformer for Organic Solar Cell Property Prediction**|Zhihao Ding et.al.|[2412.09030](http://arxiv.org/abs/2412.09030)|**[link](https://github.com/TommyDzh/RingFormer)**|
 |**2024-12-12**|**STEAM: Squeeze and Transform Enhanced Attention Module**|Rishabh Sabharwal et.al.|[2412.09023](http://arxiv.org/abs/2412.09023)|null|
-|**2024-12-12**|**Improvement in Sign Language Translation Using Text CTC Alignment**|Sihan Tan et.al.|[2412.09014](http://arxiv.org/abs/2412.09014)|null|
+|**2024-12-12**|**Improvement in Sign Language Translation Using Text CTC Alignment**|Sihan Tan et.al.|[2412.09014](http://arxiv.org/abs/2412.09014)|**[link](https://github.com/Claire874/TextCTC-SLT)**|
 |**2024-12-12**|**Building a Mastodon Compatible Java Server for ActivityPub**|Sean Nian et.al.|[2412.09011](http://arxiv.org/abs/2412.09011)|null|
 |**2024-12-12**|**A physics-informed transformer neural operator for learning generalized solutions of initial boundary value problems**|Sumanth Kumar Boya et.al.|[2412.09009](http://arxiv.org/abs/2412.09009)|**[link](https://github.com/quest-lab-iisc/pinto)**|
 |**2024-12-12**|**Motor Imagery Teleoperation of a Mobile Robot Using a Low-Cost Brain-Computer Interface for Multi-Day Validation**|Yujin An et.al.|[2412.08971](http://arxiv.org/abs/2412.08971)|null|
@@ -174,8 +174,8 @@ layout: default
 |**2024-12-09**|**VQ4ALL: Efficient Neural Network Representation via a Universal Codebook**|Juncan Deng et.al.|[2412.06875](http://arxiv.org/abs/2412.06875)|null|
 |**2024-12-09**|**Stock Type Prediction Model Based on Hierarchical Graph Neural Network**|Jianhua Yao et.al.|[2412.06862](http://arxiv.org/abs/2412.06862)|null|
 |**2024-12-08**|**GL-Fusion: Rethinking the Combination of Graph Neural Network and Large Language model**|Haotong Yang et.al.|[2412.06849](http://arxiv.org/abs/2412.06849)|null|
-|**2024-12-11**|**Fully Open Source Moxin-7B Technical Report**|Pu Zhao et.al.|[2412.06845](http://arxiv.org/abs/2412.06845)|null|
-|**2024-12-07**|**APS-LSTM: Exploiting Multi-Periodicity and Diverse Spatial Dependencies for Flood Forecasting**|Jun Feng et.al.|[2412.06835](http://arxiv.org/abs/2412.06835)|null|
+|**2024-12-11**|**Fully Open Source Moxin-7B Technical Report**|Pu Zhao et.al.|[2412.06845](http://arxiv.org/abs/2412.06845)|**[link](https://github.com/moxin-org/moxin-llm)**|
+|**2024-12-07**|**APS-LSTM: Exploiting Multi-Periodicity and Diverse Spatial Dependencies for Flood Forecasting**|Jun Feng et.al.|[2412.06835](http://arxiv.org/abs/2412.06835)|**[link](https://github.com/oopcmd/aps-lstm)**|
 |**2024-12-06**|**Stably unactivated neurons in ReLU neural networks**|Natalie Brownlowe et.al.|[2412.06829](http://arxiv.org/abs/2412.06829)|null|
 |**2024-12-05**|**Guidance is All You Need: Temperature-Guided Reasoning in Large Language Models**|Eyad Gomaa et.al.|[2412.06822](http://arxiv.org/abs/2412.06822)|null|
 |**2024-11-25**|**Ptychoformer: A Physics-Guided Deep Learning Framework for Ptychographic Imaging**|Han Yue et.al.|[2412.06806](http://arxiv.org/abs/2412.06806)|null|
