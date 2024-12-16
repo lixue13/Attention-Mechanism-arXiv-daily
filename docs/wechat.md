@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.12.15
+> Updated on 2024.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -43,7 +43,7 @@
 - 2024-12-12, **ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty**, Meizhi Zhong et.al., Paper: [http://arxiv.org/abs/2412.09036](http://arxiv.org/abs/2412.09036)
 - 2024-12-12, **RingFormer: A Ring-Enhanced Graph Transformer for Organic Solar Cell Property Prediction**, Zhihao Ding et.al., Paper: [http://arxiv.org/abs/2412.09030](http://arxiv.org/abs/2412.09030), Code: **[https://github.com/TommyDzh/RingFormer](https://github.com/TommyDzh/RingFormer)**
 - 2024-12-12, **STEAM: Squeeze and Transform Enhanced Attention Module**, Rishabh Sabharwal et.al., Paper: [http://arxiv.org/abs/2412.09023](http://arxiv.org/abs/2412.09023)
-- 2024-12-12, **Improvement in Sign Language Translation Using Text CTC Alignment**, Sihan Tan et.al., Paper: [http://arxiv.org/abs/2412.09014](http://arxiv.org/abs/2412.09014), Code: **[https://github.com/Claire874/TextCTC-SLT](https://github.com/Claire874/TextCTC-SLT)**
+- 2024-12-13, **Improvement in Sign Language Translation Using Text CTC Alignment**, Sihan Tan et.al., Paper: [http://arxiv.org/abs/2412.09014](http://arxiv.org/abs/2412.09014), Code: **[https://github.com/Claire874/TextCTC-SLT](https://github.com/Claire874/TextCTC-SLT)**
 - 2024-12-12, **Building a Mastodon Compatible Java Server for ActivityPub**, Sean Nian et.al., Paper: [http://arxiv.org/abs/2412.09011](http://arxiv.org/abs/2412.09011)
 - 2024-12-12, **A physics-informed transformer neural operator for learning generalized solutions of initial boundary value problems**, Sumanth Kumar Boya et.al., Paper: [http://arxiv.org/abs/2412.09009](http://arxiv.org/abs/2412.09009), Code: **[https://github.com/quest-lab-iisc/pinto](https://github.com/quest-lab-iisc/pinto)**
 - 2024-12-12, **Motor Imagery Teleoperation of a Mobile Robot Using a Low-Cost Brain-Computer Interface for Multi-Day Validation**, Yujin An et.al., Paper: [http://arxiv.org/abs/2412.08971](http://arxiv.org/abs/2412.08971)
@@ -3401,7 +3401,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 ## IRSTD
 
@@ -3469,7 +3469,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 ## UNet
 
@@ -4578,7 +4578,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241216>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
