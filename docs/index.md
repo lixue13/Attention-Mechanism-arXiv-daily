@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.22
+## Updated on 2024.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -637,7 +637,7 @@ layout: default
 |**2024-12-05**|**Pruning qLDPC codes: Towards bivariate bicycle codes with open boundary conditions**|Jens Niklas Eberhardt et.al.|[2412.04181](http://arxiv.org/abs/2412.04181)|null|
 |**2024-12-05**|**AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models**|Xinghui Li et.al.|[2412.04146](http://arxiv.org/abs/2412.04146)|null|
 |**2024-12-05**|**Text Change Detection in Multilingual Documents Using Image Comparison**|Doyoung Park et.al.|[2412.04137](http://arxiv.org/abs/2412.04137)|null|
-|**2024-12-05**|**GRAF: Graph Retrieval Augmented by Facts for Legal Question Answering**|Cristian-George Crăciun et.al.|[2412.04119](http://arxiv.org/abs/2412.04119)|null|
+|**2024-12-19**|**GRAF: Graph Retrieval Augmented by Facts for Romanian Legal Multi-Choice Question Answering**|Cristian-George Crăciun et.al.|[2412.04119](http://arxiv.org/abs/2412.04119)|null|
 |**2024-12-05**|**TransAdapter: Vision Transformer for Feature-Centric Unsupervised Domain Adaptation**|A. Enes Doruk et.al.|[2412.04073](http://arxiv.org/abs/2412.04073)|**[link](https://github.com/enesdoruk/TransAdapter)**|
 |**2024-12-08**|**Boundary-Guided Learning for Gene Expression Prediction in Spatial Transcriptomics**|Mingcheng Qu et.al.|[2412.04072](http://arxiv.org/abs/2412.04072)|**[link](https://github.com/WcloudC0416/BG-TRIPLEX)**|
 |**2024-12-05**|**ProtDAT: A Unified Framework for Protein Sequence Design from Any Protein Text Description**|Xiao-Yu Guo et.al.|[2412.04069](http://arxiv.org/abs/2412.04069)|null|

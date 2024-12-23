@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.12.22
+> Updated on 2024.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -640,7 +640,7 @@
 - 2024-12-05, **Pruning qLDPC codes: Towards bivariate bicycle codes with open boundary conditions**, Jens Niklas Eberhardt et.al., Paper: [http://arxiv.org/abs/2412.04181](http://arxiv.org/abs/2412.04181)
 - 2024-12-05, **AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models**, Xinghui Li et.al., Paper: [http://arxiv.org/abs/2412.04146](http://arxiv.org/abs/2412.04146)
 - 2024-12-05, **Text Change Detection in Multilingual Documents Using Image Comparison**, Doyoung Park et.al., Paper: [http://arxiv.org/abs/2412.04137](http://arxiv.org/abs/2412.04137)
-- 2024-12-05, **GRAF: Graph Retrieval Augmented by Facts for Legal Question Answering**, Cristian-George Crăciun et.al., Paper: [http://arxiv.org/abs/2412.04119](http://arxiv.org/abs/2412.04119)
+- 2024-12-19, **GRAF: Graph Retrieval Augmented by Facts for Romanian Legal Multi-Choice Question Answering**, Cristian-George Crăciun et.al., Paper: [http://arxiv.org/abs/2412.04119](http://arxiv.org/abs/2412.04119)
 - 2024-12-05, **TransAdapter: Vision Transformer for Feature-Centric Unsupervised Domain Adaptation**, A. Enes Doruk et.al., Paper: [http://arxiv.org/abs/2412.04073](http://arxiv.org/abs/2412.04073), Code: **[https://github.com/enesdoruk/TransAdapter](https://github.com/enesdoruk/TransAdapter)**
 - 2024-12-08, **Boundary-Guided Learning for Gene Expression Prediction in Spatial Transcriptomics**, Mingcheng Qu et.al., Paper: [http://arxiv.org/abs/2412.04072](http://arxiv.org/abs/2412.04072), Code: **[https://github.com/WcloudC0416/BG-TRIPLEX](https://github.com/WcloudC0416/BG-TRIPLEX)**
 - 2024-12-05, **ProtDAT: A Unified Framework for Protein Sequence Design from Any Protein Text Description**, Xiao-Yu Guo et.al., Paper: [http://arxiv.org/abs/2412.04069](http://arxiv.org/abs/2412.04069)
@@ -3722,7 +3722,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
 
 ## IRSTD
 
@@ -3791,7 +3791,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
 
 ## UNet
 
@@ -4929,7 +4929,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
