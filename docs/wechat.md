@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.12.23
+> Updated on 2024.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -110,7 +110,7 @@
 - 2024-12-18, **A Survey on LLM Inference-Time Self-Improvement**, Xiangjue Dong et.al., Paper: [http://arxiv.org/abs/2412.14352](http://arxiv.org/abs/2412.14352), Code: **[https://github.com/dongxiangjue/Awesome-LLM-Self-Improvement](https://github.com/dongxiangjue/Awesome-LLM-Self-Improvement)**
 - 2024-12-20, **SAFERec: Self-Attention and Frequency Enriched Model for Next Basket Recommendation**, Oleg Lashinin et.al., Paper: [http://arxiv.org/abs/2412.14302](http://arxiv.org/abs/2412.14302), Code: **[https://github.com/anon-ecir-nbr/saferec](https://github.com/anon-ecir-nbr/saferec)**
 - 2024-12-18, **TRecViT: A Recurrent Video Transformer**, Viorica Pătrăucean et.al., Paper: [http://arxiv.org/abs/2412.14294](http://arxiv.org/abs/2412.14294)
-- 2024-12-18, **Augmenting Subspace Optimization Methods with Linear Bandits**, Matt Menickelly et.al., Paper: [http://arxiv.org/abs/2412.14278](http://arxiv.org/abs/2412.14278)
+- 2024-12-20, **Augmenting Subspace Optimization Methods with Linear Bandits**, Matt Menickelly et.al., Paper: [http://arxiv.org/abs/2412.14278](http://arxiv.org/abs/2412.14278)
 - 2024-12-18, **Dissipative Phase Transition in the Two-Photon Dicke Model**, Aanal Jayesh Shah et.al., Paper: [http://arxiv.org/abs/2412.14271](http://arxiv.org/abs/2412.14271)
 - 2024-12-18, **ViTmiX: Vision Transformer Explainability Augmented by Mixed Visualization Methods**, Eduard Hogea et.al., Paper: [http://arxiv.org/abs/2412.14231](http://arxiv.org/abs/2412.14231)
 - 2024-12-18, **Distilled Pooling Transformer Encoder for Efficient Realistic Image Dehazing**, Le-Anh Tran et.al., Paper: [http://arxiv.org/abs/2412.14220](http://arxiv.org/abs/2412.14220), Code: **[https://github.com/tranleanh/dpte-net](https://github.com/tranleanh/dpte-net)**
@@ -3763,7 +3763,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## IRSTD
 
@@ -3832,7 +3832,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## UNet
 
@@ -4978,7 +4978,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
