@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.25
+## Updated on 2024.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -30,7 +30,7 @@ layout: default
 |**2024-12-24**|**All-electric mimicking synaptic plasticity based on the noncollinear antiferromagnetic device**|Cuimei Cao et.al.|[2412.18418](http://arxiv.org/abs/2412.18418)|null|
 |**2024-12-24**|**Ultra-Low Complexity On-Orbit Compression for Remote Sensing Imagery via Block Modulated Imaging**|Zhibin Wang et.al.|[2412.18417](http://arxiv.org/abs/2412.18417)|**[link](https://github.com/johnathan218/bmnet)**|
 |**2024-12-24**|**Re-assessing ImageNet: How aligned is its single-label assumption with its multi-label nature?**|Esla Timothy Anzaku et.al.|[2412.18409](http://arxiv.org/abs/2412.18409)|null|
-|**2024-12-24**|**Contrastive Representation for Interactive Recommendation**|Jingyu Li et.al.|[2412.18396](http://arxiv.org/abs/2412.18396)|null|
+|**2024-12-24**|**Contrastive Representation for Interactive Recommendation**|Jingyu Li et.al.|[2412.18396](http://arxiv.org/abs/2412.18396)|**[link](https://github.com/httpwww404notfound/CRIR)**|
 |**2024-12-24**|**Computer Vision-Driven Gesture Recognition: Toward Natural and Intuitive Human-Computer**|Fenghua Shao et.al.|[2412.18321](http://arxiv.org/abs/2412.18321)|null|
 |**2024-12-24**|**The optimization of exact multi-target quantum search algorithm based on MindQuantum**|Shijin Zhong et.al.|[2412.18306](http://arxiv.org/abs/2412.18306)|null|
 |**2024-12-24**|**GenPod: Constructive News Framing in AI-Generated Podcasts More Effectively Reduces Negative Emotions Than Non-Constructive Framing**|Wen Ku et.al.|[2412.18300](http://arxiv.org/abs/2412.18300)|null|
