@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.12.26
+> Updated on 2024.12.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -429,7 +429,7 @@
 - 2024-12-16, **Ultra-High-Definition Dynamic Multi-Exposure Image Fusion via Infinite Pixel Learning**, Xingchi Chen et.al., Paper: [http://arxiv.org/abs/2412.11685](http://arxiv.org/abs/2412.11685)
 - 2024-12-16, **EGP3D: Edge-guided Geometric Preserving 3D Point Cloud Super-resolution for RGB-D camera**, Zheng Fang et.al., Paper: [http://arxiv.org/abs/2412.11680](http://arxiv.org/abs/2412.11680)
 - 2024-12-16, **Online Writer Retrieval with Chinese Handwritten Phrases: A Synergistic Temporal-Frequency Representation Learning Approach**, Peirong Zhang et.al., Paper: [http://arxiv.org/abs/2412.11668](http://arxiv.org/abs/2412.11668), Code: **[https://github.com/scut-dlvclab/dolphin](https://github.com/scut-dlvclab/dolphin)**
-- 2024-12-18, **CNNtention: Can CNNs do better with Attention?**, Julian Glattki et.al., Paper: [http://arxiv.org/abs/2412.11657](http://arxiv.org/abs/2412.11657)
+- 2024-12-18, **CNNtention: Can CNNs do better with Attention?**, Julian Glattki et.al., Paper: [http://arxiv.org/abs/2412.11657](http://arxiv.org/abs/2412.11657), Code: **[https://github.com/attentionseekers/cnntention](https://github.com/attentionseekers/cnntention)**
 - 2024-12-16, **High-speed and High-quality Vision Reconstruction of Spike Camera with Spike Stability Theorem**, Wei Zhang et.al., Paper: [http://arxiv.org/abs/2412.11639](http://arxiv.org/abs/2412.11639)
 - 2024-12-19, **Interaction-induced phase transitions and critical phases in nonreciprocal non-Hermitian quasicrystals**, Yalun Zhang et.al., Paper: [http://arxiv.org/abs/2412.11623](http://arxiv.org/abs/2412.11623)
 - 2024-12-16, **Token Prepending: A Training-Free Approach for Eliciting Better Sentence Embeddings from LLMs**, Yuchen Fu et.al., Paper: [http://arxiv.org/abs/2412.11556](http://arxiv.org/abs/2412.11556)
@@ -3933,7 +3933,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20241226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
 
 ## IRSTD
 
@@ -4005,7 +4005,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20241226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
 
 ## UNet
 
@@ -5169,7 +5169,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20241226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
