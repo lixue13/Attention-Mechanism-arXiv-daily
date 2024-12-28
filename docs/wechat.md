@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.12.27
+> Updated on 2024.12.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -48,7 +48,7 @@
 - 2024-12-24, **SDM-Car: A Dataset for Small and Dim Moving Vehicles Detection in Satellite Videos**, Zhen Zhang et.al., Paper: [http://arxiv.org/abs/2412.18214](http://arxiv.org/abs/2412.18214), Code: **[https://github.com/tanedam/sdm-car](https://github.com/tanedam/sdm-car)**
 - 2024-12-24, **Leveraging Deep Learning with Multi-Head Attention for Accurate Extraction of Medicine from Handwritten Prescriptions**, Usman Ali et.al., Paper: [http://arxiv.org/abs/2412.18199](http://arxiv.org/abs/2412.18199)
 - 2024-12-24, **Toward an Automated, Proactive Safety Warning System Development for Truck Mounted Attenuators in Mobile Work Zones**, Xiang Yu et.al., Paper: [http://arxiv.org/abs/2412.18189](http://arxiv.org/abs/2412.18189)
-- 2024-12-24, **VisionGRU: A Linear-Complexity RNN Model for Efficient Image Analysis**, Shicheng Yin et.al., Paper: [http://arxiv.org/abs/2412.18178](http://arxiv.org/abs/2412.18178)
+- 2024-12-24, **VisionGRU: A Linear-Complexity RNN Model for Efficient Image Analysis**, Shicheng Yin et.al., Paper: [http://arxiv.org/abs/2412.18178](http://arxiv.org/abs/2412.18178), Code: **[https://github.com/yangliu9208/visiongru](https://github.com/yangliu9208/visiongru)**
 - 2024-12-24, **Unlocking the Hidden Treasures: Enhancing Recommendations with Unlabeled Data**, Yuhan Zhao et.al., Paper: [http://arxiv.org/abs/2412.18170](http://arxiv.org/abs/2412.18170), Code: **[https://github.com/Asa9aoTK/PNN-RecBole](https://github.com/Asa9aoTK/PNN-RecBole)**
 - 2024-12-24, **KunServe: Elastic and Efficient Large Language Model Serving with Parameter-centric Memory Management**, Rongxin Cheng et.al., Paper: [http://arxiv.org/abs/2412.18169](http://arxiv.org/abs/2412.18169)
 - 2024-12-24, **Smooth-Foley: Creating Continuous Sound for Video-to-Audio Generation Under Semantic Guidance**, Yaoyun Zhang et.al., Paper: [http://arxiv.org/abs/2412.18157](http://arxiv.org/abs/2412.18157)
@@ -97,7 +97,7 @@
 - 2024-12-23, **A Room to Roam: Reset Prediction Based on Physical Object Placement for Redirected Walking**, Sulim Chun et.al., Paper: [http://arxiv.org/abs/2412.17375](http://arxiv.org/abs/2412.17375)
 - 2024-12-23, **Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark**, Xiaopeng Li et.al., Paper: [http://arxiv.org/abs/2412.17374](http://arxiv.org/abs/2412.17374), Code: **[https://github.com/xiaopengli1/scenario-wise-rec](https://github.com/xiaopengli1/scenario-wise-rec)**
 - 2024-12-23, **Cech Complex Generation with Homotopy Equivalence Framework for Myocardial Infarction Diagnosis using Electrocardiogram Signals**, Srikireddy Dhanunjay Reddy et.al., Paper: [http://arxiv.org/abs/2412.17370](http://arxiv.org/abs/2412.17370)
-- 2024-12-23, **DiffFormer: a Differential Spatial-Spectral Transformer for Hyperspectral Image Classification**, Muhammad Ahmad et.al., Paper: [http://arxiv.org/abs/2412.17350](http://arxiv.org/abs/2412.17350)
+- 2024-12-23, **DiffFormer: a Differential Spatial-Spectral Transformer for Hyperspectral Image Classification**, Muhammad Ahmad et.al., Paper: [http://arxiv.org/abs/2412.17350](http://arxiv.org/abs/2412.17350), Code: **[https://github.com/mahmad000/diffformer](https://github.com/mahmad000/diffformer)**
 - 2024-12-23, **Neural-MCRL: Neural Multimodal Contrastive Representation Learning for EEG-based Visual Decoding**, Yueyang Li et.al., Paper: [http://arxiv.org/abs/2412.17337](http://arxiv.org/abs/2412.17337)
 - 2024-12-24, **Uncertainty-Participation Context Consistency Learning for Semi-supervised Semantic Segmentation**, Jianjian Yin et.al., Paper: [http://arxiv.org/abs/2412.17331](http://arxiv.org/abs/2412.17331), Code: **[https://github.com/yukekejan/uccl](https://github.com/yukekejan/uccl)**
 - 2024-12-23, **Feature Based Methods Domain Adaptation for Object Detection: A Review Paper**, Helia Mohamadi et.al., Paper: [http://arxiv.org/abs/2412.17325](http://arxiv.org/abs/2412.17325)
@@ -3933,7 +3933,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241228>back to top</a>)</p>
 
 ## IRSTD
 
@@ -4005,7 +4005,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241228>back to top</a>)</p>
 
 ## UNet
 
@@ -4024,7 +4024,7 @@
 - 2024-12-18, **SplitFedZip: Learned Compression for Data Transfer Reduction in Split-Federated Learning**, Chamani Shiranthika et.al., Paper: [http://arxiv.org/abs/2412.17150](http://arxiv.org/abs/2412.17150)
 - 2024-12-22, **PINN-EMFNet: PINN-based and Enhanced Multi-Scale Feature Fusion Network for Breast Ultrasound Images Segmentation**, Jiajun Ding et.al., Paper: [http://arxiv.org/abs/2412.16937](http://arxiv.org/abs/2412.16937)
 - 2024-12-22, **Application of 3D U-Net Neural Networks in Extracting the Epoch of Reionization Signal from SKA-Low Observations Based on Real Observations of NCP Field from LOFAR**, Li-Yang Gao et.al., Paper: [http://arxiv.org/abs/2412.16853](http://arxiv.org/abs/2412.16853)
-- 2024-12-24, **Time-Graph Frequency Representation with Singular Value Decomposition for Neural Speech Enhancement**, Tingting Wang et.al., Paper: [http://arxiv.org/abs/2412.16823](http://arxiv.org/abs/2412.16823)
+- 2024-12-24, **Time-Graph Frequency Representation with Singular Value Decomposition for Neural Speech Enhancement**, Tingting Wang et.al., Paper: [http://arxiv.org/abs/2412.16823](http://arxiv.org/abs/2412.16823), Code: **[https://github.com/Wangfighting0015/GFT_project](https://github.com/Wangfighting0015/GFT_project)**
 - 2024-12-21, **Mamba-SEUNet: Mamba UNet for Monaural Speech Enhancement**, Junyu Wang et.al., Paper: [http://arxiv.org/abs/2412.16626](http://arxiv.org/abs/2412.16626)
 - 2024-12-18, **ManiVideo: Generating Hand-Object Manipulation Video with Dexterous and Generalizable Grasping**, Youxin Pang et.al., Paper: [http://arxiv.org/abs/2412.16212](http://arxiv.org/abs/2412.16212)
 - 2024-12-20, **Efficient MedSAMs: Segment Anything in Medical Images on Laptop**, Jun Ma et.al., Paper: [http://arxiv.org/abs/2412.16085](http://arxiv.org/abs/2412.16085), Code: **[https://github.com/bowang-lab/medsam](https://github.com/bowang-lab/medsam)**
@@ -4045,7 +4045,7 @@
 - 2024-12-19, **FashionComposer: Compositional Fashion Image Generation**, Sihui Ji et.al., Paper: [http://arxiv.org/abs/2412.14168](http://arxiv.org/abs/2412.14168)
 - 2024-12-18, **MCMat: Multiview-Consistent and Physically Accurate PBR Material Generation**, Shenhao Zhu et.al., Paper: [http://arxiv.org/abs/2412.14148](http://arxiv.org/abs/2412.14148)
 - 2024-12-18, **Memorizing SAM: 3D Medical Segment Anything Model with Memorizing Transformer**, Xinyuan Shao et.al., Paper: [http://arxiv.org/abs/2412.13908](http://arxiv.org/abs/2412.13908), Code: **[https://github.com/swedfr/memorizingsam](https://github.com/swedfr/memorizingsam)**
-- 2024-12-18, **Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation**, Kaiwen Huang et.al., Paper: [http://arxiv.org/abs/2412.13742](http://arxiv.org/abs/2412.13742)
+- 2024-12-18, **Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation**, Kaiwen Huang et.al., Paper: [http://arxiv.org/abs/2412.13742](http://arxiv.org/abs/2412.13742), Code: **[https://github.com/taozh2017/knowsam](https://github.com/taozh2017/knowsam)**
 - 2024-12-18, **Language-guided Medical Image Segmentation with Target-informed Multi-level Contrastive Alignments**, Mingjian Li et.al., Paper: [http://arxiv.org/abs/2412.13533](http://arxiv.org/abs/2412.13533)
 - 2024-12-17, **In-context learning for medical image segmentation**, Eichi Takaya et.al., Paper: [http://arxiv.org/abs/2412.13299](http://arxiv.org/abs/2412.13299)
 - 2024-12-17, **S2S2: Semantic Stacking for Robust Semantic Segmentation in Medical Imaging**, Yimu Pan et.al., Paper: [http://arxiv.org/abs/2412.13156](http://arxiv.org/abs/2412.13156)
@@ -5169,7 +5169,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241228>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
