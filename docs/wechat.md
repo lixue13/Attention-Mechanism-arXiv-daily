@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.12.30
+> Updated on 2024.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -785,7 +785,7 @@
 - 2024-12-10, **Fast Occupancy Network**, Mingjie Lu et.al., Paper: [http://arxiv.org/abs/2412.07163](http://arxiv.org/abs/2412.07163)
 - 2024-12-10, **RAP-SR: RestorAtion Prior Enhancement in Diffusion Models for Realistic Image Super-Resolution**, Jiangang Wang et.al., Paper: [http://arxiv.org/abs/2412.07149](http://arxiv.org/abs/2412.07149), Code: **[https://github.com/W-JG/RAP-SR](https://github.com/W-JG/RAP-SR)**
 - 2024-12-10, **Integrating MedCLIP and Cross-Modal Fusion for Automatic Radiology Report Generation**, Qianhao Han et.al., Paper: [http://arxiv.org/abs/2412.07141](http://arxiv.org/abs/2412.07141), Code: **[https://github.com/QianhaoHan/Cross-Modality-Medical-Report-Generation](https://github.com/QianhaoHan/Cross-Modality-Medical-Report-Generation)**
-- 2024-12-23, **Impurity effects in twisted carbon nanotubes**, Yuriy G. Pogorelov et.al., Paper: [http://arxiv.org/abs/2412.07131](http://arxiv.org/abs/2412.07131)
+- 2024-12-27, **Impurity effects in twisted carbon nanotubes**, Yuriy G. Pogorelov et.al., Paper: [http://arxiv.org/abs/2412.07131](http://arxiv.org/abs/2412.07131)
 - 2024-12-10, **Streaming Private Continual Counting via Binning**, Joel Daniel Andersson et.al., Paper: [http://arxiv.org/abs/2412.07093](http://arxiv.org/abs/2412.07093), Code: **[https://github.com/jodander/streaming-via-binning](https://github.com/jodander/streaming-via-binning)**
 - 2024-12-10, **M87: a cosmic laboratory for deciphering black hole accretion and jet formation**, Kazuhiro Hada et.al., Paper: [http://arxiv.org/abs/2412.07083](http://arxiv.org/abs/2412.07083)
 - 2024-12-10, **Defensive Dual Masking for Robust Adversarial Defense**, Wangli Yang et.al., Paper: [http://arxiv.org/abs/2412.07078](http://arxiv.org/abs/2412.07078)
@@ -4025,7 +4025,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241231>back to top</a>)</p>
 
 ## IRSTD
 
@@ -4097,7 +4097,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241231>back to top</a>)</p>
 
 ## UNet
 
@@ -5267,7 +5267,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20241230>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241231>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
