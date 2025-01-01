@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.31
+## Updated on 2025.01.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -42,7 +42,7 @@ layout: default
 |**2024-12-30**|**MarsSQE: Stereo Quality Enhancement for Martian Images Using Bi-level Cross-view Attention**|Mai Xu et.al.|[2412.20685](http://arxiv.org/abs/2412.20685)|null|
 |**2024-12-30**|**Attention-Driven Metapath Encoding in Heterogeneous Graphs**|Calder Katyal et.al.|[2412.20678](http://arxiv.org/abs/2412.20678)|null|
 |**2024-12-30**|**Align Attention Heads Before Merging Them: An Effective Way for Converting MHA to GQA**|Qingyun Jin et.al.|[2412.20677](http://arxiv.org/abs/2412.20677)|null|
-|**2024-12-30**|**Atomic layer etching of SiO2 using sequential SF6 gas and Ar plasma**|Jun Peng et.al.|[2412.20653](http://arxiv.org/abs/2412.20653)|null|
+|**2024-12-30**|**Atomic layer etching of SiO $_2$ using sequential SF$_6$ gas and Ar plasma**|Jun Peng et.al.|[2412.20653](http://arxiv.org/abs/2412.20653)|null|
 |**2024-12-30**|**Chaos synchronization: a review**|Rosario D. Laureano et.al.|[2412.20649](http://arxiv.org/abs/2412.20649)|null|
 |**2024-12-29**|**FreqMixFormerV2: Lightweight Frequency-aware Mixed Transformer for Human Skeleton Action Recognition**|Wenhan Wu et.al.|[2412.20621](http://arxiv.org/abs/2412.20621)|null|
 |**2024-12-29**|**Privacy-Preserving Identity and Access Management in Multiple Cloud Environments: Models, Issues, and Solutions**|Alfredo Cuzzocrea et.al.|[2412.20603](http://arxiv.org/abs/2412.20603)|null|

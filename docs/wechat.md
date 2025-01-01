@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.12.31
+> Updated on 2025.01.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 - 2024-12-30, **MarsSQE: Stereo Quality Enhancement for Martian Images Using Bi-level Cross-view Attention**, Mai Xu et.al., Paper: [http://arxiv.org/abs/2412.20685](http://arxiv.org/abs/2412.20685)
 - 2024-12-30, **Attention-Driven Metapath Encoding in Heterogeneous Graphs**, Calder Katyal et.al., Paper: [http://arxiv.org/abs/2412.20678](http://arxiv.org/abs/2412.20678)
 - 2024-12-30, **Align Attention Heads Before Merging Them: An Effective Way for Converting MHA to GQA**, Qingyun Jin et.al., Paper: [http://arxiv.org/abs/2412.20677](http://arxiv.org/abs/2412.20677)
-- 2024-12-30, **Atomic layer etching of SiO2 using sequential SF6 gas and Ar plasma**, Jun Peng et.al., Paper: [http://arxiv.org/abs/2412.20653](http://arxiv.org/abs/2412.20653)
+- 2024-12-30, **Atomic layer etching of SiO $_2$ using sequential SF$_6$ gas and Ar plasma**, Jun Peng et.al., Paper: [http://arxiv.org/abs/2412.20653](http://arxiv.org/abs/2412.20653)
 - 2024-12-30, **Chaos synchronization: a review**, Rosario D. Laureano et.al., Paper: [http://arxiv.org/abs/2412.20649](http://arxiv.org/abs/2412.20649)
 - 2024-12-29, **FreqMixFormerV2: Lightweight Frequency-aware Mixed Transformer for Human Skeleton Action Recognition**, Wenhan Wu et.al., Paper: [http://arxiv.org/abs/2412.20621](http://arxiv.org/abs/2412.20621)
 - 2024-12-29, **Privacy-Preserving Identity and Access Management in Multiple Cloud Environments: Models, Issues, and Solutions**, Alfredo Cuzzocrea et.al., Paper: [http://arxiv.org/abs/2412.20603](http://arxiv.org/abs/2412.20603)
@@ -4101,7 +4101,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20241231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
 
 ## IRSTD
 
@@ -4174,7 +4174,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20241231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
 
 ## UNet
 
@@ -5351,7 +5351,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20241231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
