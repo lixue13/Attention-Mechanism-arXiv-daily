@@ -158,7 +158,7 @@ layout: default
 |**2024-12-25**|**Accelerating Diffusion Transformers with Dual Feature Caching**|Chang Zou et.al.|[2412.18911](http://arxiv.org/abs/2412.18911)|**[link](https://github.com/shenyi-z/duca)**|
 |**2024-12-25**|**Research Experiment on Multi-Model Comparison for Chinese Text Classification Tasks**|JiaCheng Li et.al.|[2412.18908](http://arxiv.org/abs/2412.18908)|null|
 |**2024-12-25**|**EC-Diffuser: Multi-Object Manipulation via Entity-Centric Behavior Generation**|Carl Qi et.al.|[2412.18907](http://arxiv.org/abs/2412.18907)|null|
-|**2024-12-30**|**WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting**|Chenghao Qian et.al.|[2412.18862](http://arxiv.org/abs/2412.18862)|null|
+|**2024-12-30**|**WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting**|Chenghao Qian et.al.|[2412.18862](http://arxiv.org/abs/2412.18862)|**[link](https://github.com/Jumponthemoon/WeatherGS)**|
 |**2024-12-25**|**Computing Approximate Graph Edit Distance via Optimal Transport**|Qihao Cheng et.al.|[2412.18857](http://arxiv.org/abs/2412.18857)|**[link](https://github.com/chengqihao/GED-via-Optimal-Transport)**|
 |**2024-12-25**|**Attention-Enhanced Short-Time Wiener Solution for Acoustic Echo Cancellation**|Fei Zhao et.al.|[2412.18851](http://arxiv.org/abs/2412.18851)|**[link](https://github.com/zhaof-i/astws-aec)**|
 |**2024-12-25**|**TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering**|Zhongwen Wang et.al.|[2412.18847](http://arxiv.org/abs/2412.18847)|**[link](https://github.com/jankin-wang/tpch)**|
