@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.01.07
+> Updated on 2025.01.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -120,9 +120,9 @@
 - 2025-01-03, **TCPFormer: Learning Temporal Correlation with Implicit Pose Proxy for 3D Human Pose Estimation**, Jiajie Liu et.al., Paper: [http://arxiv.org/abs/2501.01770](http://arxiv.org/abs/2501.01770)
 - 2025-01-03, **IGAF: Incremental Guided Attention Fusion for Depth Super-Resolution**, Athanasios Tragakis et.al., Paper: [http://arxiv.org/abs/2501.01723](http://arxiv.org/abs/2501.01723)
 - 2025-01-03, **MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders**, Jiajun Cao et.al., Paper: [http://arxiv.org/abs/2501.01709](http://arxiv.org/abs/2501.01709)
-- 2025-01-03, **Catch Causal Signals from Edges for Label Imbalance in Graph Classification**, Fengrui Zhang et.al., Paper: [http://arxiv.org/abs/2501.01707](http://arxiv.org/abs/2501.01707)
+- 2025-01-03, **Catch Causal Signals from Edges for Label Imbalance in Graph Classification**, Fengrui Zhang et.al., Paper: [http://arxiv.org/abs/2501.01707](http://arxiv.org/abs/2501.01707), Code: **[https://github.com/fengrui-z/ecal](https://github.com/fengrui-z/ecal)**
 - 2025-01-03, **VidFormer: A novel end-to-end framework fused by 3DCNN and Transformer for Video-based Remote Physiological Measurement**, Jiachen Li et.al., Paper: [http://arxiv.org/abs/2501.01691](http://arxiv.org/abs/2501.01691)
-- 2025-01-03, **IAM: Enhancing RGB-D Instance Segmentation with New Benchmarks**, Aecheon Jung et.al., Paper: [http://arxiv.org/abs/2501.01685](http://arxiv.org/abs/2501.01685), Code: **[https://github.com/aim-skku/nyudv2-is](https://github.com/aim-skku/nyudv2-is)**
+- 2025-01-03, **IAM: Enhancing RGB-D Instance Segmentation with New Benchmarks**, Aecheon Jung et.al., Paper: [http://arxiv.org/abs/2501.01685](http://arxiv.org/abs/2501.01685), Code: **[https://github.com/aim-skku/box-is](https://github.com/aim-skku/box-is)**
 - 2025-01-03, **Improved Feature Extraction Network for Neuro-Oriented Target Speaker Extraction**, Cunhang Fan et.al., Paper: [http://arxiv.org/abs/2501.01673](http://arxiv.org/abs/2501.01673)
 - 2025-01-03, **Dual Mutual Learning Network with Global-local Awareness for RGB-D Salient Object Detection**, Kang Yi et.al., Paper: [http://arxiv.org/abs/2501.01648](http://arxiv.org/abs/2501.01648)
 - 2025-01-02, **Transfer Neyman-Pearson Algorithm for Outlier Detection**, Mohammadreza M. Kalan et.al., Paper: [http://arxiv.org/abs/2501.01525](http://arxiv.org/abs/2501.01525)
@@ -4308,7 +4308,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
 
 ## IRSTD
 
@@ -4381,7 +4381,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
 
 ## UNet
 
@@ -5579,7 +5579,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
