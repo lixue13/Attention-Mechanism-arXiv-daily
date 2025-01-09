@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.01.08
+> Updated on 2025.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -124,7 +124,7 @@
 - 2025-01-05, **MedSegDiffNCA: Diffusion Models With Neural Cellular Automata for Skin Lesion Segmentation**, Avni Mittal et.al., Paper: [http://arxiv.org/abs/2501.02447](http://arxiv.org/abs/2501.02447)
 - 2025-01-05, **Towards Multimodal Metaphor Understanding: A Chinese Dataset and Model for Metaphor Mapping Identification**, Dongyu Zhang et.al., Paper: [http://arxiv.org/abs/2501.02434](http://arxiv.org/abs/2501.02434)
 - 2025-01-05, **Scaling Laws for Floating Point Quantization Training**, Xingwu Sun et.al., Paper: [http://arxiv.org/abs/2501.02423](http://arxiv.org/abs/2501.02423)
-- 2025-01-04, **Graph-Aware Isomorphic Attention for Adaptive Dynamics in Transformers**, Markus J. Buehler et.al., Paper: [http://arxiv.org/abs/2501.02393](http://arxiv.org/abs/2501.02393), Code: **[https://github.com/lamm-mit/graph-aware-transformers](https://github.com/lamm-mit/graph-aware-transformers)**
+- 2025-01-07, **Graph-Aware Isomorphic Attention for Adaptive Dynamics in Transformers**, Markus J. Buehler et.al., Paper: [http://arxiv.org/abs/2501.02393](http://arxiv.org/abs/2501.02393), Code: **[https://github.com/lamm-mit/graph-aware-transformers](https://github.com/lamm-mit/graph-aware-transformers)**
 - 2025-01-04, **Guiding Medical Vision-Language Models with Explicit Visual Prompts: Framework Design and Comprehensive Exploration of Prompt Variations**, Kangyu Zhu et.al., Paper: [http://arxiv.org/abs/2501.02385](http://arxiv.org/abs/2501.02385)
 - 2025-01-04, **Prepending or Cross-Attention for Speech-to-Text? An Empirical Comparison**, Tsz Kin Lam et.al., Paper: [http://arxiv.org/abs/2501.02370](http://arxiv.org/abs/2501.02370)
 - 2025-01-04, **V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection**, Sichao Wang et.al., Paper: [http://arxiv.org/abs/2501.02363](http://arxiv.org/abs/2501.02363)
@@ -222,7 +222,7 @@
 - 2025-01-03, **FGAseg: Fine-Grained Pixel-Text Alignment for Open-Vocabulary Semantic Segmentation**, Bingyu Li et.al., Paper: [http://arxiv.org/abs/2501.00877](http://arxiv.org/abs/2501.00877), Code: **[https://github.com/LiBingyu01/FGA-seg](https://github.com/LiBingyu01/FGA-seg)**
 - 2025-01-01, **Information Sifting Funnel: Privacy-preserving Collaborative Inference Against Model Inversion Attacks**, Rongke Liu et.al., Paper: [http://arxiv.org/abs/2501.00824](http://arxiv.org/abs/2501.00824)
 - 2025-01-06, **Decoupling Knowledge and Reasoning in Transformers: A Modular Architecture with Generalized Cross-Attention**, Zhenyu Guo et.al., Paper: [http://arxiv.org/abs/2501.00823](http://arxiv.org/abs/2501.00823)
-- 2025-01-01, **MixSA: Training-free Reference-based Sketch Extraction via Mixture-of-Self-Attention**, Rui Yang et.al., Paper: [http://arxiv.org/abs/2501.00816](http://arxiv.org/abs/2501.00816)
+- 2025-01-01, **MixSA: Training-free Reference-based Sketch Extraction via Mixture-of-Self-Attention**, Rui Yang et.al., Paper: [http://arxiv.org/abs/2501.00816](http://arxiv.org/abs/2501.00816), Code: **[https://github.com/rane7/MixSA](https://github.com/rane7/MixSA)**
 - 2025-01-01, **Realization of chiral whispering gallery mode cavities enabled by photonic Chern insulators**, Hao-Chang Mo et.al., Paper: [http://arxiv.org/abs/2501.00814](http://arxiv.org/abs/2501.00814)
 - 2025-01-01, **Less is More: Token Context-aware Learning for Object Tracking**, Chenlong Xu et.al., Paper: [http://arxiv.org/abs/2501.00758](http://arxiv.org/abs/2501.00758), Code: **[https://github.com/XuChenLong/LMTrack](https://github.com/XuChenLong/LMTrack)**
 - 2025-01-01, **Foreground-Covering Prototype Generation and Matching for SAM-Aided Few-Shot Segmentation**, Suho Park et.al., Paper: [http://arxiv.org/abs/2501.00752](http://arxiv.org/abs/2501.00752)
@@ -4357,7 +4357,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
 ## IRSTD
 
@@ -4430,7 +4430,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
 ## UNet
 
@@ -5633,7 +5633,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.08
+## Updated on 2025.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -121,7 +121,7 @@ layout: default
 |**2025-01-05**|**MedSegDiffNCA: Diffusion Models With Neural Cellular Automata for Skin Lesion Segmentation**|Avni Mittal et.al.|[2501.02447](http://arxiv.org/abs/2501.02447)|null|
 |**2025-01-05**|**Towards Multimodal Metaphor Understanding: A Chinese Dataset and Model for Metaphor Mapping Identification**|Dongyu Zhang et.al.|[2501.02434](http://arxiv.org/abs/2501.02434)|null|
 |**2025-01-05**|**Scaling Laws for Floating Point Quantization Training**|Xingwu Sun et.al.|[2501.02423](http://arxiv.org/abs/2501.02423)|null|
-|**2025-01-04**|**Graph-Aware Isomorphic Attention for Adaptive Dynamics in Transformers**|Markus J. Buehler et.al.|[2501.02393](http://arxiv.org/abs/2501.02393)|**[link](https://github.com/lamm-mit/graph-aware-transformers)**|
+|**2025-01-07**|**Graph-Aware Isomorphic Attention for Adaptive Dynamics in Transformers**|Markus J. Buehler et.al.|[2501.02393](http://arxiv.org/abs/2501.02393)|**[link](https://github.com/lamm-mit/graph-aware-transformers)**|
 |**2025-01-04**|**Guiding Medical Vision-Language Models with Explicit Visual Prompts: Framework Design and Comprehensive Exploration of Prompt Variations**|Kangyu Zhu et.al.|[2501.02385](http://arxiv.org/abs/2501.02385)|null|
 |**2025-01-04**|**Prepending or Cross-Attention for Speech-to-Text? An Empirical Comparison**|Tsz Kin Lam et.al.|[2501.02370](http://arxiv.org/abs/2501.02370)|null|
 |**2025-01-04**|**V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection**|Sichao Wang et.al.|[2501.02363](http://arxiv.org/abs/2501.02363)|null|
@@ -219,7 +219,7 @@ layout: default
 |**2025-01-03**|**FGAseg: Fine-Grained Pixel-Text Alignment for Open-Vocabulary Semantic Segmentation**|Bingyu Li et.al.|[2501.00877](http://arxiv.org/abs/2501.00877)|**[link](https://github.com/LiBingyu01/FGA-seg)**|
 |**2025-01-01**|**Information Sifting Funnel: Privacy-preserving Collaborative Inference Against Model Inversion Attacks**|Rongke Liu et.al.|[2501.00824](http://arxiv.org/abs/2501.00824)|null|
 |**2025-01-06**|**Decoupling Knowledge and Reasoning in Transformers: A Modular Architecture with Generalized Cross-Attention**|Zhenyu Guo et.al.|[2501.00823](http://arxiv.org/abs/2501.00823)|null|
-|**2025-01-01**|**MixSA: Training-free Reference-based Sketch Extraction via Mixture-of-Self-Attention**|Rui Yang et.al.|[2501.00816](http://arxiv.org/abs/2501.00816)|null|
+|**2025-01-01**|**MixSA: Training-free Reference-based Sketch Extraction via Mixture-of-Self-Attention**|Rui Yang et.al.|[2501.00816](http://arxiv.org/abs/2501.00816)|**[link](https://github.com/rane7/MixSA)**|
 |**2025-01-01**|**Realization of chiral whispering gallery mode cavities enabled by photonic Chern insulators**|Hao-Chang Mo et.al.|[2501.00814](http://arxiv.org/abs/2501.00814)|null|
 |**2025-01-01**|**Less is More: Token Context-aware Learning for Object Tracking**|Chenlong Xu et.al.|[2501.00758](http://arxiv.org/abs/2501.00758)|**[link](https://github.com/XuChenLong/LMTrack)**|
 |**2025-01-01**|**Foreground-Covering Prototype Generation and Matching for SAM-Aided Few-Shot Segmentation**|Suho Park et.al.|[2501.00752](http://arxiv.org/abs/2501.00752)|null|
