@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.01.10
+> Updated on 2025.01.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -41,7 +41,7 @@
 - 2025-01-09, **Charge sensing of few-electron ZnO double quantum dots probed by radio-frequency reflectometry**, Kosuke Noro et.al., Paper: [http://arxiv.org/abs/2501.04949](http://arxiv.org/abs/2501.04949)
 - 2025-01-09, **SpecTf: Transformers Enable Data-Driven Imaging Spectroscopy Cloud Detection**, Jake H. Lee et.al., Paper: [http://arxiv.org/abs/2501.04916](http://arxiv.org/abs/2501.04916), Code: **[https://github.com/emit-sds/SpecTf](https://github.com/emit-sds/SpecTf)**
 - 2025-01-08, **ActPC-Geom: Towards Scalable Online Neural-Symbolic Learning via Accelerating Active Predictive Coding with Information Geometry & Diverse Cognitive Mechanisms**, Ben Goertzel et.al., Paper: [http://arxiv.org/abs/2501.04832](http://arxiv.org/abs/2501.04832)
-- 2025-01-08, **Planing It by Ear: Convolutional Neural Networks for Acoustic Anomaly Detection in Industrial Wood Planers**, Anthony Deschênes et.al., Paper: [http://arxiv.org/abs/2501.04819](http://arxiv.org/abs/2501.04819)
+- 2025-01-08, **Planing It by Ear: Convolutional Neural Networks for Acoustic Anomaly Detection in Industrial Wood Planers**, Anthony Deschênes et.al., Paper: [http://arxiv.org/abs/2501.04819](http://arxiv.org/abs/2501.04819), Code: **[https://github.com/AnthonyDeschenes/PlaningItByEarDataset](https://github.com/AnthonyDeschenes/PlaningItByEarDataset)**
 - 2025-01-08, **Exact multi-black hole spacetimes in Einstein-ModMax theory**, Ana Bokulić et.al., Paper: [http://arxiv.org/abs/2501.04779](http://arxiv.org/abs/2501.04779)
 - 2025-01-08, **Rethinking domain generalization in medical image segmentation: One image as one domain**, Jin Hong et.al., Paper: [http://arxiv.org/abs/2501.04741](http://arxiv.org/abs/2501.04741)
 - 2025-01-07, **AI-Driven Reinvention of Hydrological Modeling for Accurate Predictions and Interpretation to Transform Earth System Modeling**, Cuihui Xia et.al., Paper: [http://arxiv.org/abs/2501.04733](http://arxiv.org/abs/2501.04733)
@@ -202,7 +202,7 @@
 - 2025-01-08, **A hybrid marketplace of ideas**, Tomer Jordi Chaffer et.al., Paper: [http://arxiv.org/abs/2501.02132](http://arxiv.org/abs/2501.02132)
 - 2025-01-03, **Relaxation-assisted reverse annealing on nonnegative/binary matrix factorization**, Renichiro Haba et.al., Paper: [http://arxiv.org/abs/2501.02114](http://arxiv.org/abs/2501.02114)
 - 2025-01-03, **Applying Text Mining to Analyze Human Question Asking in Creativity Research**, Anna Wróblewska et.al., Paper: [http://arxiv.org/abs/2501.02090](http://arxiv.org/abs/2501.02090)
-- 2025-01-03, **AI-Powered Cow Detection in Complex Farm Environments**, Voncarlos et.al., Paper: [http://arxiv.org/abs/2501.02080](http://arxiv.org/abs/2501.02080)
+- 2025-01-03, **AI-Powered Cow Detection in Complex Farm Environments**, Voncarlos M. Araújo et.al., Paper: [http://arxiv.org/abs/2501.02080](http://arxiv.org/abs/2501.02080)
 - 2025-01-03, **ArtCrafter: Text-Image Aligning Style Transfer via Embedding Reframing**, Nisha Huang et.al., Paper: [http://arxiv.org/abs/2501.02064](http://arxiv.org/abs/2501.02064)
 - 2025-01-03, **DreamMask: Boosting Open-vocabulary Panoptic Segmentation with Synthetic Data**, Yuanpeng Tu et.al., Paper: [http://arxiv.org/abs/2501.02048](http://arxiv.org/abs/2501.02048)
 - 2025-01-03, **A Separable Self-attention Inspired by the State Space Model for Computer Vision**, Juntao Zhang et.al., Paper: [http://arxiv.org/abs/2501.02040](http://arxiv.org/abs/2501.02040), Code: **[https://github.com/yws-wxs/vminet](https://github.com/yws-wxs/vminet)**
@@ -4420,7 +4420,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## IRSTD
 
@@ -4493,7 +4493,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 ## UNet
 
@@ -5702,7 +5702,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20250110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
