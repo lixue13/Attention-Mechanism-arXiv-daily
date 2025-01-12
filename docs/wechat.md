@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.01.11
+> Updated on 2025.01.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -4420,7 +4420,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
 
 ## IRSTD
 
@@ -4493,7 +4493,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
 
 ## UNet
 
@@ -4843,7 +4843,7 @@
 - 2024-10-14, **Benefiting from Quantum? A Comparative Study of Q-Seg, Quantum-Inspired Techniques, and U-Net for Crack Segmentation**, Akshaya Srinivasan et.al., Paper: [http://arxiv.org/abs/2410.10713](http://arxiv.org/abs/2410.10713)
 - 2024-10-14, **WAND: Wavelet Analysis-based Neural Decomposition of MRS Signals for Artifact Removal**, Julian P. Merkofer et.al., Paper: [http://arxiv.org/abs/2410.10427](http://arxiv.org/abs/2410.10427), Code: **[https://github.com/julianmer/wand-for-mrs](https://github.com/julianmer/wand-for-mrs)**
 - 2024-10-14, **Affinity-Graph-Guided Contractive Learning for Pretext-Free Medical Image Segmentation with Minimal Annotation**, Zehua Cheng et.al., Paper: [http://arxiv.org/abs/2410.10366](http://arxiv.org/abs/2410.10366)
-- 2024-10-15, **Pubic Symphysis-Fetal Head Segmentation Network Using BiFormer Attention Mechanism and Multipath Dilated Convolution**, Pengzhou Cai et.al., Paper: [http://arxiv.org/abs/2410.10352](http://arxiv.org/abs/2410.10352), Code: **[https://github.com/caipengzhou/brau-net](https://github.com/caipengzhou/brau-net)**
+- 2024-10-15, **Pubic Symphysis-Fetal Head Segmentation Network Using BiFormer Attention Mechanism and Multipath Dilated Convolution**, Pengzhou Cai et.al., Paper: [http://arxiv.org/abs/2410.10352](http://arxiv.org/abs/2410.10352)
 - 2024-10-18, **Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective**, Xiangru Zhu et.al., Paper: [http://arxiv.org/abs/2410.10291](http://arxiv.org/abs/2410.10291), Code: **[https://github.com/zhuxiangru/semvarbench](https://github.com/zhuxiangru/semvarbench)**
 - 2024-10-14, **Manifold-Aware Local Feature Modeling for Semi-Supervised Medical Image Segmentation**, Sicheng Shen et.al., Paper: [http://arxiv.org/abs/2410.10287](http://arxiv.org/abs/2410.10287), Code: **[https://github.com/sichengs/manet](https://github.com/sichengs/manet)**
 - 2024-10-16, **MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting**, Yue Zhang et.al., Paper: [http://arxiv.org/abs/2410.10122](http://arxiv.org/abs/2410.10122), Code: **[https://github.com/tmelyralab/musetalk](https://github.com/tmelyralab/musetalk)**
@@ -5702,7 +5702,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20250111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
