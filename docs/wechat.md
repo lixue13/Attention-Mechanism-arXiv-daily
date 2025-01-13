@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.01.12
+> Updated on 2025.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,25 +18,25 @@
 ## Attention
 
 - 2025-01-09, **ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**, Xingyu Fu et.al., Paper: [http://arxiv.org/abs/2501.05452](http://arxiv.org/abs/2501.05452)
-- 2025-01-09, **$DPF^*$ : improved Depth Potential Function for scale-invariant sulcal depth estimation**, Maxime Dieudonné et.al., Paper: [http://arxiv.org/abs/2501.05436](http://arxiv.org/abs/2501.05436)
+- 2025-01-09, **$DPF^*$ : improved Depth Potential Function for scale-invariant sulcal depth estimation**, Maxime Dieudonné et.al., Paper: [http://arxiv.org/abs/2501.05436](http://arxiv.org/abs/2501.05436), Code: **[https://github.com/maximedieudonne/dpf-star](https://github.com/maximedieudonne/dpf-star)**
 - 2025-01-09, **Zero-1-to-G: Taming Pretrained 2D Diffusion Model for Direct 3D Generation**, Xuyi Meng et.al., Paper: [http://arxiv.org/abs/2501.05427](http://arxiv.org/abs/2501.05427)
 - 2025-01-09, **Entangled Mean Estimation in High-Dimensions**, Ilias Diakonikolas et.al., Paper: [http://arxiv.org/abs/2501.05425](http://arxiv.org/abs/2501.05425)
-- 2025-01-09, **Uncertainty-aware Knowledge Tracing**, Weihua Cheng et.al., Paper: [http://arxiv.org/abs/2501.05415](http://arxiv.org/abs/2501.05415)
+- 2025-01-09, **Uncertainty-aware Knowledge Tracing**, Weihua Cheng et.al., Paper: [http://arxiv.org/abs/2501.05415](http://arxiv.org/abs/2501.05415), Code: **[https://github.com/uncertaintyforknowledgetracing/ukt](https://github.com/uncertaintyforknowledgetracing/ukt)**
 - 2025-01-09, **BRATI: Bidirectional Recurrent Attention for Time-Series Imputation**, Armando Collado-Villaverde et.al., Paper: [http://arxiv.org/abs/2501.05401](http://arxiv.org/abs/2501.05401)
-- 2025-01-09, **FairCode: Evaluating Social Bias of LLMs in Code Generation**, Yongkang Du et.al., Paper: [http://arxiv.org/abs/2501.05396](http://arxiv.org/abs/2501.05396)
+- 2025-01-09, **FairCode: Evaluating Social Bias of LLMs in Code Generation**, Yongkang Du et.al., Paper: [http://arxiv.org/abs/2501.05396](http://arxiv.org/abs/2501.05396), Code: **[https://github.com/yongkdu/faircode](https://github.com/yongkdu/faircode)**
 - 2025-01-09, **1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**, Shuliang Ning et.al., Paper: [http://arxiv.org/abs/2501.05369](http://arxiv.org/abs/2501.05369)
 - 2025-01-09, **Shell effects and multi-chance fission in the sub-lead region**, F. A. Ivanyuk et.al., Paper: [http://arxiv.org/abs/2501.05362](http://arxiv.org/abs/2501.05362)
 - 2025-01-09, **Towards Balanced Continual Multi-Modal Learning in Human Pose Estimation**, Jiaxuan Peng et.al., Paper: [http://arxiv.org/abs/2501.05264](http://arxiv.org/abs/2501.05264)
 - 2025-01-09, **MHAFF: Multi-Head Attention Feature Fusion of CNN and Transformer for Cattle Identification**, Rabin Dulal et.al., Paper: [http://arxiv.org/abs/2501.05209](http://arxiv.org/abs/2501.05209)
 - 2025-01-09, **Hyperdimensional Computing for ADHD Classification using EEG Signals**, Federica Colonnese et.al., Paper: [http://arxiv.org/abs/2501.05186](http://arxiv.org/abs/2501.05186)
 - 2025-01-09, **Towards Optimizing the Expected Performance of Sampling-Based Quantum-Inspired Algorithms**, Hyunho Cha et.al., Paper: [http://arxiv.org/abs/2501.05184](http://arxiv.org/abs/2501.05184)
-- 2025-01-09, **Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration**, Xuyang Liu et.al., Paper: [http://arxiv.org/abs/2501.05179](http://arxiv.org/abs/2501.05179)
+- 2025-01-09, **Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration**, Xuyang Liu et.al., Paper: [http://arxiv.org/abs/2501.05179](http://arxiv.org/abs/2501.05179), Code: **[https://github.com/xuyang-liu16/globalcom2](https://github.com/xuyang-liu16/globalcom2)**
 - 2025-01-09, **De-centering the (Traditional) User: Multistakeholder Evaluation of Recommender Systems**, Robin Burke et.al., Paper: [http://arxiv.org/abs/2501.05170](http://arxiv.org/abs/2501.05170)
 - 2025-01-09, **3DIS-FLUX: simple and efficient multi-instance generation with DiT rendering**, Dewei Zhou et.al., Paper: [http://arxiv.org/abs/2501.05131](http://arxiv.org/abs/2501.05131)
 - 2025-01-09, **Unidirectional motion of topological defects mediating continuous rotation processes**, Marisel Di Pietro Martínez et.al., Paper: [http://arxiv.org/abs/2501.05112](http://arxiv.org/abs/2501.05112)
 - 2025-01-09, **Analyzing Memorization in Large Language Models through the Lens of Model Attribution**, Tarun Ram Menta et.al., Paper: [http://arxiv.org/abs/2501.05078](http://arxiv.org/abs/2501.05078)
-- 2025-01-09, **D3RM: A Discrete Denoising Diffusion Refinement Model for Piano Transcription**, Hounsu Kim et.al., Paper: [http://arxiv.org/abs/2501.05068](http://arxiv.org/abs/2501.05068)
-- 2025-01-09, **Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**, Lei Li et.al., Paper: [http://arxiv.org/abs/2501.04958](http://arxiv.org/abs/2501.04958)
+- 2025-01-09, **D3RM: A Discrete Denoising Diffusion Refinement Model for Piano Transcription**, Hounsu Kim et.al., Paper: [http://arxiv.org/abs/2501.05068](http://arxiv.org/abs/2501.05068), Code: **[https://github.com/hanshounsu/d3rm](https://github.com/hanshounsu/d3rm)**
+- 2025-01-09, **Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**, Lei Li et.al., Paper: [http://arxiv.org/abs/2501.04958](http://arxiv.org/abs/2501.04958), Code: **[https://github.com/yinghemedical/imbalance-aware_domain_adaptation](https://github.com/yinghemedical/imbalance-aware_domain_adaptation)**
 - 2025-01-09, **Open Problems in Machine Unlearning for AI Safety**, Fazl Barez et.al., Paper: [http://arxiv.org/abs/2501.04952](http://arxiv.org/abs/2501.04952)
 - 2025-01-09, **Charge sensing of few-electron ZnO double quantum dots probed by radio-frequency reflectometry**, Kosuke Noro et.al., Paper: [http://arxiv.org/abs/2501.04949](http://arxiv.org/abs/2501.04949)
 - 2025-01-09, **SpecTf: Transformers Enable Data-Driven Imaging Spectroscopy Cloud Detection**, Jake H. Lee et.al., Paper: [http://arxiv.org/abs/2501.04916](http://arxiv.org/abs/2501.04916), Code: **[https://github.com/emit-sds/SpecTf](https://github.com/emit-sds/SpecTf)**
@@ -4420,7 +4420,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250113>back to top</a>)</p>
 
 ## IRSTD
 
@@ -4493,7 +4493,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250113>back to top</a>)</p>
 
 ## UNet
 
@@ -5702,7 +5702,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20250112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250113>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

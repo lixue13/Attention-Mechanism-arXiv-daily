@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -15,25 +15,25 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-09**|**ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**|Xingyu Fu et.al.|[2501.05452](http://arxiv.org/abs/2501.05452)|null|
-|**2025-01-09**|**$DPF^*$ : improved Depth Potential Function for scale-invariant sulcal depth estimation**|Maxime Dieudonné et.al.|[2501.05436](http://arxiv.org/abs/2501.05436)|null|
+|**2025-01-09**|**$DPF^*$ : improved Depth Potential Function for scale-invariant sulcal depth estimation**|Maxime Dieudonné et.al.|[2501.05436](http://arxiv.org/abs/2501.05436)|**[link](https://github.com/maximedieudonne/dpf-star)**|
 |**2025-01-09**|**Zero-1-to-G: Taming Pretrained 2D Diffusion Model for Direct 3D Generation**|Xuyi Meng et.al.|[2501.05427](http://arxiv.org/abs/2501.05427)|null|
 |**2025-01-09**|**Entangled Mean Estimation in High-Dimensions**|Ilias Diakonikolas et.al.|[2501.05425](http://arxiv.org/abs/2501.05425)|null|
-|**2025-01-09**|**Uncertainty-aware Knowledge Tracing**|Weihua Cheng et.al.|[2501.05415](http://arxiv.org/abs/2501.05415)|null|
+|**2025-01-09**|**Uncertainty-aware Knowledge Tracing**|Weihua Cheng et.al.|[2501.05415](http://arxiv.org/abs/2501.05415)|**[link](https://github.com/uncertaintyforknowledgetracing/ukt)**|
 |**2025-01-09**|**BRATI: Bidirectional Recurrent Attention for Time-Series Imputation**|Armando Collado-Villaverde et.al.|[2501.05401](http://arxiv.org/abs/2501.05401)|null|
-|**2025-01-09**|**FairCode: Evaluating Social Bias of LLMs in Code Generation**|Yongkang Du et.al.|[2501.05396](http://arxiv.org/abs/2501.05396)|null|
+|**2025-01-09**|**FairCode: Evaluating Social Bias of LLMs in Code Generation**|Yongkang Du et.al.|[2501.05396](http://arxiv.org/abs/2501.05396)|**[link](https://github.com/yongkdu/faircode)**|
 |**2025-01-09**|**1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**|Shuliang Ning et.al.|[2501.05369](http://arxiv.org/abs/2501.05369)|null|
 |**2025-01-09**|**Shell effects and multi-chance fission in the sub-lead region**|F. A. Ivanyuk et.al.|[2501.05362](http://arxiv.org/abs/2501.05362)|null|
 |**2025-01-09**|**Towards Balanced Continual Multi-Modal Learning in Human Pose Estimation**|Jiaxuan Peng et.al.|[2501.05264](http://arxiv.org/abs/2501.05264)|null|
 |**2025-01-09**|**MHAFF: Multi-Head Attention Feature Fusion of CNN and Transformer for Cattle Identification**|Rabin Dulal et.al.|[2501.05209](http://arxiv.org/abs/2501.05209)|null|
 |**2025-01-09**|**Hyperdimensional Computing for ADHD Classification using EEG Signals**|Federica Colonnese et.al.|[2501.05186](http://arxiv.org/abs/2501.05186)|null|
 |**2025-01-09**|**Towards Optimizing the Expected Performance of Sampling-Based Quantum-Inspired Algorithms**|Hyunho Cha et.al.|[2501.05184](http://arxiv.org/abs/2501.05184)|null|
-|**2025-01-09**|**Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration**|Xuyang Liu et.al.|[2501.05179](http://arxiv.org/abs/2501.05179)|null|
+|**2025-01-09**|**Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration**|Xuyang Liu et.al.|[2501.05179](http://arxiv.org/abs/2501.05179)|**[link](https://github.com/xuyang-liu16/globalcom2)**|
 |**2025-01-09**|**De-centering the (Traditional) User: Multistakeholder Evaluation of Recommender Systems**|Robin Burke et.al.|[2501.05170](http://arxiv.org/abs/2501.05170)|null|
 |**2025-01-09**|**3DIS-FLUX: simple and efficient multi-instance generation with DiT rendering**|Dewei Zhou et.al.|[2501.05131](http://arxiv.org/abs/2501.05131)|null|
 |**2025-01-09**|**Unidirectional motion of topological defects mediating continuous rotation processes**|Marisel Di Pietro Martínez et.al.|[2501.05112](http://arxiv.org/abs/2501.05112)|null|
 |**2025-01-09**|**Analyzing Memorization in Large Language Models through the Lens of Model Attribution**|Tarun Ram Menta et.al.|[2501.05078](http://arxiv.org/abs/2501.05078)|null|
-|**2025-01-09**|**D3RM: A Discrete Denoising Diffusion Refinement Model for Piano Transcription**|Hounsu Kim et.al.|[2501.05068](http://arxiv.org/abs/2501.05068)|null|
-|**2025-01-09**|**Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**|Lei Li et.al.|[2501.04958](http://arxiv.org/abs/2501.04958)|null|
+|**2025-01-09**|**D3RM: A Discrete Denoising Diffusion Refinement Model for Piano Transcription**|Hounsu Kim et.al.|[2501.05068](http://arxiv.org/abs/2501.05068)|**[link](https://github.com/hanshounsu/d3rm)**|
+|**2025-01-09**|**Addressing Domain Shift via Imbalance-Aware Domain Adaptation in Embryo Development Assessment**|Lei Li et.al.|[2501.04958](http://arxiv.org/abs/2501.04958)|**[link](https://github.com/yinghemedical/imbalance-aware_domain_adaptation)**|
 |**2025-01-09**|**Open Problems in Machine Unlearning for AI Safety**|Fazl Barez et.al.|[2501.04952](http://arxiv.org/abs/2501.04952)|null|
 |**2025-01-09**|**Charge sensing of few-electron ZnO double quantum dots probed by radio-frequency reflectometry**|Kosuke Noro et.al.|[2501.04949](http://arxiv.org/abs/2501.04949)|null|
 |**2025-01-09**|**SpecTf: Transformers Enable Data-Driven Imaging Spectroscopy Cloud Detection**|Jake H. Lee et.al.|[2501.04916](http://arxiv.org/abs/2501.04916)|**[link](https://github.com/emit-sds/SpecTf)**|
