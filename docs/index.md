@@ -182,7 +182,7 @@ layout: default
 |**2025-01-11**|**YO-CSA-T: A Real-time Badminton Tracking System Utilizing YOLO Based on Contextual and Spatial Attention**|Yuan Lai et.al.|[2501.06472](http://arxiv.org/abs/2501.06472)|null|
 |**2025-01-11**|**First Token Probability Guided RAG for Telecom Question Answering**|Tingwei Chen et.al.|[2501.06468](http://arxiv.org/abs/2501.06468)|null|
 |**2025-01-11**|**Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects**|Hao Song et.al.|[2501.06459](http://arxiv.org/abs/2501.06459)|null|
-|**2025-01-11**|**CPDR: Towards Highly-Efficient Salient Object Detection via Crossed Post-decoder Refinement**|Yijie Li et.al.|[2501.06441](http://arxiv.org/abs/2501.06441)|null|
+|**2025-01-11**|**CPDR: Towards Highly-Efficient Salient Object Detection via Crossed Post-decoder Refinement**|Yijie Li et.al.|[2501.06441](http://arxiv.org/abs/2501.06441)|**[link](https://github.com/Att100/CPDR)**|
 |**2025-01-11**|**Qffusion: Controllable Portrait Video Editing via Quadrant-Grid Attention Learning**|Maomao Li et.al.|[2501.06438](http://arxiv.org/abs/2501.06438)|null|
 |**2025-01-11**|**Aug3D: Augmenting large scale outdoor datasets for Generalizable Novel View Synthesis**|Aditya Rauniyar et.al.|[2501.06431](http://arxiv.org/abs/2501.06431)|null|
 |**2025-01-11**|**Reliable Imputed-Sample Assisted Vertical Federated Learning**|Yaopei Zeng et.al.|[2501.06429](http://arxiv.org/abs/2501.06429)|null|
@@ -4738,7 +4738,7 @@ layout: default
 |**2025-01-11**|**Parking Space Detection in the City of Granada**|Crespo-Orti Luis et.al.|[2501.06651](http://arxiv.org/abs/2501.06651)|**[link](https://github.com/pab1s/granada-parking-segmentation)**|
 |**2025-01-11**|**A Comparative Performance Analysis of Classification and Segmentation Models on Bangladeshi Pothole Dataset**|Antara Firoz Parsa et.al.|[2501.06602](http://arxiv.org/abs/2501.06602)|null|
 |**2025-01-11**|**Boundary-enhanced time series data imputation with long-term dependency diffusion models**|Chunjing Xiao et.al.|[2501.06585](http://arxiv.org/abs/2501.06585)|null|
-|**2025-01-11**|**CPDR: Towards Highly-Efficient Salient Object Detection via Crossed Post-decoder Refinement**|Yijie Li et.al.|[2501.06441](http://arxiv.org/abs/2501.06441)|null|
+|**2025-01-11**|**CPDR: Towards Highly-Efficient Salient Object Detection via Crossed Post-decoder Refinement**|Yijie Li et.al.|[2501.06441](http://arxiv.org/abs/2501.06441)|**[link](https://github.com/Att100/CPDR)**|
 |**2025-01-11**|**UCloudNet: A Residual U-Net with Deep Supervision for Cloud Image Segmentation**|Yijie Li et.al.|[2501.06440](http://arxiv.org/abs/2501.06440)|**[link](https://github.com/att100/ucloudnet)**|
 |**2025-01-11**|**IPP-Net: A Generalizable Deep Neural Network Model for Indoor Pathloss Radio Map Prediction**|Bin Feng et.al.|[2501.06414](http://arxiv.org/abs/2501.06414)|null|
 |**2025-01-10**|**CamCtrl3D: Single-Image Scene Exploration with Precise 3D Camera Control**|Stefan Popov et.al.|[2501.06006](http://arxiv.org/abs/2501.06006)|null|
