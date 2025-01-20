@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.19
+## Updated on 2025.01.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -5160,7 +5160,7 @@ layout: default
 |**2024-09-26**|**Pixel-Space Post-Training of Latent Diffusion Models**|Christina Zhang et.al.|[2409.17565](http://arxiv.org/abs/2409.17565)|null|
 |**2024-09-26**|**Shape-intensity knowledge distillation for robust medical image segmentation**|Wenhui Dong et.al.|[2409.17503](http://arxiv.org/abs/2409.17503)|**[link](https://github.com/whdong-whu/sikd)**|
 |**2024-10-29**|**Global-Local Medical SAM Adaptor Based on Full Adaption**|Meng Wang et.al.|[2409.17486](http://arxiv.org/abs/2409.17486)|null|
-|**2024-09-25**|**AgRegNet: A Deep Regression Network for Flower and Fruit Density Estimation, Localization, and Counting in Orchards**|Uddhav Bhattarai et.al.|[2409.17400](http://arxiv.org/abs/2409.17400)|null|
+|**2025-01-16**|**AgRegNet: A Deep Regression Network for Flower and Fruit Density Estimation, Localization, and Counting in Orchards**|Uddhav Bhattarai et.al.|[2409.17400](http://arxiv.org/abs/2409.17400)|null|
 |**2024-09-25**|**Small metal artifact detection and inpainting in cardiac CT images**|Trevor McKeown et.al.|[2409.17342](http://arxiv.org/abs/2409.17342)|null|
 |**2024-09-25**|**SEN12-WATER: A New Dataset for Hydrological Applications and its Benchmarking**|Luigi Russo et.al.|[2409.17087](http://arxiv.org/abs/2409.17087)|null|
 |**2024-09-25**|**Going Beyond U-Net: Assessing Vision Transformers for Semantic Segmentation in Microscopy Image Analysis**|Illia Tsiporenko et.al.|[2409.16940](http://arxiv.org/abs/2409.16940)|null|
