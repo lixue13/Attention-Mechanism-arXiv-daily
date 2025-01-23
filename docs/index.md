@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.22
+## Updated on 2025.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -33,7 +33,7 @@ layout: default
 |**2025-01-21**|**Rate-Aware Learned Speech Compression**|Jun Xu et.al.|[2501.11999](http://arxiv.org/abs/2501.11999)|null|
 |**2025-01-21**|**SMamba: Sparse Mamba for Event-based Object Detection**|Nan Yang et.al.|[2501.11971](http://arxiv.org/abs/2501.11971)|null|
 |**2025-01-21**|**A Hybrid Attention Framework for Fake News Detection with Large Language Models**|Xiaochuan Xu et.al.|[2501.11967](http://arxiv.org/abs/2501.11967)|null|
-|**2025-01-21**|**Noise-Resilient Point-wise Anomaly Detection in Time Series Using Weak Segment Labels**|Yaxuan Wang et.al.|[2501.11959](http://arxiv.org/abs/2501.11959)|null|
+|**2025-01-21**|**Noise-Resilient Point-wise Anomaly Detection in Time Series Using Weak Segment Labels**|Yaxuan Wang et.al.|[2501.11959](http://arxiv.org/abs/2501.11959)|**[link](https://github.com/ucsc-real/nrdetector)**|
 |**2025-01-21**|**Progressive Cross Attention Network for Flood Segmentation using Multispectral Satellite Imagery**|Vicky Feliren et.al.|[2501.11923](http://arxiv.org/abs/2501.11923)|null|
 |**2025-01-21**|**Bridging the Communication Gap: Evaluating AI Labeling Practices for Trustworthy AI Development**|Raphael Fischer et.al.|[2501.11909](http://arxiv.org/abs/2501.11909)|**[link](https://github.com/raphischer/labeling-evaluation)**|
 |**2025-01-21**|**Enhancing Adversarial Transferability via Component-Wise Augmentation Method**|Hangyu Liu et.al.|[2501.11901](http://arxiv.org/abs/2501.11901)|null|

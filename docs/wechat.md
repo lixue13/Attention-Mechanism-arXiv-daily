@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.01.22
+> Updated on 2025.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,7 +36,7 @@
 - 2025-01-21, **Rate-Aware Learned Speech Compression**, Jun Xu et.al., Paper: [http://arxiv.org/abs/2501.11999](http://arxiv.org/abs/2501.11999)
 - 2025-01-21, **SMamba: Sparse Mamba for Event-based Object Detection**, Nan Yang et.al., Paper: [http://arxiv.org/abs/2501.11971](http://arxiv.org/abs/2501.11971)
 - 2025-01-21, **A Hybrid Attention Framework for Fake News Detection with Large Language Models**, Xiaochuan Xu et.al., Paper: [http://arxiv.org/abs/2501.11967](http://arxiv.org/abs/2501.11967)
-- 2025-01-21, **Noise-Resilient Point-wise Anomaly Detection in Time Series Using Weak Segment Labels**, Yaxuan Wang et.al., Paper: [http://arxiv.org/abs/2501.11959](http://arxiv.org/abs/2501.11959)
+- 2025-01-21, **Noise-Resilient Point-wise Anomaly Detection in Time Series Using Weak Segment Labels**, Yaxuan Wang et.al., Paper: [http://arxiv.org/abs/2501.11959](http://arxiv.org/abs/2501.11959), Code: **[https://github.com/ucsc-real/nrdetector](https://github.com/ucsc-real/nrdetector)**
 - 2025-01-21, **Progressive Cross Attention Network for Flood Segmentation using Multispectral Satellite Imagery**, Vicky Feliren et.al., Paper: [http://arxiv.org/abs/2501.11923](http://arxiv.org/abs/2501.11923)
 - 2025-01-21, **Bridging the Communication Gap: Evaluating AI Labeling Practices for Trustworthy AI Development**, Raphael Fischer et.al., Paper: [http://arxiv.org/abs/2501.11909](http://arxiv.org/abs/2501.11909), Code: **[https://github.com/raphischer/labeling-evaluation](https://github.com/raphischer/labeling-evaluation)**
 - 2025-01-21, **Enhancing Adversarial Transferability via Component-Wise Augmentation Method**, Hangyu Liu et.al., Paper: [http://arxiv.org/abs/2501.11901](http://arxiv.org/abs/2501.11901)
@@ -4767,7 +4767,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
 
 ## IRSTD
 
@@ -4840,7 +4840,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
 
 ## UNet
 
@@ -6085,7 +6085,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20250122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
