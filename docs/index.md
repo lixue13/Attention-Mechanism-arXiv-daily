@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.26
+## Updated on 2025.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -153,7 +153,7 @@ layout: default
 |**2025-01-19**|**ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models**|Yassir Bendou et.al.|[2501.11175](http://arxiv.org/abs/2501.11175)|null|
 |**2025-01-19**|**Remote characterization of aerogel foam concrete using dynamic speckle pattern analysis**|Ramin Jamali et.al.|[2501.11172](http://arxiv.org/abs/2501.11172)|null|
 |**2025-01-19**|**Modeling Attention during Dimensional Shifts with Counterfactual and Delayed Feedback**|Tyler Malloy et.al.|[2501.11161](http://arxiv.org/abs/2501.11161)|**[link](https://github.com/tylerjamesmalloy/dimensionalattention)**|
-|**2025-01-19**|**Community detection for Contexual-LSBM: Theoretical limitation on misclassfication ratio and effecient algorithm**|Dian Jin et.al.|[2501.11139](http://arxiv.org/abs/2501.11139)|null|
+|**2025-01-23**|**Community Detection for Contextual-LSBM: Theoretical Limitations of Misclassification Rate and Efficient Algorithms**|Dian Jin et.al.|[2501.11139](http://arxiv.org/abs/2501.11139)|null|
 |**2025-01-19**|**Playing the Lottery With Concave Regularizers for Sparse Trainable Neural Networks**|Giulia Fracastoro et.al.|[2501.11135](http://arxiv.org/abs/2501.11135)|null|
 |**2025-01-19**|**Enhanced Suicidal Ideation Detection from Social Media Using a CNN-BiLSTM Hybrid Model**|Mohaiminul Islam Bhuiyan et.al.|[2501.11094](http://arxiv.org/abs/2501.11094)|null|
 |**2025-01-19**|**Leveraging counterfactual concepts for debugging and improving CNN model performance**|Syed Ali Tariq et.al.|[2501.11087](http://arxiv.org/abs/2501.11087)|null|
@@ -481,7 +481,7 @@ layout: default
 |**2025-01-08**|**FGU3R: Fine-Grained Fusion via Unified 3D Representation for Multimodal 3D Object Detection**|Guoxin Zhang et.al.|[2501.04373](http://arxiv.org/abs/2501.04373)|null|
 |**2025-01-08**|**Online Gaussian Test-Time Adaptation of Vision-Language Models**|Clément Fuchs et.al.|[2501.04352](http://arxiv.org/abs/2501.04352)|**[link](https://github.com/cfuchs2023/oga)**|
 |**2025-01-08**|**Influence of Planetary Rotation on Supersonic Flow of Lava Planets: A Two-Dimensional Horizontal Model Analysis**|Zhuo-Yang Song et.al.|[2501.04350](http://arxiv.org/abs/2501.04350)|null|
-|**2025-01-08**|**DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models**|Hyogon Ryu et.al.|[2501.04304](http://arxiv.org/abs/2501.04304)|null|
+|**2025-01-08**|**DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models**|Hyogon Ryu et.al.|[2501.04304](http://arxiv.org/abs/2501.04304)|**[link](https://github.com/ugonfor/DGQ)**|
 |**2025-01-08**|**H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving**|Siran Chen et.al.|[2501.04302](http://arxiv.org/abs/2501.04302)|null|
 |**2025-01-08**|**Mapping the Edge of Chaos: Fractal-Like Boundaries in The Trainability of Decoder-Only Transformer Models**|Bahman Torkamandi et.al.|[2501.04286](http://arxiv.org/abs/2501.04286)|null|
 |**2025-01-08**|**Separate Source Channel Coding Is Still What You Need: An LLM-based Rethinking**|Tianqi Ren et.al.|[2501.04285](http://arxiv.org/abs/2501.04285)|null|

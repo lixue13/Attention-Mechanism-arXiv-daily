@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.01.26
+> Updated on 2025.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -156,7 +156,7 @@
 - 2025-01-19, **ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models**, Yassir Bendou et.al., Paper: [http://arxiv.org/abs/2501.11175](http://arxiv.org/abs/2501.11175)
 - 2025-01-19, **Remote characterization of aerogel foam concrete using dynamic speckle pattern analysis**, Ramin Jamali et.al., Paper: [http://arxiv.org/abs/2501.11172](http://arxiv.org/abs/2501.11172)
 - 2025-01-19, **Modeling Attention during Dimensional Shifts with Counterfactual and Delayed Feedback**, Tyler Malloy et.al., Paper: [http://arxiv.org/abs/2501.11161](http://arxiv.org/abs/2501.11161), Code: **[https://github.com/tylerjamesmalloy/dimensionalattention](https://github.com/tylerjamesmalloy/dimensionalattention)**
-- 2025-01-19, **Community detection for Contexual-LSBM: Theoretical limitation on misclassfication ratio and effecient algorithm**, Dian Jin et.al., Paper: [http://arxiv.org/abs/2501.11139](http://arxiv.org/abs/2501.11139)
+- 2025-01-23, **Community Detection for Contextual-LSBM: Theoretical Limitations of Misclassification Rate and Efficient Algorithms**, Dian Jin et.al., Paper: [http://arxiv.org/abs/2501.11139](http://arxiv.org/abs/2501.11139)
 - 2025-01-19, **Playing the Lottery With Concave Regularizers for Sparse Trainable Neural Networks**, Giulia Fracastoro et.al., Paper: [http://arxiv.org/abs/2501.11135](http://arxiv.org/abs/2501.11135)
 - 2025-01-19, **Enhanced Suicidal Ideation Detection from Social Media Using a CNN-BiLSTM Hybrid Model**, Mohaiminul Islam Bhuiyan et.al., Paper: [http://arxiv.org/abs/2501.11094](http://arxiv.org/abs/2501.11094)
 - 2025-01-19, **Leveraging counterfactual concepts for debugging and improving CNN model performance**, Syed Ali Tariq et.al., Paper: [http://arxiv.org/abs/2501.11087](http://arxiv.org/abs/2501.11087)
@@ -484,7 +484,7 @@
 - 2025-01-08, **FGU3R: Fine-Grained Fusion via Unified 3D Representation for Multimodal 3D Object Detection**, Guoxin Zhang et.al., Paper: [http://arxiv.org/abs/2501.04373](http://arxiv.org/abs/2501.04373)
 - 2025-01-08, **Online Gaussian Test-Time Adaptation of Vision-Language Models**, Clément Fuchs et.al., Paper: [http://arxiv.org/abs/2501.04352](http://arxiv.org/abs/2501.04352), Code: **[https://github.com/cfuchs2023/oga](https://github.com/cfuchs2023/oga)**
 - 2025-01-08, **Influence of Planetary Rotation on Supersonic Flow of Lava Planets: A Two-Dimensional Horizontal Model Analysis**, Zhuo-Yang Song et.al., Paper: [http://arxiv.org/abs/2501.04350](http://arxiv.org/abs/2501.04350)
-- 2025-01-08, **DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models**, Hyogon Ryu et.al., Paper: [http://arxiv.org/abs/2501.04304](http://arxiv.org/abs/2501.04304)
+- 2025-01-08, **DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models**, Hyogon Ryu et.al., Paper: [http://arxiv.org/abs/2501.04304](http://arxiv.org/abs/2501.04304), Code: **[https://github.com/ugonfor/DGQ](https://github.com/ugonfor/DGQ)**
 - 2025-01-08, **H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving**, Siran Chen et.al., Paper: [http://arxiv.org/abs/2501.04302](http://arxiv.org/abs/2501.04302)
 - 2025-01-08, **Mapping the Edge of Chaos: Fractal-Like Boundaries in The Trainability of Decoder-Only Transformer Models**, Bahman Torkamandi et.al., Paper: [http://arxiv.org/abs/2501.04286](http://arxiv.org/abs/2501.04286)
 - 2025-01-08, **Separate Source Channel Coding Is Still What You Need: An LLM-based Rethinking**, Tianqi Ren et.al., Paper: [http://arxiv.org/abs/2501.04285](http://arxiv.org/abs/2501.04285)
@@ -4844,7 +4844,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
 ## IRSTD
 
@@ -4917,7 +4917,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
 ## UNet
 
@@ -6171,7 +6171,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
