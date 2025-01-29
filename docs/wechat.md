@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.01.28
+> Updated on 2025.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -223,7 +223,7 @@
 - 2025-01-22, **Multi-Instance Partial-Label Learning with Margin Adjustment**, Wei Tang et.al., Paper: [http://arxiv.org/abs/2501.12597](http://arxiv.org/abs/2501.12597), Code: **[https://github.com/tangw-seu/miplma](https://github.com/tangw-seu/miplma)**
 - 2025-01-22, **A Unified Invariant Learning Framework for Graph Classification**, Yongduo Sui et.al., Paper: [http://arxiv.org/abs/2501.12595](http://arxiv.org/abs/2501.12595), Code: **[https://github.com/yongduosui/uil](https://github.com/yongduosui/uil)**
 - 2025-01-21, **ELEGNT: Expressive and Functional Movement Design for Non-anthropomorphic Robot**, Yuhan Hu et.al., Paper: [http://arxiv.org/abs/2501.12493](http://arxiv.org/abs/2501.12493)
-- 2025-01-21, **Slot-BERT: Self-supervised Object Discovery in Surgical Video**, Guiqiu Liao et.al., Paper: [http://arxiv.org/abs/2501.12477](http://arxiv.org/abs/2501.12477)
+- 2025-01-27, **Slot-BERT: Self-supervised Object Discovery in Surgical Video**, Guiqiu Liao et.al., Paper: [http://arxiv.org/abs/2501.12477](http://arxiv.org/abs/2501.12477)
 - 2025-01-21, **Magnetic Properties of Potential Li-ion Battery Materials**, Md Rakibul Karim Akanda et.al., Paper: [http://arxiv.org/abs/2501.12467](http://arxiv.org/abs/2501.12467)
 - 2025-01-21, **Enhancing Retrosynthesis with Conformer: A Template-Free Method**, Jiaxi Zhuang et.al., Paper: [http://arxiv.org/abs/2501.12434](http://arxiv.org/abs/2501.12434)
 - 2025-01-21, **Nonequilibrium and Irreversibility**, Giovanni Gallavotti et.al., Paper: [http://arxiv.org/abs/2501.12426](http://arxiv.org/abs/2501.12426)
@@ -768,7 +768,7 @@
 - 2025-01-03, **CarbonChat: Large Language Model-Based Corporate Carbon Emission Analysis and Climate Knowledge Q&A System**, Zhixuan Cao et.al., Paper: [http://arxiv.org/abs/2501.02031](http://arxiv.org/abs/2501.02031)
 - 2025-01-03, **Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models**, Ziwei Zheng et.al., Paper: [http://arxiv.org/abs/2501.02029](http://arxiv.org/abs/2501.02029)
 - 2025-01-02, **RealDiffFusionNet: Neural Controlled Differential Equation Informed Multi-Head Attention Fusion Networks for Disease Progression Modeling Using Real-World Data**, Aashish Cheruvu et.al., Paper: [http://arxiv.org/abs/2501.02025](http://arxiv.org/abs/2501.02025)
-- 2025-01-02, **Weakly Supervised Learning on Large Graphs**, Aditya Prakash et.al., Paper: [http://arxiv.org/abs/2501.02021](http://arxiv.org/abs/2501.02021)
+- 2025-01-27, **Weakly Supervised Learning on Large Graphs**, Aditya Prakash et.al., Paper: [http://arxiv.org/abs/2501.02021](http://arxiv.org/abs/2501.02021)
 - 2025-01-02, **KANS: Knowledge Discovery Graph Attention Network for Soft Sensing in Multivariate Industrial Processes**, Hwa Hui Tew et.al., Paper: [http://arxiv.org/abs/2501.02015](http://arxiv.org/abs/2501.02015)
 - 2025-01-02, **Multi-Task Semantic Communication With Graph Attention-Based Feature Correlation Extraction**, Xi Yu et.al., Paper: [http://arxiv.org/abs/2501.02006](http://arxiv.org/abs/2501.02006)
 - 2025-01-01, **Communication Efficient Cooperative Edge AI via Event-Triggered Computation Offloading**, You Zhou et.al., Paper: [http://arxiv.org/abs/2501.02001](http://arxiv.org/abs/2501.02001)
@@ -4980,7 +4980,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 ## IRSTD
 
@@ -5053,14 +5053,14 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 ## UNet
 
 - 2025-01-27, **Using Generative Models to Produce Realistic Populations of UK Windstorms**, Yee Chun Tsoi et.al., Paper: [http://arxiv.org/abs/2501.16110](http://arxiv.org/abs/2501.16110)
 - 2025-01-27, **SeqSeg: Learning Local Segments for Automatic Vascular Model Construction**, Numi Sveinsson Cepero et.al., Paper: [http://arxiv.org/abs/2501.15712](http://arxiv.org/abs/2501.15712)
 - 2025-01-26, **Stroke Lesion Segmentation using Multi-Stage Cross-Scale Attention**, Liang Shang et.al., Paper: [http://arxiv.org/abs/2501.15423](http://arxiv.org/abs/2501.15423)
-- 2025-01-26, **DDUNet: Dual Dynamic U-Net for Highly-Efficient Cloud Segmentation**, Yijie Li et.al., Paper: [http://arxiv.org/abs/2501.15385](http://arxiv.org/abs/2501.15385)
+- 2025-01-26, **DDUNet: Dual Dynamic U-Net for Highly-Efficient Cloud Segmentation**, Yijie Li et.al., Paper: [http://arxiv.org/abs/2501.15385](http://arxiv.org/abs/2501.15385), Code: **[https://github.com/Att100/DDUNet](https://github.com/Att100/DDUNet)**
 - 2025-01-24, **Motion-enhancement to Echocardiography Segmentation via Inserting a Temporal Attention Module: An Efficient, Adaptable, and Scalable Approach**, Md. Kamrul Hasan et.al., Paper: [http://arxiv.org/abs/2501.14929](http://arxiv.org/abs/2501.14929)
 - 2025-01-27, **Diffusion based Text-to-Music Generation with Global and Local Text based Conditioning**, Jisi Zhang et.al., Paper: [http://arxiv.org/abs/2501.14680](http://arxiv.org/abs/2501.14680)
 - 2025-01-24, **Automation of finding strong gravitational lenses in the Kilo Degree Survey with U-DenseLens (DenseLens + Segmentation)**, Bharath Chowdhary Nagam et.al., Paper: [http://arxiv.org/abs/2501.14650](http://arxiv.org/abs/2501.14650)
@@ -5307,7 +5307,7 @@
 - 2024-11-22, **HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads**, Yu Xu et.al., Paper: [http://arxiv.org/abs/2411.15034](http://arxiv.org/abs/2411.15034)
 - 2024-11-22, **Boundless Across Domains: A New Paradigm of Adaptive Feature and Cross-Attention for Domain Generalization in Medical Image Segmentation**, Yuheng Xu et.al., Paper: [http://arxiv.org/abs/2411.14883](http://arxiv.org/abs/2411.14883)
 - 2024-11-21, **SegBook: A Simple Baseline and Cookbook for Volumetric Medical Image Segmentation**, Jin Ye et.al., Paper: [http://arxiv.org/abs/2411.14525](http://arxiv.org/abs/2411.14525)
-- 2024-11-21, **Stable Flow: Vital Layers for Training-Free Image Editing**, Omri Avrahami et.al., Paper: [http://arxiv.org/abs/2411.14430](http://arxiv.org/abs/2411.14430)
+- 2024-11-21, **Stable Flow: Vital Layers for Training-Free Image Editing**, Omri Avrahami et.al., Paper: [http://arxiv.org/abs/2411.14430](http://arxiv.org/abs/2411.14430), Code: **[https://github.com/snap-research/stable-flow](https://github.com/snap-research/stable-flow)**
 - 2024-11-21, **Multimodal 3D Brain Tumor Segmentation with Adversarial Training and Conditional Random Field**, Lan Jiang et.al., Paper: [http://arxiv.org/abs/2411.14418](http://arxiv.org/abs/2411.14418)
 - 2024-12-06, **Enhancing Medical Image Segmentation with Deep Learning and Diffusion Models**, Houze Liu et.al., Paper: [http://arxiv.org/abs/2411.14353](http://arxiv.org/abs/2411.14353)
 - 2024-11-21, **CP-UNet: Contour-based Probabilistic Model for Medical Ultrasound Images Segmentation**, Ruiguo Yu et.al., Paper: [http://arxiv.org/abs/2411.14250](http://arxiv.org/abs/2411.14250)
@@ -6319,7 +6319,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
