@@ -19,6 +19,33 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Matrix Product Sketching via Coordinated Sampling**|Majid Daliri et.al.|[2501.17836](http://arxiv.org/abs/2501.17836)|null|
+|**2025-01-29**|**Aggregation Schemes for Single-Vector WSI Representation Learning in Digital Pathology**|Sobhan Hemati et.al.|[2501.17822](http://arxiv.org/abs/2501.17822)|null|
+|**2025-01-29**|**P-TAME: Explain Any Image Classifier with Trained Perturbations**|Mariano V. Ntrougkas et.al.|[2501.17813](http://arxiv.org/abs/2501.17813)|null|
+|**2025-01-29**|**2SSP: A Two-Stage Framework for Structured Pruning of LLMs**|Fabrizio Sandri et.al.|[2501.17771](http://arxiv.org/abs/2501.17771)|null|
+|**2025-01-29**|**A Framework for Generating Realistic Synthetic Tabular Data in a Randomized Controlled Trial Setting**|Niki Z. Petrakos et.al.|[2501.17719](http://arxiv.org/abs/2501.17719)|null|
+|**2025-01-29**|**Source-Channel Separation Theorems for Distortion Perception Coding**|Chao Tian et.al.|[2501.17706](http://arxiv.org/abs/2501.17706)|null|
+|**2025-01-29**|**PulmoFusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion**|Ahmed Sharshar et.al.|[2501.17699](http://arxiv.org/abs/2501.17699)|**[link](https://github.com/ahmed-sharshar/respirodynamics)**|
+|**2025-01-29**|**ContourFormer:Real-Time Contour-Based End-to-End Instance Segmentation Transformer**|Weiwei yao et.al.|[2501.17688](http://arxiv.org/abs/2501.17688)|null|
+|**2025-01-29**|**Analysis of the Motion Sickness and the Lack of Comfort in Car Passengers**|Estibaliz Asua et.al.|[2501.17664](http://arxiv.org/abs/2501.17664)|null|
+|**2025-01-29**|**Efficient Stochastic Polar Decoder With Correlated Stochastic Computing**|Jiaxing Li et.al.|[2501.17644](http://arxiv.org/abs/2501.17644)|null|
+|**2025-01-29**|**Structured Context Recomposition for Large Language Models Using Probabilistic Layer Realignment**|Jonathan Teel et.al.|[2501.17617](http://arxiv.org/abs/2501.17617)|null|
+|**2025-01-29**|**Extracting Inter-Protein Interactions Via Multitasking Graph Structure Learning**|Jiang Li et.al.|[2501.17589](http://arxiv.org/abs/2501.17589)|null|
+|**2025-01-29**|**Boosting Weak Positives for Text Based Person Search**|Akshay Modi et.al.|[2501.17586](http://arxiv.org/abs/2501.17586)|null|
+|**2025-01-29**|**Toward Organizational Decoupling in Microservices Through Key Developer Allocation**|Xiaozhou Li et.al.|[2501.17522](http://arxiv.org/abs/2501.17522)|null|
+|**2025-01-29**|**Uniqueness of Dirac-harmonic maps from a compact surface with boundary**|Jürgen Jost et.al.|[2501.17497](http://arxiv.org/abs/2501.17497)|null|
+|**2025-01-29**|**DINT Transformer**|Yueyang Cang et.al.|[2501.17486](http://arxiv.org/abs/2501.17486)|null|
+|**2025-01-29**|**NF-MKV Net: A Constraint-Preserving Neural Network Approach to Solving Mean-Field Games Equilibrium**|Jinwei Liu et.al.|[2501.17450](http://arxiv.org/abs/2501.17450)|null|
+|**2025-01-29**|**Bayesian BIM-Guided Construction Robot Navigation with NLP Safety Prompts in Dynamic Environments**|Mani Amani et.al.|[2501.17437](http://arxiv.org/abs/2501.17437)|null|
+|**2025-01-29**|**Byzantine-Robust Federated Learning over Ring-All-Reduce Distributed Computing**|Minghong Fang et.al.|[2501.17392](http://arxiv.org/abs/2501.17392)|null|
+|**2025-01-29**|**Flow Structures Beneath Stationary Waves with Constant Vorticity Over Variable Topography**|L. G. Martins et.al.|[2501.17388](http://arxiv.org/abs/2501.17388)|null|
+|**2025-01-29**|**Context-Aware Semantic Recomposition Mechanism for Large Language Models**|Richard Katrix et.al.|[2501.17386](http://arxiv.org/abs/2501.17386)|null|
+|**2025-01-28**|**Pandora's Box: Cross-Chain Arbitrages in the Realm of Blockchain Interoperability**|Burak Öz et.al.|[2501.17335](http://arxiv.org/abs/2501.17335)|null|
+|**2025-01-28**|**Multi-Physics Simulations via Coupled Fourier Neural Operator**|Shibo Li et.al.|[2501.17296](http://arxiv.org/abs/2501.17296)|null|
+|**2025-01-28**|**Dynamical Shortcomings in the Generalized SU(2) Proca Theory: Challenges for Cosmic Acceleration**|Santiago Garcia-Serna et.al.|[2501.17280](http://arxiv.org/abs/2501.17280)|null|
+|**2025-01-28**|**Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting**|Jingru Fei et.al.|[2501.17216](http://arxiv.org/abs/2501.17216)|**[link](https://github.com/aikunyi/amplifier)**|
+|**2025-01-28**|**The Plateau Problem of Michell Trusses and Orthogonality in Springs**|Chengcheng Yang et.al.|[2501.17214](http://arxiv.org/abs/2501.17214)|null|
+|**2025-01-28**|**Rethinking Functional Brain Connectome Analysis: Do Graph Deep Learning Models Help?**|Keqi Han et.al.|[2501.17207](http://arxiv.org/abs/2501.17207)|**[link](https://github.com/learningkeqi/rethinkingbca)**|
 |**2025-01-28**|**CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation**|Nikolai Kalischek et.al.|[2501.17162](http://arxiv.org/abs/2501.17162)|null|
 |**2025-01-28**|**ASTRAL: Automated Safety Testing of Large Language Models**|Miriam Ugarte et.al.|[2501.17132](http://arxiv.org/abs/2501.17132)|null|
 |**2025-01-28**|**Histoires Morales: A French Dataset for Assessing Moral Alignment**|Thibaud Leteno et.al.|[2501.17117](http://arxiv.org/abs/2501.17117)|**[link](https://github.com/upunaprosk/histoires-morales)**|
@@ -153,7 +180,7 @@
 |**2025-01-25**|**Exact Fit Attention in Node-Holistic Graph Convolutional Network for Improved EEG-Based Driver Fatigue Detection**|Meiyan Xu et.al.|[2501.15062](http://arxiv.org/abs/2501.15062)|null|
 |**2025-01-25**|**PolaFormer: Polarity-aware Linear Attention for Vision Transformers**|Weikang Meng et.al.|[2501.15061](http://arxiv.org/abs/2501.15061)|null|
 |**2025-01-25**|**Group Ligands Docking to Protein Pockets**|Jiaqi Guan et.al.|[2501.15055](http://arxiv.org/abs/2501.15055)|null|
-|**2025-01-25**|**Towards Robust Unsupervised Attention Prediction in Autonomous Driving**|Mengshi Qi et.al.|[2501.15045](http://arxiv.org/abs/2501.15045)|null|
+|**2025-01-29**|**Towards Robust Unsupervised Attention Prediction in Autonomous Driving**|Mengshi Qi et.al.|[2501.15045](http://arxiv.org/abs/2501.15045)|null|
 |**2025-01-25**|**Semi-supervised Anomaly Detection with Extremely Limited Labels in Dynamic Graphs**|Jiazhen Chen et.al.|[2501.15035](http://arxiv.org/abs/2501.15035)|null|
 |**2025-01-25**|**AKVQ-VL: Attention-Aware KV Cache Adaptive 2-Bit Quantization for Vision-Language Models**|Zunhai Su et.al.|[2501.15021](http://arxiv.org/abs/2501.15021)|null|
 |**2025-01-25**|**Utilizing Graph Neural Networks for Effective Link Prediction in Microservice Architectures**|Ghazal Khodabandeh et.al.|[2501.15019](http://arxiv.org/abs/2501.15019)|null|
@@ -514,7 +541,7 @@
 |**2025-01-09**|**A Multi-Layer CNN-GRUSKIP model based on transformer for spatial TEMPORAL traffic flow prediction**|Karimeh Ibrahim Mohammad Ata et.al.|[2501.07593](http://arxiv.org/abs/2501.07593)|null|
 |**2025-01-13**|**Quantifying Polarization: A Comparative Study of Measures and Methods**|Edoardo Di Martino et.al.|[2501.07473](http://arxiv.org/abs/2501.07473)|null|
 |**2025-01-13**|**On the Time-decay of solutions arising from periodically forced Dirac Hamiltonians**|Joseph Kraisler et.al.|[2501.07466](http://arxiv.org/abs/2501.07466)|null|
-|**2025-01-13**|**Attention when you need**|Lokesh Boominathan et.al.|[2501.07440](http://arxiv.org/abs/2501.07440)|null|
+|**2025-01-29**|**Attention when you need**|Lokesh Boominathan et.al.|[2501.07440](http://arxiv.org/abs/2501.07440)|null|
 |**2025-01-13**|**Enhancing LLM's Ability to Generate More Repository-Aware Unit Tests Through Precise Contextual Information Injection**|Xin Yin et.al.|[2501.07425](http://arxiv.org/abs/2501.07425)|null|
 |**2025-01-13**|**An Investigation into Seasonal Variations in Energy Forecasting for Student Residences**|Muhammad Umair Danish et.al.|[2501.07423](http://arxiv.org/abs/2501.07423)|null|
 |**2025-01-13**|**Anonymous Attention and Abuse**|Florian Ederer et.al.|[2501.07410](http://arxiv.org/abs/2501.07410)|null|
@@ -594,7 +621,7 @@
 |**2024-12-26**|**How Do Artificial Intelligences Think? The Three Mathematico-Cognitive Factors of Categorical Segmentation Operated by Synthetic Neurons**|Michael Pichat et.al.|[2501.06196](http://arxiv.org/abs/2501.06196)|null|
 |**2025-01-10**|**Multi-subject Open-set Personalization in Video Generation**|Tsai-Shien Chen et.al.|[2501.06187](http://arxiv.org/abs/2501.06187)|null|
 |**2025-01-10**|**xLSTM-SENet: xLSTM for Single-Channel Speech Enhancement**|Nikolai Lund Kühne et.al.|[2501.06146](http://arxiv.org/abs/2501.06146)|**[link](https://github.com/nikolaikyhne/xlstm-senet)**|
-|**2025-01-10**|**ELFATT: Efficient Linear Fast Attention for Vision Transformers**|Chong Wu et.al.|[2501.06098](http://arxiv.org/abs/2501.06098)|null|
+|**2025-01-29**|**ELFATT: Efficient Linear Fast Attention for Vision Transformers**|Chong Wu et.al.|[2501.06098](http://arxiv.org/abs/2501.06098)|null|
 |**2025-01-10**|**Explainable Federated Bayesian Causal Inference and Its Application in Advanced Manufacturing**|Xiaofeng Xiao et.al.|[2501.06077](http://arxiv.org/abs/2501.06077)|**[link](https://github.com/xx987/xfbci)**|
 |**2025-01-10**|**Enhancing, Refining, and Fusing: Towards Robust Multi-Scale and Dense Ship Detection**|Congxia Zhao et.al.|[2501.06053](http://arxiv.org/abs/2501.06053)|null|
 |**2025-01-14**|**MSCViT: A Small-size ViT architecture with Multi-Scale Self-Attention Mechanism for Tiny Datasets**|Bowei Zhang et.al.|[2501.06040](http://arxiv.org/abs/2501.06040)|null|
@@ -727,7 +754,7 @@
 |**2025-01-07**|**SceneBooth: Diffusion-based Framework for Subject-preserved Text-to-Image Generation**|Shang Chai et.al.|[2501.03490](http://arxiv.org/abs/2501.03490)|null|
 |**2025-01-08**|**Entropy-Guided Attention for Private LLMs**|Nandan Kumar Jha et.al.|[2501.03489](http://arxiv.org/abs/2501.03489)|**[link](https://github.com/nandan91/entropy-guided-attention-llm)**|
 |**2025-01-07**|**FRESHR-GSI: A Generalized Safety Model and Evaluation Framework for Mobile Robots in Multi-Human Environments**|Pranav Pandey et.al.|[2501.03467](http://arxiv.org/abs/2501.03467)|null|
-|**2025-01-07**|**LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging**|Shubhr Singh et.al.|[2501.03464](http://arxiv.org/abs/2501.03464)|null|
+|**2025-01-29**|**LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging**|Shubhr Singh et.al.|[2501.03464](http://arxiv.org/abs/2501.03464)|null|
 |**2025-01-07**|**Structure-Preference Enabled Graph Embedding Generation under Differential Privacy**|Sen Zhang et.al.|[2501.03451](http://arxiv.org/abs/2501.03451)|**[link](https://github.com/sunnerzs/seprivgemb)**|
 |**2025-01-07**|**Optimizing Value of Learning in Task-Oriented Federated Meta-Learning Systems**|Bibo Wu et.al.|[2501.03448](http://arxiv.org/abs/2501.03448)|null|
 |**2025-01-08**|**Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection**|Donatella Genovese et.al.|[2501.03432](http://arxiv.org/abs/2501.03432)|null|
@@ -5113,6 +5140,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**An Exceptional Dataset For Rare Pancreatic Tumor Segmentation**|Wenqi Li et.al.|[2501.17555](http://arxiv.org/abs/2501.17555)|null|
+|**2025-01-29**|**Closing the Gap Between Synthetic and Ground Truth Time Series Distributions via Neural Mapping**|Daesoo Lee et.al.|[2501.17553](http://arxiv.org/abs/2501.17553)|**[link](https://github.com/ml4its/timevqvae)**|
+|**2025-01-28**|**Post-Training Quantization for 3D Medical Image Segmentation: A Practical Study on Real Inference Engines**|Chongyu Qu et.al.|[2501.17343](http://arxiv.org/abs/2501.17343)|null|
 |**2025-01-28**|**Efficient Knowledge Distillation of SAM for Medical Image Segmentation**|Kunal Dasharath Patil et.al.|[2501.16740](http://arxiv.org/abs/2501.16740)|null|
 |**2025-01-28**|**Point Cloud Upsampling as Statistical Shape Model for Pelvic**|Tongxu Zhang et.al.|[2501.16716](http://arxiv.org/abs/2501.16716)|null|
 |**2025-01-28**|**Separate Motion from Appearance: Customizing Motion via Customizing Text-to-Video Diffusion Models**|Huijie Liu et.al.|[2501.16714](http://arxiv.org/abs/2501.16714)|null|
