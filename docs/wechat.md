@@ -115,7 +115,7 @@
 - 2025-01-24, **FedAGHN: Personalized Federated Learning with Attentive Graph HyperNetworks**, Jiarui Song et.al., Paper: [http://arxiv.org/abs/2501.16379](http://arxiv.org/abs/2501.16379)
 - 2025-01-23, **On Storage Neural Network Augmented Approximate Nearest Neighbor Search**, Taiga Ikeda et.al., Paper: [http://arxiv.org/abs/2501.16375](http://arxiv.org/abs/2501.16375)
 - 2025-01-23, **SAFR: Neuron Redistribution for Interpretability**, Ruidi Chang et.al., Paper: [http://arxiv.org/abs/2501.16374](http://arxiv.org/abs/2501.16374)
-- 2025-01-23, **Unveiling Discrete Clues: Superior Healthcare Predictions for Rare Diseases**, Chuang Zhao et.al., Paper: [http://arxiv.org/abs/2501.16373](http://arxiv.org/abs/2501.16373)
+- 2025-01-23, **Unveiling Discrete Clues: Superior Healthcare Predictions for Rare Diseases**, Chuang Zhao et.al., Paper: [http://arxiv.org/abs/2501.16373](http://arxiv.org/abs/2501.16373), Code: **[https://github.com/data-designer/udchealth](https://github.com/data-designer/udchealth)**
 - 2025-01-22, **Multivariate Time Series Anomaly Detection by Capturing Coarse-Grained Intra- and Inter-Variate Dependencies**, Yongzheng Xie et.al., Paper: [http://arxiv.org/abs/2501.16364](http://arxiv.org/abs/2501.16364)
 - 2025-01-20, **Influence of Humidity on the Resistive Switching of Hexagonal Boron Nitride-Based Memristors**, Lukas Völkel et.al., Paper: [http://arxiv.org/abs/2501.16359](http://arxiv.org/abs/2501.16359)
 - 2025-01-17, **Self-Clustering Graph Transformer Approach to Model Resting-State Functional Brain Activity**, Bishal Thapaliya et.al., Paper: [http://arxiv.org/abs/2501.16345](http://arxiv.org/abs/2501.16345)
