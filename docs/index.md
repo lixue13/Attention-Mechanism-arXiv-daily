@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.14
+## Updated on 2025.02.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -540,7 +540,7 @@ layout: default
 |**2025-02-02**|**Efficient Language Modeling for Low-Resource Settings with Hybrid RNN-Transformer Architectures**|Gabriel Lindenmaier et.al.|[2502.00617](http://arxiv.org/abs/2502.00617)|null|
 |**2025-02-01**|**Dominated Novelty Search: Rethinking Local Competition in Quality-Diversity**|Ryan Bahlous-Boldi et.al.|[2502.00593](http://arxiv.org/abs/2502.00593)|**[link](https://github.com/adaptive-intelligent-robotics/dominated-novelty-search)**|
 |**2025-02-01**|**M+: Extending MemoryLLM with Scalable Long-Term Memory**|Yu Wang et.al.|[2502.00592](http://arxiv.org/abs/2502.00592)|null|
-|**2025-02-01**|**Converting Transformers into DGNNs Form**|Jie Zhang et.al.|[2502.00585](http://arxiv.org/abs/2502.00585)|null|
+|**2025-02-01**|**Converting Transformers into DGNNs Form**|Jie Zhang et.al.|[2502.00585](http://arxiv.org/abs/2502.00585)|**[link](https://github.com/hazdzz/Converter)**|
 |**2025-02-01**|**Data-Driven Mispronunciation Pattern Discovery for Robust Speech Recognition**|Anna Seo Gyeong Choi et.al.|[2502.00583](http://arxiv.org/abs/2502.00583)|null|
 |**2025-02-11**|**Generating crossmodal gene expression from cancer histopathology improves multimodal AI predictions**|Samiran Dey et.al.|[2502.00568](http://arxiv.org/abs/2502.00568)|**[link](https://github.com/Samiran-Dey/PathoGen)**|
 |**2025-02-01**|**Complex Wavelet Mutual Information Loss: A Multi-Scale Loss Function for Semantic Segmentation**|Renhao Lu et.al.|[2502.00563](http://arxiv.org/abs/2502.00563)|**[link](https://github.com/lurenhaothu/CWMI)**|
