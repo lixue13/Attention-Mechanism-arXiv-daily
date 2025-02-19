@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.18
+## Updated on 2025.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -5834,7 +5834,7 @@
 |**2024-10-03**|**Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**|Jinwoo Go et.al.|[2409.09141](http://arxiv.org/abs/2409.09141)|null|
 |**2024-09-13**|**Neural Message Passing Induced by Energy-Constrained Diffusion**|Qitian Wu et.al.|[2409.09111](http://arxiv.org/abs/2409.09111)|null|
 
-<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
 
 ## IRSTD
 
@@ -5909,7 +5909,7 @@
 |**2020-07-29**|**Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**|Saed Moradi et.al.|[1810.03173](http://arxiv.org/abs/1810.03173)|**[link](https://github.com/moradisaed/ADMD)**|
 |**2017-03-27**|**Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**|Yimian Dai et.al.|[1703.09157](http://arxiv.org/abs/1703.09157)|**[link](https://github.com/YimianDai/DENTIST)**|
 
-<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
 
 ## UNet
 
@@ -6176,7 +6176,7 @@
 |**2024-12-10**|**Mobile Video Diffusion**|Haitam Ben Yahia et.al.|[2412.07583](http://arxiv.org/abs/2412.07583)|null|
 |**2024-12-10**|**EchoIR: Advancing Image Restoration with Echo Upsampling and Bi-Level Optimization**|Yuhan He et.al.|[2412.07225](http://arxiv.org/abs/2412.07225)|null|
 |**2024-12-09**|**Edge-SD-SR: Low Latency and Parameter Efficient On-device Super-Resolution with Stable Diffusion via Bidirectional Conditioning**|Mehdi Noroozi et.al.|[2412.06978](http://arxiv.org/abs/2412.06978)|null|
-|**2024-12-09**|**Enhancing operational wind downscaling capabilities over Canada: Application of a Conditional Wasserstein GAN methodology**|Jorge Guevara et.al.|[2412.06958](http://arxiv.org/abs/2412.06958)|null|
+|**2025-02-17**|**Enhancing operational wind downscaling capabilities over Canada: Application of a Conditional Wasserstein GAN methodology**|Jorge Guevara et.al.|[2412.06958](http://arxiv.org/abs/2412.06958)|null|
 |**2024-12-09**|**3D Graph Attention Networks for High Fidelity Pediatric Glioma Segmentation**|Harish Thangaraj et.al.|[2412.06743](http://arxiv.org/abs/2412.06743)|null|
 |**2024-12-09**|**FedSynthCT-Brain: A Federated Learning Framework for Multi-Institutional Brain MRI-to-CT Synthesis**|Ciro Benito Raggio et.al.|[2412.06690](http://arxiv.org/abs/2412.06690)|null|
 |**2024-12-09**|**HES-UNet: A U-Net for Hepatic Echinococcosis Lesion Segmentation**|Jiayan Chen et.al.|[2412.06530](http://arxiv.org/abs/2412.06530)|null|
@@ -7267,7 +7267,7 @@
 |**2024-07-29**|**ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**|Lukas Höllein et.al.|[2403.01807](http://arxiv.org/abs/2403.01807)|**[link](https://github.com/facebookresearch/viewdiff)**|
 |**2024-03-07**|**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**|Yuhao Xu et.al.|[2403.01779](http://arxiv.org/abs/2403.01779)|**[link](https://github.com/levihsu/ootdiffusion)**|
 
-<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

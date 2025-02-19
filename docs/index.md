@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.18
+## Updated on 2025.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -6167,7 +6167,7 @@ layout: default
 |**2024-12-10**|**Mobile Video Diffusion**|Haitam Ben Yahia et.al.|[2412.07583](http://arxiv.org/abs/2412.07583)|null|
 |**2024-12-10**|**EchoIR: Advancing Image Restoration with Echo Upsampling and Bi-Level Optimization**|Yuhan He et.al.|[2412.07225](http://arxiv.org/abs/2412.07225)|null|
 |**2024-12-09**|**Edge-SD-SR: Low Latency and Parameter Efficient On-device Super-Resolution with Stable Diffusion via Bidirectional Conditioning**|Mehdi Noroozi et.al.|[2412.06978](http://arxiv.org/abs/2412.06978)|null|
-|**2024-12-09**|**Enhancing operational wind downscaling capabilities over Canada: Application of a Conditional Wasserstein GAN methodology**|Jorge Guevara et.al.|[2412.06958](http://arxiv.org/abs/2412.06958)|null|
+|**2025-02-17**|**Enhancing operational wind downscaling capabilities over Canada: Application of a Conditional Wasserstein GAN methodology**|Jorge Guevara et.al.|[2412.06958](http://arxiv.org/abs/2412.06958)|null|
 |**2024-12-09**|**3D Graph Attention Networks for High Fidelity Pediatric Glioma Segmentation**|Harish Thangaraj et.al.|[2412.06743](http://arxiv.org/abs/2412.06743)|null|
 |**2024-12-09**|**FedSynthCT-Brain: A Federated Learning Framework for Multi-Institutional Brain MRI-to-CT Synthesis**|Ciro Benito Raggio et.al.|[2412.06690](http://arxiv.org/abs/2412.06690)|null|
 |**2024-12-09**|**HES-UNet: A U-Net for Hepatic Echinococcosis Lesion Segmentation**|Jiayan Chen et.al.|[2412.06530](http://arxiv.org/abs/2412.06530)|null|
