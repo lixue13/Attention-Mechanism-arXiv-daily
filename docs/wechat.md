@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.02.20
+> Updated on 2025.02.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -412,7 +412,7 @@
 - 2025-02-10, **Breaking Barriers: Combinatorial Algorithms for Non-monotone Submodular Maximization with Sublinear Adaptivity and $1/e$ Approximation**, Yixin Chen et.al., Paper: [http://arxiv.org/abs/2502.07062](http://arxiv.org/abs/2502.07062)
 - 2025-02-07, **Representational Alignment with Chemical Induced Fit for Molecular Relational Learning**, Peiliang Zhang et.al., Paper: [http://arxiv.org/abs/2502.07027](http://arxiv.org/abs/2502.07027)
 - 2025-02-10, **Early Operative Difficulty Assessment in Laparoscopic Cholecystectomy via Snapshot-Centric Video Analysis**, Saurav Sharma et.al., Paper: [http://arxiv.org/abs/2502.07008](http://arxiv.org/abs/2502.07008)
-- 2025-02-10, **Conditional diffusion model with spatial attention and latent embedding for medical image segmentation**, Behzad Hejrati et.al., Paper: [http://arxiv.org/abs/2502.06997](http://arxiv.org/abs/2502.06997), Code: **[https://github.com/hejrati/cdal](https://github.com/hejrati/cdal)**
+- 2025-02-19, **Conditional diffusion model with spatial attention and latent embedding for medical image segmentation**, Behzad Hejrati et.al., Paper: [http://arxiv.org/abs/2502.06997](http://arxiv.org/abs/2502.06997), Code: **[https://github.com/hejrati/cdal](https://github.com/hejrati/cdal)**
 - 2025-02-10, **Many-body perturbation theory for moiré systems**, Liangtao Peng et.al., Paper: [http://arxiv.org/abs/2502.06968](http://arxiv.org/abs/2502.06968)
 - 2025-02-10, **Evolving dark energy models: Current and forecast constraints**, Anowar J. Shajib et.al., Paper: [http://arxiv.org/abs/2502.06929](http://arxiv.org/abs/2502.06929)
 - 2025-02-10, **Neighborhood-Order Learning Graph Attention Network for Fake News Detection**, Batool Lakzaei et.al., Paper: [http://arxiv.org/abs/2502.06927](http://arxiv.org/abs/2502.06927), Code: **[https://github.com/blakzaei/NOL-GAT](https://github.com/blakzaei/NOL-GAT)**
@@ -429,7 +429,7 @@
 - 2025-02-05, **CTR-Driven Advertising Image Generation with Multimodal Large Language Models**, Xingye Chen et.al., Paper: [http://arxiv.org/abs/2502.06823](http://arxiv.org/abs/2502.06823), Code: **[https://github.com/chenguoz/caig](https://github.com/chenguoz/caig)**
 - 2025-02-05, **Globality Strikes Back: Rethinking the Global Knowledge of CLIP in Training-Free Open-Vocabulary Semantic Segmentation**, Jingyun Wang et.al., Paper: [http://arxiv.org/abs/2502.06818](http://arxiv.org/abs/2502.06818)
 - 2025-02-04, **Diffusion Instruction Tuning**, Chen Jin et.al., Paper: [http://arxiv.org/abs/2502.06814](http://arxiv.org/abs/2502.06814)
-- 2025-02-04, **Aligning Human and Machine Attention for Enhanced Supervised Learning**, Avihay Chriqui et.al., Paper: [http://arxiv.org/abs/2502.06811](http://arxiv.org/abs/2502.06811)
+- 2025-02-19, **Aligning Human and Machine Attention for Enhanced Supervised Learning**, Avihay Chriqui et.al., Paper: [http://arxiv.org/abs/2502.06811](http://arxiv.org/abs/2502.06811)
 - 2025-01-27, **The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)**, Kevin H. Knuth et.al., Paper: [http://arxiv.org/abs/2502.06794](http://arxiv.org/abs/2502.06794)
 - 2025-02-10, **DeepCrossAttention: Supercharging Transformer Residual Connections**, Mike Heddes et.al., Paper: [http://arxiv.org/abs/2502.06785](http://arxiv.org/abs/2502.06785)
 - 2025-02-12, **Exploiting Sparsity for Long Context Inference: Million Token Contexts on Commodity GPUs**, Ryan Synk et.al., Paper: [http://arxiv.org/abs/2502.06766](http://arxiv.org/abs/2502.06766)
@@ -5932,7 +5932,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
 
 ## IRSTD
 
@@ -6005,7 +6005,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
 
 ## UNet
 
@@ -6043,7 +6043,7 @@
 - 2025-02-11, **Flat U-Net: An Efficient Ultralightweight Model for Solar Filament Segmentation in Full-disk H $α$ Images**, GaoFei Zhu et.al., Paper: [http://arxiv.org/abs/2502.07259](http://arxiv.org/abs/2502.07259)
 - 2025-02-11, **Color-Quality Invariance for Robust Medical Image Segmentation**, Ravi Shah et.al., Paper: [http://arxiv.org/abs/2502.07200](http://arxiv.org/abs/2502.07200), Code: **[https://github.com/ravishah1/dcin-cqg](https://github.com/ravishah1/dcin-cqg)**
 - 2025-02-10, **Is Long Range Sequential Modeling Necessary For Colorectal Tumor Segmentation?**, Abhishek Srivastava et.al., Paper: [http://arxiv.org/abs/2502.07120](http://arxiv.org/abs/2502.07120)
-- 2025-02-10, **Conditional diffusion model with spatial attention and latent embedding for medical image segmentation**, Behzad Hejrati et.al., Paper: [http://arxiv.org/abs/2502.06997](http://arxiv.org/abs/2502.06997), Code: **[https://github.com/hejrati/cdal](https://github.com/hejrati/cdal)**
+- 2025-02-19, **Conditional diffusion model with spatial attention and latent embedding for medical image segmentation**, Behzad Hejrati et.al., Paper: [http://arxiv.org/abs/2502.06997](http://arxiv.org/abs/2502.06997), Code: **[https://github.com/hejrati/cdal](https://github.com/hejrati/cdal)**
 - 2025-02-10, **Generalizable automated ischaemic stroke lesion segmentation with vision transformers**, Chris Foulon et.al., Paper: [http://arxiv.org/abs/2502.06939](http://arxiv.org/abs/2502.06939)
 - 2025-02-09, **A Comprehensive Review of U-Net and Its Variants: Advances and Applications in Medical Image Segmentation**, Wang Jiangtao et.al., Paper: [http://arxiv.org/abs/2502.06895](http://arxiv.org/abs/2502.06895)
 - 2025-02-07, **Transfer learning in Scalable Graph Neural Network for Improved Physical Simulation**, Siqi Shen et.al., Paper: [http://arxiv.org/abs/2502.06848](http://arxiv.org/abs/2502.06848)
@@ -7366,7 +7366,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
