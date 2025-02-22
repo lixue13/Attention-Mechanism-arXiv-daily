@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.21
+## Updated on 2025.02.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -6554,7 +6554,7 @@ layout: default
 |**2024-10-15**|**Visual Fixation-Based Retinal Prosthetic Simulation**|Yuli Wu et.al.|[2410.11688](http://arxiv.org/abs/2410.11688)|null|
 |**2024-10-13**|**STA-Unet: Rethink the semantic redundant for Medical Imaging Segmentation**|Vamsi Krishna Vasa et.al.|[2410.11578](http://arxiv.org/abs/2410.11578)|**[link](https://github.com/retinal-research/sta-unet)**|
 |**2024-10-15**|**Dual-Teacher Ensemble Models with Double-Copy-Paste for 3D Semi-Supervised Medical Image Segmentation**|Zhan Fa et.al.|[2410.11509](http://arxiv.org/abs/2410.11509)|**[link](https://github.com/fazhan-cs/dcp)**|
-|**2024-10-16**|**A Unified Framework for Forward and Inverse Problems in Subsurface Imaging using Latent Space Translations**|Naveen Gupta et.al.|[2410.11247](http://arxiv.org/abs/2410.11247)|null|
+|**2024-10-16**|**A Unified Framework for Forward and Inverse Problems in Subsurface Imaging using Latent Space Translations**|Naveen Gupta et.al.|[2410.11247](http://arxiv.org/abs/2410.11247)|**[link](https://github.com/KGML-lab/Generalized-Forward-Inverse-Framework-for-DL4SI)**|
 |**2025-02-10**|**CleanUMamba: A Compact Mamba Network for Speech Denoising using Channel Pruning**|Sjoerd Groot et.al.|[2410.11062](http://arxiv.org/abs/2410.11062)|null|
 |**2024-10-14**|**Boosting Camera Motion Control for Video Diffusion Transformers**|Soon Yau Cheong et.al.|[2410.10802](http://arxiv.org/abs/2410.10802)|null|
 |**2024-10-14**|**Benefiting from Quantum? A Comparative Study of Q-Seg, Quantum-Inspired Techniques, and U-Net for Crack Segmentation**|Akshaya Srinivasan et.al.|[2410.10713](http://arxiv.org/abs/2410.10713)|null|
