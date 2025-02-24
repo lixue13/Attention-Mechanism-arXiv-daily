@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.23
+## Updated on 2025.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -908,7 +908,7 @@ layout: default
 |**2025-01-31**|**Self-Supervised Learning Using Nonlinear Dependence**|M. Hadi Sepanj et.al.|[2501.18875](http://arxiv.org/abs/2501.18875)|null|
 |**2025-02-11**|**FlexiCrackNet: A Flexible Pipeline for Enhanced Crack Segmentation with General Features Transfered from SAM**|Xinlong Wan et.al.|[2501.18855](http://arxiv.org/abs/2501.18855)|null|
 |**2025-01-30**|**Rope to Nope and Back Again: A New Hybrid Attention Strategy**|Bowen Yang et.al.|[2501.18795](http://arxiv.org/abs/2501.18795)|null|
-|**2025-01-30**|**RUN: Reversible Unfolding Network for Concealed Object Segmentation**|Chunming He et.al.|[2501.18783](http://arxiv.org/abs/2501.18783)|null|
+|**2025-02-20**|**RUN: Reversible Unfolding Network for Concealed Object Segmentation**|Chunming He et.al.|[2501.18783](http://arxiv.org/abs/2501.18783)|null|
 |**2025-01-30**|**PSO-Net: Development of an automated psoriasis assessment system using attention-based interpretable deep neural networks**|Sharif A. Kamran et.al.|[2501.18782](http://arxiv.org/abs/2501.18782)|null|
 |**2025-01-30**|**Strong and Controllable 3D Motion Generation**|Canxuan Gang et.al.|[2501.18726](http://arxiv.org/abs/2501.18726)|null|
 |**2025-01-30**|**Hierarchical Multi-field Representations for Two-Stage E-commerce Retrieval**|Niklas Freymuth et.al.|[2501.18707](http://arxiv.org/abs/2501.18707)|null|
