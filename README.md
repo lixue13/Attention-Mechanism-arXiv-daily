@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.24
+## Updated on 2025.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -408,7 +408,7 @@
 |**2025-02-12**|**A Systematic Review on the Evaluation of Large Language Models in Theory of Mind Tasks**|Karahan Sarıtaş et.al.|[2502.08796](http://arxiv.org/abs/2502.08796)|**[link](https://github.com/mars-tin/awesome-theory-of-mind)**|
 |**2025-02-12**|**A comparative study of different TSO-DSO coordination in the reserve market**|Hang Nguyen et.al.|[2502.08782](http://arxiv.org/abs/2502.08782)|null|
 |**2025-02-12**|**SelfElicit: Your Language Model Secretly Knows Where is the Relevant Evidence**|Zhining Liu et.al.|[2502.08767](http://arxiv.org/abs/2502.08767)|**[link](https://github.com/zhiningliu1998/selfelicit)**|
-|**2025-02-12**|**IHEval: Evaluating Language Models on Following the Instruction Hierarchy**|Zhihan Zhang et.al.|[2502.08745](http://arxiv.org/abs/2502.08745)|null|
+|**2025-02-12**|**IHEval: Evaluating Language Models on Following the Instruction Hierarchy**|Zhihan Zhang et.al.|[2502.08745](http://arxiv.org/abs/2502.08745)|**[link](https://github.com/ytyz1307zzh/IHEval)**|
 |**2025-02-12**|**Policy Selection and Schedules for Exclusive Bus Lane and High Occupancy Vehicle Lane in a Bi-modal Transportation Corridor**|Jiaqing Lu et.al.|[2502.08729](http://arxiv.org/abs/2502.08729)|null|
 |**2025-02-12**|**Improving Lesion Segmentation in Medical Images by Global and Regional Feature Compensation**|Chuhan Wang et.al.|[2502.08675](http://arxiv.org/abs/2502.08675)|null|
 |**2025-02-12**|**COutfitGAN: Learning to Synthesize Compatible Outfits Supervised by Silhouette Masks and Fashion Styles**|Dongliang Zhou et.al.|[2502.08674](http://arxiv.org/abs/2502.08674)|null|
@@ -661,7 +661,7 @@
 |**2025-02-06**|**Fast Video Generation with Sliding Tile Attention**|Peiyuan Zhang et.al.|[2502.04507](http://arxiv.org/abs/2502.04507)|null|
 |**2025-02-06**|**Building A Unified AI-centric Language System: analysis, framework and future work**|Edward Hong Wang et.al.|[2502.04488](http://arxiv.org/abs/2502.04488)|null|
 |**2025-02-06**|**No Images, No Problem: Retaining Knowledge in Continual VQA with Questions-Only Memory**|Imad Eddine Marouf et.al.|[2502.04469](http://arxiv.org/abs/2502.04469)|**[link](https://github.com/IemProg/QUAD)**|
-|**2025-02-06**|**KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference**|Xing Li et.al.|[2502.04420](http://arxiv.org/abs/2502.04420)|null|
+|**2025-02-06**|**KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference**|Xing Li et.al.|[2502.04420](http://arxiv.org/abs/2502.04420)|**[link](https://github.com/cmd2001/KVTuner)**|
 |**2025-02-06**|**UniCP: A Unified Caching and Pruning Framework for Efficient Video Generation**|Wenzhang Sun et.al.|[2502.04393](http://arxiv.org/abs/2502.04393)|null|
 |**2025-02-05**|**MapFusion: A Novel BEV Feature Fusion Network for Multi-modal Map Construction**|Xiaoshuai Hao et.al.|[2502.04377](http://arxiv.org/abs/2502.04377)|null|
 |**2025-02-05**|**An Analysis for Reasoning Bias of Language Models with Small Initialization**|Junjie Yao et.al.|[2502.04375](http://arxiv.org/abs/2502.04375)|null|
@@ -6036,7 +6036,7 @@
 |**2024-10-03**|**Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**|Jinwoo Go et.al.|[2409.09141](http://arxiv.org/abs/2409.09141)|null|
 |**2024-09-13**|**Neural Message Passing Induced by Energy-Constrained Diffusion**|Qitian Wu et.al.|[2409.09111](http://arxiv.org/abs/2409.09111)|null|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
 ## IRSTD
 
@@ -6111,7 +6111,7 @@
 |**2020-07-29**|**Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**|Saed Moradi et.al.|[1810.03173](http://arxiv.org/abs/1810.03173)|**[link](https://github.com/moradisaed/ADMD)**|
 |**2017-03-27**|**Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**|Yimian Dai et.al.|[1703.09157](http://arxiv.org/abs/1703.09157)|**[link](https://github.com/YimianDai/DENTIST)**|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
 ## UNet
 
@@ -7481,7 +7481,7 @@
 |**2024-07-29**|**ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**|Lukas Höllein et.al.|[2403.01807](http://arxiv.org/abs/2403.01807)|**[link](https://github.com/facebookresearch/viewdiff)**|
 |**2024-03-07**|**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**|Yuhao Xu et.al.|[2403.01779](http://arxiv.org/abs/2403.01779)|**[link](https://github.com/levihsu/ootdiffusion)**|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
