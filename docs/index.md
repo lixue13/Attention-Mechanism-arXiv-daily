@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -517,7 +517,7 @@ layout: default
 |**2025-02-13**|**SoK: Come Together -- Unifying Security, Information Theory, and Cognition for a Mixed Reality Deception Attack Ontology & Analysis Framework**|Ali Teymourian et.al.|[2502.09763](http://arxiv.org/abs/2502.09763)|null|
 |**2025-02-13**|**Partial Colexifications Improve Concept Embeddings**|Arne Rubehn et.al.|[2502.09743](http://arxiv.org/abs/2502.09743)|null|
 |**2025-02-13**|**NestQuant: Nested Lattice Quantization for Matrix Products and LLMs**|Semyon Savkin et.al.|[2502.09720](http://arxiv.org/abs/2502.09720)|null|
-|**2025-02-13**|**Cosmological information content of Betti curves and $k$ -nearest neighbor distributions**|Aaron Ouellette et.al.|[2502.09709](http://arxiv.org/abs/2502.09709)|null|
+|**2025-02-25**|**Cosmological information content of Betti curves and $k$ -nearest neighbor distributions**|Aaron Ouellette et.al.|[2502.09709](http://arxiv.org/abs/2502.09709)|null|
 |**2025-02-13**|**Lattice Schwinger Model and Spacetime Supersymmetry**|Yanting Cheng et.al.|[2502.09697](http://arxiv.org/abs/2502.09697)|null|
 |**2025-02-12**|**Towards Fine-grained Interactive Segmentation in Images and Videos**|Yuan Yao et.al.|[2502.09660](http://arxiv.org/abs/2502.09660)|null|
 |**2025-02-11**|**Unveiling Simplicities of Attention: Adaptive Long-Context Head Identification**|Konstantin Donhauser et.al.|[2502.09647](http://arxiv.org/abs/2502.09647)|null|
