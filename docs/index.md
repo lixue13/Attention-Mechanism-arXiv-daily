@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.02
+## Updated on 2025.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -226,7 +226,7 @@ layout: default
 |**2025-02-23**|**Intrinsic Model Weaknesses: How Priming Attacks Unveil Vulnerabilities in Large Language Models**|Yuyi Huang et.al.|[2502.16491](http://arxiv.org/abs/2502.16491)|null|
 |**2025-02-23**|**Geometry-Aware 3D Salient Object Detection Network**|Chen Wang et.al.|[2502.16488](http://arxiv.org/abs/2502.16488)|null|
 |**2025-02-23**|**A Split-Window Transformer for Multi-Model Sequence Spammer Detection using Multi-Model Variational Autoencoder**|Zhou Yang et.al.|[2502.16483](http://arxiv.org/abs/2502.16483)|null|
-|**2025-02-23**|**Integral Ricci Curvature for Graphs**|Xavier Ramos Olivé et.al.|[2502.16465](http://arxiv.org/abs/2502.16465)|null|
+|**2025-02-27**|**Integral Ricci Curvature for Graphs**|Xavier Ramos Olivé et.al.|[2502.16465](http://arxiv.org/abs/2502.16465)|null|
 |**2025-02-23**|**Transformer-based Approach for Accurate Asteroid Spectra taxonomy and albedo estimation**|Yijun Tang et.al.|[2502.16458](http://arxiv.org/abs/2502.16458)|null|
 |**2025-02-23**|**Advances in Continuous Variable Measurement-Device-Independent Quantum Key Distribution**|Pu Wang et.al.|[2502.16448](http://arxiv.org/abs/2502.16448)|null|
 |**2025-02-23**|**Sensing-Assisted Channel Estimation for OFDM ISAC Systems: Framework, Algorithm, and Analysis**|Shuhan Wang et.al.|[2502.16436](http://arxiv.org/abs/2502.16436)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.03.02
+> Updated on 2025.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -229,7 +229,7 @@
 - 2025-02-23, **Intrinsic Model Weaknesses: How Priming Attacks Unveil Vulnerabilities in Large Language Models**, Yuyi Huang et.al., Paper: [http://arxiv.org/abs/2502.16491](http://arxiv.org/abs/2502.16491)
 - 2025-02-23, **Geometry-Aware 3D Salient Object Detection Network**, Chen Wang et.al., Paper: [http://arxiv.org/abs/2502.16488](http://arxiv.org/abs/2502.16488)
 - 2025-02-23, **A Split-Window Transformer for Multi-Model Sequence Spammer Detection using Multi-Model Variational Autoencoder**, Zhou Yang et.al., Paper: [http://arxiv.org/abs/2502.16483](http://arxiv.org/abs/2502.16483)
-- 2025-02-23, **Integral Ricci Curvature for Graphs**, Xavier Ramos Olivé et.al., Paper: [http://arxiv.org/abs/2502.16465](http://arxiv.org/abs/2502.16465)
+- 2025-02-27, **Integral Ricci Curvature for Graphs**, Xavier Ramos Olivé et.al., Paper: [http://arxiv.org/abs/2502.16465](http://arxiv.org/abs/2502.16465)
 - 2025-02-23, **Transformer-based Approach for Accurate Asteroid Spectra taxonomy and albedo estimation**, Yijun Tang et.al., Paper: [http://arxiv.org/abs/2502.16458](http://arxiv.org/abs/2502.16458)
 - 2025-02-23, **Advances in Continuous Variable Measurement-Device-Independent Quantum Key Distribution**, Pu Wang et.al., Paper: [http://arxiv.org/abs/2502.16448](http://arxiv.org/abs/2502.16448)
 - 2025-02-23, **Sensing-Assisted Channel Estimation for OFDM ISAC Systems: Framework, Algorithm, and Analysis**, Shuhan Wang et.al., Paper: [http://arxiv.org/abs/2502.16436](http://arxiv.org/abs/2502.16436)
@@ -6290,7 +6290,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 ## IRSTD
 
@@ -6363,7 +6363,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 ## UNet
 
@@ -7756,7 +7756,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
