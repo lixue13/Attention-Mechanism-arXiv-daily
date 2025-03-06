@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.05
+## Updated on 2025.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -68,7 +68,7 @@ layout: default
 |**2025-03-04**|**Tabby: Tabular Data Synthesis with Language Models**|Sonia Cromp et.al.|[2503.02152](http://arxiv.org/abs/2503.02152)|null|
 |**2025-03-03**|**Forgetting Transformer: Softmax Attention with a Forget Gate**|Zhixuan Lin et.al.|[2503.02130](http://arxiv.org/abs/2503.02130)|null|
 |**2025-03-03**|**HanDrawer: Leveraging Spatial Information to Render Realistic Hands Using a Conditional Diffusion Model in Single Stage**|Qifan Fu et.al.|[2503.02127](http://arxiv.org/abs/2503.02127)|null|
-|**2025-03-03**|**Provable Benefits of Task-Specific Prompts for In-context Learning**|Xiangyu Chang et.al.|[2503.02102](http://arxiv.org/abs/2503.02102)|null|
+|**2025-03-03**|**Provable Benefits of Task-Specific Prompts for In-context Learning**|Xiangyu Chang et.al.|[2503.02102](http://arxiv.org/abs/2503.02102)|**[link](https://github.com/xchang1121/prompt_ICL)**|
 |**2025-03-03**|**Linear Representations of Political Perspective Emerge in Large Language Models**|Junsol Kim et.al.|[2503.02080](http://arxiv.org/abs/2503.02080)|null|
 |**2025-03-03**|**CrossFusion: A Multi-Scale Cross-Attention Convolutional Fusion Model for Cancer Survival Prediction**|Rustin Soraki et.al.|[2503.02064](http://arxiv.org/abs/2503.02064)|null|
 |**2025-03-03**|**Quantifying Point Contributions: A Lightweight Framework for Efficient and Effective Query-Driven Trajectory Simplification**|Yumeng Song et.al.|[2503.02047](http://arxiv.org/abs/2503.02047)|null|
