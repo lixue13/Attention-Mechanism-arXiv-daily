@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.06
+## Updated on 2025.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -391,7 +391,7 @@ layout: default
 |**2025-02-25**|**Neural Network Graph Similarity Computation Based on Graph Fusion**|Zenghui Chang et.al.|[2502.18291](http://arxiv.org/abs/2502.18291)|**[link](https://github.com/llirarry/gfm-code)**|
 |**2025-02-25**|**Self-Adjust Softmax**|Chuanyang Zheng et.al.|[2502.18277](http://arxiv.org/abs/2502.18277)|null|
 |**2025-02-25**|**Software implemented fault diagnosis of natural gas pumping unit based on feedforward neural network**|Mykola Kozlenko et.al.|[2502.18233](http://arxiv.org/abs/2502.18233)|null|
-|**2025-02-23**|**A Reverse Mamba Attention Network for Pathological Liver Segmentation**|Jun Zeng et.al.|[2502.18232](http://arxiv.org/abs/2502.18232)|**[link](https://github.com/junzengz/rmamamba)**|
+|**2025-03-05**|**A Reverse Mamba Attention Network for Pathological Liver Segmentation**|Jun Zeng et.al.|[2502.18232](http://arxiv.org/abs/2502.18232)|**[link](https://github.com/junzengz/rmamamba)**|
 |**2025-02-23**|**Liver Cirrhosis Stage Estimation from MRI with Deep Learning**|Jun Zeng et.al.|[2502.18225](http://arxiv.org/abs/2502.18225)|null|
 |**2025-02-25**|**Synthesizing Consistent Novel Views via 3D Epipolar Attention without Re-Training**|Botao Ye et.al.|[2502.18219](http://arxiv.org/abs/2502.18219)|null|
 |**2025-02-25**|**Exact Algorithms for Minimum Dilation Triangulation**|Sándor P. Fekete et.al.|[2502.18189](http://arxiv.org/abs/2502.18189)|null|
