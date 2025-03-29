@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.28
+## Updated on 2025.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -7686,7 +7686,7 @@ layout: default
 |**2025-03-27**|**Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data**|Zhiyuan Ma et.al.|[2503.21694](http://arxiv.org/abs/2503.21694)|null|
 |**2025-03-27**|**DynamiCtrl: Rethinking the Basic Structure and the Role of Text for High-quality Human Image Animation**|Haoyu Zhao et.al.|[2503.21246](http://arxiv.org/abs/2503.21246)|null|
 |**2025-03-27**|**DGSUnet: An Improved Unet Model with DINO-Guided SAM2 for Multi-Scale Feature Collaboration**|Yimin Xu et.al.|[2503.21187](http://arxiv.org/abs/2503.21187)|null|
-|**2025-03-27**|**VADMamba: Exploring State Space Models for Fast Video Anomaly Detection**|Jiahao Lyu et.al.|[2503.21169](http://arxiv.org/abs/2503.21169)|null|
+|**2025-03-27**|**VADMamba: Exploring State Space Models for Fast Video Anomaly Detection**|Jiahao Lyu et.al.|[2503.21169](http://arxiv.org/abs/2503.21169)|**[link](https://github.com/jLooo/VADMamba)**|
 |**2025-03-27**|**Efficient Multi-Instance Generation with Janus-Pro-Dirven Prompt Parsing**|Fan Qi et.al.|[2503.21069](http://arxiv.org/abs/2503.21069)|null|
 |**2025-03-26**|**MedSegNet10: A Publicly Accessible Network Repository for Split Federated Medical Image Segmentation**|Chamani Shiranthika et.al.|[2503.20830](http://arxiv.org/abs/2503.20830)|null|
 |**2025-03-26**|**PUREPath-B: A Tessellated Bayesian Model for Recovering CMB B-modes over Large Angular Scales of the Sky**|Vipin Sudevan et.al.|[2503.20774](http://arxiv.org/abs/2503.20774)|null|
