@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.03.29
+> Updated on 2025.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -120,7 +120,7 @@
 - 2025-03-26, **A Survey on Event-driven 3D Reconstruction: Development under Different Categories**, Chuanzhi Xu et.al., Paper: [http://arxiv.org/abs/2503.19753](http://arxiv.org/abs/2503.19753)
 - 2025-03-25, **Cystic Lung Phantom to Validate Clinical CT Protocols**, Shefra Shah et.al., Paper: [http://arxiv.org/abs/2503.19747](http://arxiv.org/abs/2503.19747)
 - 2025-03-27, **EventMamba: Enhancing Spatio-Temporal Locality with State Space Models for Event-Based Video Reconstruction**, Chengjie Ge et.al., Paper: [http://arxiv.org/abs/2503.19721](http://arxiv.org/abs/2503.19721)
-- 2025-03-25, **How Generative IR Retrieves Documents Mechanistically**, Anja Reusch et.al., Paper: [http://arxiv.org/abs/2503.19715](http://arxiv.org/abs/2503.19715)
+- 2025-03-25, **How Generative IR Retrieves Documents Mechanistically**, Anja Reusch et.al., Paper: [http://arxiv.org/abs/2503.19715](http://arxiv.org/abs/2503.19715), Code: **[https://github.com/technion-cs-nlp/re-gen-ir](https://github.com/technion-cs-nlp/re-gen-ir)**
 - 2025-03-25, **Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving**, Yusen Xie et.al., Paper: [http://arxiv.org/abs/2503.19713](http://arxiv.org/abs/2503.19713), Code: **[https://github.com/xieyuser/semi-sd](https://github.com/xieyuser/semi-sd)**
 - 2025-03-27, **Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection**, Bo Leng et.al., Paper: [http://arxiv.org/abs/2503.19690](http://arxiv.org/abs/2503.19690)
 - 2025-03-25, **A multitask transformer to sign language translation using motion gesture primitives**, Fredy Alejandro Mendoza López et.al., Paper: [http://arxiv.org/abs/2503.19668](http://arxiv.org/abs/2503.19668)
@@ -140,7 +140,7 @@
 - 2025-03-25, **Improved Alignment of Modalities in Large Vision Language Models**, Kartik Jangra et.al., Paper: [http://arxiv.org/abs/2503.19508](http://arxiv.org/abs/2503.19508)
 - 2025-03-25, **GenHancer: Imperfect Generative Models are Secretly Strong Vision-Centric Enhancers**, Shijie Ma et.al., Paper: [http://arxiv.org/abs/2503.19480](http://arxiv.org/abs/2503.19480)
 - 2025-03-25, **A novel forecasting framework combining virtual samples and enhanced Transformer models for tourism demand forecasting**, Tingting Diao et.al., Paper: [http://arxiv.org/abs/2503.19423](http://arxiv.org/abs/2503.19423)
-- 2025-03-25, **TraF-Align: Trajectory-aware Feature Alignment for Asynchronous Multi-agent Perception**, Zhiying Song et.al., Paper: [http://arxiv.org/abs/2503.19391](http://arxiv.org/abs/2503.19391)
+- 2025-03-25, **TraF-Align: Trajectory-aware Feature Alignment for Asynchronous Multi-agent Perception**, Zhiying Song et.al., Paper: [http://arxiv.org/abs/2503.19391](http://arxiv.org/abs/2503.19391), Code: **[https://github.com/zhyings/traf-align](https://github.com/zhyings/traf-align)**
 - 2025-03-26, **Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing**, Jaihoon Kim et.al., Paper: [http://arxiv.org/abs/2503.19385](http://arxiv.org/abs/2503.19385)
 - 2025-03-25, **Causal invariant geographic network representations with feature and structural distribution shifts**, Yuhan Wang et.al., Paper: [http://arxiv.org/abs/2503.19382](http://arxiv.org/abs/2503.19382)
 - 2025-03-25, **Social Network User Profiling for Anomaly Detection Based on Graph Neural Networks**, Yiwei Zhang et.al., Paper: [http://arxiv.org/abs/2503.19380](http://arxiv.org/abs/2503.19380)
@@ -1003,7 +1003,7 @@
 - 2025-03-07, **Shifting Long-Context LLMs Research from Input to Output**, Yuhao Wu et.al., Paper: [http://arxiv.org/abs/2503.04723](http://arxiv.org/abs/2503.04723)
 - 2025-03-06, **Enough Coin Flips Can Make LLMs Act Bayesian**, Ritwik Gupta et.al., Paper: [http://arxiv.org/abs/2503.04722](http://arxiv.org/abs/2503.04722)
 - 2025-03-06, **The Influence of Prior Discourse on Conversational Agent-Driven Decision-Making**, Stephen Pilli et.al., Paper: [http://arxiv.org/abs/2503.04692](http://arxiv.org/abs/2503.04692)
-- 2025-03-06, **Joint Masked Reconstruction and Contrastive Learning for Mining Interactions Between Proteins**, Jiang Li et.al., Paper: [http://arxiv.org/abs/2503.04650](http://arxiv.org/abs/2503.04650)
+- 2025-03-06, **Joint Masked Reconstruction and Contrastive Learning for Mining Interactions Between Proteins**, Jiang Li et.al., Paper: [http://arxiv.org/abs/2503.04650](http://arxiv.org/abs/2503.04650), Code: **[https://github.com/lijfrank-open/jmcppi](https://github.com/lijfrank-open/jmcppi)**
 - 2025-03-06, **Adaptive Prototype Learning for Multimodal Cancer Survival Analysis**, Hong Liu et.al., Paper: [http://arxiv.org/abs/2503.04643](http://arxiv.org/abs/2503.04643), Code: **[https://github.com/hongliuuuuu/apl](https://github.com/hongliuuuuu/apl)**
 - 2025-03-06, **Quantum spin liquid ground state in a rare-earth triangular antiferromagnet SmTa $_7$O$_{19}$**, Dhanpal Bairwa et.al., Paper: [http://arxiv.org/abs/2503.04631](http://arxiv.org/abs/2503.04631)
 - 2025-03-06, **On the distribution of the angle between Oseledets spaces**, Jairo Bochi et.al., Paper: [http://arxiv.org/abs/2503.04612](http://arxiv.org/abs/2503.04612)
@@ -7605,7 +7605,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## IRSTD
 
@@ -7682,7 +7682,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## UNet
 
@@ -9222,7 +9222,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
