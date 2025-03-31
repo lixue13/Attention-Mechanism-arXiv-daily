@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.30
+## Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,7 +31,7 @@
 |**2025-03-27**|**Magnitude-Phase Dual-Path Speech Enhancement Network based on Self-Supervised Embedding and Perceptual Contrast Stretch Boosting**|Alimjan Mattursun et.al.|[2503.21571](http://arxiv.org/abs/2503.21571)|null|
 |**2025-03-27**|**Statistical learning of structure-property relationships for transport in porous media, using hybrid AI modeling**|Somayeh Hosseinhashemi et.al.|[2503.21560](http://arxiv.org/abs/2503.21560)|null|
 |**2025-03-27**|**Combining Graph Attention Networks and Distributed Optimization for Multi-Robot Mixed-Integer Convex Programming**|Viet-Anh Le et.al.|[2503.21548](http://arxiv.org/abs/2503.21548)|null|
-|**2025-03-27**|**LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing**|Achint Soni et.al.|[2503.21541](http://arxiv.org/abs/2503.21541)|**[link](https://github.com/locatedit/locatedit)**|
+|**2025-03-28**|**LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing**|Achint Soni et.al.|[2503.21541](http://arxiv.org/abs/2503.21541)|**[link](https://github.com/locatedit/locatedit)**|
 |**2025-03-27**|**Inequality Restricted Minimum Density Power Divergence Estimation in Panel Count Data**|Udita Goswami et.al.|[2503.21534](http://arxiv.org/abs/2503.21534)|null|
 |**2025-03-27**|**Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method**|Wenyi Xiong et.al.|[2503.21477](http://arxiv.org/abs/2503.21477)|null|
 |**2025-03-27**|**DATA-WA: Demand-based Adaptive Task Assignment with Dynamic Worker Availability Windows**|Jinwen Chen et.al.|[2503.21458](http://arxiv.org/abs/2503.21458)|null|
@@ -56,7 +56,7 @@
 |**2025-03-27**|**WVSC: Wireless Video Semantic Communication with Multi-frame Compensation**|Bingyan Xie et.al.|[2503.21197](http://arxiv.org/abs/2503.21197)|null|
 |**2025-03-27**|**DGSUnet: An Improved Unet Model with DINO-Guided SAM2 for Multi-Scale Feature Collaboration**|Yimin Xu et.al.|[2503.21187](http://arxiv.org/abs/2503.21187)|**[link](https://github.com/cheneyxuyimin/sam2dino-seg)**|
 |**2025-03-27**|**Recurrent Feature Mining and Keypoint Mixup Padding for Category-Agnostic Pose Estimation**|Junjie Chen et.al.|[2503.21140](http://arxiv.org/abs/2503.21140)|**[link](https://github.com/chenbys/fmmp)**|
-|**2025-03-27**|**Omni-AD: Learning to Reconstruct Global and Local Features for Multi-class Anomaly Detection**|Jiajie Quan et.al.|[2503.21125](http://arxiv.org/abs/2503.21125)|null|
+|**2025-03-28**|**Omni-AD: Learning to Reconstruct Global and Local Features for Multi-class Anomaly Detection**|Jiajie Quan et.al.|[2503.21125](http://arxiv.org/abs/2503.21125)|null|
 |**2025-03-27**|**AdaMHF: Adaptive Multimodal Hierarchical Fusion for Survival Prediction**|Shuaiyu Zhang et.al.|[2503.21124](http://arxiv.org/abs/2503.21124)|null|
 |**2025-03-27**|**HSLiNets: Evaluating Band Ordering Strategies in Hyperspectral and LiDAR Fusion**|Judy X Yang et.al.|[2503.21072](http://arxiv.org/abs/2503.21072)|**[link](https://github.com/judyxyang/hslinets)**|
 |**2025-03-26**|**FinAudio: A Benchmark for Audio Large Language Models in Financial Applications**|Yupeng Cao et.al.|[2503.20990](http://arxiv.org/abs/2503.20990)|null|
@@ -96,7 +96,7 @@
 |**2025-03-26**|**CNN+Transformer Based Anomaly Traffic Detection in UAV Networks for Emergency Rescue**|Yulu Han et.al.|[2503.20355](http://arxiv.org/abs/2503.20355)|null|
 |**2025-03-26**|**VideoGEM: Training-free Action Grounding in Videos**|Felix Vogel et.al.|[2503.20348](http://arxiv.org/abs/2503.20348)|null|
 |**2025-03-26**|**Progressive Focused Transformer for Single Image Super-Resolution**|Wei Long et.al.|[2503.20337](http://arxiv.org/abs/2503.20337)|null|
-|**2025-03-26**|**AI-Driven MRI Spine Pathology Detection: A Comprehensive Deep Learning Approach for Automated Diagnosis in Diverse Clinical Settings**|Bargava Subramanian et.al.|[2503.20316](http://arxiv.org/abs/2503.20316)|null|
+|**2025-03-28**|**AI-Driven MRI Spine Pathology Detection: A Comprehensive Deep Learning Approach for Automated Diagnosis in Diverse Clinical Settings**|Bargava Subramanian et.al.|[2503.20316](http://arxiv.org/abs/2503.20316)|null|
 |**2025-03-27**|**Bridging Evolutionary Multiobjective Optimization and GPU Acceleration via Tensorization**|Zhenyu Liang et.al.|[2503.20286](http://arxiv.org/abs/2503.20286)|**[link](https://github.com/emi-group/evomo)**|
 |**2025-03-26**|**Faster Parameter-Efficient Tuning with Token Redundancy Reduction**|Kwonyoung Kim et.al.|[2503.20282](http://arxiv.org/abs/2503.20282)|null|
 |**2025-03-26**|**Are We There Yet? Unraveling the State-of-the-Art Graph Network Intrusion Detection Systems**|Chenglong Wang et.al.|[2503.20281](http://arxiv.org/abs/2503.20281)|null|
@@ -387,7 +387,7 @@
 |**2025-03-17**|**Synchronous vs Asynchronous Reinforcement Learning in a Real World Robot**|Ali Parsaee et.al.|[2503.14554](http://arxiv.org/abs/2503.14554)|null|
 |**2025-03-17**|**Matching Skeleton-based Activity Representations with Heterogeneous Signals for HAR**|Shuheng Li et.al.|[2503.14547](http://arxiv.org/abs/2503.14547)|null|
 |**2025-03-17**|**AI-Driven Rapid Identification of Bacterial and Fungal Pathogens in Blood Smears of Septic Patients**|Agnieszka Sroka-Oleksiak et.al.|[2503.14542](http://arxiv.org/abs/2503.14542)|null|
-|**2025-03-17**|**Advancing Chronic Tuberculosis Diagnostics Using Vision-Language Models: A Multi modal Framework for Precision Analysis**|Praveen Shastry et.al.|[2503.14536](http://arxiv.org/abs/2503.14536)|null|
+|**2025-03-28**|**Advancing Chronic Tuberculosis Diagnostics Using Vision-Language Models: A Multi modal Framework for Precision Analysis**|Praveen Shastry et.al.|[2503.14536](http://arxiv.org/abs/2503.14536)|null|
 |**2025-03-17**|**A farewell to waves**|Geoff Beck et.al.|[2503.14533](http://arxiv.org/abs/2503.14533)|null|
 |**2025-03-18**|**MusicInfuser: Making Video Diffusion Listen and Dance**|Susung Hong et.al.|[2503.14505](http://arxiv.org/abs/2503.14505)|null|
 |**2025-03-19**|**Advances in 4D Generation: A Survey**|Qiaowei Miao et.al.|[2503.14501](http://arxiv.org/abs/2503.14501)|**[link](https://github.com/miaoqiaowei/awesome-4d)**|
@@ -468,7 +468,7 @@
 |**2025-03-17**|**Channel Estimation for Pinching-Antenna Systems (PASS)**|Jian Xiao et.al.|[2503.13268](http://arxiv.org/abs/2503.13268)|null|
 |**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252](http://arxiv.org/abs/2503.13252)|null|
 |**2025-03-17**|**Arab Spring's Impact on Science through the Lens of Scholarly Attention, Funding, and Migration**|Yasaman Asgari et.al.|[2503.13238](http://arxiv.org/abs/2503.13238)|null|
-|**2025-03-17**|**Can Language Models Follow Multiple Turns of Entangled Instructions?**|Chi Han et.al.|[2503.13222](http://arxiv.org/abs/2503.13222)|**[link](https://github.com/Glaciohound/Multi-Turn-Instruct)**|
+|**2025-03-28**|**Can Language Models Follow Multiple Turns of Entangled Instructions?**|Chi Han et.al.|[2503.13222](http://arxiv.org/abs/2503.13222)|**[link](https://github.com/Glaciohound/Multi-Turn-Instruct)**|
 |**2025-03-17**|**Equ-saturating categories**|Dominique Bourn et.al.|[2503.13190](http://arxiv.org/abs/2503.13190)|null|
 |**2025-03-17**|**A super-resolution reconstruction method for lightweight building images based on an expanding feature modulation network**|Yi Zhang et.al.|[2503.13179](http://arxiv.org/abs/2503.13179)|null|
 |**2025-03-17**|**OSLO-IC: On-the-Sphere Learned Omnidirectional Image Compression with Attention Modules and Spatial Context**|Paul Wawerek-López et.al.|[2503.13119](http://arxiv.org/abs/2503.13119)|null|
@@ -939,7 +939,7 @@
 |**2025-03-08**|**FedSem: A Resource Allocation Scheme for Federated Learning Assisted Semantic Communication**|Xinyu Zhou et.al.|[2503.06058](http://arxiv.org/abs/2503.06058)|null|
 |**2025-03-08**|**Fine-Grained Bias Detection in LLM: Enhancing detection mechanisms for nuanced biases**|Suvendu Mohanty et.al.|[2503.06054](http://arxiv.org/abs/2503.06054)|null|
 |**2025-03-19**|**Interpretable High-order Knowledge Graph Neural Network for Predicting Synthetic Lethality in Human Cancers**|Xuexin Chen et.al.|[2503.06052](http://arxiv.org/abs/2503.06052)|null|
-|**2025-03-08**|**Improving SAM for Camouflaged Object Detection via Dual Stream Adapters**|Jiaming Liu et.al.|[2503.06042](http://arxiv.org/abs/2503.06042)|null|
+|**2025-03-28**|**Improving SAM for Camouflaged Object Detection via Dual Stream Adapters**|Jiaming Liu et.al.|[2503.06042](http://arxiv.org/abs/2503.06042)|null|
 |**2025-03-08**|**End-to-End HOI Reconstruction Transformer with Graph-based Encoding**|Zhenrong Wang et.al.|[2503.06012](http://arxiv.org/abs/2503.06012)|null|
 |**2025-03-12**|**Analyzing the Role of Permutation Invariance in Linear Mode Connectivity**|Keyao Zhan et.al.|[2503.06001](http://arxiv.org/abs/2503.06001)|null|
 |**2025-03-08**|**ReJSHand: Efficient Real-Time Hand Pose Estimation and Mesh Reconstruction Using Refined Joint and Skeleton Features**|Shan An et.al.|[2503.05995](http://arxiv.org/abs/2503.05995)|**[link](https://github.com/daishipeng/rejshand)**|
@@ -7607,7 +7607,7 @@
 |**2024-10-03**|**Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**|Jinwoo Go et.al.|[2409.09141](http://arxiv.org/abs/2409.09141)|null|
 |**2024-09-13**|**Neural Message Passing Induced by Energy-Constrained Diffusion**|Qitian Wu et.al.|[2409.09111](http://arxiv.org/abs/2409.09111)|null|
 
-<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
 
 ## IRSTD
 
@@ -7686,7 +7686,7 @@
 |**2020-07-29**|**Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**|Saed Moradi et.al.|[1810.03173](http://arxiv.org/abs/1810.03173)|**[link](https://github.com/moradisaed/ADMD)**|
 |**2017-03-27**|**Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**|Yimian Dai et.al.|[1703.09157](http://arxiv.org/abs/1703.09157)|**[link](https://github.com/YimianDai/DENTIST)**|
 
-<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
 
 ## UNet
 
@@ -7703,7 +7703,7 @@
 |**2025-03-26**|**Exploring Robustness of Cortical Morphometry in the presence of white matter lesions, using Diffusion Models for Lesion Filling**|Vinzenz Uhr et.al.|[2503.20571](http://arxiv.org/abs/2503.20571)|null|
 |**2025-03-26**|**Attention Xception UNet (AXUNet): A Novel Combination of CNN and Self-Attention for Brain Tumor Segmentation**|Farzan Moodi et.al.|[2503.20446](http://arxiv.org/abs/2503.20446)|null|
 |**2025-03-26**|**ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On**|Ji Woo Hong et.al.|[2503.20418](http://arxiv.org/abs/2503.20418)|null|
-|**2025-03-26**|**AI-Driven MRI Spine Pathology Detection: A Comprehensive Deep Learning Approach for Automated Diagnosis in Diverse Clinical Settings**|Bargava Subramanian et.al.|[2503.20316](http://arxiv.org/abs/2503.20316)|null|
+|**2025-03-28**|**AI-Driven MRI Spine Pathology Detection: A Comprehensive Deep Learning Approach for Automated Diagnosis in Diverse Clinical Settings**|Bargava Subramanian et.al.|[2503.20316](http://arxiv.org/abs/2503.20316)|null|
 |**2025-03-25**|**GRN+: A Simplified Generative Reinforcement Network for Tissue Layer Analysis in 3D Ultrasound Images for Chronic Low-back Pain**|Zixue Zeng et.al.|[2503.19736](http://arxiv.org/abs/2503.19736)|null|
 |**2025-03-25**|**Optimization of MedSAM model based on bounding box adaptive perturbation algorithm**|Boyi Li et.al.|[2503.19700](http://arxiv.org/abs/2503.19700)|null|
 |**2025-03-25**|**Prompt-Guided Dual-Path UNet with Mamba for Medical Image Segmentation**|Shaolei Zhang et.al.|[2503.19589](http://arxiv.org/abs/2503.19589)|null|
@@ -8187,7 +8187,7 @@
 |**2024-11-27**|**Improved implicit diffusion model with knowledge distillation to estimate the spatial distribution density of carbon stock in remote sensing imagery**|Zhenyu Yu et.al.|[2411.17973](http://arxiv.org/abs/2411.17973)|null|
 |**2024-11-20**|**Generating CKM Using Others' Data: Cross-AP CKM Inference with Deep Learning**|Zhuoyin Dai et.al.|[2411.17716](http://arxiv.org/abs/2411.17716)|null|
 |**2024-11-26**|**An Ensemble Approach for Brain Tumor Segmentation and Synthesis**|Juampablo E. Heras Rivera et.al.|[2411.17617](http://arxiv.org/abs/2411.17617)|null|
-|**2024-11-27**|**Accelerating Vision Diffusion Transformers with Skip Branches**|Guanjie Chen et.al.|[2411.17616](http://arxiv.org/abs/2411.17616)|**[link](https://github.com/opensparsellms/skip-dit)**|
+|**2025-03-28**|**Towards Stabilized and Efficient Diffusion Transformers through Long-Skip-Connections with Spectral Constraints**|Guanjie Chen et.al.|[2411.17616](http://arxiv.org/abs/2411.17616)|**[link](https://github.com/opensparsellms/skip-dit)**|
 |**2024-11-26**|**TAFM-Net: A Novel Approach to Skin Lesion Segmentation Using Transformer Attention and Focal Modulation**|Tariq M Khan et.al.|[2411.17556](http://arxiv.org/abs/2411.17556)|null|
 |**2025-03-14**|**vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation**|Bastian Wittmann et.al.|[2411.17386](http://arxiv.org/abs/2411.17386)|**[link](https://github.com/bwittmann/vesselFM)**|
 |**2024-11-26**|**SAM-MPA: Applying SAM to Few-shot Medical Image Segmentation using Mask Propagation and Auto-prompting**|Jie Xu et.al.|[2411.17363](http://arxiv.org/abs/2411.17363)|null|
@@ -8496,7 +8496,7 @@
 |**2024-09-14**|**An Augmentation-based Model Re-adaptation Framework for Robust Image Segmentation**|Zheming Zuo et.al.|[2409.09530](http://arxiv.org/abs/2409.09530)|null|
 |**2024-09-13**|**Spectral U-Net: Enhancing Medical Image Segmentation via Spectral Decomposition**|Yaopeng Peng et.al.|[2409.09216](http://arxiv.org/abs/2409.09216)|null|
 |**2024-09-13**|**D2-MLP: Dynamic Decomposed MLP Mixer for Medical Image Segmentation**|Jin Yang et.al.|[2409.08905](http://arxiv.org/abs/2409.08905)|null|
-|**2024-09-13**|**RF Challenge: The Data-Driven Radio Frequency Signal Separation Challenge**|Alejandro Lancho et.al.|[2409.08839](http://arxiv.org/abs/2409.08839)|null|
+|**2025-03-27**|**RF Challenge: The Data-Driven Radio Frequency Signal Separation Challenge**|Alejandro Lancho et.al.|[2409.08839](http://arxiv.org/abs/2409.08839)|null|
 |**2025-03-06**|**Pathfinder for Low-altitude Aircraft with Binary Neural Network**|Kaijie Yin et.al.|[2409.08824](http://arxiv.org/abs/2409.08824)|**[link](https://github.com/imrl/pathfinder)**|
 |**2024-09-13**|**Improved Unet model for brain tumor image segmentation based on ASPP-coordinate attention mechanism**|Zixuan Wang et.al.|[2409.08588](http://arxiv.org/abs/2409.08588)|null|
 |**2024-09-13**|**Cross-conditioned Diffusion Model for Medical Image to Image Translation**|Zhaohu Xing et.al.|[2409.08500](http://arxiv.org/abs/2409.08500)|null|
@@ -9228,7 +9228,7 @@
 |**2024-07-29**|**ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**|Lukas Höllein et.al.|[2403.01807](http://arxiv.org/abs/2403.01807)|**[link](https://github.com/facebookresearch/viewdiff)**|
 |**2024-03-07**|**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**|Yuhao Xu et.al.|[2403.01779](http://arxiv.org/abs/2403.01779)|**[link](https://github.com/levihsu/ootdiffusion)**|
 
-<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
