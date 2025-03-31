@@ -19,6 +19,41 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**On the Alignment of Post-Publication Reviews & Bibliometric and Altmetric Impact -- A Case Study on Expert Statements from the Science Media Center Germany**|Dirk Tunger et.al.|[2503.22594](http://arxiv.org/abs/2503.22594)|null|
+|**2025-03-28**|**Variational quantum-neural hybrid imaginary time evolution**|Hiroki Kuji et.al.|[2503.22570](http://arxiv.org/abs/2503.22570)|null|
+|**2025-03-28**|**SafeCast: Risk-Responsive Motion Forecasting for Autonomous Vehicles**|Haicheng Liao et.al.|[2503.22541](http://arxiv.org/abs/2503.22541)|null|
+|**2025-03-28**|**Topological optical skyrmion transfer to matter**|Chirantan Mitra et.al.|[2503.22534](http://arxiv.org/abs/2503.22534)|null|
+|**2025-03-28**|**Energy-efficient UAV movement and user-UAV association in multi-UAV networks**|Subhadip Ghosh et.al.|[2503.22489](http://arxiv.org/abs/2503.22489)|null|
+|**2025-03-28**|**Endo-TTAP: Robust Endoscopic Tissue Tracking via Multi-Facet Guided Attention and Hybrid Flow-point Supervision**|Rulin Zhou et.al.|[2503.22394](http://arxiv.org/abs/2503.22394)|null|
+|**2025-03-28**|**A Refined Analysis of Massive Activations in LLMs**|Louis Owen et.al.|[2503.22329](http://arxiv.org/abs/2503.22329)|**[link](https://github.com/bluorion-com/refine_massive_activations)**|
+|**2025-03-28**|**Host dependence of PL5 ensemble in 4H-SiC**|Jiajun Li et.al.|[2503.22270](http://arxiv.org/abs/2503.22270)|null|
+|**2025-03-28**|**Segment Any Motion in Videos**|Nan Huang et.al.|[2503.22268](http://arxiv.org/abs/2503.22268)|null|
+|**2025-03-28**|**Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion**|Songsong Yu et.al.|[2503.22262](http://arxiv.org/abs/2503.22262)|null|
+|**2025-03-28**|**DynaGraph: Interpretable Multi-Label Prediction from EHRs via Dynamic Graph Learning and Contrastive Augmentation**|Munib Mesinovic et.al.|[2503.22257](http://arxiv.org/abs/2503.22257)|null|
+|**2025-03-28**|**Efficient Building Roof Type Classification: A Domain-Specific Self-Supervised Approach**|Guneet Mutreja et.al.|[2503.22251](http://arxiv.org/abs/2503.22251)|null|
+|**2025-03-28**|**FLAM: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation**|Xianqi Zhang et.al.|[2503.22249](http://arxiv.org/abs/2503.22249)|null|
+|**2025-03-28**|**Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance**|Haijie Yang et.al.|[2503.22225](http://arxiv.org/abs/2503.22225)|null|
+|**2025-03-28**|**Intrinsic Image Decomposition for Robust Self-supervised Monocular Depth Estimation on Reflective Surfaces**|Wonhyeok Choi et.al.|[2503.22209](http://arxiv.org/abs/2503.22209)|null|
+|**2025-03-28**|**Hyperspectral Adapter for Object Tracking based on Hyperspectral Video**|Long Gao et.al.|[2503.22199](http://arxiv.org/abs/2503.22199)|null|
+|**2025-03-28**|**EdgeInfinite: A Memory-Efficient Infinite-Context Transformer for Edge Devices**|Jiyu Chen et.al.|[2503.22196](http://arxiv.org/abs/2503.22196)|null|
+|**2025-03-28**|**Enhanced Charging in Multi-Battery Systems by Nonreciprocity**|Hua-Wei Zhao et.al.|[2503.22187](http://arxiv.org/abs/2503.22187)|null|
+|**2025-03-28**|**Spatial Transport Optimization by Repositioning Attention Map for Training-Free Text-to-Image Synthesis**|Woojung Han et.al.|[2503.22168](http://arxiv.org/abs/2503.22168)|null|
+|**2025-03-28**|**Permutation-Invariant and Orientation-Aware Dataset Distillation for 3D Point Clouds**|Jae-Young Yim et.al.|[2503.22154](http://arxiv.org/abs/2503.22154)|null|
+|**2025-03-28**|**Enhancing Dance-to-Music Generation via Negative Conditioning Latent Diffusion Model**|Changchang Sun et.al.|[2503.22138](http://arxiv.org/abs/2503.22138)|null|
+|**2025-03-28**|**Carbon-Nanotube/ $β$-Ga$_2$O$_3$ Heterojunction PIN Diodes**|Hunter D. Ellis et.al.|[2503.22123](http://arxiv.org/abs/2503.22123)|null|
+|**2025-03-28**|**Detecting Localized Deepfake Manipulations Using Action Unit-Guided Video Representations**|Tharun Anand et.al.|[2503.22121](http://arxiv.org/abs/2503.22121)|null|
+|**2025-03-28**|**Camera Model Identification with SPAIR-Swin and Entropy based Non-Homogeneous Patches**|Protyay Dey et.al.|[2503.22120](http://arxiv.org/abs/2503.22120)|null|
+|**2025-03-28**|**Multimodal Machine Learning for Real Estate Appraisal: A Comprehensive Survey**|Chenya Huang et.al.|[2503.22119](http://arxiv.org/abs/2503.22119)|null|
+|**2025-03-28**|**Non-Monotonic Attention-based Read/Write Policy Learning for Simultaneous Translation**|Zeeshan Ahmed et.al.|[2503.22051](http://arxiv.org/abs/2503.22051)|null|
+|**2025-03-27**|**ThinkEdit: Interpretable Weight Editing to Mitigate Overly Short Thinking in Reasoning Models**|Chung-En Sun et.al.|[2503.22048](http://arxiv.org/abs/2503.22048)|null|
+|**2025-03-27**|**Discussion of "Robust Distance Covariance" by S. Leyder, J. Raymaekers, and P.J. Rousseeuw**|Hallin Marc et.al.|[2503.22021](http://arxiv.org/abs/2503.22021)|null|
+|**2025-03-27**|**AGILE: A Diffusion-Based Attention-Guided Image and Label Translation for Efficient Cross-Domain Plant Trait Identification**|Earl Ranario et.al.|[2503.22019](http://arxiv.org/abs/2503.22019)|null|
+|**2025-03-27**|**Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration**|Yujie Chen et.al.|[2503.21970](http://arxiv.org/abs/2503.21970)|null|
+|**2025-03-27**|**Benchmarking Deep Learning-Based Methods for Irradiance Nowcasting with Sky Images**|Lorenzo F. C. Varaschin et.al.|[2503.21966](http://arxiv.org/abs/2503.21966)|null|
+|**2025-03-27**|**NeuroLIP: Interpretable and Fair Cross-Modal Alignment of fMRI and Phenotypic Text**|Yanting Yang et.al.|[2503.21964](http://arxiv.org/abs/2503.21964)|null|
+|**2025-03-27**|**Local Normalization Distortion and the Thermodynamic Formalism of Decoding Strategies for Large Language Models**|Tom Kempton et.al.|[2503.21929](http://arxiv.org/abs/2503.21929)|null|
+|**2025-03-27**|**CMD-HAR: Cross-Modal Disentanglement for Wearable Human Activity Recognition**|Hanyu Liu et.al.|[2503.21843](http://arxiv.org/abs/2503.21843)|null|
+|**2025-03-17**|**SeisRDT: Latent Diffusion Model Based On Representation Learning For Seismic Data Interpolation And Reconstruction**|Shuang Wang et.al.|[2503.21791](http://arxiv.org/abs/2503.21791)|null|
 |**2025-03-27**|**Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**|Abdelrahman Shaker et.al.|[2503.21782](http://arxiv.org/abs/2503.21782)|**[link](https://github.com/amshaker/mobile-videogpt)**|
 |**2025-03-27**|**Exploring the Evolution of Physics Cognition in Video Generation: A Survey**|Minghui Lin et.al.|[2503.21765](http://arxiv.org/abs/2503.21765)|**[link](https://github.com/minnie-lin/awesome-physics-cognition-based-video-generation)**|
 |**2025-03-27**|**OccRobNet : Occlusion Robust Network for Accurate 3D Interacting Hand-Object Pose Estimation**|Mallika Garg et.al.|[2503.21723](http://arxiv.org/abs/2503.21723)|null|
@@ -7692,6 +7727,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**A Self-Supervised Learning of a Foundation Model for Analog Layout Design Automation**|Sungyu Jeong et.al.|[2503.22143](http://arxiv.org/abs/2503.22143)|null|
+|**2025-03-28**|**Enhancing Dance-to-Music Generation via Negative Conditioning Latent Diffusion Model**|Changchang Sun et.al.|[2503.22138](http://arxiv.org/abs/2503.22138)|null|
+|**2025-03-28**|**Semantic segmentation for building houses from wooden cubes**|Ivan Beleacov et.al.|[2503.22125](http://arxiv.org/abs/2503.22125)|null|
+|**2025-03-27**|**Enhancing Pavement Crack Classification with Bidirectional Cascaded Neural Networks**|Taqwa I. Alhadidi et.al.|[2503.21956](http://arxiv.org/abs/2503.21956)|null|
+|**2025-03-26**|**Learning from spatially inhomogenous data: resolution-adaptive convolutions for multiple sclerosis lesion segmentation**|Ivan Diaz et.al.|[2503.21829](http://arxiv.org/abs/2503.21829)|null|
+|**2025-03-17**|**SeisRDT: Latent Diffusion Model Based On Representation Learning For Seismic Data Interpolation And Reconstruction**|Shuang Wang et.al.|[2503.21791](http://arxiv.org/abs/2503.21791)|null|
 |**2025-03-27**|**Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data**|Zhiyuan Ma et.al.|[2503.21694](http://arxiv.org/abs/2503.21694)|**[link](https://github.com/theericma/triplaneturbo)**|
 |**2025-03-27**|**DynamiCtrl: Rethinking the Basic Structure and the Role of Text for High-quality Human Image Animation**|Haoyu Zhao et.al.|[2503.21246](http://arxiv.org/abs/2503.21246)|null|
 |**2025-03-27**|**DGSUnet: An Improved Unet Model with DINO-Guided SAM2 for Multi-Scale Feature Collaboration**|Yimin Xu et.al.|[2503.21187](http://arxiv.org/abs/2503.21187)|**[link](https://github.com/cheneyxuyimin/sam2dino-seg)**|
