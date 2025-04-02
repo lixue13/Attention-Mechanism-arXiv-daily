@@ -63,7 +63,7 @@
 |**2025-03-30**|**DiT4SR: Taming Diffusion Transformer for Real-World Image Super-Resolution**|Zheng-Peng Duan et.al.|[2503.23580](http://arxiv.org/abs/2503.23580)|null|
 |**2025-03-30**|**Google and China's Trade**|Cui Hu et.al.|[2503.23557](http://arxiv.org/abs/2503.23557)|null|
 |**2025-03-30**|**Redundant feature screening method for human activity recognition based on attention purification mechanism**|Hanyu Liu et.al.|[2503.23537](http://arxiv.org/abs/2503.23537)|null|
-|**2025-03-30**|**A Survey on Unlearnable Data**|Jiahao Li et.al.|[2503.23536](http://arxiv.org/abs/2503.23536)|**[link](https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data)**|
+|**2025-04-01**|**A Survey on Unlearnable Data**|Jiahao Li et.al.|[2503.23536](http://arxiv.org/abs/2503.23536)|**[link](https://github.com/LiJiahao-Alex/Awesome-UnLearnable-Data)**|
 |**2025-03-30**|**Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models**|Haochen Liu et.al.|[2503.23523](http://arxiv.org/abs/2503.23523)|null|
 |**2025-03-30**|**ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025**|Tianming Liang et.al.|[2503.23509](http://arxiv.org/abs/2503.23509)|**[link](https://github.com/isee-laboratory/referdino-plus)**|
 |**2025-03-30**|**Embedding Shift Dissection on CLIP: Effects of Augmentations on VLM's Representation Learning**|Ashim Dahal et.al.|[2503.23495](http://arxiv.org/abs/2503.23495)|null|
@@ -171,6 +171,7 @@
 |**2025-03-27**|**Statistics of the Random Matrix Spectral Form Factor**|Alex Altland et.al.|[2503.21386](http://arxiv.org/abs/2503.21386)|null|
 |**2025-03-30**|**Inference in stochastic differential equations using the Laplace approximation: Demonstration and examples**|Uffe Høgsbro Thygesen et.al.|[2503.21358](http://arxiv.org/abs/2503.21358)|null|
 |**2025-03-27**|**A Low-Power Streaming Speech Enhancement Accelerator For Edge Devices**|Ci-Hao Wu et.al.|[2503.21335](http://arxiv.org/abs/2503.21335)|null|
+|**2025-04-01**|**Safety of particle filters: Some results on the time evolution of particle filter estimates**|Mathieu Gerber et.al.|[2503.21334](http://arxiv.org/abs/2503.21334)|null|
 |**2025-03-27**|**A $B-$anomaly motivated $Z^\prime$ boson at the energy and precision frontiers**|Ben Allanach et.al.|[2503.21319](http://arxiv.org/abs/2503.21319)|null|
 |**2025-03-27**|**InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression**|Dongchen Lu et.al.|[2503.21307](http://arxiv.org/abs/2503.21307)|**[link](https://github.com/ludc506/InternVL-X)**|
 |**2025-03-27**|**Interactive Databases for the Life Sciences**|Rosalia Moreddu et.al.|[2503.21274](http://arxiv.org/abs/2503.21274)|null|
@@ -8188,7 +8189,7 @@
 |**2025-01-02**|**ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI**|Neda Tavakoli et.al.|[2501.01372](http://arxiv.org/abs/2501.01372)|**[link](https://github.com/nedatavakoli/scarnet)**|
 |**2025-02-07**|**Evaluation of Deep Learning-based Scatter Correction on a Long-axial Field-of-view PET scanner**|Baptiste Laurent et.al.|[2501.01341](http://arxiv.org/abs/2501.01341)|null|
 |**2025-01-02**|**DuMo: Dual Encoder Modulation Network for Precise Concept Erasure**|Feng Han et.al.|[2501.01125](http://arxiv.org/abs/2501.01125)|**[link](https://github.com/maplebb/dumo)**|
-|**2025-04-01**|**HCMA-UNet: A Hybrid CNN-Mamba UNet with Axial Self-Attention for Efficient Breast Cancer Segmentation**|Haoxuan Li et.al.|[2501.00751](http://arxiv.org/abs/2501.00751)|null|
+|**2025-04-01**|**HCMA-UNet: A Hybrid CNN-Mamba UNet with Axial Self-Attention for Efficient Breast Cancer Segmentation**|Haoxuan Li et.al.|[2501.00751](http://arxiv.org/abs/2501.00751)|**[link](https://github.com/haoxuanli-thu/hcma-unet)**|
 |**2024-12-30**|**Galaxy Spectra Networks (GaSNet). III. Generative pre-trained network for spectrum reconstruction, redshift estimate and anomaly detection**|Fucheng Zhong et.al.|[2412.21130](http://arxiv.org/abs/2412.21130)|**[link](https://github.com/Fucheng-Zhong/GaSNet-III)**|
 |**2024-12-30**|**Quantum Diffusion Model for Quark and Gluon Jet Generation**|Mariia Baidachna et.al.|[2412.21082](http://arxiv.org/abs/2412.21082)|**[link](https://github.com/mashathepotato/GSoC-Quantum-Diffusion-Model)**|
 |**2024-12-30**|**Residual Connection Networks in Medical Image Processing: Exploration of ResUnet++ Model Driven by Human Computer Interaction**|Peixin Dai et.al.|[2412.20709](http://arxiv.org/abs/2412.20709)|null|
