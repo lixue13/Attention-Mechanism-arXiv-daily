@@ -91,7 +91,7 @@
 |**2025-04-02**|**DESIL: Detecting Silent Bugs in MLIR Compiler Infrastructure**|Chenyao Suo et.al.|[2504.01379](http://arxiv.org/abs/2504.01379)|null|
 |**2025-04-02**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**|Yuji Nozawa et.al.|[2504.01348](http://arxiv.org/abs/2504.01348)|null|
 |**2025-04-03**|**GTR: Graph-Table-RAG for Cross-Table Question Answering**|Jiaru Zou et.al.|[2504.01346](http://arxiv.org/abs/2504.01346)|null|
-|**2025-04-02**|**Slow-Fast Architecture for Video Multi-Modal Large Language Models**|Min Shi et.al.|[2504.01328](http://arxiv.org/abs/2504.01328)|null|
+|**2025-04-02**|**Slow-Fast Architecture for Video Multi-Modal Large Language Models**|Min Shi et.al.|[2504.01328](http://arxiv.org/abs/2504.01328)|**[link](https://github.com/shi-labs/slow-fast-video-multimodal-llm)**|
 |**2025-04-02**|**Derivative estimation by RKHS regularization for learning dynamics from time-series data**|Hailong Guo et.al.|[2504.01289](http://arxiv.org/abs/2504.01289)|**[link](https://github.com/hessianguo/odelearning)**|
 |**2025-04-03**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|null|
 |**2025-04-02**|**BOLDSimNet: Examining Brain Network Similarity between Task and Resting-State fMRI**|Boseong Kim et.al.|[2504.01274](http://arxiv.org/abs/2504.01274)|null|
@@ -113,7 +113,7 @@
 |**2025-04-01**|**Role and Use of Race in AI/ML Models Related to Health**|Martin C. Were et.al.|[2504.00899](http://arxiv.org/abs/2504.00899)|null|
 |**2025-04-01**|**Improved Visual-Spatial Reasoning via R1-Zero-Like Training**|Zhenyi Liao et.al.|[2504.00883](http://arxiv.org/abs/2504.00883)|null|
 |**2025-04-01**|**Data-free Knowledge Distillation with Diffusion Models**|Xiaohua Qi et.al.|[2504.00870](http://arxiv.org/abs/2504.00870)|null|
-|**2025-04-01**|**Investigating the Capabilities and Limitations of Machine Learning for Identifying Bias in English Language Data with Information and Heritage Professionals**|Lucy Havens et.al.|[2504.00860](http://arxiv.org/abs/2504.00860)|null|
+|**2025-04-01**|**Investigating the Capabilities and Limitations of Machine Learning for Identifying Bias in English Language Data with Information and Heritage Professionals**|Lucy Havens et.al.|[2504.00860](http://arxiv.org/abs/2504.00860)|**[link](https://github.com/thegoose20/gender-bias)**|
 |**2025-04-01**|**NeuRadar: Neural Radiance Fields for Automotive Radar Point Clouds**|Mahan Rafidashti et.al.|[2504.00859](http://arxiv.org/abs/2504.00859)|null|
 |**2025-04-01**|**ReaLitE: Enrichment of Relation Embeddings in Knowledge Graphs using Numeric Literals**|Antonis Klironomos et.al.|[2504.00852](http://arxiv.org/abs/2504.00852)|null|
 |**2025-04-01**|**Logical perspectives on learning statistical objects**|Aaron Anderson et.al.|[2504.00847](http://arxiv.org/abs/2504.00847)|null|
@@ -155,7 +155,7 @@
 |**2025-03-31**|**The Rizzeta Stone: Adopting Gen- $α$ Colloquial Language to Improve Scientific Paper Rizz and Aura from a Skibidi Perspective**|Anne E Blackwell et.al.|[2504.00073](http://arxiv.org/abs/2504.00073)|null|
 |**2025-03-31**|**Enhancing Time Series Forecasting with Fuzzy Attention-Integrated Transformers**|Sanjay Chakraborty et.al.|[2504.00070](http://arxiv.org/abs/2504.00070)|null|
 |**2025-03-31**|**Integrating Quantum-Classical Attention in Patch Transformers for Enhanced Time Series Forecasting**|Sanjay Chakraborty et.al.|[2504.00068](http://arxiv.org/abs/2504.00068)|null|
-|**2025-03-31**|**GAL-MAD: Towards Explainable Anomaly Detection in Microservice Applications Using Graph Attention Networks**|Lahiru Akmeemana et.al.|[2504.00058](http://arxiv.org/abs/2504.00058)|null|
+|**2025-03-31**|**GAL-MAD: Towards Explainable Anomaly Detection in Microservice Applications Using Graph Attention Networks**|Lahiru Akmeemana et.al.|[2504.00058](http://arxiv.org/abs/2504.00058)|**[link](https://github.com/ms-anomaly/rs-anomic)**|
 |**2025-03-31**|**The Cursive Transformer**|Sam Greydanus et.al.|[2504.00051](http://arxiv.org/abs/2504.00051)|null|
 |**2025-03-30**|**Beyond the Reported Cutoff: Where Large Language Models Fall Short on Financial Knowledge**|Agam Shah et.al.|[2504.00042](http://arxiv.org/abs/2504.00042)|null|
 |**2025-03-30**|**ViT-Linearizer: Distilling Quadratic Knowledge into Linear-Time Vision Models**|Guoyizhe Wei et.al.|[2504.00037](http://arxiv.org/abs/2504.00037)|null|
@@ -280,7 +280,7 @@
 |**2025-03-28**|**Camera Model Identification with SPAIR-Swin and Entropy based Non-Homogeneous Patches**|Protyay Dey et.al.|[2503.22120](http://arxiv.org/abs/2503.22120)|null|
 |**2025-03-28**|**Multimodal Machine Learning for Real Estate Appraisal: A Comprehensive Survey**|Chenya Huang et.al.|[2503.22119](http://arxiv.org/abs/2503.22119)|null|
 |**2025-03-28**|**Non-Monotonic Attention-based Read/Write Policy Learning for Simultaneous Translation**|Zeeshan Ahmed et.al.|[2503.22051](http://arxiv.org/abs/2503.22051)|null|
-|**2025-03-27**|**ThinkEdit: Interpretable Weight Editing to Mitigate Overly Short Thinking in Reasoning Models**|Chung-En Sun et.al.|[2503.22048](http://arxiv.org/abs/2503.22048)|null|
+|**2025-03-27**|**ThinkEdit: Interpretable Weight Editing to Mitigate Overly Short Thinking in Reasoning Models**|Chung-En Sun et.al.|[2503.22048](http://arxiv.org/abs/2503.22048)|**[link](https://github.com/trustworthy-ml-lab/thinkedit)**|
 |**2025-03-27**|**Discussion of "Robust Distance Covariance" by S. Leyder, J. Raymaekers, and P.J. Rousseeuw**|Hallin Marc et.al.|[2503.22021](http://arxiv.org/abs/2503.22021)|null|
 |**2025-03-27**|**AGILE: A Diffusion-Based Attention-Guided Image and Label Translation for Efficient Cross-Domain Plant Trait Identification**|Earl Ranario et.al.|[2503.22019](http://arxiv.org/abs/2503.22019)|**[link](https://github.com/plant-ai-biophysics-lab/agile)**|
 |**2025-04-02**|**Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration**|Yujie Chen et.al.|[2503.21970](http://arxiv.org/abs/2503.21970)|null|
@@ -7970,10 +7970,10 @@
 |**2025-04-02**|**Test-time Adaptation for Foundation Medical Segmentation Model without Parametric Updates**|Kecheng Chen et.al.|[2504.02008](http://arxiv.org/abs/2504.02008)|null|
 |**2025-04-02**|**STPNet: Scale-aware Text Prompt Network for Medical Image Segmentation**|Dandan Shan et.al.|[2504.01561](http://arxiv.org/abs/2504.01561)|**[link](https://github.com/huanglizi/stpnet)**|
 |**2025-04-01**|**GRU-AUNet: A Domain Adaptation Framework for Contactless Fingerprint Presentation Attack Detection**|Banafsheh Adami et.al.|[2504.01213](http://arxiv.org/abs/2504.01213)|null|
-|**2025-04-01**|**DBF-UNet: A Two-Stage Framework for Carotid Artery Segmentation with Pseudo-Label Generation**|Haoxuan Li et.al.|[2504.00908](http://arxiv.org/abs/2504.00908)|null|
+|**2025-04-01**|**DBF-UNet: A Two-Stage Framework for Carotid Artery Segmentation with Pseudo-Label Generation**|Haoxuan Li et.al.|[2504.00908](http://arxiv.org/abs/2504.00908)|**[link](https://github.com/haoxuanli-thu/dbf-unet)**|
 |**2025-04-01**|**Balancing Multi-Target Semi-Supervised Medical Image Segmentation with Collaborative Generalist and Specialists**|You Wang et.al.|[2504.00862](http://arxiv.org/abs/2504.00862)|null|
 |**2025-04-01**|**The study of non-complete-ring positron emission tomography (PET) detection method**|Yeqi Fang et.al.|[2504.00816](http://arxiv.org/abs/2504.00816)|null|
-|**2025-04-02**|**SeizureTransformer: Scaling U-Net with Transformer for Simultaneous Time-Step Level Seizure Detection from Long EEG Recordings**|Kerui Wu et.al.|[2504.00336](http://arxiv.org/abs/2504.00336)|null|
+|**2025-04-02**|**SeizureTransformer: Scaling U-Net with Transformer for Simultaneous Time-Step Level Seizure Detection from Long EEG Recordings**|Kerui Wu et.al.|[2504.00336](http://arxiv.org/abs/2504.00336)|**[link](https://github.com/keruiwu/SeizureTransformer)**|
 |**2025-04-01**|**Diffusion models for probabilistic precipitation generation from atmospheric variables**|Michael Aich et.al.|[2504.00307](http://arxiv.org/abs/2504.00307)|null|
 |**2025-04-01**|**Deconver: A Deconvolutional Network for Medical Image Segmentation**|Pooya Ashtari et.al.|[2504.00302](http://arxiv.org/abs/2504.00302)|**[link](https://github.com/pashtari/deconver)**|
 |**2025-03-31**|**Few-Shot Generation of Brain Tumors for Secure and Fair Data Sharing**|Yongyi Shi et.al.|[2504.00150](http://arxiv.org/abs/2504.00150)|null|
