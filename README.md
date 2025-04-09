@@ -19,6 +19,62 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**OmniSVG: A Unified Scalable Vector Graphics Generation Model**|Yiying Yang et.al.|[2504.06263](http://arxiv.org/abs/2504.06263)|null|
+|**2025-04-08**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261](http://arxiv.org/abs/2504.06261)|null|
+|**2025-04-08**|**Monitoring Viewer Attention During Online Ads**|Mina Bishay et.al.|[2504.06237](http://arxiv.org/abs/2504.06237)|null|
+|**2025-04-08**|**HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance**|Jiazi Bu et.al.|[2504.06232](http://arxiv.org/abs/2504.06232)|null|
+|**2025-04-08**|**NNN: Next-Generation Neural Networks for Marketing Mix Modeling**|Thomas Mulc et.al.|[2504.06212](http://arxiv.org/abs/2504.06212)|null|
+|**2025-04-08**|**HRMedSeg: Unlocking High-resolution Medical Image segmentation via Memory-efficient Attention Modeling**|Qing Xu et.al.|[2504.06205](http://arxiv.org/abs/2504.06205)|**[link](https://github.com/xq141839/HRMedSeg)**|
+|**2025-04-08**|**Rethinking the Nested U-Net Approach: Enhancing Biomarker Segmentation with Attention Mechanisms and Multiscale Feature Fusion**|Saad Wazir et.al.|[2504.06158](http://arxiv.org/abs/2504.06158)|**[link](https://github.com/saadwazir/ReN-UNet)**|
+|**2025-04-08**|**Knowledge Graph Completion with Relation-Aware Anchor Enhancement**|Duanyang Yuan et.al.|[2504.06129](http://arxiv.org/abs/2504.06129)|null|
+|**2025-04-08**|**Hyperbolic Category Discovery**|Yuanpei Liu et.al.|[2504.06120](http://arxiv.org/abs/2504.06120)|null|
+|**2025-04-08**|**Virtual Agent Tutors in Sheltered Workshops: A Feasibility Study on Attention Training for Individuals with Intellectual Disabilities**|Julian Leichert et.al.|[2504.06031](http://arxiv.org/abs/2504.06031)|null|
+|**2025-04-08**|**The Hall of AI Fears and Hopes: Comparing the Views of AI Influencers and those of Members of the U.S. Public Through an Interactive Platform**|Gustavo Moreira et.al.|[2504.06016](http://arxiv.org/abs/2504.06016)|null|
+|**2025-04-08**|**Latent Multimodal Reconstruction for Misinformation Detection**|Stefanos-Iordanis Papadopoulos et.al.|[2504.06010](http://arxiv.org/abs/2504.06010)|null|
+|**2025-04-08**|**A Corrector-aided Look-ahead Distance-based Guidance for Reference Path Following with an Efficient Midcourse Guidance Strategy**|Reva Dhillon et.al.|[2504.05975](http://arxiv.org/abs/2504.05975)|null|
+|**2025-04-08**|**Security Vulnerabilities in Ethereum Smart Contracts: A Systematic Analysis**|Jixuan Wu et.al.|[2504.05968](http://arxiv.org/abs/2504.05968)|null|
+|**2025-04-08**|**On walk domination: Between different types of walks and $m_3$ -path**|Hangdi Chen et.al.|[2504.05953](http://arxiv.org/abs/2504.05953)|null|
+|**2025-04-08**|**AEGIS: Human Attention-based Explainable Guidance for Intelligent Vehicle Systems**|Zhuoli Zhuang et.al.|[2504.05950](http://arxiv.org/abs/2504.05950)|null|
+|**2025-04-08**|**Control-Oriented Modelling and Adaptive Parameter Estimation for Hybrid Wind-Wave Energy Systems**|Yingbo Huang et.al.|[2504.05948](http://arxiv.org/abs/2504.05948)|null|
+|**2025-04-08**|**Evaluation of the impact of expert knowledge: How decision support scores impact the effectiveness of automatic knowledge-driven feature engineering (aKDFE)**|Olof Björneld et.al.|[2504.05928](http://arxiv.org/abs/2504.05928)|null|
+|**2025-04-08**|**Interpreting the Win Ratio in Hierarchical Composite Endpoints: Challenges, Limitations, and Perspectives with Examples from Chronic Kidney Disease Trials**|Henrik F. Thomsen et.al.|[2504.05909](http://arxiv.org/abs/2504.05909)|null|
+|**2025-04-08**|**PRIMEDrive-CoT: A Precognitive Chain-of-Thought Framework for Uncertainty-Aware Object Interaction in Driving Scene Scenario**|Sriram Mandalika et.al.|[2504.05908](http://arxiv.org/abs/2504.05908)|null|
+|**2025-04-08**|**Defending Deep Neural Networks against Backdoor Attacks via Module Switching**|Weijun Li et.al.|[2504.05902](http://arxiv.org/abs/2504.05902)|null|
+|**2025-04-08**|**Spatially Resolved Optical Responses of a High-Kinetic-Inductance Microwave Resonator**|R. Hirotsuru et.al.|[2504.05899](http://arxiv.org/abs/2504.05899)|null|
+|**2025-04-08**|**Enhancing Coreference Resolution with Pretrained Language Models: Bridging the Gap Between Syntax and Semantics**|Xingzu Liu et.al.|[2504.05855](http://arxiv.org/abs/2504.05855)|null|
+|**2025-04-08**|**End-to-End Dialog Neural Coreference Resolution: Balancing Efficiency and Accuracy in Large-Scale Systems**|Zhang Dong et.al.|[2504.05824](http://arxiv.org/abs/2504.05824)|null|
+|**2025-04-08**|**Parasite: A Steganography-based Backdoor Attack Framework for Diffusion Models**|Jiahao Chen et.al.|[2504.05815](http://arxiv.org/abs/2504.05815)|null|
+|**2025-04-08**|**Storybooth: Training-free Multi-Subject Consistency for Improved Visual Storytelling**|Jaskirat Singh et.al.|[2504.05800](http://arxiv.org/abs/2504.05800)|null|
+|**2025-04-08**|**Robust Fusion Controller: Degradation-aware Image Fusion with Fine-grained Language Instructions**|Hao Zhang et.al.|[2504.05795](http://arxiv.org/abs/2504.05795)|null|
+|**2025-04-08**|**DefMamba: Deformable Visual State Space Model**|Leiye Liu et.al.|[2504.05794](http://arxiv.org/abs/2504.05794)|null|
+|**2025-04-08**|**FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors**|Tao Lin et.al.|[2504.05779](http://arxiv.org/abs/2504.05779)|null|
+|**2025-04-08**|**Transferable Mask Transformer: Cross-domain Semantic Segmentation with Region-adaptive Transferability Estimation**|Enming Zhang et.al.|[2504.05774](http://arxiv.org/abs/2504.05774)|null|
+|**2025-04-08**|**A Lightweight Multi-Module Fusion Approach for Korean Character Recognition**|Inho Jake Park et.al.|[2504.05770](http://arxiv.org/abs/2504.05770)|null|
+|**2025-04-08**|**Exploiting Temporal Audio-Visual Correlation Embedding for Audio-Driven One-Shot Talking Head Animation**|Zhihua Xu et.al.|[2504.05746](http://arxiv.org/abs/2504.05746)|null|
+|**2025-04-08**|**LLM $\times$ MapReduce-V2: Entropy-Driven Convolutional Test-Time Scaling for Generating Long-Form Articles from Extremely Long Resources**|Haoyu Wang et.al.|[2504.05732](http://arxiv.org/abs/2504.05732)|null|
+|**2025-04-08**|**Retrieval Augmented Generation with Collaborative Filtering for Personalized Text Generation**|Teng Shi et.al.|[2504.05731](http://arxiv.org/abs/2504.05731)|null|
+|**2025-04-08**|**Robust and Efficient Average Consensus with Non-Coherent Over-the-Air Aggregation**|Yuhang Deng et.al.|[2504.05729](http://arxiv.org/abs/2504.05729)|null|
+|**2025-04-08**|**Point-based Instance Completion with Scene Constraints**|Wesley Khademi et.al.|[2504.05698](http://arxiv.org/abs/2504.05698)|null|
+|**2025-04-08**|**VADIS: A Visual Analytics Pipeline for Dynamic Document Representation and Information-Seeking**|Rui Qiu et.al.|[2504.05697](http://arxiv.org/abs/2504.05697)|null|
+|**2025-04-08**|**Large Language Models Enhanced Hyperbolic Space Recommender Systems**|Wentao Cheng et.al.|[2504.05694](http://arxiv.org/abs/2504.05694)|null|
+|**2025-04-08**|**Separator Injection Attack: Uncovering Dialogue Biases in Large Language Models Caused by Role Separators**|Xitao Li et.al.|[2504.05689](http://arxiv.org/abs/2504.05689)|null|
+|**2025-04-08**|**Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking**|Yu-Hang Wu et.al.|[2504.05652](http://arxiv.org/abs/2504.05652)|null|
+|**2025-04-08**|**Lattice: Learning to Efficiently Compress the Memory**|Mahdi Karami et.al.|[2504.05646](http://arxiv.org/abs/2504.05646)|null|
+|**2025-04-08**|**Falcon: Fractional Alternating Cut with Overcoming Minima in Unsupervised Segmentation**|Xiao Zhang et.al.|[2504.05613](http://arxiv.org/abs/2504.05613)|null|
+|**2025-04-08**|**ShadowCoT: Cognitive Hijacking for Stealthy Reasoning Backdoors in LLMs**|Gejian Zhao et.al.|[2504.05605](http://arxiv.org/abs/2504.05605)|null|
+|**2025-04-08**|**Tuning-Free Image Editing with Fidelity and Editability via Unified Latent Diffusion Model**|Qi Mao et.al.|[2504.05594](http://arxiv.org/abs/2504.05594)|null|
+|**2025-04-08**|**Gaze-Guided Learning: Avoiding Shortcut Bias in Visual Classification**|Jiahang Li et.al.|[2504.05583](http://arxiv.org/abs/2504.05583)|**[link](https://github.com/rekkles2/Gaze-CIFAR-10)**|
+|**2025-04-07**|**FORCE: Feature-Oriented Representation with Clustering and Explanation**|Rishav Mukherjee et.al.|[2504.05530](http://arxiv.org/abs/2504.05530)|null|
+|**2025-04-07**|**Few-shot Personalized Scanpath Prediction**|Ruoyu Xue et.al.|[2504.05499](http://arxiv.org/abs/2504.05499)|null|
+|**2025-04-07**|**GraphPINE: Graph Importance Propagation for Interpretable Drug Response Prediction**|Yoshitaka Inoue et.al.|[2504.05454](http://arxiv.org/abs/2504.05454)|null|
+|**2025-04-07**|**Probing the Visualization Literacy of Vision Language Models: the Good, the Bad, and the Ugly**|Lianghan Dong et.al.|[2504.05445](http://arxiv.org/abs/2504.05445)|null|
+|**2025-04-07**|**PreSumm: Predicting Summarization Performance Without Summarizing**|Steven Koniaev et.al.|[2504.05420](http://arxiv.org/abs/2504.05420)|null|
+|**2025-04-07**|**TRATSS: Transformer-Based Task Scheduling System for Autonomous Vehicles**|Yazan Youssef et.al.|[2504.05407](http://arxiv.org/abs/2504.05407)|null|
+|**2025-04-07**|**Debate-Feedback: A Multi-Agent Framework for Efficient Legal Judgment Prediction**|Xi Chen et.al.|[2504.05358](http://arxiv.org/abs/2504.05358)|null|
+|**2025-04-06**|**Development and Experimental Evaluation of a Vibration-Based Adhesion System for Miniature Wall-Climbing Robots**|Siqian Li et.al.|[2504.05351](http://arxiv.org/abs/2504.05351)|null|
+|**2025-04-06**|**A Note on ID-Colorings and Symmetric Colorings of Cycles**|Yuya Kono et.al.|[2504.05340](http://arxiv.org/abs/2504.05340)|null|
+|**2025-04-05**|**Quantum Adaptive Self-Attention for Quantum Transformer Models**|Chi-Sheng Chen et.al.|[2504.05336](http://arxiv.org/abs/2504.05336)|null|
+|**2025-04-05**|**Impact of Price Inflation on Algorithmic Collusion Through Reinforcement Learning Agents**|Sebastián Tinoco et.al.|[2504.05335](http://arxiv.org/abs/2504.05335)|null|
 |**2025-04-07**|**One-Minute Video Generation with Test-Time Training**|Karan Dalal et.al.|[2504.05298](http://arxiv.org/abs/2504.05298)|null|
 |**2025-04-07**|**AnomalousNet: A Hybrid Approach with Attention U-Nets and Change Point Detection for Accurate Characterization of Anomalous Diffusion in Video Data**|Yusef Ahsini et.al.|[2504.05271](http://arxiv.org/abs/2504.05271)|null|
 |**2025-04-07**|**Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling**|Hengran Zhang et.al.|[2504.05216](http://arxiv.org/abs/2504.05216)|null|
@@ -8113,6 +8169,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**HRMedSeg: Unlocking High-resolution Medical Image segmentation via Memory-efficient Attention Modeling**|Qing Xu et.al.|[2504.06205](http://arxiv.org/abs/2504.06205)|**[link](https://github.com/xq141839/HRMedSeg)**|
+|**2025-04-08**|**Rethinking the Nested U-Net Approach: Enhancing Biomarker Segmentation with Attention Mechanisms and Multiscale Feature Fusion**|Saad Wazir et.al.|[2504.06158](http://arxiv.org/abs/2504.06158)|**[link](https://github.com/saadwazir/ReN-UNet)**|
+|**2025-04-08**|**Towards Varroa destructor mite detection using a narrow spectra illumination**|Samuel Bielik et.al.|[2504.06099](http://arxiv.org/abs/2504.06099)|null|
+|**2025-04-08**|**Diffusion Based Ambiguous Image Segmentation**|Jakob Lønborg Christensen et.al.|[2504.05977](http://arxiv.org/abs/2504.05977)|null|
+|**2025-04-08**|**Residual U-Net for accurate and efficient prediction of hemodynamics in two-dimensional asymmetric stenosis**|Xintong Zou et.al.|[2504.05778](http://arxiv.org/abs/2504.05778)|null|
+|**2025-04-08**|**A Lightweight Multi-Module Fusion Approach for Korean Character Recognition**|Inho Jake Park et.al.|[2504.05770](http://arxiv.org/abs/2504.05770)|null|
+|**2025-04-08**|**CTI-Unet: Cascaded Threshold Integration for Improved U-Net Segmentation of Pathology Images**|Mingyang Zhu et.al.|[2504.05640](http://arxiv.org/abs/2504.05640)|null|
 |**2025-04-07**|**AnomalousNet: A Hybrid Approach with Attention U-Nets and Change Point Detection for Accurate Characterization of Anomalous Diffusion in Video Data**|Yusef Ahsini et.al.|[2504.05271](http://arxiv.org/abs/2504.05271)|null|
 |**2025-04-07**|**An ensemble deep learning approach to detect tumors on Mohs micrographic surgery slides**|Abdurrahim Yilmaz et.al.|[2504.05219](http://arxiv.org/abs/2504.05219)|null|
 |**2025-04-07**|**Dynamic hysteresis model of grain-oriented ferromagnetic material using neural operators**|Ziqing Guo et.al.|[2504.04863](http://arxiv.org/abs/2504.04863)|null|
