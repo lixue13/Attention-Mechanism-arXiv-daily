@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -32,9 +32,9 @@
 |**2025-04-07**|**ABCDWaveNet: Advancing Robust Road Ponding Detection in Fog through Dynamic Frequency-Spatial Synergy**|Ronghui Zhang et.al.|[2504.05112](http://arxiv.org/abs/2504.05112)|null|
 |**2025-04-07**|**State Tuning: State-based Test-Time Scaling on RWKV-7**|Liu Xiao et.al.|[2504.05097](http://arxiv.org/abs/2504.05097)|null|
 |**2025-04-07**|**LDGNet: A Lightweight Difference Guiding Network for Remote Sensing Change Detection**|Chenfeng Xu et.al.|[2504.05062](http://arxiv.org/abs/2504.05062)|null|
-|**2025-04-07**|**Not All Data Are Unlearned Equally**|Aravind Krishnan et.al.|[2504.05058](http://arxiv.org/abs/2504.05058)|null|
+|**2025-04-08**|**Not All Data Are Unlearned Equally**|Aravind Krishnan et.al.|[2504.05058](http://arxiv.org/abs/2504.05058)|null|
 |**2025-04-07**|**MotionPRO: Exploring the Role of Pressure in Human MoCap and Beyond**|Shenghao Ren et.al.|[2504.05046](http://arxiv.org/abs/2504.05046)|null|
-|**2025-04-07**|**Attention-Augmented Inverse Reinforcement Learning with Graph Convolutions for Multi-Agent Task Allocation**|Huilin Yin et.al.|[2504.05045](http://arxiv.org/abs/2504.05045)|null|
+|**2025-04-08**|**Attention-Augmented Inverse Reinforcement Learning with Graph Convolutions for Multi-Agent Task Allocation**|Huilin Yin et.al.|[2504.05045](http://arxiv.org/abs/2504.05045)|null|
 |**2025-04-07**|**AsyReC: A Multimodal Graph-based Framework for Spatio-Temporal Asymmetric Dyadic Relationship Classification**|Wang Tang et.al.|[2504.05030](http://arxiv.org/abs/2504.05030)|null|
 |**2025-04-07**|**Review of analytic results on quasinormal modes of black holes**|S. V. Bolokhov et.al.|[2504.05014](http://arxiv.org/abs/2504.05014)|null|
 |**2025-04-07**|**RCCFormer: A Robust Crowd Counting Network Based on Transformer**|Peng Liu et.al.|[2504.04935](http://arxiv.org/abs/2504.04935)|null|
@@ -56,7 +56,7 @@
 |**2025-04-07**|**SapiensID: Foundation for Human Recognition**|Minchul Kim et.al.|[2504.04708](http://arxiv.org/abs/2504.04708)|null|
 |**2025-04-07**|**TC-MGC: Text-Conditioned Multi-Grained Contrastive Learning for Text-Video Retrieval**|Xiaolun Jing et.al.|[2504.04707](http://arxiv.org/abs/2504.04707)|null|
 |**2025-04-07**|**LagKV: Lag-Relative Information of the KV Cache Tells Which Tokens Are Important**|Manlai Liang et.al.|[2504.04704](http://arxiv.org/abs/2504.04704)|null|
-|**2025-04-07**|**DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation**|Bo-Wen Yin et.al.|[2504.04701](http://arxiv.org/abs/2504.04701)|null|
+|**2025-04-07**|**DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation**|Bo-Wen Yin et.al.|[2504.04701](http://arxiv.org/abs/2504.04701)|**[link](https://github.com/VCIP-RGBD/DFormer)**|
 |**2025-04-07**|**Dual Consistent Constraint via Disentangled Consistency and Complementarity for Multi-view Clustering**|Bo Li et.al.|[2504.04676](http://arxiv.org/abs/2504.04676)|null|
 |**2025-04-07**|**Interval-Valued Time Series Classification Using $D_K$ -Distance**|Wan Tian et.al.|[2504.04667](http://arxiv.org/abs/2504.04667)|null|
 |**2025-04-07**|**Classification of ADHD and Healthy Children Using EEG Based Multi-Band Spatial Features Enhancement**|Md Bayazid Hossain et.al.|[2504.04664](http://arxiv.org/abs/2504.04664)|null|
@@ -155,12 +155,12 @@
 |**2025-04-03**|**Attention-Aware Multi-View Pedestrian Tracking**|Reef Alturki et.al.|[2504.03047](http://arxiv.org/abs/2504.03047)|null|
 |**2025-04-03**|**Deep Reinforcement Learning via Object-Centric Attention**|Jannis Blüml et.al.|[2504.03024](http://arxiv.org/abs/2504.03024)|**[link](https://github.com/VanillaWhey/OCAtariWrappers)**|
 |**2025-04-03**|**Hummus: A Dataset of Humorous Multimodal Metaphor Use**|Xiaoyu Tong et.al.|[2504.02983](http://arxiv.org/abs/2504.02983)|null|
-|**2025-04-03**|**QID: Efficient Query-Informed ViTs in Data-Scarce Regimes for OCR-free Visual Document Understanding**|Binh M. Le et.al.|[2504.02971](http://arxiv.org/abs/2504.02971)|null|
+|**2025-04-07**|**QID: Efficient Query-Informed ViTs in Data-Scarce Regimes for OCR-free Visual Document Understanding**|Binh M. Le et.al.|[2504.02971](http://arxiv.org/abs/2504.02971)|null|
 |**2025-04-03**|**Evolution of Triple Stars**|Hagai B. Perets et.al.|[2504.02939](http://arxiv.org/abs/2504.02939)|null|
 |**2025-04-03**|**Graph Attention for Heterogeneous Graphs with Positional Encoding**|Nikhil Shivakumar Nayak et.al.|[2504.02938](http://arxiv.org/abs/2504.02938)|null|
 |**2025-04-03**|**Noiser: Bounded Input Perturbations for Attributing Large Language Models**|Mohammad Reza Ghasemi Madani et.al.|[2504.02911](http://arxiv.org/abs/2504.02911)|null|
 |**2025-04-03**|**Investigating the response of single pad and hybrid pixel detectors (Si, GaAs, CdTe, CZT) for 226Ra and 137Cs**|G. Chelkov et.al.|[2504.02903](http://arxiv.org/abs/2504.02903)|null|
-|**2025-04-02**|**On the Original Derivation of the Cosmological Gurzadyan's Theorem**|Trung V. Phan et.al.|[2504.02897](http://arxiv.org/abs/2504.02897)|null|
+|**2025-04-07**|**On the Derivation of the Cosmological Gurzadyan's Theorem**|Trung V. Phan et.al.|[2504.02897](http://arxiv.org/abs/2504.02897)|null|
 |**2025-04-02**|**Enhancing Traffic Sign Recognition On The Performance Based On Yolov8**|Baba Ibrahim et.al.|[2504.02884](http://arxiv.org/abs/2504.02884)|null|
 |**2025-04-02**|**Robust AI-Synthesized Image Detection via Multi-feature Frequency-aware Learning**|Hongfei Cai et.al.|[2504.02879](http://arxiv.org/abs/2504.02879)|null|
 |**2025-04-01**|**Synthesized Annotation Guidelines are Knowledge-Lite Boosters for Clinical Information Extraction**|Enshuo Hsu et.al.|[2504.02871](http://arxiv.org/abs/2504.02871)|null|
@@ -178,7 +178,7 @@
 |**2025-04-03**|**A simple description of blow-up solutions through dynamics at infinity in nonautonomous ODEs**|Kaname Matsue et.al.|[2504.02718](http://arxiv.org/abs/2504.02718)|null|
 |**2025-04-03**|**Learning Phase Distortion with Selective State Space Models for Video Turbulence Mitigation**|Xingguang Zhang et.al.|[2504.02697](http://arxiv.org/abs/2504.02697)|null|
 |**2025-04-03**|**A Scalable Synthesis Algorithm for Reversible Functions**|Moein Sarvaghad-Moghaddam et.al.|[2504.02632](http://arxiv.org/abs/2504.02632)|null|
-|**2025-04-03**|**Variational Online Mirror Descent for Robust Learning in Schrödinger Bridge**|Dong-Sig Han et.al.|[2504.02618](http://arxiv.org/abs/2504.02618)|null|
+|**2025-04-08**|**Variational Online Mirror Descent for Robust Learning in Schrödinger Bridge**|Dong-Sig Han et.al.|[2504.02618](http://arxiv.org/abs/2504.02618)|null|
 |**2025-04-03**|**A Hybrid Similarity-Aware Graph Neural Network with Transformer for Node Classification**|Aman Singh et.al.|[2504.02615](http://arxiv.org/abs/2504.02615)|null|
 |**2025-04-03**|**Technical Overview of Recent Developments in Small Modular Reactors in the United States**|Yifan Sun et.al.|[2504.02599](http://arxiv.org/abs/2504.02599)|null|
 |**2025-04-03**|**Topological signatures of collective dynamics and turbulent-like energy cascades in active granular matter**|Zihan Zheng et.al.|[2504.02588](http://arxiv.org/abs/2504.02588)|null|
@@ -543,7 +543,7 @@
 |**2025-03-26**|**A Survey on Event-driven 3D Reconstruction: Development under Different Categories**|Chuanzhi Xu et.al.|[2503.19753](http://arxiv.org/abs/2503.19753)|null|
 |**2025-03-25**|**Cystic Lung Phantom to Validate Clinical CT Protocols**|Shefra Shah et.al.|[2503.19747](http://arxiv.org/abs/2503.19747)|null|
 |**2025-04-01**|**EventMamba: Enhancing Spatio-Temporal Locality with State Space Models for Event-Based Video Reconstruction**|Chengjie Ge et.al.|[2503.19721](http://arxiv.org/abs/2503.19721)|null|
-|**2025-03-25**|**How Generative IR Retrieves Documents Mechanistically**|Anja Reusch et.al.|[2503.19715](http://arxiv.org/abs/2503.19715)|**[link](https://github.com/technion-cs-nlp/re-gen-ir)**|
+|**2025-04-08**|**Reverse-Engineering the Retrieval Process in GenIR Models**|Anja Reusch et.al.|[2503.19715](http://arxiv.org/abs/2503.19715)|**[link](https://github.com/technion-cs-nlp/re-gen-ir)**|
 |**2025-03-25**|**Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving**|Yusen Xie et.al.|[2503.19713](http://arxiv.org/abs/2503.19713)|**[link](https://github.com/xieyuser/semi-sd)**|
 |**2025-03-27**|**Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection**|Bo Leng et.al.|[2503.19690](http://arxiv.org/abs/2503.19690)|null|
 |**2025-03-25**|**A multitask transformer to sign language translation using motion gesture primitives**|Fredy Alejandro Mendoza López et.al.|[2503.19668](http://arxiv.org/abs/2503.19668)|null|
@@ -8028,7 +8028,7 @@
 |**2024-10-03**|**Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**|Jinwoo Go et.al.|[2409.09141](http://arxiv.org/abs/2409.09141)|null|
 |**2024-09-13**|**Neural Message Passing Induced by Energy-Constrained Diffusion**|Qitian Wu et.al.|[2409.09111](http://arxiv.org/abs/2409.09111)|null|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## IRSTD
 
@@ -8107,7 +8107,7 @@
 |**2020-07-29**|**Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**|Saed Moradi et.al.|[1810.03173](http://arxiv.org/abs/1810.03173)|**[link](https://github.com/moradisaed/ADMD)**|
 |**2017-03-27**|**Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**|Yimian Dai et.al.|[1703.09157](http://arxiv.org/abs/1703.09157)|**[link](https://github.com/YimianDai/DENTIST)**|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## UNet
 
@@ -9695,7 +9695,7 @@
 |**2024-07-29**|**ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**|Lukas Höllein et.al.|[2403.01807](http://arxiv.org/abs/2403.01807)|**[link](https://github.com/facebookresearch/viewdiff)**|
 |**2024-03-07**|**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**|Yuhao Xu et.al.|[2403.01779](http://arxiv.org/abs/2403.01779)|**[link](https://github.com/levihsu/ootdiffusion)**|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
