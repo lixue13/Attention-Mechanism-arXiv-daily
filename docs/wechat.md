@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.04.25
+> Updated on 2025.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -8707,7 +8707,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## IRSTD
 
@@ -8786,7 +8786,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## UNet
 
@@ -8810,7 +8810,7 @@
 - 2025-04-18, **Efficient Parameter Adaptation for Multi-Modal Medical Image Segmentation and Prognosis**, Numan Saeed et.al., Paper: [http://arxiv.org/abs/2504.13645](http://arxiv.org/abs/2504.13645)
 - 2025-04-18, **ViG3D-UNet: Volumetric Vascular Connectivity-Aware Segmentation via 3D Vision Graph Representation**, Bowen Liu et.al., Paper: [http://arxiv.org/abs/2504.13599](http://arxiv.org/abs/2504.13599)
 - 2025-04-18, **Filter2Noise: Interpretable Self-Supervised Single-Image Denoising for Low-Dose CT with Attention-Guided Bilateral Filtering**, Yipeng Sun et.al., Paper: [http://arxiv.org/abs/2504.13519](http://arxiv.org/abs/2504.13519), Code: **[https://github.com/sypsyp97/Filter2Noise](https://github.com/sypsyp97/Filter2Noise)**
-- 2025-04-18, **U-Shape Mamba: State Space Model for faster diffusion**, Alex Ergasti et.al., Paper: [http://arxiv.org/abs/2504.13499](http://arxiv.org/abs/2504.13499)
+- 2025-04-18, **U-Shape Mamba: State Space Model for faster diffusion**, Alex Ergasti et.al., Paper: [http://arxiv.org/abs/2504.13499](http://arxiv.org/abs/2504.13499), Code: **[https://github.com/ErgastiAlex/U-Shape-Mamba](https://github.com/ErgastiAlex/U-Shape-Mamba)**
 - 2025-04-18, **DADU: Dual Attention-based Deep Supervised UNet for Automated Semantic Segmentation of Cardiac Images**, Racheal Mukisa et.al., Paper: [http://arxiv.org/abs/2504.13415](http://arxiv.org/abs/2504.13415)
 - 2025-04-18, **Cardiac MRI Semantic Segmentation for Ventricles and Myocardium using Deep Learning**, Racheal Mukisa et.al., Paper: [http://arxiv.org/abs/2504.13391](http://arxiv.org/abs/2504.13391)
 - 2025-04-24, **Putting the Segment Anything Model to the Test with 3D Knee MRI - A Comparison with State-of-the-Art Performance**, Oliver Mills et.al., Paper: [http://arxiv.org/abs/2504.13340](http://arxiv.org/abs/2504.13340)
@@ -10436,7 +10436,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
