@@ -19,6 +19,39 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**On the Efficacy of the Peeling Decoder for the Quantum Expander Code**|Jefrin Sharmitha Prabhu et.al.|[2504.21845](http://arxiv.org/abs/2504.21845)|null|
+|**2025-04-30**|**3D Stylization via Large Reconstruction Model**|Ipek Oztas et.al.|[2504.21836](http://arxiv.org/abs/2504.21836)|null|
+|**2025-04-30**|**MAC-Tuning: LLM Multi-Compositional Problem Reasoning with Enhanced Knowledge Boundary Awareness**|Junsheng Huang et.al.|[2504.21773](http://arxiv.org/abs/2504.21773)|null|
+|**2025-04-30**|**Observation of Intrinsic and LED Light-Enhanced Memristor Performance in In-Plane Ferroelectric NbOI2**|Zheng Hao et.al.|[2504.21737](http://arxiv.org/abs/2504.21737)|null|
+|**2025-04-30**|**While-alive regression analysis of composite survival endpoints**|Xi Fang et.al.|[2504.21710](http://arxiv.org/abs/2504.21710)|null|
+|**2025-04-30**|**Visual Text Processing: A Comprehensive Review and Unified Evaluation**|Yan Shu et.al.|[2504.21682](http://arxiv.org/abs/2504.21682)|null|
+|**2025-04-30**|**Selective Variable Convolution Meets Dynamic Content Guided Attention for Infrared Small Target Detection**|Yirui Chen et.al.|[2504.21612](http://arxiv.org/abs/2504.21612)|null|
+|**2025-04-30**|**Make Both Ends Meet: A Synergistic Optimization Infrared Small Target Detection with Streamlined Computational Overhead**|Yuxin Jing et.al.|[2504.21581](http://arxiv.org/abs/2504.21581)|null|
+|**2025-04-30**|**SAM4EM: Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks**|Uzair Shah et.al.|[2504.21544](http://arxiv.org/abs/2504.21544)|null|
+|**2025-04-30**|**Levitated Sensor for Magnetometry in Ambient Environment**|Wei Ji et.al.|[2504.21524](http://arxiv.org/abs/2504.21524)|null|
+|**2025-04-30**|**MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance**|Mengting Wei et.al.|[2504.21497](http://arxiv.org/abs/2504.21497)|null|
+|**2025-04-30**|**Consistency-aware Fake Videos Detection on Short Video Platforms**|Junxi Wang et.al.|[2504.21495](http://arxiv.org/abs/2504.21495)|null|
+|**2025-04-30**|**RWKV-X: A Linear Complexity Hybrid Language Model**|Haowen Hou et.al.|[2504.21463](http://arxiv.org/abs/2504.21463)|null|
+|**2025-04-30**|**Thermodynamic formulation of the spin magnetic octupole moment in bulk crystals**|Jun Ōiké et.al.|[2504.21418](http://arxiv.org/abs/2504.21418)|null|
+|**2025-04-30**|**Static or Dynamic: Towards Query-Adaptive Token Selection for Video Question Answering**|Yumeng Shi et.al.|[2504.21403](http://arxiv.org/abs/2504.21403)|null|
+|**2025-04-30**|**DGFNet: End-to-End Audio-Visual Source Separation Based on Dynamic Gating Fusion**|Yinfeng Yu et.al.|[2504.21366](http://arxiv.org/abs/2504.21366)|null|
+|**2025-04-30**|**A comparative study of deep learning and ensemble learning to extend the horizon of traffic forecasting**|Xiao Zheng et.al.|[2504.21358](http://arxiv.org/abs/2504.21358)|null|
+|**2025-04-30**|**Drawing Reeb Graphs**|Erin Chambers et.al.|[2504.21329](http://arxiv.org/abs/2504.21329)|null|
+|**2025-04-30**|**Multi-level datasets training method in Physics-Informed Neural Networks**|Yao-Hsuan Tsai et.al.|[2504.21328](http://arxiv.org/abs/2504.21328)|null|
+|**2025-04-30**|**Can We Achieve Efficient Diffusion without Self-Attention? Distilling Self-Attention into Convolutions**|ZiYi Dong et.al.|[2504.21292](http://arxiv.org/abs/2504.21292)|null|
+|**2025-04-30**|**Induced Diffusion of Internal Gravity Waves: Directionality and Role in Ocean Mixing**|Yue Wu et.al.|[2504.21285](http://arxiv.org/abs/2504.21285)|null|
+|**2025-04-30**|**Mamba Based Feature Extraction And Adaptive Multilevel Feature Fusion For 3D Tumor Segmentation From Multi-modal Medical Image**|Zexin Ji et.al.|[2504.21281](http://arxiv.org/abs/2504.21281)|null|
+|**2025-04-30**|**A Framework for Elastic Adaptation of User Multiple Intents in Sequential Recommendation**|Zhikai Wang et.al.|[2504.21270](http://arxiv.org/abs/2504.21270)|null|
+|**2025-04-29**|**Gradient Attention Map Based Verification of Deep Convolutional Neural Networks with Application to X-ray Image Datasets**|Omid Halimi Milani et.al.|[2504.21227](http://arxiv.org/abs/2504.21227)|null|
+|**2025-04-29**|**Federated One-Shot Learning with Data Privacy and Objective-Hiding**|Maximilian Egger et.al.|[2504.21182](http://arxiv.org/abs/2504.21182)|null|
+|**2025-04-29**|**Efficient LLMs with AMP: Attention Heads and MLP Pruning**|Leandro Giusti Mugnaini et.al.|[2504.21174](http://arxiv.org/abs/2504.21174)|null|
+|**2025-04-29**|**Quarkonium suppression in strongly coupled plasmas**|Bruno Scheihing-Hitschfeld et.al.|[2504.21167](http://arxiv.org/abs/2504.21167)|null|
+|**2025-04-29**|**Composite Safety Potential Field for Highway Driving Risk Assessment**|Dachuan Zuo et.al.|[2504.21158](http://arxiv.org/abs/2504.21158)|null|
+|**2025-04-29**|**Publication Design with Incentives in Mind**|Ravi Jagadeesan et.al.|[2504.21156](http://arxiv.org/abs/2504.21156)|null|
+|**2025-04-29**|**QAOA Parameter Transferability for Maximum Independent Set using Graph Attention Networks**|Hanjing Xu et.al.|[2504.21135](http://arxiv.org/abs/2504.21135)|null|
+|**2025-04-29**|**Erased but Not Forgotten: How Backdoors Compromise Concept Erasure**|Jonas Henry Grebe et.al.|[2504.21072](http://arxiv.org/abs/2504.21072)|null|
+|**2025-04-29**|**Multimodal Large Language Models for Medicine: A Comprehensive Survey**|Jiarui Ye et.al.|[2504.21051](http://arxiv.org/abs/2504.21051)|null|
+|**2025-04-19**|**Analyzing Feedback Mechanisms in AI-Generated MCQs: Insights into Readability, Lexical Properties, and Levels of Challenge**|Antoun Yaacoub et.al.|[2504.21013](http://arxiv.org/abs/2504.21013)|null|
 |**2025-04-29**|**Jekyll-and-Hyde Tipping Point in an AI's Behavior**|Neil F. Johnson et.al.|[2504.20980](http://arxiv.org/abs/2504.20980)|null|
 |**2025-04-29**|**Equivariant non-linear maps for neural networks on homogeneous spaces**|Elias Nyholm et.al.|[2504.20974](http://arxiv.org/abs/2504.20974)|null|
 |**2025-04-29**|**Softpick: No Attention Sink, No Massive Activations with Rectified Softmax**|Zayd M. K. Zuhri et.al.|[2504.20966](http://arxiv.org/abs/2504.20966)|null|
@@ -8873,6 +8906,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Selective Variable Convolution Meets Dynamic Content Guided Attention for Infrared Small Target Detection**|Yirui Chen et.al.|[2504.21612](http://arxiv.org/abs/2504.21612)|null|
+|**2025-04-30**|**Make Both Ends Meet: A Synergistic Optimization Infrared Small Target Detection with Streamlined Computational Overhead**|Yuxin Jing et.al.|[2504.21581](http://arxiv.org/abs/2504.21581)|null|
 |**2025-04-23**|**Rethinking Generalizable Infrared Small Target Detection: A Real-scene Benchmark and Cross-view Representation Learning**|Yahao Lu et.al.|[2504.16487](http://arxiv.org/abs/2504.16487)|null|
 |**2025-04-19**|**ISTD-YOLO: A Multi-Scale Lightweight High-Performance Infrared Small Target Detection Algorithm**|Shang Zhang et.al.|[2504.14289](http://arxiv.org/abs/2504.14289)|null|
 |**2025-03-21**|**MSCA-Net:Multi-Scale Context Aggregation Network for Infrared Small Target Detection**|Xiaojin Lu et.al.|[2503.17193](http://arxiv.org/abs/2503.17193)|null|
@@ -8954,6 +8989,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Anomaly-Driven Approach for Enhanced Prostate Cancer Segmentation**|Alessia Hu et.al.|[2504.21789](http://arxiv.org/abs/2504.21789)|null|
+|**2025-04-30**|**Smart Environmental Monitoring of Marine Pollution using Edge AI**|Mohamed Moursi et.al.|[2504.21759](http://arxiv.org/abs/2504.21759)|null|
+|**2025-04-30**|**CryptoUNets: Applying Convolutional Networks to Encrypted Data for Biomedical Image Segmentation**|John Chiang et.al.|[2504.21543](http://arxiv.org/abs/2504.21543)|null|
+|**2025-04-30**|**IDDM: Bridging Synthetic-to-Real Domain Gap from Physics-Guided Diffusion for Real-world Image Dehazing**|Shijun Zhou et.al.|[2504.21385](http://arxiv.org/abs/2504.21385)|null|
+|**2025-04-30**|**Can We Achieve Efficient Diffusion without Self-Attention? Distilling Self-Attention into Convolutions**|ZiYi Dong et.al.|[2504.21292](http://arxiv.org/abs/2504.21292)|null|
+|**2025-04-30**|**Mamba Based Feature Extraction And Adaptive Multilevel Feature Fusion For 3D Tumor Segmentation From Multi-modal Medical Image**|Zexin Ji et.al.|[2504.21281](http://arxiv.org/abs/2504.21281)|null|
+|**2025-04-29**|**DeepVoid: A Deep Learning Void Detector**|Sam Kumagai et.al.|[2504.21134](http://arxiv.org/abs/2504.21134)|null|
+|**2025-04-29**|**Erased but Not Forgotten: How Backdoors Compromise Concept Erasure**|Jonas Henry Grebe et.al.|[2504.21072](http://arxiv.org/abs/2504.21072)|null|
 |**2025-04-29**|**RadSAM: Segmenting 3D radiological images with a 2D promptable model**|Julien Khlaut et.al.|[2504.20837](http://arxiv.org/abs/2504.20837)|null|
 |**2025-04-29**|**SAM-Guided Robust Representation Learning for One-Shot 3D Medical Image Segmentation**|Jia Wang et.al.|[2504.20501](http://arxiv.org/abs/2504.20501)|null|
 |**2025-04-29**|**AI Assisted Cervical Cancer Screening for Cytology Samples in Developing Countries**|Love Panta et.al.|[2504.20435](http://arxiv.org/abs/2504.20435)|null|
