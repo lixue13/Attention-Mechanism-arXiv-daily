@@ -19,6 +19,39 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Polynomial and rational matrices with the invariant rational functions and the four sequences of minimal indices prescribed**|Itziar Baragaña et.al.|[2505.00699](http://arxiv.org/abs/2505.00699)|null|
+|**2025-05-01**|**GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution**|Aditya Arora et.al.|[2505.00687](http://arxiv.org/abs/2505.00687)|null|
+|**2025-05-01**|**SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction**|Liu Junchi et.al.|[2505.00625](http://arxiv.org/abs/2505.00625)|**[link](https://github.com/MustBeOne/SA-GAT-SR)**|
+|**2025-05-01**|**Decomposing graphs into stable and ordered parts**|Hector Buffière et.al.|[2505.00594](http://arxiv.org/abs/2505.00594)|null|
+|**2025-05-01**|**ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models**|Jiarong Wei et.al.|[2505.00586](http://arxiv.org/abs/2505.00586)|null|
+|**2025-05-01**|**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension**|Jushi Kai et.al.|[2505.00570](http://arxiv.org/abs/2505.00570)|null|
+|**2025-05-01**|**Self-Ablating Transformers: More Interpretability, Less Sparsity**|Jeremias Ferrao et.al.|[2505.00509](http://arxiv.org/abs/2505.00509)|null|
+|**2025-05-01**|**Interpretable Spatial-Temporal Fusion Transformers: Multi-Output Prediction for Parametric Dynamical Systems with Time-Varying Inputs**|Shuwen Sun et.al.|[2505.00473](http://arxiv.org/abs/2505.00473)|null|
+|**2025-05-01**|**Toward Automated Regulatory Decision-Making: Trustworthy Medical Device Risk Classification with Multimodal Transformers and Self-Training**|Yu Han et.al.|[2505.00422](http://arxiv.org/abs/2505.00422)|null|
+|**2025-05-01**|**CICADA: Cross-Domain Interpretable Coding for Anomaly Detection and Adaptation in Multivariate Time Series**|Tian Lan et.al.|[2505.00415](http://arxiv.org/abs/2505.00415)|null|
+|**2025-05-01**|**DeepSTA: A Spatial-Temporal Attention Network for Logistics Delivery Timely Rate Prediction in Anomaly Conditions**|Jinhui Yi et.al.|[2505.00402](http://arxiv.org/abs/2505.00402)|null|
+|**2025-05-01**|**Learning to Estimate Package Delivery Time in Mixed Imbalanced Delivery and Pickup Logistics Services**|Jinhui Yi et.al.|[2505.00375](http://arxiv.org/abs/2505.00375)|null|
+|**2025-05-01**|**TNStream: Applying Tightest Neighbors to Micro-Clusters to Define Multi-Density Clusters in Streaming Data**|Qifen Zeng et.al.|[2505.00359](http://arxiv.org/abs/2505.00359)|null|
+|**2025-05-01**|**Do global forecasting models require frequent retraining?**|Marco Zanotti et.al.|[2505.00356](http://arxiv.org/abs/2505.00356)|null|
+|**2025-05-01**|**Optimizing Deep Neural Networks using Safety-Guided Self Compression**|Mohammad Zbeeb et.al.|[2505.00350](http://arxiv.org/abs/2505.00350)|null|
+|**2025-05-01**|**Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing**|Piotr Piękos et.al.|[2505.00315](http://arxiv.org/abs/2505.00315)|null|
+|**2025-05-01**|**Gateformer: Advancing Multivariate Time Series Forecasting through Temporal and Variate-Wise Attention with Gated Representations**|Yu-Hsiang Lan et.al.|[2505.00307](http://arxiv.org/abs/2505.00307)|null|
+|**2025-05-01**|**Temporal Attention Evolutional Graph Convolutional Network for Multivariate Time Series Forecasting**|Xinlong Zhao et.al.|[2505.00302](http://arxiv.org/abs/2505.00302)|null|
+|**2025-05-01**|**A Unifying Framework for Robust and Efficient Inference with Unstructured Data**|Jacob Carlson et.al.|[2505.00282](http://arxiv.org/abs/2505.00282)|null|
+|**2025-05-01**|**AdCare-VLM: Leveraging Large Vision Language Model (LVLM) to Monitor Long-Term Medication Adherence and Care**|Md Asaduzzaman Jabin et.al.|[2505.00275](http://arxiv.org/abs/2505.00275)|null|
+|**2025-04-30**|**Robust Estimation and Inference in Hybrid Controlled Trials for Binary Outcomes: A Case Study on Non-Small Cell Lung Cancer**|Jiajun Liu et.al.|[2505.00217](http://arxiv.org/abs/2505.00217)|null|
+|**2025-04-30**|**Neuroevolution of Self-Attention Over Proto-Objects**|Rafael C. Pinto et.al.|[2505.00186](http://arxiv.org/abs/2505.00186)|null|
+|**2025-04-30**|**Real-World Gaps in AI Governance Research**|Ilan Strauss et.al.|[2505.00174](http://arxiv.org/abs/2505.00174)|null|
+|**2025-04-30**|**Attention-enabled Explainable AI for Bladder Cancer Recurrence Prediction**|Saram Abbas et.al.|[2505.00171](http://arxiv.org/abs/2505.00171)|null|
+|**2025-04-30**|**Investigating Zero-Shot Diagnostic Pathology in Vision-Language Models with Efficient Prompt Design**|Vasudev Sharma et.al.|[2505.00134](http://arxiv.org/abs/2505.00134)|null|
+|**2025-04-30**|**A Report on the llms evaluating the high school questions**|Zhu Jiawei et.al.|[2505.00057](http://arxiv.org/abs/2505.00057)|null|
+|**2025-04-30**|**Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity**|Tygo Bloem et.al.|[2505.00056](http://arxiv.org/abs/2505.00056)|**[link](https://github.com/tygobl/meme-clustering)**|
+|**2025-04-30**|**SR-NeRV: Improving Embedding Efficiency of Neural Video Representation via Super-Resolution**|Taiga Hayami et.al.|[2505.00046](http://arxiv.org/abs/2505.00046)|null|
+|**2025-04-29**|**From Attention to Atoms: Spectral Dictionary Learning for Fast, Interpretable Language Models**|Andrew Kiruluta et.al.|[2505.00033](http://arxiv.org/abs/2505.00033)|null|
+|**2025-04-28**|**MDD-LLM: Towards Accuracy Large Language Models for Major Depressive Disorder Diagnosis**|Yuyang Sha et.al.|[2505.00032](http://arxiv.org/abs/2505.00032)|null|
+|**2025-04-27**|**Enhancing Speech-to-Speech Dialogue Modeling with End-to-End Retrieval-Augmented Generation**|Pengchao Feng et.al.|[2505.00028](http://arxiv.org/abs/2505.00028)|null|
+|**2025-04-25**|**A Method for the Architecture of a Medical Vertical Large Language Model Based on Deepseek R1**|Mingda Zhang et.al.|[2505.00025](http://arxiv.org/abs/2505.00025)|null|
+|**2025-04-20**|**Efficient Knowledge Transfer in Multi-Task Learning through Task-Adaptive Low-Rank Representation**|Xiao Zhang et.al.|[2505.00009](http://arxiv.org/abs/2505.00009)|null|
 |**2025-04-30**|**On the Efficacy of the Peeling Decoder for the Quantum Expander Code**|Jefrin Sharmitha Prabhu et.al.|[2504.21845](http://arxiv.org/abs/2504.21845)|null|
 |**2025-04-30**|**3D Stylization via Large Reconstruction Model**|Ipek Oztas et.al.|[2504.21836](http://arxiv.org/abs/2504.21836)|null|
 |**2025-04-30**|**MAC-Tuning: LLM Multi-Compositional Problem Reasoning with Enhanced Knowledge Boundary Awareness**|Junsheng Huang et.al.|[2504.21773](http://arxiv.org/abs/2504.21773)|null|
@@ -8989,6 +9022,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Surrogate modeling of Cellular-Potts Agent-Based Models as a segmentation task using the U-Net neural network architecture**|Tien Comlekoglu et.al.|[2505.00316](http://arxiv.org/abs/2505.00316)|null|
 |**2025-04-30**|**Anomaly-Driven Approach for Enhanced Prostate Cancer Segmentation**|Alessia Hu et.al.|[2504.21789](http://arxiv.org/abs/2504.21789)|null|
 |**2025-04-30**|**Smart Environmental Monitoring of Marine Pollution using Edge AI**|Mohamed Moursi et.al.|[2504.21759](http://arxiv.org/abs/2504.21759)|null|
 |**2025-04-30**|**CryptoUNets: Applying Convolutional Networks to Encrypted Data for Biomedical Image Segmentation**|John Chiang et.al.|[2504.21543](http://arxiv.org/abs/2504.21543)|null|
