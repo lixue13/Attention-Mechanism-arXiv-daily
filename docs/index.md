@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -18,7 +18,7 @@ layout: default
 |**2025-04-30**|**3D Stylization via Large Reconstruction Model**|Ipek Oztas et.al.|[2504.21836](http://arxiv.org/abs/2504.21836)|null|
 |**2025-04-30**|**MAC-Tuning: LLM Multi-Compositional Problem Reasoning with Enhanced Knowledge Boundary Awareness**|Junsheng Huang et.al.|[2504.21773](http://arxiv.org/abs/2504.21773)|null|
 |**2025-04-30**|**Observation of Intrinsic and LED Light-Enhanced Memristor Performance in In-Plane Ferroelectric NbOI2**|Zheng Hao et.al.|[2504.21737](http://arxiv.org/abs/2504.21737)|null|
-|**2025-04-30**|**While-alive regression analysis of composite survival endpoints**|Xi Fang et.al.|[2504.21710](http://arxiv.org/abs/2504.21710)|null|
+|**2025-05-01**|**While-alive regression analysis of composite survival endpoints**|Xi Fang et.al.|[2504.21710](http://arxiv.org/abs/2504.21710)|null|
 |**2025-04-30**|**Visual Text Processing: A Comprehensive Review and Unified Evaluation**|Yan Shu et.al.|[2504.21682](http://arxiv.org/abs/2504.21682)|null|
 |**2025-04-30**|**Selective Variable Convolution Meets Dynamic Content Guided Attention for Infrared Small Target Detection**|Yirui Chen et.al.|[2504.21612](http://arxiv.org/abs/2504.21612)|null|
 |**2025-04-30**|**Make Both Ends Meet: A Synergistic Optimization Infrared Small Target Detection with Streamlined Computational Overhead**|Yuxin Jing et.al.|[2504.21581](http://arxiv.org/abs/2504.21581)|null|
@@ -132,7 +132,7 @@ layout: default
 |**2025-04-27**|**LRFusionPR: A Polar BEV-Based LiDAR-Radar Fusion Network for Place Recognition**|Zhangshuo Qi et.al.|[2504.19186](http://arxiv.org/abs/2504.19186)|null|
 |**2025-04-27**|**Segmenting Objectiveness and Task-awareness Unknown Region for Autonomous Driving**|Mi Zheng et.al.|[2504.19183](http://arxiv.org/abs/2504.19183)|null|
 |**2025-04-27**|**Coulomb Crystallization of Highly Charged Ni^12+ Ions in a Linear Paul Trap**|Shaolong Chen et.al.|[2504.19182](http://arxiv.org/abs/2504.19182)|null|
-|**2025-04-27**|**CLR-Wire: Towards Continuous Latent Representations for 3D Curve Wireframe Generation**|Xueqi Ma et.al.|[2504.19174](http://arxiv.org/abs/2504.19174)|null|
+|**2025-05-01**|**CLR-Wire: Towards Continuous Latent Representations for 3D Curve Wireframe Generation**|Xueqi Ma et.al.|[2504.19174](http://arxiv.org/abs/2504.19174)|null|
 |**2025-04-27**|**RadioFormer: A Multiple-Granularity Radio Map Estimation Transformer with 1\textpertenthousand Spatial Sampling**|Zheng Fang et.al.|[2504.19161](http://arxiv.org/abs/2504.19161)|null|
 |**2025-04-27**|**BQSched: A Non-intrusive Scheduler for Batch Concurrent Queries via Reinforcement Learning**|Chenhao Xu et.al.|[2504.19142](http://arxiv.org/abs/2504.19142)|null|
 |**2025-04-27**|**A Multi-Language Perspective on the Robustness of LLM Code Generation**|Fazle Rabbi et.al.|[2504.19108](http://arxiv.org/abs/2504.19108)|null|
@@ -242,7 +242,7 @@ layout: default
 |**2025-04-23**|**Type-II Weyl nodes, flat bands, and evidence for a topological Hall-effect in the new ferromagnet FeCr $_3$Te$_6$**|Shyam Raj Karullithodi et.al.|[2504.17035](http://arxiv.org/abs/2504.17035)|null|
 |**2025-04-23**|**Indirect Tunneling Enabled Spontaneous Time-Reversal Symmetry Breaking and Josephson Diode Effect in TiN/Al $_2$O$_3$/Hf$_{0.8}$Zr$_{0.2}$O$_2$ /Nb tunnel junctions**|Shaoqing Ding et.al.|[2504.16987](http://arxiv.org/abs/2504.16987)|null|
 |**2025-04-23**|**Some Peculiarities of Dielectric Spectroscopy in Ferroelectric Nematics**|Yuri P. Panarin et.al.|[2504.16967](http://arxiv.org/abs/2504.16967)|null|
-|**2025-04-23**|**A Coding-Enhanced Jamming Approach for Secure Semantic Communication over Wiretap Channels**|Weixuan Chen et.al.|[2504.16960](http://arxiv.org/abs/2504.16960)|null|
+|**2025-05-01**|**Enhancing the Security of Semantic Communication via Knowledge-Aided Coding and Jamming**|Weixuan Chen et.al.|[2504.16960](http://arxiv.org/abs/2504.16960)|null|
 |**2025-04-23**|**Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light**|Ali Hassani et.al.|[2504.16922](http://arxiv.org/abs/2504.16922)|null|
 |**2025-04-23**|**Application of an attention-based CNN-BiLSTM framework for in vivo two-photon calcium imaging of neuronal ensembles: decoding complex bilateral forelimb movements from unilateral M1**|Ghazal Mirzaee et.al.|[2504.16917](http://arxiv.org/abs/2504.16917)|null|
 |**2025-04-23**|**BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation**|Ruotong Wang et.al.|[2504.16907](http://arxiv.org/abs/2504.16907)|null|
@@ -625,7 +625,7 @@ layout: default
 |**2025-04-14**|**Analysis of Attention in Video Diffusion Transformers**|Yuxin Wen et.al.|[2504.10317](http://arxiv.org/abs/2504.10317)|null|
 |**2025-04-14**|**Siamese Network with Dual Attention for EEG-Driven Social Learning: Bridging the Human-Robot Gap in Long-Tail Autonomous Driving**|Xiaoshan Zhou et.al.|[2504.10296](http://arxiv.org/abs/2504.10296)|null|
 |**2025-04-14**|**DiffMOD: Progressive Diffusion Point Denoising for Moving Object Detection in Remote Sensing**|Jinyue Zhang et.al.|[2504.10278](http://arxiv.org/abs/2504.10278)|null|
-|**2025-04-14**|**WG-IDENT: Weak Group Identification of PDEs with Varying Coefficients**|Cheng Tang et.al.|[2504.10212](http://arxiv.org/abs/2504.10212)|null|
+|**2025-05-01**|**WG-IDENT: Weak Group Identification of PDEs with Varying Coefficients**|Cheng Tang et.al.|[2504.10212](http://arxiv.org/abs/2504.10212)|null|
 |**2025-04-14**|**COUNTS: Benchmarking Object Detectors and Multimodal Large Language Models under Distribution Shifts**|Jiansheng Li et.al.|[2504.10158](http://arxiv.org/abs/2504.10158)|null|
 |**2025-04-21**|**Hierarchical and Step-Layer-Wise Tuning of Attention Specialty for Multi-Instance Synthesis in Diffusion Transformers**|Chunyang Zhang et.al.|[2504.10148](http://arxiv.org/abs/2504.10148)|null|
 |**2025-04-14**|**M2S-RoAD: Multi-Modal Semantic Segmentation for Road Damage Using Camera and LiDAR Data**|Tzu-Yun Tseng et.al.|[2504.10123](http://arxiv.org/abs/2504.10123)|**[link](https://github.com/chinitaberrio/m2s-road)**|
@@ -9932,7 +9932,7 @@ layout: default
 |**2024-09-12**|**Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding**|Hongyu Li et.al.|[2409.08251](http://arxiv.org/abs/2409.08251)|null|
 |**2024-09-12**|**Open Source Infrastructure for Automatic Cell Segmentation**|Aaron Rock Menezes et.al.|[2409.08163](http://arxiv.org/abs/2409.08163)|null|
 |**2024-09-12**|**Effective Segmentation of Post-Treatment Gliomas Using Simple Approaches: Artificial Sequence Generation and Ensemble Models**|Heejong Kim et.al.|[2409.08143](http://arxiv.org/abs/2409.08143)|null|
-|**2024-11-24**|**EZIGen: Enhancing zero-shot personalized image generation with precise subject encoding and decoupled guidance**|Zicheng Duan et.al.|[2409.08091](http://arxiv.org/abs/2409.08091)|**[link](https://github.com/ZichengDuan/EZIGen)**|
+|**2025-05-01**|**EZIGen: Enhancing zero-shot personalized image generation with precise subject encoding and decoupled guidance**|Zicheng Duan et.al.|[2409.08091](http://arxiv.org/abs/2409.08091)|**[link](https://github.com/ZichengDuan/EZIGen)**|
 |**2024-09-12**|**Do Vision Foundation Models Enhance Domain Generalization in Medical Image Segmentation?**|Kerem Cekmeceli et.al.|[2409.07960](http://arxiv.org/abs/2409.07960)|**[link](https://github.com/kerem-cekmeceli/foundation-models-for-medical-imagery)**|
 |**2024-09-12**|**Lagrange Duality and Compound Multi-Attention Transformer for Semi-Supervised Medical Image Segmentation**|Fuchen Zheng et.al.|[2409.07793](http://arxiv.org/abs/2409.07793)|**[link](https://github.com/lzeeorno/lagrange-duality-and-cmaformer)**|
 |**2024-12-10**|**AFFSegNet: Adaptive Feature Fusion Segmentation Network for Microtumors and Multi-Organ Segmentation**|Fuchen Zheng et.al.|[2409.07779](http://arxiv.org/abs/2409.07779)|**[link](https://github.com/lzeeorno/AFFSegNet)**|
