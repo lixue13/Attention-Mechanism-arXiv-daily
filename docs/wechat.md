@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.05.02
+> Updated on 2025.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,7 +31,7 @@
 - 2025-05-01, **Learning to Estimate Package Delivery Time in Mixed Imbalanced Delivery and Pickup Logistics Services**, Jinhui Yi et.al., Paper: [http://arxiv.org/abs/2505.00375](http://arxiv.org/abs/2505.00375)
 - 2025-05-01, **TNStream: Applying Tightest Neighbors to Micro-Clusters to Define Multi-Density Clusters in Streaming Data**, Qifen Zeng et.al., Paper: [http://arxiv.org/abs/2505.00359](http://arxiv.org/abs/2505.00359)
 - 2025-05-01, **Do global forecasting models require frequent retraining?**, Marco Zanotti et.al., Paper: [http://arxiv.org/abs/2505.00356](http://arxiv.org/abs/2505.00356)
-- 2025-05-01, **Optimizing Deep Neural Networks using Safety-Guided Self Compression**, Mohammad Zbeeb et.al., Paper: [http://arxiv.org/abs/2505.00350](http://arxiv.org/abs/2505.00350)
+- 2025-05-01, **Optimizing Deep Neural Networks using Safety-Guided Self Compression**, Mohammad Zbeeb et.al., Paper: [http://arxiv.org/abs/2505.00350](http://arxiv.org/abs/2505.00350), Code: **[https://github.com/Moe-Zbeeb/Optimizing-Deep-Neural-Networks-via-Safety-Guided-Self-Compression](https://github.com/Moe-Zbeeb/Optimizing-Deep-Neural-Networks-via-Safety-Guided-Self-Compression)**
 - 2025-05-01, **Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing**, Piotr Piękos et.al., Paper: [http://arxiv.org/abs/2505.00315](http://arxiv.org/abs/2505.00315)
 - 2025-05-01, **Gateformer: Advancing Multivariate Time Series Forecasting through Temporal and Variate-Wise Attention with Gated Representations**, Yu-Hsiang Lan et.al., Paper: [http://arxiv.org/abs/2505.00307](http://arxiv.org/abs/2505.00307)
 - 2025-05-01, **Temporal Attention Evolutional Graph Convolutional Network for Multivariate Time Series Forecasting**, Xinlong Zhao et.al., Paper: [http://arxiv.org/abs/2505.00302](http://arxiv.org/abs/2505.00302)
@@ -8931,7 +8931,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## IRSTD
 
@@ -9012,7 +9012,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 ## UNet
 
@@ -10690,7 +10690,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250503>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
