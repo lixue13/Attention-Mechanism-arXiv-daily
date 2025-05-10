@@ -359,7 +359,7 @@
 |**2025-04-29**|**Perception-aware Sampling for Scatterplot Visualizations**|Zafeiria Moumoulidou et.al.|[2504.20369](http://arxiv.org/abs/2504.20369)|null|
 |**2025-04-29**|**Exploring internal representation of self-supervised networks: few-shot learning abilities and comparison with human semantics and recognition of objects**|Asaki Kataoka et.al.|[2504.20364](http://arxiv.org/abs/2504.20364)|null|
 |**2025-04-29**|**Sparse mixed linear modeling with anchor-based guidance for high-entropy alloy discovery**|Ryo Murakami et.al.|[2504.20354](http://arxiv.org/abs/2504.20354)|null|
-|**2025-04-29**|**MicarVLMoE: A Modern Gated Cross-Aligned Vision-Language Mixture of Experts Model for Medical Image Captioning and Report Generation**|Amaan Izhar et.al.|[2504.20343](http://arxiv.org/abs/2504.20343)|null|
+|**2025-04-29**|**MicarVLMoE: A Modern Gated Cross-Aligned Vision-Language Mixture of Experts Model for Medical Image Captioning and Report Generation**|Amaan Izhar et.al.|[2504.20343](http://arxiv.org/abs/2504.20343)|**[link](https://github.com/AI-14/micar-vl-moe)**|
 |**2025-04-29**|**Leveraging Action Relational Structures for Integrated Learning and Planning**|Ryan Xiao Wang et.al.|[2504.20318](http://arxiv.org/abs/2504.20318)|null|
 |**2025-04-28**|**Dynamic Contextual Attention Network: Transforming Spatial Representations into Adaptive Insights for Endoscopic Polyp Diagnosis**|Teja Krishna Cherukuri et.al.|[2504.20306](http://arxiv.org/abs/2504.20306)|null|
 |**2025-04-28**|**Performance Smells in ML and Non-ML Python Projects: A Comparative Study**|François Belias et.al.|[2504.20224](http://arxiv.org/abs/2504.20224)|null|
