@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.05.30
+> Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -85,7 +85,7 @@
 - 2025-05-28, **Large Language Models for Depression Recognition in Spoken Language Integrating Psychological Knowledge**, Yupei Li et.al., Paper: [http://arxiv.org/abs/2505.22863](http://arxiv.org/abs/2505.22863)
 - 2025-05-28, **NGPU-LM: GPU-Accelerated N-Gram Language Model for Context-Biasing in Greedy ASR Decoding**, Vladimir Bataev et.al., Paper: [http://arxiv.org/abs/2505.22857](http://arxiv.org/abs/2505.22857)
 - 2025-05-28, **RocqStar: Leveraging Similarity-driven Retrieval and Agentic Systems for Rocq generation**, Nikita Khramov et.al., Paper: [http://arxiv.org/abs/2505.22846](http://arxiv.org/abs/2505.22846)
-- 2025-05-28, **Bayesian Attention Mechanism: A Probabilistic Framework for Positional Encoding and Context Length Extrapolation**, Arthur S. Bianchessi et.al., Paper: [http://arxiv.org/abs/2505.22842](http://arxiv.org/abs/2505.22842)
+- 2025-05-28, **Bayesian Attention Mechanism: A Probabilistic Framework for Positional Encoding and Context Length Extrapolation**, Arthur S. Bianchessi et.al., Paper: [http://arxiv.org/abs/2505.22842](http://arxiv.org/abs/2505.22842), Code: **[https://github.com/ArthurSBianchessi/BAM](https://github.com/ArthurSBianchessi/BAM)**
 - 2025-05-28, **Assembly in Directed Hypergraphs**, Christoph Flamm et.al., Paper: [http://arxiv.org/abs/2505.22826](http://arxiv.org/abs/2505.22826)
 - 2025-05-28, **PGLearn -- An Open-Source Learning Toolkit for Optimal Power Flow**, Michael Klamkin et.al., Paper: [http://arxiv.org/abs/2505.22825](http://arxiv.org/abs/2505.22825)
 - 2025-05-28, **Multivariate de Bruijn Graphs: A Symbolic Graph Framework for Time Series Forecasting**, Mert Onur Cakiroglu et.al., Paper: [http://arxiv.org/abs/2505.22768](http://arxiv.org/abs/2505.22768)
@@ -10308,7 +10308,7 @@
 - 2024-10-03, **Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**, Jinwoo Go et.al., Paper: [http://arxiv.org/abs/2409.09141](http://arxiv.org/abs/2409.09141)
 - 2024-09-13, **Neural Message Passing Induced by Energy-Constrained Diffusion**, Qitian Wu et.al., Paper: [http://arxiv.org/abs/2409.09111](http://arxiv.org/abs/2409.09111)
 
-<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## IRSTD
 
@@ -10394,7 +10394,7 @@
 - 2020-07-29, **Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**, Saed Moradi et.al., Paper: [http://arxiv.org/abs/1810.03173](http://arxiv.org/abs/1810.03173), Code: **[https://github.com/moradisaed/ADMD](https://github.com/moradisaed/ADMD)**
 - 2017-03-27, **Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**, Yimian Dai et.al., Paper: [http://arxiv.org/abs/1703.09157](http://arxiv.org/abs/1703.09157), Code: **[https://github.com/YimianDai/DENTIST](https://github.com/YimianDai/DENTIST)**
 
-<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## UNet
 
@@ -12205,7 +12205,7 @@
 - 2024-07-29, **ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**, Lukas Höllein et.al., Paper: [http://arxiv.org/abs/2403.01807](http://arxiv.org/abs/2403.01807), Code: **[https://github.com/facebookresearch/viewdiff](https://github.com/facebookresearch/viewdiff)**
 - 2024-03-07, **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**, Yuhao Xu et.al., Paper: [http://arxiv.org/abs/2403.01779](http://arxiv.org/abs/2403.01779), Code: **[https://github.com/levihsu/ootdiffusion](https://github.com/levihsu/ootdiffusion)**
 
-<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.30
+## Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -82,7 +82,7 @@ layout: default
 |**2025-05-28**|**Large Language Models for Depression Recognition in Spoken Language Integrating Psychological Knowledge**|Yupei Li et.al.|[2505.22863](http://arxiv.org/abs/2505.22863)|null|
 |**2025-05-28**|**NGPU-LM: GPU-Accelerated N-Gram Language Model for Context-Biasing in Greedy ASR Decoding**|Vladimir Bataev et.al.|[2505.22857](http://arxiv.org/abs/2505.22857)|null|
 |**2025-05-28**|**RocqStar: Leveraging Similarity-driven Retrieval and Agentic Systems for Rocq generation**|Nikita Khramov et.al.|[2505.22846](http://arxiv.org/abs/2505.22846)|null|
-|**2025-05-28**|**Bayesian Attention Mechanism: A Probabilistic Framework for Positional Encoding and Context Length Extrapolation**|Arthur S. Bianchessi et.al.|[2505.22842](http://arxiv.org/abs/2505.22842)|null|
+|**2025-05-28**|**Bayesian Attention Mechanism: A Probabilistic Framework for Positional Encoding and Context Length Extrapolation**|Arthur S. Bianchessi et.al.|[2505.22842](http://arxiv.org/abs/2505.22842)|**[link](https://github.com/ArthurSBianchessi/BAM)**|
 |**2025-05-28**|**Assembly in Directed Hypergraphs**|Christoph Flamm et.al.|[2505.22826](http://arxiv.org/abs/2505.22826)|null|
 |**2025-05-28**|**PGLearn -- An Open-Source Learning Toolkit for Optimal Power Flow**|Michael Klamkin et.al.|[2505.22825](http://arxiv.org/abs/2505.22825)|null|
 |**2025-05-28**|**Multivariate de Bruijn Graphs: A Symbolic Graph Framework for Time Series Forecasting**|Mert Onur Cakiroglu et.al.|[2505.22768](http://arxiv.org/abs/2505.22768)|null|
