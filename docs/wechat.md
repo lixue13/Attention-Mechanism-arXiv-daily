@@ -232,7 +232,7 @@
 - 2025-05-26, **Towards Fully FP8 GEMM LLM Training at Scale**, Alejandro Hernández-Cano et.al., Paper: [http://arxiv.org/abs/2505.20524](http://arxiv.org/abs/2505.20524)
 - 2025-05-26, **Conversation Kernels: A Flexible Mechanism to Learn Relevant Context for Online Conversation Understanding**, Vibhor Agarwal et.al., Paper: [http://arxiv.org/abs/2505.20482](http://arxiv.org/abs/2505.20482)
 - 2025-05-26, **CardioPatternFormer: Pattern-Guided Attention for Interpretable ECG Classification with Transformer Architecture**, Berat Kutay Uğraş et.al., Paper: [http://arxiv.org/abs/2505.20481](http://arxiv.org/abs/2505.20481)
-- 2025-05-26, **WeatherEdit: Controllable Weather Editing with 4D Gaussian Field**, Chenghao Qian et.al., Paper: [http://arxiv.org/abs/2505.20471](http://arxiv.org/abs/2505.20471)
+- 2025-05-26, **WeatherEdit: Controllable Weather Editing with 4D Gaussian Field**, Chenghao Qian et.al., Paper: [http://arxiv.org/abs/2505.20471](http://arxiv.org/abs/2505.20471), Code: **[https://github.com/Jumponthemoon/WeatherEdit](https://github.com/Jumponthemoon/WeatherEdit)**
 - 2025-05-26, **BlastOFormer: Attention and Neural Operator Deep Learning Methods for Explosive Blast Prediction**, Reid Graves et.al., Paper: [http://arxiv.org/abs/2505.20454](http://arxiv.org/abs/2505.20454)
 - 2025-05-26, **Precise Gradient Discontinuities in Neural Fields for Subspace Physics**, Mengfei Liu et.al., Paper: [http://arxiv.org/abs/2505.20421](http://arxiv.org/abs/2505.20421)
 - 2025-05-26, **SCAR: Shapley Credit Assignment for More Efficient RLHF**, Meng Cao et.al., Paper: [http://arxiv.org/abs/2505.20417](http://arxiv.org/abs/2505.20417)
