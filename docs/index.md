@@ -14,6 +14,63 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos**|Chieh Hubert Lin et.al.|[2506.09997](http://arxiv.org/abs/2506.09997)|null|
+|**2025-06-11**|**From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring**|Yang Li et.al.|[2506.09996](http://arxiv.org/abs/2506.09996)|null|
+|**2025-06-11**|**Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation**|Xinyu Yang et.al.|[2506.09991](http://arxiv.org/abs/2506.09991)|null|
+|**2025-06-11**|**AnimateAnyMesh: A Feed-Forward 4D Foundation Model for Text-Driven Universal Mesh Animation**|Zijie Wu et.al.|[2506.09982](http://arxiv.org/abs/2506.09982)|null|
+|**2025-06-11**|**Pattern-preserving optimal control problems with increasing time horizon**|Matteo Della Rossa et.al.|[2506.09970](http://arxiv.org/abs/2506.09970)|null|
+|**2025-06-11**|**Query-Focused Retrieval Heads Improve Long-Context Reasoning and Re-ranking**|Wuwei Zhang et.al.|[2506.09944](http://arxiv.org/abs/2506.09944)|null|
+|**2025-06-11**|**Attention Head Embeddings with Trainable Deep Kernels for Hallucination Detection in LLMs**|Rodion Oblovatny et.al.|[2506.09886](http://arxiv.org/abs/2506.09886)|null|
+|**2025-06-11**|**Error-Guided Pose Augmentation: Enhancing Rehabilitation Exercise Assessment through Targeted Data Generation**|Omar Sherif et.al.|[2506.09833](http://arxiv.org/abs/2506.09833)|null|
+|**2025-06-11**|**Generalizing Supervised Contrastive learning: A Projection Perspective**|Minoh Jeong et.al.|[2506.09810](http://arxiv.org/abs/2506.09810)|null|
+|**2025-06-11**|**Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols**|Longzhu He et.al.|[2506.09803](http://arxiv.org/abs/2506.09803)|null|
+|**2025-06-11**|**Q-SAM2: Accurate Quantization for Segment Anything Model 2**|Nicola Farronato et.al.|[2506.09782](http://arxiv.org/abs/2506.09782)|null|
+|**2025-06-11**|**Immersions of large cliques in graphs with independence number 2 and bounded maximum degree**|Fábio Botler et.al.|[2506.09768](http://arxiv.org/abs/2506.09768)|null|
+|**2025-06-11**|**Learning to Optimize Package Picking for Large-Scale, Real-World Robot Induction**|Shuai Li et.al.|[2506.09765](http://arxiv.org/abs/2506.09765)|null|
+|**2025-06-11**|**ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models**|Qin Zhou et.al.|[2506.09740](http://arxiv.org/abs/2506.09740)|null|
+|**2025-06-11**|**MPFNet: A Multi-Prior Fusion Network with a Progressive Training Strategy for Micro-Expression Recognition**|Chuang Ma et.al.|[2506.09735](http://arxiv.org/abs/2506.09735)|null|
+|**2025-06-11**|**Multi-Level Damage-Aware Graph Learning for Resilient UAV Swarm Networks**|Huan Lin et.al.|[2506.09703](http://arxiv.org/abs/2506.09703)|null|
+|**2025-06-11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|Changwei Wu et.al.|[2506.09695](http://arxiv.org/abs/2506.09695)|null|
+|**2025-06-11**|**Adding simple structure at inference improves Vision-Language Compositionality**|Imanol Miranda et.al.|[2506.09691](http://arxiv.org/abs/2506.09691)|null|
+|**2025-06-11**|**Application-Driven Value Alignment in Agentic AI Systems: Survey and Perspectives**|Wei Zeng et.al.|[2506.09656](http://arxiv.org/abs/2506.09656)|null|
+|**2025-06-11**|**HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios**|Kunyu Peng et.al.|[2506.09650](http://arxiv.org/abs/2506.09650)|null|
+|**2025-06-11**|**SparseSSM: Efficient Selective Structured State Space Models Can Be Pruned in One-Shot**|Kaiwen Tuo et.al.|[2506.09613](http://arxiv.org/abs/2506.09613)|null|
+|**2025-06-11**|**Solving the Decision Principal Ideal Problem with Pre-processing**|Jincheng Zhuang et.al.|[2506.09605](http://arxiv.org/abs/2506.09605)|null|
+|**2025-06-11**|**Attention-Based Map Encoding for Learning Generalized Legged Locomotion**|Junzhe He et.al.|[2506.09588](http://arxiv.org/abs/2506.09588)|null|
+|**2025-06-11**|**The Everyday Security of Living with Conflict**|Jessica McClearn et.al.|[2506.09580](http://arxiv.org/abs/2506.09580)|null|
+|**2025-06-11**|**A Study on Speech Assessment with Visual Cues**|Shafique Ahmed et.al.|[2506.09549](http://arxiv.org/abs/2506.09549)|null|
+|**2025-06-11**|**3DGeoDet: General-purpose Geometry-aware Image-based 3D Object Detection**|Yi Zhang et.al.|[2506.09541](http://arxiv.org/abs/2506.09541)|null|
+|**2025-06-11**|**How attention simplifies mental representations for planning**|Jason da Silva Castanheira et.al.|[2506.09520](http://arxiv.org/abs/2506.09520)|null|
+|**2025-06-11**|**TransXSSM: A Hybrid Transformer State Space Model with Unified Rotary Position Embedding**|Bingheng Wu et.al.|[2506.09507](http://arxiv.org/abs/2506.09507)|null|
+|**2025-06-11**|**Evidential Deep Learning with Spectral-Spatial Uncertainty Disentanglement for Open-Set Hyperspectral Domain Generalization**|Amirreza Khoshbakht et.al.|[2506.09460](http://arxiv.org/abs/2506.09460)|null|
+|**2025-06-11**|**Towards Bridging the Reward-Generation Gap in Direct Alignment Algorithms**|Zeguan Xiao et.al.|[2506.09457](http://arxiv.org/abs/2506.09457)|null|
+|**2025-06-11**|**Attention-Bayesian Hybrid Approach to Modular Multiple Particle Tracking**|Piyush Mishra et.al.|[2506.09441](http://arxiv.org/abs/2506.09441)|null|
+|**2025-06-11**|**Generalization Error Analysis for Attack-Free and Byzantine-Resilient Decentralized Learning with Data Heterogeneity**|Haoxiang Ye et.al.|[2506.09438](http://arxiv.org/abs/2506.09438)|null|
+|**2025-06-11**|**ODG: Occupancy Prediction Using Dual Gaussians**|Yunxiao Shi et.al.|[2506.09417](http://arxiv.org/abs/2506.09417)|null|
+|**2025-06-11**|**Synergizing Reinforcement Learning and Genetic Algorithms for Neural Combinatorial Optimization**|Shengda Gu et.al.|[2506.09404](http://arxiv.org/abs/2506.09404)|null|
+|**2025-06-11**|**Bipedal Balance Control with Whole-body Musculoskeletal Standing and Falling Simulations**|Chengtian Ma et.al.|[2506.09383](http://arxiv.org/abs/2506.09383)|null|
+|**2025-06-11**|**Phase Evolution and Substrate-Dependent Nucleation of Quartz GeO $_2$ Films Grown by MOCVD on r- and c-Plane Sapphires**|Botong Li et.al.|[2506.09380](http://arxiv.org/abs/2506.09380)|null|
+|**2025-06-11**|**Functional Tensor Regression**|Tongyu Li et.al.|[2506.09358](http://arxiv.org/abs/2506.09358)|null|
+|**2025-06-11**|**OmniDRCA: Parallel Speech-Text Foundation Model via Dual-Resolution Speech Representations and Contrastive Alignment**|Chao-Hong Tan et.al.|[2506.09349](http://arxiv.org/abs/2506.09349)|null|
+|**2025-06-11**|**Latent Multi-Head Attention for Small Language Models**|Sushant Mehta et.al.|[2506.09342](http://arxiv.org/abs/2506.09342)|null|
+|**2025-06-11**|**Toward Scalable Quantum Compilation for Modular Architecture: Qubit Mapping and Reuse via Deep Reinforcement Learning**|Sokea Sang et.al.|[2506.09323](http://arxiv.org/abs/2506.09323)|null|
+|**2025-06-11**|**On-the-Fly Adaptive Distillation of Transformer to Dual-State Linear Attention**|Yeonju Ro et.al.|[2506.09316](http://arxiv.org/abs/2506.09316)|null|
+|**2025-06-10**|**ScalableHD: Scalable and High-Throughput Hyperdimensional Computing Inference on Multi-Core CPUs**|Dhruv Parikh et.al.|[2506.09282](http://arxiv.org/abs/2506.09282)|null|
+|**2025-06-10**|**A Multi-Armed Bandit Framework for Online Optimisation in Green Integrated Terrestrial and Non-Terrestrial Networks**|Henri Alam et.al.|[2506.09268](http://arxiv.org/abs/2506.09268)|null|
+|**2025-06-10**|**Consistent Infill Estimability of the Regression Slope Between Gaussian Random Fields Under Spatial Confounding**|Abhirup Datta et.al.|[2506.09267](http://arxiv.org/abs/2506.09267)|null|
+|**2025-06-10**|**Self-Anchored Attention Model for Sample-Efficient Classification of Prosocial Text Chat**|Zhuofang Li et.al.|[2506.09259](http://arxiv.org/abs/2506.09259)|null|
+|**2025-06-10**|**Extrapolation by Association: Length Generalization Transfer in Transformers**|Ziyang Cai et.al.|[2506.09251](http://arxiv.org/abs/2506.09251)|null|
+|**2025-06-10**|**PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies**|Mojtaba Nafez et.al.|[2506.09237](http://arxiv.org/abs/2506.09237)|null|
+|**2025-06-10**|**Robust Noise Attenuation via Adaptive Pooling of Transformer Outputs**|Greyson Brothers et.al.|[2506.09215](http://arxiv.org/abs/2506.09215)|null|
+|**2025-06-10**|**Anomalous localization of light in one-dimensional Lévy photonic lattices**|Alejandro Ramírez-Yañez et.al.|[2506.09210](http://arxiv.org/abs/2506.09210)|null|
+|**2025-06-10**|**Adaptive Bandwidth Sharing for Optimizing QoE of Real-Time Video**|Sushi Anna George et.al.|[2506.09197](http://arxiv.org/abs/2506.09197)|null|
+|**2025-06-10**|**Graph Attention-based Decentralized Actor-Critic for Dual-Objective Control of Multi-UAV Swarms**|Haoran Peng et.al.|[2506.09195](http://arxiv.org/abs/2506.09195)|null|
+|**2025-06-10**|**LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting**|Yilin Zhuang et.al.|[2506.09193](http://arxiv.org/abs/2506.09193)|null|
+|**2025-06-10**|**Scalable Spatiotemporal Inference with Biased Scan Attention Transformer Neural Processes**|Daniel Jenson et.al.|[2506.09163](http://arxiv.org/abs/2506.09163)|null|
+|**2025-06-10**|**Real-Time Confidence Detection through Facial Expressions and Hand Gestures**|Tanjil Hasan Sakib et.al.|[2506.09153](http://arxiv.org/abs/2506.09153)|null|
+|**2025-06-10**|**Unification of Exceptional Points and Transmission Peak Degeneracies in a Highly Tunable Magnon-Photon Dimer**|Alexander S. Carney et.al.|[2506.09141](http://arxiv.org/abs/2506.09141)|null|
+|**2025-06-10**|**CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model**|Jingying Ma et.al.|[2506.09110](http://arxiv.org/abs/2506.09110)|null|
+|**2025-06-10**|**WD-DETR: Wavelet Denoising-Enhanced Real-Time Object Detection Transformer for Robot Perception with Event Cameras**|Yangjie Cui et.al.|[2506.09098](http://arxiv.org/abs/2506.09098)|null|
 |**2025-06-10**|**Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System**|Yuan Guo et.al.|[2506.08972](http://arxiv.org/abs/2506.08972)|null|
 |**2025-06-10**|**A Survey of Link Prediction in N-ary Knowledge Graphs**|Jiyao Wei et.al.|[2506.08970](http://arxiv.org/abs/2506.08970)|null|
 |**2025-06-10**|**IntTrajSim: Trajectory Prediction for Simulating Multi-Vehicle driving at Signalized Intersections**|Yash Ranjan et.al.|[2506.08957](http://arxiv.org/abs/2506.08957)|null|
@@ -75,7 +132,7 @@ layout: default
 |**2025-06-09**|**Ensemble-Based Survival Models with the Self-Attended Beran Estimator Predictions**|Lev V. Utkin et.al.|[2506.07933](http://arxiv.org/abs/2506.07933)|null|
 |**2025-06-09**|**Efficient Seismic Data Interpolation via Sparse Attention Transformer and Diffusion Model**|Xiaoli Wei et.al.|[2506.07923](http://arxiv.org/abs/2506.07923)|null|
 |**2025-06-09**|**LUCIFER: Language Understanding and Context-Infused Framework for Exploration and Behavior Refinement**|Dimitris Panagopoulos et.al.|[2506.07915](http://arxiv.org/abs/2506.07915)|null|
-|**2025-06-09**|**MiniCPM4: Ultra-Efficient LLMs on End Devices**|MiniCPM Team et.al.|[2506.07900](http://arxiv.org/abs/2506.07900)|null|
+|**2025-06-09**|**MiniCPM4: Ultra-Efficient LLMs on End Devices**|MiniCPM Team et.al.|[2506.07900](http://arxiv.org/abs/2506.07900)|**[link](https://github.com/openbmb/minicpm)**|
 |**2025-06-09**|**SoK: Data Reconstruction Attacks Against Machine Learning Models: Definition, Metrics, and Benchmark**|Rui Wen et.al.|[2506.07888](http://arxiv.org/abs/2506.07888)|null|
 |**2025-06-09**|**CrosswalkNet: An Optimized Deep Learning Framework for Pedestrian Crosswalk Detection in Aerial Images with High-Performance Computing**|Zubin Bhuyan et.al.|[2506.07885](http://arxiv.org/abs/2506.07885)|null|
 |**2025-06-09**|**Can Hessian-Based Insights Support Fault Diagnosis in Attention-based Models?**|Sigma Jahan et.al.|[2506.07871](http://arxiv.org/abs/2506.07871)|null|
@@ -209,7 +266,7 @@ layout: default
 |**2025-06-06**|**Differentially Private Explanations for Clusters**|Amir Gilad et.al.|[2506.05900](http://arxiv.org/abs/2506.05900)|null|
 |**2025-06-06**|**WhisQ: Cross-Modal Representation Learning for Text-to-Music MOS Prediction**|Jakaria Islam Emon et.al.|[2506.05899](http://arxiv.org/abs/2506.05899)|null|
 |**2025-06-06**|**Query Nearby: Offset-Adjusted Mask2Former enhances small-organ segmentation**|Xin Zhang et.al.|[2506.05897](http://arxiv.org/abs/2506.05897)|null|
-|**2025-06-06**|**Unleashing the Potential of Consistency Learning for Detecting and Grounding Multi-Modal Media Manipulation**|Yiheng Li et.al.|[2506.05890](http://arxiv.org/abs/2506.05890)|null|
+|**2025-06-06**|**Unleashing the Potential of Consistency Learning for Detecting and Grounding Multi-Modal Media Manipulation**|Yiheng Li et.al.|[2506.05890](http://arxiv.org/abs/2506.05890)|**[link](https://github.com/liyih/cscl)**|
 |**2025-06-06**|**Human-AI Alignment of Multimodal Large Language Models with Speech-Language Pathologists in Parent-Child Interactions**|Weiyan Shi et.al.|[2506.05879](http://arxiv.org/abs/2506.05879)|null|
 |**2025-06-06**|**ChronoTailor: Harnessing Attention Guidance for Fine-Grained Video Virtual Try-On**|Jinjuan Wang et.al.|[2506.05858](http://arxiv.org/abs/2506.05858)|null|
 |**2025-06-06**|**Unusual Electron-Phonon Interactions in Highly Anisotropic Two-Dimensional $Ta_2$$Ni_3$$Te_5$**|Fei Wang et.al.|[2506.05809](http://arxiv.org/abs/2506.05809)|null|
@@ -451,7 +508,7 @@ layout: default
 |**2025-06-06**|**Tug-of-war between idiom's figurative and literal meanings in LLMs**|Soyoung Oh et.al.|[2506.01723](http://arxiv.org/abs/2506.01723)|null|
 |**2025-06-02**|**EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models**|Yan Shu et.al.|[2506.01667](http://arxiv.org/abs/2506.01667)|null|
 |**2025-06-02**|**MVAN: Multi-View Attention Networks for Fake News Detection on Social Media**|Shiwen Ni et.al.|[2506.01627](http://arxiv.org/abs/2506.01627)|null|
-|**2025-06-02**|**Bayes optimal learning of attention-indexed models**|Fabrizio Boncoraglio et.al.|[2506.01582](http://arxiv.org/abs/2506.01582)|null|
+|**2025-06-02**|**Bayes optimal learning of attention-indexed models**|Fabrizio Boncoraglio et.al.|[2506.01582](http://arxiv.org/abs/2506.01582)|**[link](https://github.com/SPOC-group/ExtensiveRankAttention)**|
 |**2025-06-02**|**Unfolding the kagome lattice to improve understanding of ARPES in CoSn**|Véronique Brouet et.al.|[2506.01581](http://arxiv.org/abs/2506.01581)|null|
 |**2025-06-02**|**Pluri-Gaussian rapid updating of geological domains**|Sultan Abulkhair et.al.|[2506.01575](http://arxiv.org/abs/2506.01575)|null|
 |**2025-06-02**|**Unpacking Softmax: How Temperature Drives Representation Collapse, Compression, and Generalization**|Wojciech Masarczyk et.al.|[2506.01562](http://arxiv.org/abs/2506.01562)|null|
@@ -486,7 +543,7 @@ layout: default
 |**2025-06-01**|**Multiple-order differential imaging based on two types of topological singularity in one dimensional photonic crystals**|Haoran Zhang et.al.|[2506.01026](http://arxiv.org/abs/2506.01026)|null|
 |**2025-06-01**|**Autoregressive Images Watermarking through Lexical Biasing: An Approach Resistant to Regeneration Attack**|Siqi Hui et.al.|[2506.01011](http://arxiv.org/abs/2506.01011)|null|
 |**2025-06-01**|**FlexSelect: Flexible Token Selection for Efficient Long Video Understanding**|Yunzhu Zhang et.al.|[2506.00993](http://arxiv.org/abs/2506.00993)|null|
-|**2025-06-09**|**CAPAA: Classifier-Agnostic Projector-Based Adversarial Attack**|Zhan Li et.al.|[2506.00978](http://arxiv.org/abs/2506.00978)|null|
+|**2025-06-09**|**CAPAA: Classifier-Agnostic Projector-Based Adversarial Attack**|Zhan Li et.al.|[2506.00978](http://arxiv.org/abs/2506.00978)|**[link](https://github.com/zhanliqxq/capaa)**|
 |**2025-06-01**|**PolyBERT: Fine-Tuned Poly Encoder BERT-Based Model for Word Sense Disambiguation**|Linhan Xia et.al.|[2506.00968](http://arxiv.org/abs/2506.00968)|null|
 |**2025-06-01**|**Pilot Contamination-Aware Graph Attention Network for Power Control in CFmMIMO**|Tingting Zhang et.al.|[2506.00967](http://arxiv.org/abs/2506.00967)|null|
 |**2025-06-01**|**TIGeR: Text-Instructed Generation and Refinement for Template-Free Hand-Object Interaction**|Yiyao Huang et.al.|[2506.00953](http://arxiv.org/abs/2506.00953)|null|
@@ -503,7 +560,7 @@ layout: default
 |**2025-06-01**|**Beyond Attention: Learning Spatio-Temporal Dynamics with Emergent Interpretable Topologies**|Sai Vamsi Alisetti et.al.|[2506.00770](http://arxiv.org/abs/2506.00770)|null|
 |**2025-05-31**|**Blending Complementary Memory Systems in Hybrid Quadratic-Linear Transformers**|Kazuki Irie et.al.|[2506.00744](http://arxiv.org/abs/2506.00744)|null|
 |**2025-05-31**|**Assortment of Attention Heads: Accelerating Federated PEFT with Head Pruning and Strategic Client Selection**|Yeshwanth Venkatesha et.al.|[2506.00743](http://arxiv.org/abs/2506.00743)|null|
-|**2025-05-31**|**A Foundation Model for Non-Destructive Defect Identification from Vibrational Spectra**|Mouyang Cheng et.al.|[2506.00725](http://arxiv.org/abs/2506.00725)|null|
+|**2025-05-31**|**A Foundation Model for Non-Destructive Defect Identification from Vibrational Spectra**|Mouyang Cheng et.al.|[2506.00725](http://arxiv.org/abs/2506.00725)|**[link](https://github.com/vipandyc/MLforDefect)**|
 |**2025-05-31**|**From Local Cues to Global Percepts: Emergent Gestalt Organization in Self-Supervised Vision Models**|Tianqin Li et.al.|[2506.00718](http://arxiv.org/abs/2506.00718)|null|
 |**2025-05-31**|**Human Attention During Localization of Memory Bugs in C Programs**|Emory Smith et.al.|[2506.00693](http://arxiv.org/abs/2506.00693)|null|
 |**2025-06-04**|**Optimizing Sensory Neurons: Nonlinear Attention Mechanisms for Accelerated Convergence in Permutation-Invariant Neural Networks for Reinforcement Learning**|Junaid Muzaffar et.al.|[2506.00691](http://arxiv.org/abs/2506.00691)|null|
@@ -10990,6 +11047,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**SRPL-SFDA: SAM-Guided Reliable Pseudo-Labels for Source-Free Domain Adaptation in Medical Image Segmentation**|Xinya Liu et.al.|[2506.09403](http://arxiv.org/abs/2506.09403)|null|
 |**2025-06-10**|**SSS: Semi-Supervised SAM-2 with Efficient Prompting for Medical Imaging Segmentation**|Hongjie Zhu et.al.|[2506.08949](http://arxiv.org/abs/2506.08949)|null|
 |**2025-06-10**|**MD-ViSCo: A Unified Model for Multi-Directional Vital Sign Waveform Conversion**|Franck Meyer et.al.|[2506.08357](http://arxiv.org/abs/2506.08357)|null|
 |**2025-06-09**|**A Machine Learning Approach to Generate Residual Stress Distributions using Sparse Characterization Data in Friction-Stir Processed Parts**|Shadab Anwar Shaikh et.al.|[2506.08205](http://arxiv.org/abs/2506.08205)|null|
@@ -11012,7 +11070,7 @@ layout: default
 |**2025-06-04**|**A Comprehensive Study on Medical Image Segmentation using Deep Neural Networks**|Loan Dao et.al.|[2506.04121](http://arxiv.org/abs/2506.04121)|null|
 |**2025-06-04**|**Conformal coronary calcification volume estimation with conditional coverage via histogram clustering**|Olivier Jaubert et.al.|[2506.04030](http://arxiv.org/abs/2506.04030)|null|
 |**2025-06-04**|**Average Calibration Losses for Reliable Uncertainty in Medical Image Segmentation**|Theodore Barfoot et.al.|[2506.03942](http://arxiv.org/abs/2506.03942)|null|
-|**2025-06-04**|**Improving Post-Processing for Quantitative Precipitation Forecasting Using Deep Learning: Learning Precipitation Physics from High-Resolution Observations**|ChangJae Lee et.al.|[2506.03842](http://arxiv.org/abs/2506.03842)|null|
+|**2025-06-04**|**Improving Post-Processing for Quantitative Precipitation Forecasting Using Deep Learning: Learning Precipitation Physics from High-Resolution Observations**|ChangJae Lee et.al.|[2506.03842](http://arxiv.org/abs/2506.03842)|**[link](https://github.com/hunter3789/deep-learning-qpf)**|
 |**2025-05-29**|**Dc-EEMF: Pushing depth-of-field limit of photoacoustic microscopy via decision-level constrained learning**|Wangting Zhou et.al.|[2506.03181](http://arxiv.org/abs/2506.03181)|null|
 |**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134](http://arxiv.org/abs/2506.03134)|null|
 |**2025-06-03**|**Hierarchical Self-Prompting SAM: A Prompt-Free Medical Image Segmentation Framework**|Mengmeng Zhang et.al.|[2506.02854](http://arxiv.org/abs/2506.02854)|null|
