@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.19
+## Updated on 2025.06.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Attention
@@ -104,7 +104,7 @@ layout: default
 |**2025-06-16**|**GITO: Graph-Informed Transformer Operator for Learning Complex Partial Differential Equations**|Milad Ramezankhani et.al.|[2506.13906](http://arxiv.org/abs/2506.13906)|null|
 |**2025-06-16**|**Scaling Algorithm Distillation for Continuous Control with Mamba**|Samuel Beaussant et.al.|[2506.13892](http://arxiv.org/abs/2506.13892)|null|
 |**2025-06-16**|**Interstellar dust production, destruction and effects of dust depletion in galaxies**|Francesco Calura et.al.|[2506.13851](http://arxiv.org/abs/2506.13851)|null|
-|**2025-06-15**|**Hybrid Meta-Learning Framework for Anomaly Forecasting in Nonlinear Dynamical Systems via Physics-Inspired Simulation and Deep Ensembles**|Abdullah Burkan Bereketoglu et.al.|[2506.13828](http://arxiv.org/abs/2506.13828)|null|
+|**2025-06-15**|**Hybrid Meta-Learning Framework for Anomaly Forecasting in Nonlinear Dynamical Systems via Physics-Inspired Simulation and Deep Ensembles**|Abdullah Burkan Bereketoglu et.al.|[2506.13828](http://arxiv.org/abs/2506.13828)|**[link](https://github.com/Bradshard/AFoA)**|
 |**2025-06-15**|**MLDebugging: Towards Benchmarking Code Debugging Across Multi-Library Scenarios**|Jinyang Huang et.al.|[2506.13824](http://arxiv.org/abs/2506.13824)|null|
 |**2025-06-11**|**Analysis of Anonymous User Interaction Relationships and Prediction of Advertising Feedback Based on Graph Neural Network**|Yanjun Dai et.al.|[2506.13787](http://arxiv.org/abs/2506.13787)|null|
 |**2025-06-11**|**AcademicBrowse: Benchmarking Academic Browse Ability of LLMs**|Junting Zhou et.al.|[2506.13784](http://arxiv.org/abs/2506.13784)|null|

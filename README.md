@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.19
+## Updated on 2025.06.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -109,7 +109,7 @@
 |**2025-06-16**|**GITO: Graph-Informed Transformer Operator for Learning Complex Partial Differential Equations**|Milad Ramezankhani et.al.|[2506.13906](http://arxiv.org/abs/2506.13906)|null|
 |**2025-06-16**|**Scaling Algorithm Distillation for Continuous Control with Mamba**|Samuel Beaussant et.al.|[2506.13892](http://arxiv.org/abs/2506.13892)|null|
 |**2025-06-16**|**Interstellar dust production, destruction and effects of dust depletion in galaxies**|Francesco Calura et.al.|[2506.13851](http://arxiv.org/abs/2506.13851)|null|
-|**2025-06-15**|**Hybrid Meta-Learning Framework for Anomaly Forecasting in Nonlinear Dynamical Systems via Physics-Inspired Simulation and Deep Ensembles**|Abdullah Burkan Bereketoglu et.al.|[2506.13828](http://arxiv.org/abs/2506.13828)|null|
+|**2025-06-15**|**Hybrid Meta-Learning Framework for Anomaly Forecasting in Nonlinear Dynamical Systems via Physics-Inspired Simulation and Deep Ensembles**|Abdullah Burkan Bereketoglu et.al.|[2506.13828](http://arxiv.org/abs/2506.13828)|**[link](https://github.com/Bradshard/AFoA)**|
 |**2025-06-15**|**MLDebugging: Towards Benchmarking Code Debugging Across Multi-Library Scenarios**|Jinyang Huang et.al.|[2506.13824](http://arxiv.org/abs/2506.13824)|null|
 |**2025-06-11**|**Analysis of Anonymous User Interaction Relationships and Prediction of Advertising Feedback Based on Graph Neural Network**|Yanjun Dai et.al.|[2506.13787](http://arxiv.org/abs/2506.13787)|null|
 |**2025-06-11**|**AcademicBrowse: Benchmarking Academic Browse Ability of LLMs**|Junting Zhou et.al.|[2506.13784](http://arxiv.org/abs/2506.13784)|null|
@@ -11264,7 +11264,7 @@
 |**2024-10-03**|**Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator**|Jinwoo Go et.al.|[2409.09141](http://arxiv.org/abs/2409.09141)|null|
 |**2024-09-13**|**Neural Message Passing Induced by Energy-Constrained Diffusion**|Qitian Wu et.al.|[2409.09111](http://arxiv.org/abs/2409.09111)|null|
 
-<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250620>back to top</a>)</p>
 
 ## IRSTD
 
@@ -11356,7 +11356,7 @@
 |**2020-07-29**|**Fast and Robust Small Infrared Target Detection Using Absolute Directional Mean Difference Algorithm**|Saed Moradi et.al.|[1810.03173](http://arxiv.org/abs/1810.03173)|**[link](https://github.com/moradisaed/ADMD)**|
 |**2017-03-27**|**Reweighted Infrared Patch-Tensor Model With Both Non-Local and Local Priors for Single-Frame Small Target Detection**|Yimian Dai et.al.|[1703.09157](http://arxiv.org/abs/1703.09157)|**[link](https://github.com/YimianDai/DENTIST)**|
 
-<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250620>back to top</a>)</p>
 
 ## UNet
 
@@ -13247,7 +13247,7 @@
 |**2024-07-29**|**ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**|Lukas Höllein et.al.|[2403.01807](http://arxiv.org/abs/2403.01807)|**[link](https://github.com/facebookresearch/viewdiff)**|
 |**2024-03-07**|**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**|Yuhao Xu et.al.|[2403.01779](http://arxiv.org/abs/2403.01779)|**[link](https://github.com/levihsu/ootdiffusion)**|
 
-<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250620>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
